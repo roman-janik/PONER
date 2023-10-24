@@ -19,7 +19,7 @@ Each line in
 the corpus contains information about one word/token. The first column is the actual
 word, and the second column is a Named Entity class in a BIO format. An empty line is a sentence separator.
 
-For detailed documentation, please see [doc/documentation.pdf](https://github.com/roman-janik/PONER/blob/main/doc/documentation.pdf).
+For detailed documentation, please see [doc/documentation.pdf](https://github.com/roman-janik/PONER/blob/main/doc/documentation.pdf). In case of any question, please use GitHub Issues.
 
 ## Data
 
