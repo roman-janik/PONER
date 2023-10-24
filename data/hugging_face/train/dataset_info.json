@@ -1,0 +1,70 @@
+{
+  "builder_name": "poner-1_0",
+  "citation": "\n-\n",
+  "config_name": "poner1_0conll",
+  "dataset_size": 2455110,
+  "description": "This is a Pero OCR NER 1.0 dataset in the CoNLL format. Each line in\nthe corpus contains information about one word/token. The first column is the actual\nword, the second column is a Named Entity class in a BIO format. An empty line is a sentence separator.\n",
+  "download_checksums": {},
+  "download_size": 0,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "O",
+          "B-p",
+          "I-p",
+          "B-i",
+          "I-i",
+          "B-g",
+          "I-g",
+          "B-t",
+          "I-t",
+          "B-o",
+          "I-o"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "https://pero-ocr.fit.vutbr.cz",
+  "license": "",
+  "size_in_bytes": 2455110,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1102952,
+      "num_examples": 4188,
+      "dataset_name": "poner-1_0"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 124808,
+      "num_examples": 465,
+      "dataset_name": "poner-1_0"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1227350,
+      "num_examples": 4655,
+      "dataset_name": "poner-1_0"
+    }
+  },
+  "version": {
+    "version_str": "1.0.0",
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
