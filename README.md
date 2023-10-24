@@ -9,9 +9,9 @@ Faculty of Information Technology, Brno University of Technology
 ## Description
 
 This is a **P**ERO **O**CR **NER** 1.0 dataset for Named Entity Recognition. The dataset consists of 9,310 Czech sentences with 14,639 named entities.
-Source data are Czech historical chronicles mostly from the first half of the 20th century. The chronicles scanned images were processed by PERO OCR [1][1]. 
+Source data are Czech historical chronicles mostly from the first half of the 20th century. The chronicles scanned images were processed by PERO OCR [1]. 
 Text data were then annotated in the Label Studio tool. The process was semi-automated, first a NER model was used to pre-annotate the data and then 
-the pre-annotations were manually refined. Named entity types are: *Personal names*, *Institutions*, *Geographical names*, *Time expressions*, and *Artifact names/Objects*; the same as in Czech Historical Named Entity Corpus (CHNEC)[2][2]. 
+the pre-annotations were manually refined. Named entity types are: *Personal names*, *Institutions*, *Geographical names*, *Time expressions*, and *Artifact names/Objects*; the same as in Czech Historical Named Entity Corpus (CHNEC)[2]. 
 
 The CoNLL files are formatted as follows:
 
@@ -19,7 +19,7 @@ Each line in
 the corpus contains information about one word/token. The first column is the actual
 word, and the second column is a Named Entity class in a BIO format. An empty line is a sentence separator.
 
-For detailed documentation, please see [doc/documentation.pdf]().
+For detailed documentation, please see [doc/documentation.pdf](https://github.com/roman-janik/PONER/blob/main/doc/documentation.pdf).
 
 ## Data
 
@@ -30,6 +30,7 @@ contains the final Label Studio JSON export file. `data/source_data` contains or
 #### Examples
 
 CoNLL:
+
 ```
 Od O
 9. B-t
@@ -53,6 +54,7 @@ Matzenauer I-p
 ```
 
 Label Studio page:
+
 ![Label Studio page example](img/label-studio-task-overview.png)
 
 ## Scripts
@@ -89,8 +91,8 @@ If you use PONER in your work, please cite the
 ```
 
 ## References
-[1]: **O Kodym, M Hradiš**: *Page Layout Analysis System for Unconstrained Historic Documents.* ICDAR, 2021, [PERO OCR](https://pero-ocr.fit.vutbr.cz/).
+[1] - **O Kodym, M Hradiš**: *Page Layout Analysis System for Unconstrained Historic Documents.* ICDAR, 2021, [PERO OCR](https://pero-ocr.fit.vutbr.cz/).
 
-[2]: **Hubková, H., Kral, P. and Pettersson, E.** Czech Historical Named Entity
+[2] - **Hubková, H., Kral, P. and Pettersson, E.** Czech Historical Named Entity
 Corpus v 1.0. In: *Proceedings of the 12th Language Resources and Evaluation Conference.* Marseille, France: European Language Resources Association, May 2020, p. 4458–4465. ISBN 979-10-95546-34-4. Available at:
 https://aclanthology.org/2020.lrec-1.549.
