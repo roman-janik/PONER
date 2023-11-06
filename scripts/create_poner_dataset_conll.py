@@ -10,7 +10,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 
 
 def get_args():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Script for creating a CoNLL format of my dataset from text files and Label Studio annotations.")
     parser.add_argument("-s", "--source_file", required=True, help="Path to source Label Studio json annotations file.")
     parser.add_argument("-o", "--output_dir", required=True, help="Output dir for CoNLL dataset splits.")
     args = parser.parse_args()

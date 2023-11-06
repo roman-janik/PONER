@@ -10,7 +10,10 @@ import json
 
 
 def get_args():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="""Script for removing whitespace at the start of entity annotation
+ span in text. Label Studio marks additional whitespace at the start of entity, which do not belong to it 
+ (usually newline). Phantom entities created by a model with only one newline char in front of real entity are removed.
+ Single non alphanumeric entities are removed too.""")
     parser.add_argument("-s", "--source_file", required=True, help="Path to source Label Studio json annotations file.")
     args = parser.parse_args()
     return args

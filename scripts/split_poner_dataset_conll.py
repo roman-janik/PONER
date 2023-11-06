@@ -10,7 +10,7 @@ from itertools import islice
 
 
 def get_args():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Script for creating splits of a CoNLL format of my dataset.")
     parser.add_argument("-s", "--source_file", required=True, help="Path to source Label Studio json annotations file.")
     parser.add_argument("-o", "--output_dir", required=True, help="Output dir for CoNLL dataset splits.")
     parser.add_argument("-m", "--shuffle", default=True, dest="shuffle", action="store_true",

@@ -12,7 +12,9 @@ from pynput.keyboard import Key
 
 
 def get_args():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description="Script for adjusting the end of entity annotation span in text. Label\
+                                      Studio marks additional characters at the end of entity, which do not belong to it\
+                                      (usually dot or comma).")
     parser.add_argument("-s", "--source_file", required=True, help="Path to source Label Studio json annotations file.")
     args = parser.parse_args()
     return args
