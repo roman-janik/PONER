@@ -21,6 +21,29 @@ word, and the second column is a Named Entity class in a BIO format. An empty li
 
 For detailed documentation, please see [doc/documentation.pdf](https://github.com/roman-janik/PONER/blob/main/doc/documentation.pdf). In case of any question, please use GitHub Issues.
 
+## Results
+
+This dataset was used for training several NER models.
+
+### RobeCzech
+
+RobeCzech [3], a Czech version of RoBERTa [4] model was finetuned using PONER, CHNEC [2], and Czech Named Entity Corpus (CNEC)[5]. All datasets train and test splits were concatenated and used together during training and the model was then evaluated separately on each dataset.
+
+
+| Model     | CNEC 2.0 test  |  CHNEC 1.0 test  | PONER 1.0 test  |
+| --------- | --------- | --------- | --------- |
+| RobeCzech | 0.886 | 0.876 | **0.871** |
+
+### Czech RoBERTa models
+
+ Smaller versions of RoBERTa [4] model were trained on an own text dataset and then finetuned using PONER, CHNEC [2] and Czech Named Entity Corpus (CNEC)[5]. All datasets train and test splits were concatenated and used together during training and the model was then evaluated separately on each dataset. Two configurations were used:  CNEC + CHNEC + PONER and PONER.
+
+
+| Model     | Configuration | CNEC 2.0 test | CHNEC 1.0 test | PONER 1.0 test  |
+| --------- | --------- | --------- | --------- | --------- |
+| Czech RoBERTa 8L_512H| CNEC + CHNEC + PONER | 0.800 | 0.867 | **0.841** |
+| Czech RoBERTa 8L_512H | PONER | - | - | **0.832** |
+
 ## Data
 
 Data are organized as follows: `data/conll` contains dataset CoNLL files, with whole data in `poner.conll` and splits used 
@@ -96,3 +119,17 @@ If you use PONER in your work, please cite the
 [2] - **Hubková, H., Kral, P. and Pettersson, E.** Czech Historical Named Entity
 Corpus v 1.0. In: *Proceedings of the 12th Language Resources and Evaluation Conference.* Marseille, France: European Language Resources Association, May 2020, p. 4458–4465. ISBN 979-10-95546-34-4. Available at:
 https://aclanthology.org/2020.lrec-1.549.
+
+[3] - **Straka, M., Náplava, J., Straková, J. and Samuel, D.** RobeCzech: Czech
+RoBERTa, a Monolingual Contextualized Language Representation Model. In: *24th
+International Conference on Text, Speech and Dialogue.* Cham, Switzerland:
+Springer, 2021, p. 197–209. ISBN 978-3-030-83526-2.
+
+[4] - **Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M. et al.** RoBERTa: A Robustly
+Optimized BERT Pretraining Approach. 2019. Available at:
+http://arxiv.org/abs/1907.11692.
+
+[5] - **Ševčíková, M., Žabokrtský, Z., Straková, J. and Straka, M.** Czech Named
+Entity Corpus 2.0. 2014. LINDAT/CLARIAH-CZ digital library at the Institute of Formal
+and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University.
+Available at: http://hdl.handle.net/11858/00-097C-0000-0023-1B22-8.
