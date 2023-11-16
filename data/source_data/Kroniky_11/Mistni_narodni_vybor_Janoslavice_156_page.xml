@@ -1,0 +1,477 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:20:11.894356</Created>
+    <LastChange>2023-01-19T00:20:11.894356</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Janoslavice_156.jpg" imageWidth="4450" imageHeight="2700">
+    <TextRegion id="ee74df01-34f9-4839-9bd2-5bb3cc81c10a">
+      <Coords points="1173,211 1134,211 1134,237 1213,235 1212,209 1173,211"/>
+      <TextLine id="8ed3d754-7ae2-4826-90a4-9d5bfdc583b4" index="0" custom="heights_v2:[17.5,8.9]">
+        <Coords points="1173,211 1173,211 1173,211 1157,211 1134,211 1134,237 1213,235 1213,234 1212,209 1173,211"/>
+        <Baseline points="1134,229 1173,229 1213,226"/>
+        <TextEquiv conf="1.000">
+          <Unicode>305</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="84838158-99b3-47ac-8b5d-46b4ea2d95aa">
+      <Coords points="3156,222 3125,222 3125,253 3216,253 3216,222 3156,222"/>
+      <TextLine id="091f6261-8eba-4b6d-82cb-8f5de4c3498a" index="0" custom="heights_v2:[21.1,10.3]">
+        <Coords points="3156,222 3125,222 3125,253 3216,253 3216,222 3156,222"/>
+        <Baseline points="3125,243 3156,243 3183,243 3216,243"/>
+        <TextEquiv conf="1.000">
+          <Unicode>306-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="87d02683-1ef8-4e4e-a441-3809bb51d21d">
+      <Coords points="595,507 591,573 1713,579 1878,521 2042,521 2071,464 2071,425 2055,364 607,352 595,413 595,507"/>
+      <TextLine id="af0f5907-042c-4567-9f00-5b380b01331e" index="0" custom="heights_v2:[26.9,13.2]">
+        <Coords points="2055,365 2055,364 2039,364 1591,360 1571,360 1410,360 1250,358 1091,358 931,356 853,354 607,352 607,392 770,392 930,396 1091,398 1249,398 1410,400 1571,400 1729,400 1890,400 2054,404 2055,365"/>
+        <Baseline points="607,379 770,379 931,383 1091,385 1250,385 1410,387 1571,387 1729,387 1890,387 2055,391"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Výbor žen na „Mezinárodní den žen" uspořádal na sále u Berků oslavu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="02d6f8b0-65c5-47a5-871d-06bded5dd626" index="1" custom="heights_v2:[25.8,12.8]">
+        <Coords points="2071,464 2071,425 1902,425 1740,421 1577,423 1415,421 1250,419 1087,419 925,417 762,413 595,413 595,413 595,451 761,451 924,455 1087,457 1249,457 1414,459 1577,462 1739,459 1902,464 2071,464"/>
+        <Baseline points="595,439 762,439 924,443 1087,445 1250,445 1414,447 1577,449 1740,447 1902,451 2071,451"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kde byly veřejně vyznamenány všechny matky s větším počtem děti od 5 výše</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3994bb49-5c97-4303-a526-ba660649f129" index="2" custom="heights_v2:[25.8,12.8]">
+        <Coords points="1877,521 1878,521 2042,521 2042,521 2042,483 1878,483 1717,481 1558,481 1398,481 1238,477 1079,477 918,477 758,472 596,468 595,493 595,507 757,511 918,515 1079,515 1237,515 1398,519 1558,519 1717,519 1877,521"/>
+        <Baseline points="595,494 758,498 918,502 1079,502 1237,502 1398,506 1558,506 1717,506 1878,508 2042,508"/>
+        <TextEquiv conf="1.000">
+          <Unicode>K matkám promluvil předseda MNO Josef Drtil. Byla jim připravena pěkná</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eae6b566-fdce-44de-9d32-c00ddb180b7e" index="3" custom="heights_v2:[26.6,13.1]">
+        <Coords points="593,533 591,573 610,573 718,573 770,574 879,575 965,573 1089,575 1107,576 1713,579 1713,579 1712,540 1583,542 1460,542 1337,538 1212,540 1090,535 966,533 842,535 719,533 593,533"/>
+        <Baseline points="592,560 718,560 842,562 966,560 1089,562 1213,566 1336,564 1460,568 1583,568 1713,566"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kulturní vložka pionýrskou organisací s hudební vložkou.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9abd5ae5-671e-4244-b4fd-210bcb785044">
+      <Coords points="577,1578 581,1681 1663,1681 1750,1623 2090,1621 2108,1502 2109,1397 2100,1322 2118,1256 2118,1217 2092,1129 2083,724 1981,664 609,652 595,720 584,844 577,1578"/>
+      <TextLine id="9d911e06-8b8a-4bb0-91ef-5921b51b3478" index="0" custom="heights_v2:[29.8,14.3]">
+        <Coords points="1978,664 609,652 609,696 764,696 916,698 1066,700 1219,700 1368,698 1521,704 1671,704 1824,706 1980,708 1981,664 1978,664"/>
+        <Baseline points="609,681 764,681 916,683 1066,686 1219,686 1369,683 1521,690 1672,690 1824,692 1980,694"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 29. dubna večer se konala veřejná schůze v hostinci „Jednoty“ čp. 82.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b29feb98-9ee8-4d81-af1f-1973808e3f14" index="1" custom="heights_v2:[27.2,13.4]">
+        <Coords points="2083,742 2083,724 1915,724 1750,726 1586,722 1421,720 1256,718 1091,716 926,720 762,720 595,720 595,720 595,761 762,761 927,761 1091,757 1256,759 1420,761 1585,763 1750,767 1915,765 2083,765 2083,742"/>
+        <Baseline points="595,747 762,747 926,747 1091,743 1256,745 1420,747 1585,749 1750,753 1915,751 2083,751"/>
+        <TextEquiv conf="1.000">
+          <Unicode>všech složek Národní fronty. Schůze byla svolána místní organisací KSČ. Na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2bc740c8-6239-46c6-90a8-c6e6901035ca" index="2" custom="heights_v2:[27.0,13.4]">
+        <Coords points="590,776 589,785 588,816 753,820 914,822 1075,820 1235,820 1398,822 1558,824 1719,824 1879,824 2046,827 2047,786 1880,784 1719,784 1558,784 1398,782 1236,780 1075,780 914,782 754,780 590,776"/>
+        <Baseline points="589,803 753,807 914,809 1075,807 1235,807 1398,809 1558,811 1719,811 1880,811 2046,813"/>
+        <TextEquiv conf="1.000">
+          <Unicode>této veřejné schůzi, byli občané seznámeni s rozborem k zajištění úkolů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="21059783-27a2-4712-b862-6ebc35fa0345" index="3" custom="heights_v2:[26.8,13.3]">
+        <Coords points="584,844 585,884 751,882 914,886 1077,884 1239,886 1402,886 1565,886 1727,886 1890,888 2057,884 2056,844 1889,848 1728,846 1565,846 1402,846 1239,846 1077,844 914,846 752,842 584,844"/>
+        <Baseline points="585,871 751,869 914,873 1077,871 1239,873 1402,873 1565,873 1727,873 1890,875 2057,871"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zemědělské výroby v obci. Konstatováno, že v živočišné výrobě Jednotného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6a5dc7ea-f40a-470c-b267-1a6aa820387a" index="4" custom="heights_v2:[25.7,12.8]">
+        <Coords points="584,903 585,941 753,939 918,941 1085,941 1250,943 1416,943 1581,943 1748,947 1913,947 2083,947 2083,909 1913,909 1748,909 1582,905 1416,905 1250,905 1085,903 918,903 754,901 584,903"/>
+        <Baseline points="585,928 753,926 918,928 1085,928 1250,931 1416,931 1581,931 1748,935 1913,935 2083,935"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zemědělského družstva je stav neuspokojivý. Projevil se značný nedostatek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eb1df7f8-6e9d-44cc-aeda-6599abefb389" index="5" custom="heights_v2:[26.6,13.2]">
+        <Coords points="585,962 584,1001 747,1005 908,1005 1069,1005 1229,1003 1389,1005 1550,1008 1711,1005 1871,1005 2036,1005 2036,966 1871,966 1711,966 1550,968 1390,966 1229,964 1068,966 908,966 747,966 585,962"/>
+        <Baseline points="585,988 747,992 908,992 1068,992 1229,990 1390,992 1550,994 1711,992 1871,992 2036,992"/>
+        <TextEquiv conf="1.000">
+          <Unicode>krmiv, následkem čehož dojivost je nízká; jen 2.80 litr. na 1 krávu a den.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c041e6d0-0c74-48d6-85a8-f56244c96dda" index="6" custom="heights_v2:[26.4,13.2]">
+        <Coords points="2091,1067 2090,1028 1920,1030 1754,1032 1587,1032 1418,1032 1252,1028 1085,1028 916,1028 749,1028 582,1024 582,1063 749,1067 916,1067 1085,1067 1251,1067 1418,1071 1587,1071 1754,1071 1921,1069 2091,1067"/>
+        <Baseline points="582,1050 749,1054 916,1054 1085,1054 1252,1054 1418,1058 1587,1058 1754,1058 1921,1056 2090,1054"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Učiněno opatření, aby se tento stav neutěšený co nejdříve změnil. Družstvu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2f19bcc5-a78f-4b84-8771-aba81476f2f2" index="7" custom="heights_v2:[26.9,13.3]">
+        <Coords points="2092,1108 2091,1089 1918,1091 1752,1093 1586,1089 1418,1091 1252,1087 1085,1085 919,1083 751,1085 582,1085 581,1125 752,1125 918,1123 1085,1125 1251,1127 1419,1131 1585,1129 1752,1133 1919,1131 2092,1129 2092,1108"/>
+        <Baseline points="581,1112 751,1112 918,1110 1085,1112 1252,1114 1418,1118 1585,1116 1752,1120 1919,1118 2092,1116"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bylo ze státních fondů přiděleno 60 q sena a potřebná jadrná krmiva, aby</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fe7bbaab-3c0e-4110-b7b0-9c4c54f66613" index="8" custom="heights_v2:[27.6,13.5]">
+        <Coords points="581,1146 581,1187 747,1189 910,1189 1075,1191 1237,1187 1402,1191 1565,1191 1729,1191 1892,1193 2061,1191 2060,1150 1892,1152 1730,1150 1565,1150 1402,1150 1238,1146 1074,1150 910,1148 747,1148 581,1146"/>
+        <Baseline points="581,1173 747,1176 910,1176 1075,1178 1237,1173 1402,1178 1565,1178 1729,1178 1892,1180 2061,1178"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tak krmná základna, než bude zelené krmení, byla zajištěna. Přítomný</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4a9597da-145b-4f90-92e5-fb7884a684a7" index="9" custom="heights_v2:[26.2,12.9]">
+        <Coords points="2118,1256 2118,1256 2118,1217 1943,1217 1773,1211 1604,1209 1432,1215 1262,1213 1093,1213 923,1211 752,1209 580,1213 580,1252 751,1248 922,1250 1093,1252 1262,1252 1433,1254 1604,1248 1772,1250 1943,1256 2118,1256"/>
+        <Baseline points="580,1239 751,1235 922,1237 1093,1239 1262,1239 1433,1241 1604,1235 1773,1237 1943,1243 2118,1243"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zástupce OMV Bořivoj Holinek z Klopin, ve svém referátě osvětlil družstevníkům</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4b3953a7-ff68-4522-a8aa-5f936a2a9337" index="10" custom="heights_v2:[26.7,13.1]">
+        <Coords points="580,1272 580,1280 581,1312 751,1306 920,1306 1087,1312 1256,1316 1422,1312 1591,1314 1758,1318 1927,1320 2100,1322 2100,1283 1927,1281 1758,1279 1592,1274 1423,1272 1255,1276 1088,1272 921,1266 751,1266 580,1272"/>
+        <Baseline points="581,1299 751,1293 920,1293 1087,1299 1256,1303 1423,1299 1591,1301 1758,1305 1927,1307 2100,1309"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a ostatním problémy zemědělské výroby, kde dodávka mléka a masa a to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ea1004d6-37aa-47a3-90b7-f9b6349e7318" index="11" custom="heights_v2:[28.4,13.8]">
+        <Coords points="581,1328 581,1370 636,1370 690,1370 743,1368 796,1368 849,1370 901,1368 955,1370 1009,1373 1066,1373 1066,1330 1009,1330 956,1328 903,1326 847,1328 798,1326 743,1326 689,1328 636,1328 581,1328"/>
+        <Baseline points="581,1357 636,1357 690,1357 743,1355 797,1355 848,1357 902,1355 955,1357 1009,1359 1066,1359"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hlavně vepřového vázne.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="93b3f824-7439-42c9-b6e7-1759c1cca263" index="12" custom="heights_v2:[27.2,13.4]">
+        <Coords points="611,1391 612,1432 780,1430 945,1434 1112,1432 1276,1432 1441,1434 1608,1436 1773,1436 1937,1434 2108,1438 2109,1397 1938,1393 1772,1395 1608,1395 1441,1393 1277,1391 1112,1391 945,1393 781,1389 611,1391"/>
+        <Baseline points="611,1418 780,1416 945,1420 1112,1418 1276,1418 1441,1420 1608,1423 1773,1423 1937,1420 2108,1425"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 18. 11. na zasedání mimořádné schůzi rady MNV usneseno, o důsledku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1382e9a5-a680-47bf-ae3a-7ae421be0d9a" index="13" custom="heights_v2:[27.3,13.4]">
+        <Coords points="2108,1476 2108,1461 1935,1459 1766,1459 1597,1461 1429,1457 1260,1457 1091,1455 922,1455 753,1455 581,1453 580,1494 753,1496 922,1496 1091,1496 1260,1498 1428,1498 1598,1502 1766,1500 1935,1500 2108,1502 2108,1476"/>
+        <Baseline points="581,1480 753,1482 922,1482 1091,1482 1260,1484 1429,1484 1598,1488 1766,1486 1935,1486 2108,1488"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nedostatku krmiv v Jednotném zemědělském družstvu, ustanoviti tříčlennou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0a3a5a98-ab20-404f-91a4-a1fc8db47ed0" index="14" custom="heights_v2:[27.4,13.4]">
+        <Coords points="579,1512 578,1553 749,1555 916,1555 1085,1555 1252,1557 1418,1557 1587,1564 1754,1564 1921,1566 2094,1564 2093,1523 1920,1525 1754,1523 1587,1523 1419,1517 1252,1517 1085,1515 916,1515 749,1515 579,1512"/>
+        <Baseline points="578,1540 749,1542 916,1542 1085,1542 1252,1544 1418,1544 1587,1550 1754,1550 1921,1552 2094,1550"/>
+        <TextEquiv conf="1.000">
+          <Unicode>komisi pro kontrolu hospodaření s krmivy. Komise měla za úkol kontrolo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fb4f7f5a-ecfa-4252-b227-461d54a584bf" index="15" custom="heights_v2:[27.3,13.4]">
+        <Coords points="577,1578 579,1619 747,1621 914,1619 1081,1619 1248,1621 1416,1619 1583,1621 1750,1623 1750,1623 2090,1621 2089,1581 1916,1583 1750,1583 1583,1581 1417,1578 1247,1581 1081,1578 914,1578 747,1581 577,1578"/>
+        <Baseline points="578,1606 747,1608 914,1606 1081,1606 1248,1608 1416,1606 1583,1608 1750,1610 1917,1610 2090,1608"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vat. dodržování měsíčních krmných dávek a podávat jednou měsíčně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d352573f-7385-44be-847b-d3d0d33672ea" index="16" custom="heights_v2:[28.5,13.5]">
+        <Coords points="581,1671 581,1681 704,1679 823,1681 943,1681 1062,1681 1182,1681 1301,1681 1420,1681 1540,1681 1663,1681 1663,1681 1663,1639 1540,1639 1420,1639 1301,1639 1182,1639 1062,1639 943,1639 823,1639 705,1637 580,1639 581,1671"/>
+        <Baseline points="581,1668 704,1665 823,1668 943,1668 1062,1668 1182,1668 1301,1668 1420,1668 1540,1668 1663,1668"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hlášení radě místního národního výboru o výsledku.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="0bfadd33-29e3-47e4-990c-dfd208f5eeec">
+      <Coords points="560,2145 556,2304 1771,2304 1907,2249 2079,2247 2073,2143 2090,2058 2082,1936 2096,1877 2093,1777 1801,1770 634,1772 569,1832 570,2003 560,2145"/>
+      <TextLine id="1956058d-ab62-4926-ab98-b6d0ce15a8a3" index="0" custom="heights_v2:[24.5,12.0]">
+        <Coords points="2093,1781 2093,1777 2003,1775 1991,1775 1986,1774 1939,1773 1939,1809 1965,1809 1991,1811 2015,1811 2038,1811 2062,1811 2091,1813 2093,1781"/>
+        <Baseline points="1939,1797 1966,1797 1991,1799 2015,1799 2038,1799 2063,1799 2092,1801"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ve schůzi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6906eff3-c1c3-4983-ab7a-c248494fc372" index="1" custom="heights_v2:[27.2,13.5]">
+        <Coords points="1762,1770 1656,1770 1537,1772 1410,1772 1281,1772 1211,1771 1079,1771 1023,1772 978,1771 643,1772 634,1772 634,1772 634,1813 766,1811 895,1811 1023,1813 1153,1811 1281,1813 1410,1813 1538,1813 1668,1811 1801,1811 1801,1770 1762,1770"/>
+        <Baseline points="634,1799 766,1797 896,1797 1023,1799 1153,1797 1281,1799 1410,1799 1538,1799 1668,1797 1801,1797"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Za účelem dokončení socialisace naší obce, byla dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b2070d66-6d25-4bce-a02b-68303813796e" index="2" custom="heights_v2:[27.2,13.5]">
+        <Coords points="2096,1867 2095,1836 1923,1834 1754,1836 1586,1834 1416,1834 1248,1834 1079,1834 910,1836 741,1834 569,1832 569,1832 569,1873 741,1875 910,1877 1079,1875 1248,1875 1416,1875 1585,1875 1754,1877 1923,1875 2096,1877 2096,1867"/>
+        <Baseline points="569,1859 741,1861 910,1863 1079,1861 1248,1861 1416,1861 1585,1861 1754,1863 1923,1861 2096,1863"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rady MNV ustavena agitační skupina složena ze zástupce OMV Zábřeh</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ffa970c7-b8b5-40a0-b40d-47253d8f3f73" index="3" custom="heights_v2:[28.1,13.7]">
+        <Coords points="574,1891 574,1932 743,1932 910,1936 1077,1932 1243,1932 1410,1936 1577,1939 1744,1939 1911,1941 2082,1936 2081,1895 1910,1899 1744,1897 1577,1897 1411,1895 1244,1891 1077,1891 909,1895 744,1891 574,1891"/>
+        <Baseline points="574,1919 743,1919 910,1923 1077,1919 1243,1919 1410,1923 1577,1925 1744,1925 1910,1927 2081,1923"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Frant. Augustina, s. Humla, ředitele závodu Drátovny Kamenná, Frant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="af1c8906-5b47-4375-8afc-6ea578ecb2c4" index="4" custom="heights_v2:[29.7,14.3]">
+        <Coords points="570,1959 570,2003 739,2001 906,2001 1073,2001 1240,2001 1406,1999 1573,2001 1739,1997 1906,2001 2077,2001 2077,1957 1906,1957 1740,1953 1572,1957 1406,1955 1239,1957 1073,1957 906,1957 739,1957 570,1959"/>
+        <Baseline points="570,1989 739,1987 906,1987 1073,1987 1239,1987 1406,1985 1573,1987 1740,1983 1906,1987 2077,1987"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kadlece, zástupce Jednotného zemědělského družstva, která měla za</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a87faf26-74dd-424e-999f-adbc01418d4d" index="5" custom="heights_v2:[27.9,13.7]">
+        <Coords points="2090,2053 2087,2016 1916,2018 1748,2018 1581,2018 1412,2021 1243,2021 1077,2021 908,2018 739,2021 569,2021 568,2029 568,2062 739,2062 908,2060 1077,2062 1243,2062 1412,2062 1581,2060 1748,2060 1917,2060 2090,2058 2090,2053"/>
+        <Baseline points="568,2048 739,2048 908,2046 1077,2048 1243,2048 1412,2048 1581,2046 1748,2046 1917,2046 2089,2044"/>
+        <TextEquiv conf="1.000">
+          <Unicode>úkol dosud jednotlivě soukromě hospodařící zemědělec: Josefa Adamicu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9865b5dd-0a35-4689-b7fe-41093f7dfe61" index="6" custom="heights_v2:[28.3,14.0]">
+        <Coords points="564,2084 564,2094 564,2126 731,2122 896,2124 1060,2124 1225,2126 1388,2124 1552,2122 1717,2124 1881,2124 2050,2128 2051,2086 1882,2082 1717,2082 1553,2080 1387,2082 1225,2084 1061,2082 896,2082 731,2080 564,2084"/>
+        <Baseline points="564,2112 731,2108 896,2110 1060,2110 1225,2112 1388,2110 1552,2108 1717,2110 1882,2110 2050,2114"/>
+        <TextEquiv conf="1.000">
+          <Unicode>č. 13 - Aloise Drtila č. 46 - Stanislava Pěničky a Karla Sixty čp. 63,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="95c067ca-a7a8-4666-b301-e1f08cadea2f" index="7" custom="heights_v2:[28.7,13.9]">
+        <Coords points="560,2145 560,2155 560,2188 731,2186 898,2186 1064,2184 1231,2186 1400,2188 1567,2188 1733,2186 1900,2186 2073,2186 2073,2145 2073,2143 1900,2143 1733,2143 1566,2145 1400,2145 1231,2143 1065,2141 897,2143 731,2143 560,2145"/>
+        <Baseline points="560,2174 731,2172 898,2172 1064,2170 1231,2172 1400,2174 1567,2174 1733,2172 1900,2172 2073,2172"/>
+        <TextEquiv conf="1.000">
+          <Unicode>přesvědčit o vstupu do místního JZD. Jediný Karel Sitta podal v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3cda9428-5383-42a0-9bc5-2a89475147cc" index="8" custom="heights_v2:[27.2,13.4]">
+        <Coords points="558,2211 557,2251 727,2249 896,2251 1065,2249 1233,2247 1400,2249 1569,2251 1738,2251 1907,2249 1907,2249 1907,2249 2079,2247 2077,2207 1906,2209 1737,2211 1569,2211 1400,2209 1233,2207 1064,2209 895,2211 727,2209 558,2211"/>
+        <Baseline points="558,2238 727,2236 896,2238 1064,2236 1233,2234 1400,2236 1569,2238 1738,2238 1906,2236 2078,2234"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tomto roce přihlášku do družstva. Přesvědčování ostatních, přesto, že</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="30650b45-787c-4f29-9378-deeda898ff16" index="9" custom="heights_v2:[26.1,12.3]">
+        <Coords points="557,2265 556,2304 579,2304 805,2304 827,2304 850,2304 1073,2304 1095,2304 1229,2304 1251,2304 1747,2304 1771,2304 1770,2265 1630,2267 1497,2267 1363,2267 1229,2265 1095,2265 961,2267 828,2265 693,2267 557,2265"/>
+        <Baseline points="556,2291 694,2293 828,2291 961,2293 1095,2291 1229,2291 1363,2293 1497,2293 1630,2293 1770,2291"/>
+        <TextEquiv conf="1.000">
+          <Unicode>byli vícekrát navštíveni, do vstupu do JZD se nepodařilo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="5c9d2df2-8c2d-4c84-ba7b-e507f7b0cfcb">
+      <Coords points="2402,611 2405,891 2898,889 3718,900 3887,893 3916,836 3910,685 3880,542 3881,503 3911,425 3913,385 3416,370 2427,364 2405,427 2402,611"/>
+      <TextLine id="42cfad17-e67a-47cd-9199-6ac0e37eeb9b" index="0" custom="heights_v2:[27.1,13.2]">
+        <Coords points="3913,385 3462,371 3416,370 3251,370 3186,369 2985,367 2923,368 2887,367 2429,364 2427,364 2427,364 2427,404 2594,402 2758,402 2924,408 3086,406 3251,411 3415,411 3578,415 3742,417 3911,425 3913,385"/>
+        <Baseline points="2427,391 2594,389 2759,389 2923,395 3086,393 3251,397 3415,397 3578,401 3743,404 3912,412"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 5. až 6. června se Ústřední výbor KSČ zabýval vývojem zemědělské výroby. Družstva</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6daab602-ea04-4dfd-b324-cfb7e347043a" index="1" custom="heights_v2:[26.3,13.0]">
+        <Coords points="2405,427 2405,427 2405,454 2405,466 2571,466 2734,464 2899,468 3061,468 3226,472 3388,472 3553,474 3716,478 3885,478 3885,439 3716,439 3554,435 3389,433 3226,433 3062,429 2899,429 2735,425 2571,427 2405,427"/>
+        <Baseline points="2405,453 2571,453 2734,451 2899,455 3061,455 3226,459 3389,459 3553,461 3716,465 3885,465"/>
+        <TextEquiv conf="1.000">
+          <Unicode>byla vybídnuta ke zvýšení rostlinné výroby. Toho mohou dosáhnout zúrodněním půdy,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6cea3639-3ca5-458c-9088-3391150e89e3" index="2" custom="heights_v2:[26.3,13.0]">
+        <Coords points="3880,542 3880,542 3881,507 3881,503 3712,501 3550,495 3387,495 3224,492 3062,490 2899,490 2736,488 2574,486 2406,488 2407,528 2573,526 2736,528 2899,530 3061,530 3224,532 3387,534 3549,534 3712,540 3880,542"/>
+        <Baseline points="2407,515 2573,513 2736,515 2899,517 3061,517 3224,519 3387,521 3549,521 3712,527 3880,529"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hlavně melioračními pracemi. Usnesení ÚV KSČ za zvýšení zemědělské výroby na základě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="29389528-9962-4cac-b57e-28cd9d152619" index="3" custom="heights_v2:[26.5,13.1]">
+        <Coords points="2403,552 2403,579 2403,592 2569,585 2732,585 2897,590 3059,590 3224,594 3387,596 3551,594 3714,598 3883,600 3883,560 3714,558 3552,554 3386,556 3224,554 3060,550 2897,550 2733,546 2569,546 2403,552"/>
+        <Baseline points="2403,578 2569,572 2732,572 2897,576 3059,576 3224,581 3387,583 3551,581 3714,585 3883,587"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zkvalitnění půdy, mělo ohlas u všech Jednotných zemědělských družstev. Také</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bc0d00f5-267f-4dba-9768-1ad691894c08" index="4" custom="heights_v2:[25.3,12.6]">
+        <Coords points="2402,611 2403,649 2571,647 2736,649 2900,645 3065,651 3230,655 3395,653 3559,655 3724,659 3895,657 3895,619 3724,621 3560,617 3395,615 3230,617 3066,613 2902,607 2735,611 2572,609 2402,611"/>
+        <Baseline points="2402,636 2571,634 2736,636 2901,632 3065,638 3230,642 3395,640 3559,642 3724,646 3895,644"/>
+        <TextEquiv conf="1.000">
+          <Unicode>naše JZD ve snaze zlepšit úrodnost svých pozemků stalo se členem meloračního</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fd1f5b6b-ade6-4165-b803-f3138e6f7dba" index="5" custom="heights_v2:[25.5,12.6]">
+        <Coords points="2403,670 2403,708 2569,704 2736,708 2902,708 3069,713 3236,717 3403,717 3569,717 3736,721 3909,723 3910,685 3737,683 3570,679 3403,679 3236,679 3070,674 2903,670 2736,670 2570,666 2403,670"/>
+        <Baseline points="2403,696 2569,692 2736,696 2903,696 3070,700 3236,704 3403,704 3570,704 3737,708 3909,710"/>
+        <TextEquiv conf="1.000">
+          <Unicode>družstva „Morava“ se sídlem v Dubicku a podniklo kroky k přípravě oprav stávají-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0265c1fb-c7d8-46bc-aeae-b1c62491d86d" index="6" custom="heights_v2:[25.5,12.8]">
+        <Coords points="2403,732 2404,770 2457,770 2507,768 2559,768 2608,768 2660,768 2711,768 2761,770 2812,768 2868,768 2868,730 2812,730 2760,732 2712,730 2660,730 2608,730 2559,730 2507,730 2455,732 2403,732"/>
+        <Baseline points="2404,758 2456,758 2507,756 2559,756 2608,756 2660,756 2711,756 2761,758 2812,756 2868,756"/>
+        <TextEquiv conf="1.000">
+          <Unicode>cích odvodních zařízení.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c70e6d9a-8640-4826-bc3c-9262a3581c19" index="7" custom="heights_v2:[28.8,14.1]">
+        <Coords points="3916,829 3914,793 3746,795 3584,797 3422,795 3259,795 3097,791 2934,791 2771,789 2609,786 2443,778 2441,821 2608,829 2771,831 2934,834 3096,834 3259,838 3421,838 3584,840 3747,838 3916,836 3916,829"/>
+        <Baseline points="2442,807 2608,815 2771,817 2934,819 3096,819 3259,823 3422,823 3584,826 3747,823 3915,821"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Družstevníci Přerovska vyzvali všechna JZD v kraji k soutěži „Za překročení plánu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c2503606-2ab4-4922-90e2-ed5bdc8bdb25" index="8" custom="heights_v2:[24.9,12.2]">
+        <Coords points="2405,854 2405,891 2439,891 2571,889 2736,889 2842,889 2898,889 3156,892 3226,893 3391,895 3553,895 3718,900 3815,896 3887,893 3887,893 3886,856 3717,862 3554,858 3391,858 3226,856 3064,854 2899,852 2736,852 2571,852 2405,854"/>
+        <Baseline points="2405,879 2571,877 2736,877 2899,877 3063,879 3226,881 3391,883 3553,883 3718,887 3887,881"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zemědělské výroby". I naše JZD tuto výzvu přijalo a začlenilo ji do svého ČVFP.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="fd41bea3-159b-4a06-b034-8a50c4cd264a">
+      <Coords points="2403,1772 2410,2000 3111,2004 3253,1944 3922,1942 3927,1774 3904,1446 3917,1286 3899,1209 3903,1105 3873,1017 3872,974 2446,970 2408,1037 2415,1197 2408,1500 2421,1586 2403,1772"/>
+      <TextLine id="c925def4-ef42-4d29-ad96-d6430977e29b" index="0" custom="heights_v2:[28.7,14.1]">
+        <Coords points="3872,977 3872,974 3863,974 3709,976 3551,976 3395,976 3236,976 3080,974 2991,972 2446,970 2446,970 2446,1013 2606,1013 2765,1013 2921,1013 3080,1017 3236,1019 3395,1019 3551,1019 3710,1019 3873,1017 3872,977"/>
+        <Baseline points="2446,998 2606,998 2765,998 2921,998 3080,1003 3236,1005 3395,1005 3551,1005 3710,1005 3872,1003"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V tomto roce započalo s přípravnými pracemi k novostavbě kravína pro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6394c756-6e3f-43d0-acb9-4ce34dec6f44" index="1" custom="heights_v2:[27.8,13.7]">
+        <Coords points="2408,1037 2408,1037 2410,1078 2571,1072 2730,1076 2888,1074 3047,1078 3205,1082 3364,1084 3523,1084 3681,1080 3844,1080 3844,1039 3681,1039 3522,1043 3364,1043 3206,1041 3048,1037 2889,1032 2729,1034 2572,1030 2408,1037"/>
+        <Baseline points="2409,1064 2571,1058 2730,1062 2888,1060 3047,1064 3205,1068 3364,1071 3522,1071 3681,1066 3844,1066"/>
+        <TextEquiv conf="1.000">
+          <Unicode>96 kusů. Poněvadž nebylo možné pro nedostatek odborných sil přikročiti ke</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bc01be43-2c4a-4b89-8f8c-0d27a883d9dd" index="2" custom="heights_v2:[25.6,12.8]">
+        <Coords points="3902,1143 3903,1105 3903,1105 3903,1105 3732,1107 3568,1105 3403,1105 3239,1098 3074,1098 2909,1096 2744,1096 2580,1096 2411,1098 2412,1137 2580,1135 2744,1135 2909,1135 3074,1137 3238,1137 3403,1143 3568,1143 3733,1145 3902,1143"/>
+        <Baseline points="2412,1124 2580,1122 2744,1122 2909,1122 3074,1124 3238,1124 3403,1130 3568,1130 3732,1132 3902,1130"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stavbě svépomocí, prováděl stavbu Okresní stavební podnik ze Zábřeha. Dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bcbabefa-fb90-4c03-9c19-52cd9bd0a443" index="3" custom="heights_v2:[27.6,13.2]">
+        <Coords points="3899,1209 3899,1209 3899,1209 3899,1169 3731,1166 3566,1164 3403,1162 3238,1162 3074,1160 2911,1158 2747,1156 2582,1156 2415,1156 2415,1193 2415,1197 2582,1197 2746,1197 2911,1199 3073,1201 3238,1203 3403,1203 3565,1205 3730,1207 3899,1209 3899,1209"/>
+        <Baseline points="2415,1184 2582,1184 2746,1184 2911,1186 3074,1188 3238,1190 3403,1190 3566,1192 3730,1194 3899,1196"/>
+        <TextEquiv conf="1.000">
+          <Unicode>8. května pomocí buldozeru upraveno stavební místo. Ornice byla odstraněna,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="065afeaf-2f53-4008-bd73-ca1dd441c990" index="4" custom="heights_v2:[27.2,13.1]">
+        <Coords points="2414,1220 2414,1261 2579,1259 2744,1261 2909,1263 3074,1263 3238,1263 3403,1267 3568,1267 3732,1267 3901,1267 3901,1227 3732,1227 3568,1227 3403,1227 3239,1222 3074,1222 2909,1222 2745,1220 2580,1218 2414,1220"/>
+        <Baseline points="2414,1248 2580,1246 2744,1248 2909,1250 3074,1250 3238,1250 3403,1254 3568,1254 3732,1254 3901,1254"/>
+        <TextEquiv conf="1.000">
+          <Unicode>aby stavbou nepřišlo na zmar. Zedníci a jejich pomocníci byli ubytováni</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="72d4f8ee-caef-42ac-8988-b8b0e79edc19" index="5" custom="heights_v2:[27.2,13.4]">
+        <Coords points="3914,1327 3917,1286 3746,1288 3581,1282 3413,1284 3246,1286 3080,1282 2913,1280 2747,1278 2580,1278 2413,1278 2412,1319 2580,1319 2746,1319 2913,1321 3079,1323 3247,1327 3413,1325 3580,1323 3747,1329 3914,1327"/>
+        <Baseline points="2413,1305 2580,1305 2746,1305 2913,1307 3080,1309 3247,1313 3413,1311 3580,1309 3747,1316 3915,1313"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na čp. 36 a 66. -Někteří občané se zúčastnili jen prací při kopání základů a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ab0a3ec8-155c-4a86-b999-582f2aaff020" index="6" custom="heights_v2:[27.5,13.5]">
+        <Coords points="3909,1385 3912,1344 3742,1346 3576,1346 3411,1346 3245,1344 3078,1341 2913,1341 2747,1339 2580,1337 2412,1339 2411,1377 2411,1380 2579,1378 2746,1380 2913,1382 3078,1382 3244,1385 3411,1387 3576,1387 3743,1387 3909,1385"/>
+        <Baseline points="2411,1367 2580,1365 2746,1367 2913,1369 3078,1369 3244,1371 3411,1373 3576,1373 3743,1373 3910,1371"/>
+        <TextEquiv conf="1.000">
+          <Unicode>močůvkové jímky. U čp. 54 kde byla otevřena studánka byla zřízena čerpa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="357a45d4-39cc-4b86-a853-9c3e74e93fc4" index="7" custom="heights_v2:[26.6,13.1]">
+        <Coords points="2411,1400 2411,1440 2580,1442 2744,1442 2909,1444 3073,1444 3238,1448 3403,1446 3567,1446 3733,1450 3904,1446 3903,1406 3732,1410 3568,1406 3403,1406 3238,1408 3074,1404 2909,1404 2745,1402 2580,1402 2411,1400"/>
+        <Baseline points="2411,1427 2580,1429 2744,1429 2909,1431 3074,1431 3238,1435 3403,1433 3568,1433 3732,1437 3903,1433"/>
+        <TextEquiv conf="1.000">
+          <Unicode>cí stanice a položeno vodovodní potrubí. Bylo zjištěno, že vody je pro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="73cceb9c-fbb2-42f2-bdd8-c6f901e56753" index="8" custom="heights_v2:[27.2,13.3]">
+        <Coords points="2409,1459 2408,1500 2574,1504 2734,1502 2895,1506 3055,1506 3216,1508 3376,1510 3537,1508 3698,1510 3862,1508 3862,1467 3697,1469 3537,1467 3376,1469 3216,1467 3055,1465 2895,1465 2735,1461 2573,1463 2409,1459"/>
+        <Baseline points="2409,1486 2573,1490 2734,1488 2895,1493 3055,1493 3216,1495 3376,1497 3537,1495 3697,1497 3862,1495"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kravín dostatečné množství. Stavba vodovodu zhruba dokončena 24.7.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5160682d-602c-41eb-927b-98e075fa4929" index="9" custom="heights_v2:[28.1,13.7]">
+        <Coords points="2421,1526 2421,1568 2582,1568 2740,1568 2899,1568 3057,1568 3214,1568 3372,1568 3530,1570 3689,1572 3852,1570 3851,1528 3689,1530 3531,1528 3373,1526 3214,1526 3057,1526 2899,1526 2740,1526 2582,1526 2421,1526"/>
+        <Baseline points="2421,1554 2582,1554 2740,1554 2899,1554 3057,1554 3214,1554 3372,1554 3531,1556 3689,1558 3852,1556"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Poněvadž stavba kravína nepokračovala tak, aby lhůta dokončení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="75ce52ea-5e4e-47af-a382-f26c0b248b93" index="10" custom="heights_v2:[27.6,13.5]">
+        <Coords points="3916,1611 3914,1586 3744,1591 3580,1593 3416,1591 3251,1591 3085,1586 2919,1591 2755,1589 2590,1589 2421,1586 2421,1628 2590,1630 2754,1630 2920,1632 3084,1628 3251,1632 3415,1632 3580,1634 3745,1632 3916,1628 3916,1611"/>
+        <Baseline points="2421,1614 2590,1616 2755,1616 2919,1618 3084,1614 3251,1618 3415,1618 3580,1620 3745,1618 3916,1614"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stavby mohla býti dodržena, byli povoláni k pomoci žáci vyšší prů-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c4b4a099-6d66-46d7-baa1-efc2fac68290" index="11" custom="heights_v2:[28.5,13.6]">
+        <Coords points="2415,1647 2415,1650 2415,1689 2580,1689 2742,1689 2903,1694 3065,1691 3226,1696 3389,1696 3549,1696 3712,1696 3879,1691 3878,1649 3711,1653 3549,1653 3389,1653 3226,1653 3066,1649 2902,1651 2743,1647 2580,1647 2415,1647"/>
+        <Baseline points="2415,1676 2580,1676 2742,1676 2903,1680 3065,1678 3226,1682 3389,1682 3549,1682 3712,1682 3879,1678"/>
+        <TextEquiv conf="1.000">
+          <Unicode>myslové školy z Brna. Tito přijeli dne 3. září v počtu 22 se svým</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="500a3acc-8485-4742-b707-6520d02c14ae" index="12" custom="heights_v2:[28.9,14.1]">
+        <Coords points="2413,1709 2413,1752 2577,1752 2738,1752 2901,1756 3061,1756 3224,1754 3384,1756 3547,1758 3708,1758 3874,1760 3875,1717 3708,1715 3547,1715 3385,1713 3224,1711 3061,1713 2901,1713 2739,1709 2577,1709 2413,1709"/>
+        <Baseline points="2413,1738 2577,1738 2738,1738 2901,1742 3061,1742 3224,1740 3384,1742 3547,1744 3708,1744 3874,1746"/>
+        <TextEquiv conf="1.000">
+          <Unicode>profesorem. Byli přivítáni rozhlasem předsedou MNV Josefem Drtilem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9c1c54a0-b84d-4052-bcc1-63c9cdc57b1b" index="13" custom="heights_v2:[29.0,13.9]">
+        <Coords points="2403,1772 2404,1815 2573,1817 2742,1817 2911,1817 3080,1819 3248,1819 3417,1821 3586,1821 3756,1824 3926,1817 3927,1775 3927,1774 3754,1781 3587,1779 3417,1779 3249,1776 3080,1776 2911,1774 2742,1774 2573,1774 2403,1772"/>
+        <Baseline points="2404,1801 2573,1803 2742,1803 2911,1803 3080,1805 3249,1805 3417,1808 3586,1808 3755,1810 3926,1803"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ubytováni byli na sále hostince u Berků čp. 82. Jejich pomocí se stav-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8e14b486-60ad-4912-8ca9-f342c92c3370" index="14" custom="heights_v2:[28.2,13.7]">
+        <Coords points="2407,1835 2406,1877 2575,1879 2742,1879 2909,1879 3076,1879 3240,1879 3407,1881 3574,1879 3740,1879 3911,1881 3912,1839 3741,1837 3574,1837 3407,1839 3241,1837 3076,1837 2909,1837 2742,1837 2575,1837 2407,1835"/>
+        <Baseline points="2407,1863 2575,1865 2742,1865 2909,1865 3076,1865 3240,1865 3407,1867 3574,1865 3741,1865 3912,1867"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ba velmi uspíšila, takže mohl býti kravín již v listopadu zastřešen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="001a3783-b835-456f-9c50-786ee033b9c7" index="15" custom="heights_v2:[26.5,12.9]">
+        <Coords points="3698,1943 3913,1942 3922,1942 3921,1902 3751,1905 3585,1900 3419,1900 3252,1905 3086,1902 2922,1900 2755,1900 2588,1900 2419,1900 2419,1940 2588,1940 2755,1940 2921,1940 3086,1942 3253,1944 3419,1940 3584,1940 3698,1943"/>
+        <Baseline points="2419,1927 2588,1927 2755,1927 2921,1927 3086,1929 3253,1931 3419,1927 3584,1927 3751,1931 3922,1929"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Částka rozpočtu na stavbu kravína činila: 682.734 Kčs-, do konce roku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="10d6898d-8418-49f5-8952-18e86b136cc8" index="16" custom="heights_v2:[27.5,13.1]">
+        <Coords points="2422,2000 2661,2001 2721,2000 2798,2002 2876,2002 2914,2003 3093,2004 3111,2004 3111,1963 3028,1963 2952,1963 2877,1961 2798,1961 2722,1959 2645,1961 2567,1961 2491,1961 2411,1959 2410,2000 2422,2000"/>
+        <Baseline points="2411,1987 2491,1989 2567,1989 2645,1989 2722,1987 2798,1989 2876,1989 2952,1991 3028,1991 3111,1991"/>
+        <TextEquiv conf="1.000">
+          <Unicode>postavěna částka 494.987.- Kčs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="3c2e0ca4-3e82-4d37-ac16-ead79742f5ee">
+      <Coords points="2416,2149 2407,2255 3000,2255 3224,2192 3872,2194 3905,2136 3906,2088 2454,2082 2416,2149"/>
+      <TextLine id="5df13d69-4a2f-4ec2-9c14-6c4dc9dcdaf6" index="0" custom="heights_v2:[32.3,15.2]">
+        <Coords points="3905,2136 3905,2119 3906,2088 3888,2088 2945,2084 2938,2084 2777,2084 2617,2084 2458,2082 2454,2082 2454,2129 2617,2132 2777,2132 2938,2132 3099,2132 3259,2129 3419,2132 3580,2132 3740,2134 3905,2136"/>
+        <Baseline points="2454,2114 2617,2116 2777,2116 2938,2116 3098,2116 3259,2114 3419,2116 3580,2116 3741,2118 3905,2120"/>
+        <TextEquiv conf="1.000">
+          <Unicode>U hřbitova opraven plot. Staré dřevěné sloupky vyměněny za cemen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2aeb2e2d-587c-4948-95da-7be940131235" index="1" custom="heights_v2:[29.1,13.6]">
+        <Coords points="2416,2149 2416,2151 2417,2192 2581,2186 2742,2192 2903,2190 3063,2188 3224,2192 3385,2192 3545,2190 3705,2192 3872,2194 3872,2194 3873,2151 3706,2149 3545,2147 3384,2149 3224,2149 3064,2145 2902,2147 2742,2149 2583,2143 2416,2149"/>
+        <Baseline points="2417,2178 2582,2172 2742,2178 2903,2176 3063,2174 3224,2178 3384,2178 3545,2176 3706,2178 3872,2180"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tové. Práci prováděl zedník Frant. Havelka, st. za pomoci občanů, kteří</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5d2117da-9ad2-43f7-9415-30933f7963d6" index="2" custom="heights_v2:[29.4,13.4]">
+        <Coords points="2411,2212 2407,2255 2485,2255 2540,2253 2604,2253 2660,2255 3000,2255 3000,2212 2930,2212 2863,2215 2801,2212 2734,2212 2670,2212 2605,2210 2540,2210 2474,2212 2411,2212"/>
+        <Baseline points="2408,2242 2475,2242 2540,2240 2604,2240 2670,2242 2734,2242 2800,2242 2864,2244 2930,2242 3000,2242"/>
+        <TextEquiv conf="1.000">
+          <Unicode>část práce vykonali zdarma.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c9d44cf4-ae22-435d-bdbe-e6d21ffe2117">
+      <Coords points="737,2415 690,2415 690,2468 737,2468 737,2415"/>
+      <TextLine id="21176cf3-867f-44aa-ad66-aafba0181f0d" index="0" custom="heights_v2:[36.6,15.8]">
+        <Coords points="690,2415 690,2468 737,2468 737,2415 690,2415"/>
+        <Baseline points="690,2452 737,2452"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

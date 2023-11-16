@@ -1,0 +1,280 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:19:02.113118+00:00</Created>
+    <LastChange>2023-02-07T20:19:02.113118+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-888-3" imageWidth="3222" imageHeight="2606">
+    <TextRegion id="r000">
+      <Coords points="1663,1925 1674,2243 1684,2310 1671,2370 1669,2432 1743,2505 2959,2513 3155,2386 3163,2222 3188,2157 3181,2027 3190,1913 3184,1773 2711,1760 2634,1695 2512,1687 2104,1683 1937,1740 1777,1736 1679,1798 1677,1858 1663,1925"/>
+      <TextLine id="r000-l025" index="0" custom="heights_v2:[43.6,21.9]">
+        <Coords points="2104,1683 2165,1683 2225,1684 2280,1688 2337,1688 2397,1688 2448,1692 2512,1688 2569,1692 2634,1696 2630,1761 2565,1757 2507,1753 2453,1757 2393,1753 2337,1753 2280,1753 2221,1749 2165,1749 2104,1749"/>
+        <Baseline points="2104,1727 2165,1727 2222,1727 2280,1731 2337,1731 2394,1731 2451,1735 2509,1731 2566,1735 2631,1739"/>
+        <TextEquiv conf="0.479">
+          <Unicode>Z dějin fary a kostela v Zahájí.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l026" index="1" custom="heights_v2:[39.9,21.6]">
+        <Coords points="1777,1736 1937,1740 2092,1744 2249,1749 2403,1757 2554,1761 2711,1761 2866,1769 3020,1773 3184,1773 3184,1835 3020,1835 2864,1830 2708,1822 2554,1822 2402,1818 2246,1810 2091,1806 1935,1802 1776,1798"/>
+        <Baseline points="1776,1776 1936,1780 2091,1784 2247,1788 2402,1797 2554,1801 2709,1801 2865,1809 3020,1813 3184,1813"/>
+        <TextEquiv conf="0.498">
+          <Unicode>Jméno samo Zahájí pochází odtud, že osada (vesnice) naše ležela za hájení směru</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="2" custom="heights_v2:[38.2,20.5]">
+        <Coords points="1679,1799 1843,1803 2002,1808 2157,1812 2317,1812 2473,1816 2632,1820 2789,1824 2948,1832 3116,1840 3113,1899 2946,1891 2786,1883 2631,1878 2471,1874 2316,1870 2157,1870 2001,1866 1841,1862 1677,1858"/>
+        <Baseline points="1678,1838 1842,1842 2001,1846 2157,1850 2316,1850 2472,1854 2631,1858 2787,1862 2947,1870 3114,1878"/>
+        <TextEquiv conf="0.564">
+          <Unicode>od středu panství totiž od hradu Hluboké. Jméno háje se dosud zachovalo v „Hájku“, zád. lesa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l028" index="3" custom="heights_v2:[38.5,20.6]">
+        <Coords points="1684,1861 1855,1869 2019,1873 2186,1877 2350,1881 2518,1885 2682,1889 2851,1893 3014,1906 3189,1914 3186,1973 3011,1964 2847,1952 2680,1948 2516,1944 2349,1940 2185,1936 2017,1932 1853,1928 1681,1919"/>
+        <Baseline points="1682,1899 1854,1907 2018,1911 2185,1915 2349,1919 2517,1923 2681,1928 2848,1932 3012,1944 3187,1952"/>
+        <TextEquiv conf="0.470">
+          <Unicode>Ale ve starých listinách nejmenuje se tak původně. Starší její jména jsou: Valtinčice, což nejspíše</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="4" custom="heights_v2:[38.3,20.7]">
+        <Coords points="1667,1926 1834,1934 1997,1938 2162,1938 2325,1942 2493,1947 2657,1951 2822,1955 2985,1963 3161,1971 3158,2030 2982,2022 2819,2014 2656,2010 2492,2005 2324,2001 2160,1997 1997,1997 1833,1993 1664,1985"/>
+        <Baseline points="1665,1965 1833,1973 1997,1977 2161,1977 2325,1981 2492,1985 2656,1989 2820,1993 2983,2001 3159,2009"/>
+        <TextEquiv conf="0.639">
+          <Unicode>může ukazovati na to, že založena byla až v době křesťanské, nějakým Vavřincem, neb všechna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l030" index="5" custom="heights_v2:[38.3,20.9]">
+        <Coords points="1670,1996 1843,1996 2009,2000 2174,2000 2342,2004 2506,2008 2673,2016 2837,2020 3005,2024 3181,2028 3179,2088 3003,2083 2836,2079 2672,2075 2504,2067 2340,2063 2173,2059 2009,2059 1841,2055 1670,2055"/>
+        <Baseline points="1670,2034 1842,2034 2009,2038 2173,2038 2341,2042 2505,2046 2672,2054 2836,2059 3004,2063 3180,2067"/>
+        <TextEquiv conf="0.462">
+          <Unicode>jména na sice bývají podle zakladatele: Bavor - Bavorovice, Anna - Munice, Pasek - Pašice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="6" custom="heights_v2:[37.9,20.8]">
+        <Coords points="1671,2053 1843,2057 2010,2062 2178,2066 2346,2070 2510,2074 2678,2078 2846,2086 3013,2094 3187,2098 3186,2157 3012,2153 2843,2145 2675,2137 2508,2132 2344,2128 2177,2124 2009,2120 1841,2116 1669,2112"/>
+        <Baseline points="1670,2091 1842,2095 2009,2099 2177,2104 2345,2108 2509,2112 2676,2116 2844,2124 3012,2132 3186,2136"/>
+        <TextEquiv conf="0.341">
+          <Unicode>Mohlo by jméno baršinčice se odvozovati i od kostela zasvěceném sv. bavinci, jako byl starobylý sousední</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l032" index="7" custom="heights_v2:[37.3,21.0]">
+        <Coords points="1675,2115 1847,2119 2010,2124 2175,2128 2338,2136 2501,2140 2665,2144 2830,2148 2993,2156 3165,2164 3162,2223 2991,2215 2827,2206 2664,2202 2500,2198 2336,2194 2172,2186 2009,2182 1845,2178 1673,2174"/>
+        <Baseline points="1674,2153 1846,2157 2009,2161 2173,2165 2337,2173 2501,2177 2664,2181 2828,2185 2992,2194 3163,2202"/>
+        <TextEquiv conf="0.591">
+          <Unicode>Kostelec a Pištín, ale to není tak pravděpodobné a to proto, že kostel i v staré době praví se býti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="8" custom="heights_v2:[38.8,21.3]">
+        <Coords points="1674,2183 1810,2183 1936,2187 2064,2188 2189,2192 2318,2192 2444,2196 2570,2200 2698,2200 2833,2204 2831,2264 2696,2260 2570,2260 2443,2256 2316,2252 2189,2252 2062,2248 1936,2248 1808,2244 1674,2244"/>
+        <Baseline points="1674,2222 1809,2222 1936,2226 2063,2226 2189,2230 2316,2230 2443,2234 2570,2239 2697,2239 2832,2243"/>
+        <TextEquiv conf="0.503">
+          <Unicode>zasvěcen P. Marii a patron chrámu Páně se zřídka v staré době měnil.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l034" index="9" custom="heights_v2:[38.6,21.5]">
+        <Coords points="1749,2249 1907,2257 2059,2257 2211,2257 2361,2261 2517,2261 2668,2261 2820,2261 2971,2261 3135,2261 3135,2321 2971,2321 2820,2321 2668,2321 2517,2321 2361,2321 2209,2317 2059,2317 1907,2317 1746,2309"/>
+        <Baseline points="1747,2288 1907,2296 2059,2296 2210,2296 2361,2300 2517,2300 2668,2300 2820,2300 2971,2300 3135,2300"/>
+        <TextEquiv conf="0.690">
+          <Unicode>Jiné jméno častěji přicházející jest jméno: kostel P. Marie v zahradi t. j. kostel Pany</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="10" custom="heights_v2:[38.2,21.4]">
+        <Coords points="1684,2311 1851,2319 2013,2323 2173,2323 2337,2323 2497,2323 2660,2327 2820,2327 2983,2327 3155,2327 3155,2387 2983,2387 2820,2387 2660,2387 2496,2383 2337,2383 2173,2383 2013,2383 1849,2379 1681,2370"/>
+        <Baseline points="1682,2349 1850,2357 2013,2361 2173,2361 2337,2361 2496,2361 2660,2365 2820,2365 2983,2365 3155,2365"/>
+        <TextEquiv conf="0.434">
+          <Unicode>Marie za hradem t. j. Hlubokou. Toto pojmenování nám stvrzuje, že první jméno uvedení Zahájí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l036" index="11" custom="heights_v2:[40.3,21.5]">
+        <Coords points="1671,2370 1774,2374 1868,2378 1960,2382 2054,2382 2149,2382 2243,2382 2337,2382 2431,2382 2533,2382 2533,2444 2431,2444 2337,2444 2243,2444 2149,2444 2054,2444 1960,2444 1865,2440 1771,2436 1669,2432"/>
+        <Baseline points="1670,2410 1772,2415 1866,2419 1960,2423 2054,2423 2149,2423 2243,2423 2337,2423 2431,2423 2533,2423"/>
+        <TextEquiv conf="0.574">
+          <Unicode>musíme bráti se stanoviska obyvatelů hradu Hluboké</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="12" custom="heights_v2:[41.1,20.7]">
+        <Coords points="1745,2443 1883,2447 2018,2447 2149,2447 2285,2447 2413,2451 2550,2447 2682,2447 2816,2451 2959,2451 2959,2513 2816,2513 2680,2509 2550,2509 2415,2513 2283,2509 2149,2509 2018,2509 1883,2509 1743,2505"/>
+        <Baseline points="1743,2484 1883,2488 2018,2488 2149,2488 2284,2488 2415,2492 2550,2488 2681,2488 2816,2492 2959,2492"/>
+        <TextEquiv conf="0.556">
+          <Unicode>Někdy sluje náš kostel i podle blízské vsi Mydlovary: kostel v Mydlovarech</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1677,696 1687,770 1694,1150 1674,1294 1679,1537 1674,1666 2071,1674 2168,1613 3143,1650 3183,1583 3185,1523 3168,1448 3192,1257 3196,1054 3173,870 3192,799 3200,672 3206,494 3193,436 3201,314 2110,269 1793,265 1678,326 1670,391 1675,518 1669,639 1677,696"/>
+      <TextLine id="r001-l003" index="0" custom="heights_v2:[37.4,21.3]">
+        <Coords points="1793,265 1953,265 2110,270 2264,278 2421,282 2572,290 2727,298 2883,302 3038,310 3200,315 3198,373 3036,369 2880,361 2725,357 2569,349 2418,340 2263,336 2107,328 1952,324 1793,324"/>
+        <Baseline points="1793,303 1952,303 2108,307 2263,315 2419,319 2570,327 2726,336 2881,340 3037,348 3199,352"/>
+        <TextEquiv conf="0.476">
+          <Unicode>Prameny, odkud čerpají dějepisci naší vlasti dějiny její a jednotlivých měst a osad jsou různé, dle toho,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l004" index="1" custom="heights_v2:[37.2,21.2]">
+        <Coords points="1678,327 1851,327 2019,331 2183,335 2351,343 2514,352 2682,356 2846,364 3013,372 3189,376 3188,435 3012,430 2843,422 2680,414 2512,410 2348,402 2180,394 2017,390 1849,385 1678,385"/>
+        <Baseline points="1678,364 1850,364 2018,368 2181,372 2349,381 2513,389 2681,393 2844,401 3012,409 3188,413"/>
+        <TextEquiv conf="0.454">
+          <Unicode>jak naše osady bývaly zakládány, koho měly za své původní pány neb majitele. U míst, jež kdysi patřívaly ku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="2" custom="heights_v2:[38.0,21.4]">
+        <Coords points="1671,392 1843,392 2011,396 2178,404 2346,408 2514,412 2682,416 2850,425 3017,433 3193,437 3192,496 3016,492 2847,484 2680,476 2512,472 2344,468 2177,463 2008,455 1841,451 1671,451"/>
+        <Baseline points="1671,430 1842,430 2009,434 2177,442 2345,446 2513,450 2681,454 2848,462 3016,471 3192,475"/>
+        <TextEquiv conf="0.436">
+          <Unicode>zboží královskému jsou to královské desky dvorské, u míst světských pánů desky zemské, u kostelů farních a far</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="3" custom="heights_v2:[37.2,21.4]">
+        <Coords points="1678,458 1854,458 2023,458 2190,466 2358,470 2526,474 2694,478 2862,483 3030,487 3206,495 3203,553 3027,545 2860,541 2692,537 2525,533 2357,529 2189,525 2021,517 1854,517 1678,517"/>
+        <Baseline points="1678,495 1854,495 2022,495 2189,503 2357,507 2525,512 2693,516 2861,520 3028,524 3204,532"/>
+        <TextEquiv conf="0.517">
+          <Unicode>jsou to knihy arcibiskupského úřadu v Praze, jednak ty, v nichž se znamenalo, kdy který farář na faru</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="4" custom="heights_v2:[37.8,21.8]">
+        <Coords points="1675,519 1850,523 2018,523 2186,523 2354,527 2522,531 2691,535 2858,543 3026,552 3202,560 3199,619 3023,611 2855,603 2688,595 2520,591 2353,587 2185,582 2018,582 1850,582 1673,578"/>
+        <Baseline points="1674,557 1850,561 2018,561 2185,561 2353,565 2521,569 2689,573 2857,581 3024,589 3200,598"/>
+        <TextEquiv conf="0.303">
+          <Unicode>byl dosazen, jež se knihy potvrzení farářů neb latinsky: Libri konfirmationum jsou vydány od Tingela</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="5" custom="heights_v2:[37.9,21.5]">
+        <Coords points="1672,580 1846,588 2013,588 2182,588 2351,592 2518,601 2686,605 2853,609 3020,613 3200,613 3200,672 3020,672 2852,668 2684,664 2516,660 2348,652 2181,648 2013,648 1846,648 1669,639"/>
+        <Baseline points="1670,618 1846,626 2013,626 2181,626 2349,630 2517,638 2685,643 2852,647 3020,651 3200,651"/>
+        <TextEquiv conf="0.211">
+          <Unicode>a Emlera v sedmi dílech (budu citovati L. C. j. jednak ty, v nichž se znamenalo, kde a kdy se ke kterému koste</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="6" custom="heights_v2:[37.1,21.0]">
+        <Coords points="1680,638 1850,646 2014,646 2179,650 2342,659 2506,663 2668,671 2834,671 2996,679 3172,679 3172,737 2996,737 2831,729 2668,729 2504,721 2340,717 2176,708 2013,704 1850,704 1677,696"/>
+        <Baseline points="1678,675 1850,683 2013,683 2177,688 2341,696 2505,700 2668,708 2832,708 2996,716 3172,716"/>
+        <TextEquiv conf="0.491">
+          <Unicode>lu nějaká fundace (nadání duchovní, stala a slovou knihy nadání neb latinsky. Libri Erectionem, z nichž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="7" custom="heights_v2:[37.5,21.7]">
+        <Coords points="1685,703 1859,699 2024,703 2190,711 2354,716 2522,720 2686,724 2854,728 3017,736 3193,740 3192,799 3016,795 2851,787 2684,783 2520,779 2353,775 2189,771 2021,762 1857,758 1687,762"/>
+        <Baseline points="1686,741 1858,737 2022,741 2189,749 2353,753 2521,757 2685,761 2852,765 3016,773 3192,778"/>
+        <TextEquiv conf="0.247">
+          <Unicode>pět dílů vydal Borový, v nich pak nyní pokračuje D. Podlaha (budu citovati 28. kr. 1. jednak v knihách, kde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="8" custom="heights_v2:[38.9,21.2]">
+        <Coords points="1689,771 1854,775 2020,776 2182,784 2342,788 2505,792 2669,792 2829,796 2993,800 3164,804 3163,864 2991,860 2827,856 2668,852 2505,852 2340,848 2181,844 2017,836 1854,836 1687,832"/>
+        <Baseline points="1688,810 1854,814 2018,814 2181,823 2341,827 2505,831 2668,831 2828,835 2992,839 3163,843"/>
+        <TextEquiv conf="0.505">
+          <Unicode>se zapisovaly různé spory a rozsouzení úřední, kterých sedm dílů vydal Tatra pod názvem „Soudní akta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="9" custom="heights_v2:[38.5,20.7]">
+        <Coords points="1690,837 1854,841 2019,841 2182,846 2346,850 2510,854 2673,858 2837,862 3001,866 3173,870 3171,929 2999,925 2836,921 2672,917 2508,913 2344,909 2181,905 2017,901 1854,901 1688,897"/>
+        <Baseline points="1689,876 1854,880 2018,880 2181,884 2345,888 2509,892 2672,896 2836,900 3000,904 3172,909"/>
+        <TextEquiv conf="0.389">
+          <Unicode>konsistov pražské neb latinsky: Acta indiciaria (budu citovati Padra: 5. akta). Tyto knihy pokud je máme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="10" custom="heights_v2:[38.2,19.9]">
+        <Coords points="1691,903 1859,907 2023,911 2186,915 2350,919 2513,924 2677,924 2841,928 3005,932 3181,936 3179,994 3003,990 2840,986 2676,982 2513,982 2349,977 2185,973 2021,969 1857,965 1690,961"/>
+        <Baseline points="1690,941 1858,945 2022,949 2185,954 2349,958 2513,962 2676,962 2840,966 3004,970 3180,974"/>
+        <TextEquiv conf="0.480">
+          <Unicode>zachované dal založiti první arcibiskup pražský svaté paměti Arnošt z Pardubic a jsou nám důleži</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="11" custom="heights_v2:[37.7,19.0]">
+        <Coords points="1693,965 1863,973 2027,977 2195,981 2358,985 2522,989 2689,994 2852,994 3017,994 3193,998 3192,1054 3016,1050 2852,1050 2689,1050 2521,1046 2357,1042 2193,1038 2025,1034 1862,1030 1690,1022"/>
+        <Baseline points="1691,1003 1862,1011 2026,1015 2194,1019 2357,1023 2521,1027 2689,1031 2852,1031 3016,1031 3192,1035"/>
+        <TextEquiv conf="0.724">
+          <Unicode>tým pramenem nejen pro dějiny kostelů a far, ale i pro dějiny vše míst v Čechách a radu šlechty, jakož</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="12" custom="heights_v2:[38.2,19.6]">
+        <Coords points="1693,1030 1863,1034 2028,1038 2194,1046 2358,1046 2525,1050 2690,1050 2857,1054 3020,1054 3195,1054 3195,1112 3020,1112 2857,1112 2688,1108 2525,1108 2357,1104 2194,1104 2025,1096 1862,1092 1692,1088"/>
+        <Baseline points="1692,1068 1862,1072 2026,1076 2194,1085 2357,1085 2525,1089 2689,1089 2857,1093 3020,1093 3195,1093"/>
+        <TextEquiv conf="0.536">
+          <Unicode>i zvláště soudní akta“, ale i knihy nadací pro život náboženský a kulturní (osvětový, tak že žádný</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="13" custom="heights_v2:[39.1,20.7]">
+        <Coords points="1695,1090 1839,1095 1974,1099 2109,1103 2244,1107 2382,1111 2518,1111 2652,1115 2788,1115 2935,1119 2934,1179 2786,1175 2652,1175 2516,1171 2382,1171 2242,1167 2107,1162 1972,1158 1837,1154 1694,1150"/>
+        <Baseline points="1694,1130 1838,1134 1973,1138 2108,1142 2243,1146 2382,1150 2517,1150 2652,1154 2787,1154 2934,1158"/>
+        <TextEquiv conf="0.409">
+          <Unicode>dějepisec ať světský ať náboženský, ale ani kulturní historik se bez nich neobejde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="14" custom="heights_v2:[39.7,20.8]">
+        <Coords points="1749,1155 1912,1164 2072,1168 2231,1172 2391,1176 2547,1180 2706,1184 2866,1188 3025,1192 3193,1196 3192,1257 3024,1253 2864,1248 2705,1244 2545,1240 2389,1236 2230,1232 2070,1228 1911,1224 1746,1216"/>
+        <Baseline points="1747,1195 1911,1203 2071,1207 2230,1211 2390,1215 2546,1220 2705,1224 2865,1228 3024,1232 3192,1236"/>
+        <TextEquiv conf="0.546">
+          <Unicode>Důležitým pramenem dějin osad jsou i archivy světské a jednotlivých rodů šlechtických,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="15" custom="heights_v2:[39.1,20.5]">
+        <Coords points="1688,1221 1859,1230 2023,1234 2185,1238 2350,1238 2519,1242 2682,1250 2845,1254 3008,1258 3184,1258 3184,1318 3008,1318 2844,1314 2680,1310 2516,1301 2349,1297 2185,1297 2021,1293 1857,1289 1685,1281"/>
+        <Baseline points="1686,1260 1858,1269 2022,1273 2185,1277 2349,1277 2517,1281 2681,1289 2844,1293 3008,1297 3184,1297"/>
+        <TextEquiv conf="0.433">
+          <Unicode>ať našich měst, pokud se nám zachovaly. Pro farní osadu Zahájí jest to zvláště archu panství</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="16" custom="heights_v2:[39.2,20.6]">
+        <Coords points="1675,1295 1847,1295 2009,1299 2174,1299 2338,1303 2507,1307 2670,1315 2834,1324 2997,1332 3173,1336 3171,1396 2995,1392 2831,1383 2667,1375 2504,1367 2336,1363 2173,1359 2009,1359 1845,1355 1675,1355"/>
+        <Baseline points="1675,1334 1846,1334 2009,1338 2173,1338 2337,1342 2505,1346 2668,1355 2832,1363 2996,1371 3172,1375"/>
+        <TextEquiv conf="0.509">
+          <Unicode>hlubockého, k němuž Zaháji patřilo, archiv Třeboňský, zvlášť nevyčerpatelný pramen dějin celého</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l020" index="17" custom="heights_v2:[37.9,20.2]">
+        <Coords points="1677,1366 1845,1370 2009,1366 2174,1366 2338,1370 2502,1374 2665,1382 2829,1386 2992,1390 3168,1390 3168,1449 2992,1449 2827,1444 2664,1440 2499,1432 2336,1428 2173,1424 2009,1424 1846,1428 1676,1424"/>
+        <Baseline points="1676,1404 1846,1408 2009,1404 2173,1404 2337,1408 2501,1412 2664,1420 2828,1424 2992,1428 3168,1428"/>
+        <TextEquiv conf="0.653">
+          <Unicode>okolí už od starých dob, archiv prelatury krumlovské, archiv města Budějovic a jiné. Budu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="18" custom="heights_v2:[37.1,20.1]">
+        <Coords points="1684,1432 1764,1428 1835,1428 1911,1424 1985,1424 2056,1424 2132,1420 2208,1420 2280,1424 2361,1424 2361,1481 2280,1481 2205,1477 2132,1477 2060,1481 1985,1481 1911,1481 1839,1485 1764,1485 1687,1489"/>
+        <Baseline points="1686,1469 1764,1465 1838,1465 1911,1461 1985,1461 2059,1461 2132,1457 2206,1457 2280,1461 2361,1461"/>
+        <TextEquiv conf="0.499">
+          <Unicode>je citovati (Archiv Hl., Arch. Třeb. atd.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l022" index="19" custom="heights_v2:[39.2,20.4]">
+        <Coords points="1769,1475 1933,1479 2087,1483 2245,1483 2399,1491 2557,1496 2711,1508 2866,1516 3021,1520 3185,1524 3183,1584 3020,1580 2864,1576 2708,1567 2552,1555 2398,1551 2242,1543 2087,1543 1931,1539 1767,1535"/>
+        <Baseline points="1768,1514 1932,1518 2087,1522 2243,1522 2398,1531 2554,1535 2709,1547 2865,1555 3020,1559 3184,1563"/>
+        <TextEquiv conf="0.776">
+          <Unicode>Poněvač Zahájí od starodávna byla osada farní, což divu, že prvé zprávy o ní nacházíme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="20" custom="heights_v2:[41.7,21.7]">
+        <Coords points="1679,1538 1848,1542 2005,1550 2171,1550 2330,1558 2489,1563 2654,1567 2814,1575 2972,1583 3144,1587 3143,1650 2971,1646 2810,1638 2651,1630 2488,1626 2328,1622 2168,1614 2005,1614 1845,1605 1677,1601"/>
+        <Baseline points="1678,1580 1846,1584 2005,1592 2169,1592 2329,1600 2488,1604 2652,1608 2812,1617 2971,1625 3143,1629"/>
+        <TextEquiv conf="0.646">
+          <Unicode>v listinách církevních a proto není divu, že vzpomínaje na dějiny Zahájí začnu přirozeně od</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l024" index="21" custom="heights_v2:[41.7,20.4]">
+        <Coords points="1675,1604 1730,1604 1776,1608 1821,1608 1870,1608 1923,1608 1964,1612 2013,1612 2071,1612 2071,1674 2013,1674 1964,1674 1918,1670 1870,1670 1821,1670 1776,1670 1725,1666 1675,1666"/>
+        <Baseline points="1675,1645 1727,1645 1776,1649 1821,1649 1870,1649 1919,1649 1964,1653 2013,1653 2071,1653"/>
+        <TextEquiv conf="0.691">
+          <Unicode>dějin kostela a fary</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="2180,262 2408,282 2416,220 2123,195 2119,258 2180,262"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[40.9,20.1]">
+        <Coords points="2123,197 2184,201 2237,205 2295,209 2350,213 2416,221 2408,282 2342,274 2290,270 2233,266 2180,261 2119,257"/>
+        <Baseline points="2120,237 2181,241 2234,246 2292,250 2345,254 2410,262"/>
+        <TextEquiv conf="0.567">
+          <Unicode>Z dějin Zahájí</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="2959,90 2918,90 2918,132 2959,132 2959,90"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[28.0,12.1]">
+        <Coords points="2918,91 2959,91 2959,131 2918,131"/>
+        <Baseline points="2918,119 2959,119"/>
+        <TextEquiv conf="0.957">
+          <Unicode>3.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

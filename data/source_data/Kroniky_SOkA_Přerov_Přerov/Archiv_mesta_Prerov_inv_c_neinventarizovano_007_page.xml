@@ -1,0 +1,235 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:10.029444</Created>
+    <LastChange>2023-03-26T21:22:10.029444</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_007.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="9047857e-4ae7-4e91-a474-410bec3c95f5">
+      <Coords points="1873,63 1818,63 1818,114 1873,114 1873,63"/>
+      <TextLine id="a882ead8-3095-47d1-92e5-4a6adda929b9" index="0" custom="heights_v2:[39.7,10.6]">
+        <Coords points="1873,114 1873,63 1818,63 1818,114 1873,114"/>
+        <Baseline points="1818,103 1873,103"/>
+        <TextEquiv>
+          <Unicode>5</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="b1d0e822-1163-4e2f-bccd-33175d7eb301">
+      <Coords points="585,260 346,260 250,334 242,783 254,1221 247,1425 263,1518 261,1866 272,2092 1192,2085 1373,1944 1498,1944 1498,1886 1476,1805 1535,1637 1534,1582 1435,1418 1446,1214 1424,1053 1424,993 1461,901 1450,751 1469,530 1449,323 1045,327 885,257 585,260"/>
+      <TextLine id="806ae556-bcbb-444d-8ba3-964ae736c873" index="0" custom="heights_v2:[41.6,14.5]">
+        <Coords points="523,260 411,260 406,260 346,260 346,316 409,316 466,313 526,316 585,316 644,316 703,316 762,316 821,316 888,313 885,257 875,257 818,260 762,260 703,260 644,260 585,260 526,260 523,260"/>
+        <Baseline points="346,302 408,302 467,298 526,302 585,302 644,302 703,302 762,302 821,302 887,298"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Veřejné úřady v Přerově.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6dcfcd58-5145-4856-92c5-f8ed81963516" index="1" custom="heights_v2:[41.0,14.4]">
+        <Coords points="250,334 250,390 386,390 519,390 651,390 784,390 913,386 1045,382 1178,382 1311,382 1450,379 1449,323 1309,327 1178,327 1045,327 912,331 783,334 651,334 519,334 386,334 250,334"/>
+        <Baseline points="250,375 386,375 519,375 651,375 784,375 913,372 1045,368 1178,368 1310,368 1450,364"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Okresní správa politická v Kratochvílově ulici, berní správa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aa2110b3-63bc-4378-b405-34a46b6702e5" index="2" custom="heights_v2:[41.0,14.0]">
+        <Coords points="249,412 248,467 379,467 505,467 633,463 759,463 883,459 1012,459 1138,459 1262,456 1398,456 1398,401 1262,401 1136,404 1012,404 883,404 757,408 633,408 503,412 379,412 249,412"/>
+        <Baseline points="248,453 379,453 504,453 633,449 758,449 883,445 1012,445 1137,445 1262,442 1398,442"/>
+        <TextEquiv conf="0.999">
+          <Unicode>v Palackého ulici, berní referát v Kratochvílově ul.,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e983a7c7-4eeb-4ae4-b2be-635dd333019b" index="3" custom="heights_v2:[41.4,14.4]">
+        <Coords points="247,481 247,526 247,537 386,537 519,537 655,537 788,533 924,533 1056,530 1192,530 1325,533 1469,530 1469,527 1464,474 1324,478 1194,474 1056,474 923,478 788,477 654,481 519,481 386,481 247,481"/>
+        <Baseline points="247,523 386,523 519,523 655,523 788,519 924,519 1056,515 1192,515 1325,519 1468,515"/>
+        <TextEquiv conf="0.999">
+          <Unicode>okresní soud na Horním náměstí, obecní úřad v Bla-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6a010ac3-3cc8-49b7-8e2a-270e5863752c" index="4" custom="heights_v2:[41.7,14.6]">
+        <Coords points="253,558 254,614 386,611 515,611 644,611 769,607 898,607 1027,607 1152,603 1281,603 1417,600 1416,543 1280,547 1152,547 1026,551 898,551 769,551 643,555 515,554 386,554 253,558"/>
+        <Baseline points="254,600 386,596 515,596 644,596 769,593 898,593 1027,593 1152,589 1281,589 1417,585"/>
+        <TextEquiv conf="0.997">
+          <Unicode>hoslavově ul., notářství v Riegrově ul., finanční</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="33fa5927-c740-4121-9e26-bc4ce9d48dd1" index="5" custom="heights_v2:[42.0,14.9]">
+        <Coords points="1457,674 1461,623 1461,617 1318,617 1184,620 1051,624 920,624 784,624 651,624 518,628 386,628 247,628 247,685 386,685 519,685 651,681 784,681 920,681 1053,681 1185,677 1318,674 1457,674"/>
+        <Baseline points="247,670 386,670 519,670 651,666 784,666 920,666 1053,666 1185,662 1318,659 1458,659"/>
+        <TextEquiv conf="0.997">
+          <Unicode>kancelář, živnostenský inspektorát, cechovní úřad,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f0e21c07-3a7c-416f-9c59-3e27ff624c71" index="6" custom="heights_v2:[42.4,15.0]">
+        <Coords points="245,712 247,769 383,766 515,762 648,762 781,758 913,755 1046,755 1178,751 1310,751 1450,751 1450,694 1310,694 1178,694 1044,697 913,697 779,701 647,705 515,705 382,708 245,712"/>
+        <Baseline points="247,754 383,751 515,747 648,747 780,743 913,740 1045,740 1178,736 1310,736 1450,736"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ředitelství pro stavbu vodních cest, místní vojenské</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b636a316-48dc-43e8-a2cc-423688a92052" index="7" custom="heights_v2:[41.6,15.0]">
+        <Coords points="242,783 242,783 244,839 379,836 508,832 637,832 765,832 894,832 1023,832 1152,832 1281,828 1417,825 1416,768 1280,772 1151,775 1023,775 894,775 765,775 637,775 508,775 378,779 242,783"/>
+        <Baseline points="243,824 379,821 508,817 637,817 765,817 894,817 1023,817 1152,817 1281,813 1417,810"/>
+        <TextEquiv conf="1.000">
+          <Unicode>velitelství, četnická stanice, technická finanční</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="387f3dc7-75f1-4f21-884c-ab3b9031d096" index="8" custom="heights_v2:[42.9,14.5]">
+        <Coords points="1461,901 1461,901 1457,844 1321,844 1189,844 1055,848 923,851 791,851 659,851 526,851 394,851 253,855 254,912 394,909 526,909 659,909 791,909 924,909 1057,905 1189,901 1321,901 1461,901"/>
+        <Baseline points="254,898 394,894 526,894 659,894 791,894 924,894 1056,891 1189,887 1321,887 1460,887"/>
+        <TextEquiv conf="0.999">
+          <Unicode>kontrola, evidenční kancelář pozemková, okres-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4f2b4943-ab53-40a1-bec1-7005f5374f87" index="9" custom="heights_v2:[41.2,14.6]">
+        <Coords points="246,930 248,986 379,982 508,982 637,982 765,979 894,979 1023,979 1152,979 1281,979 1417,979 1417,923 1281,923 1152,923 1023,923 894,923 765,923 635,927 508,927 379,927 246,930"/>
+        <Baseline points="247,972 379,968 508,968 637,968 765,964 894,964 1023,964 1152,964 1281,964 1417,964"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ní nemocenská pokladna, nádražní úřad a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fb1124e8-14df-4d6d-8f67-6d23d824bf6b" index="10" custom="heights_v2:[44.9,15.6]">
+        <Coords points="1424,1053 1424,1053 1424,993 1424,993 1288,993 1161,989 1029,993 902,993 772,997 643,1000 515,1000 386,1000 249,1004 251,1064 386,1061 515,1061 644,1061 773,1057 902,1053 1031,1053 1159,1050 1288,1053 1424,1053"/>
+        <Baseline points="250,1049 386,1045 515,1045 644,1045 773,1041 902,1038 1030,1038 1159,1034 1288,1038 1424,1038"/>
+        <TextEquiv conf="0.999">
+          <Unicode>poštovní úřady: nádražní I. a filiálka v městě,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="12d2d9d3-94f5-4de0-8bb1-8189014c6997" index="11" custom="heights_v2:[45.3,16.8]">
+        <Coords points="250,1084 252,1143 302,1143 346,1143 390,1143 438,1143 482,1143 526,1143 570,1143 626,1143 626,1081 570,1081 526,1081 482,1081 438,1081 390,1081 346,1081 302,1081 250,1081 250,1084"/>
+        <Baseline points="251,1126 302,1126 346,1126 390,1126 438,1126 482,1126 526,1126 570,1126 626,1126"/>
+        <TextEquiv conf="0.996">
+          <Unicode>poštovní úřad II.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8f27d335-7484-4f45-b866-c03d33313a68" index="12" custom="heights_v2:[45.5,17.2]">
+        <Coords points="357,1147 357,1210 431,1210 508,1210 508,1147 431,1147 357,1147"/>
+        <Baseline points="357,1192 431,1192 508,1192"/>
+        <TextEquiv conf="0.948">
+          <Unicode>Školy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7d0aa319-8d2b-4fa7-b158-b3e34c5b1dba" index="13" custom="heights_v2:[44.7,16.0]">
+        <Coords points="254,1221 254,1223 254,1282 391,1282 523,1278 651,1278 784,1278 913,1278 1045,1278 1174,1278 1306,1275 1443,1275 1446,1214 1446,1214 1306,1214 1173,1218 1045,1218 913,1218 784,1218 651,1218 523,1218 389,1221 254,1221"/>
+        <Baseline points="254,1266 390,1266 523,1262 651,1262 784,1262 913,1262 1045,1262 1174,1262 1306,1259 1444,1259"/>
+        <TextEquiv conf="0.998">
+          <Unicode>obecné: Palackého, Komenského, Blahoslavova a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0487ae21-cd01-437d-ab41-68df37ae87af" index="14" custom="heights_v2:[43.3,15.9]">
+        <Coords points="453,1289 453,1348 508,1348 554,1348 604,1352 651,1352 702,1352 751,1355 799,1355 845,1355 904,1359 908,1300 849,1296 799,1296 751,1296 706,1293 651,1293 604,1293 559,1289 508,1289 453,1289"/>
+        <Baseline points="453,1332 508,1332 556,1332 604,1336 651,1336 703,1336 751,1340 799,1340 846,1340 905,1343"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Boženy Němcové</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="476414e5-9cea-4346-9705-41d480c8cd8b" index="15" custom="heights_v2:[43.0,15.6]">
+        <Coords points="249,1367 247,1425 247,1425 383,1425 512,1425 644,1425 773,1425 905,1421 1034,1421 1167,1421 1295,1418 1435,1418 1435,1413 1435,1359 1295,1359 1165,1363 1034,1363 905,1363 772,1367 644,1367 512,1367 383,1367 249,1367"/>
+        <Baseline points="248,1410 383,1410 512,1410 644,1410 773,1410 905,1406 1034,1406 1167,1406 1295,1402 1435,1402"/>
+        <TextEquiv conf="0.979">
+          <Unicode>měšťanské: Havlíčkova (Žerotínova) Slaměníkova a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="92a2b2cd-bc1e-429c-bab5-4a759280dd43" index="16" custom="heights_v2:[44.4,16.5]">
+        <Coords points="464,1442 464,1503 515,1503 561,1503 604,1500 648,1500 692,1500 736,1500 781,1500 836,1496 832,1435 777,1439 736,1439 692,1439 648,1439 604,1439 556,1443 515,1442 464,1442"/>
+        <Baseline points="464,1487 515,1487 559,1487 604,1483 648,1483 692,1483 736,1483 780,1483 835,1479"/>
+        <TextEquiv conf="0.994">
+          <Unicode>Karoliny Světlé.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0f2203c5-fd57-4081-82e7-8fee40940f64" index="17" custom="heights_v2:[42.0,15.5]">
+        <Coords points="263,1518 263,1576 361,1580 456,1580 552,1580 648,1580 743,1576 839,1576 935,1576 1031,1576 1134,1572 1132,1515 1029,1518 935,1518 839,1518 743,1518 646,1522 552,1522 456,1522 361,1522 263,1518"/>
+        <Baseline points="263,1560 361,1564 456,1564 552,1564 648,1564 743,1560 839,1560 935,1560 1030,1560 1133,1557"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obecná a měšťanská škola klášterní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5e6869ca-c6ea-4860-b1f3-b3dd66ec3c60" index="18" custom="heights_v2:[41.5,14.3]">
+        <Coords points="263,1593 262,1648 408,1648 548,1648 689,1648 828,1645 968,1645 1108,1641 1248,1641 1388,1641 1535,1637 1535,1637 1534,1582 1386,1585 1248,1585 1108,1585 967,1589 828,1589 687,1593 548,1593 408,1593 263,1593"/>
+        <Baseline points="262,1634 408,1634 548,1634 688,1634 828,1630 968,1630 1108,1627 1248,1627 1387,1627 1535,1623"/>
+        <TextEquiv conf="1.000">
+          <Unicode>střední: státní vyšší reálné gymnasium, státní ústav</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b91e158f-b33e-4155-b4d9-6c83b35208ca" index="19" custom="heights_v2:[40.5,14.6]">
+        <Coords points="415,1663 416,1719 534,1715 648,1715 762,1715 876,1715 986,1715 1100,1715 1214,1715 1329,1715 1450,1711 1449,1656 1327,1660 1214,1660 1100,1660 986,1660 876,1660 762,1660 648,1660 534,1660 415,1663"/>
+        <Baseline points="416,1704 534,1700 648,1700 762,1700 876,1700 986,1700 1100,1700 1214,1700 1329,1700 1450,1697"/>
+        <TextEquiv conf="0.999">
+          <Unicode>učitelský, zemská vyšší hospodářská škola</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7ea250f7-35b2-4f04-be15-a1c0bcddeb44" index="20" custom="heights_v2:[41.4,14.9]">
+        <Coords points="420,1732 420,1789 497,1789 570,1789 644,1789 718,1789 791,1789 865,1789 938,1789 1013,1789 1094,1785 1091,1729 1010,1733 938,1732 865,1732 791,1732 718,1732 644,1732 570,1732 497,1732 420,1732"/>
+        <Baseline points="420,1774 497,1774 570,1774 644,1774 718,1774 791,1774 865,1774 938,1774 1012,1774 1093,1770"/>
+        <TextEquiv conf="0.998">
+          <Unicode>střední škola průmyslová;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="74cb1fb5-8883-4e2c-9ce9-c9f7af37a018" index="21" custom="heights_v2:[42.2,15.3]">
+        <Coords points="261,1809 261,1815 261,1866 401,1866 534,1866 666,1863 799,1866 935,1866 1067,1866 1200,1866 1332,1863 1476,1863 1476,1805 1332,1805 1199,1809 1067,1809 935,1809 799,1809 667,1805 532,1809 401,1809 261,1809"/>
+        <Baseline points="261,1851 401,1851 534,1851 666,1847 799,1851 935,1851 1067,1851 1200,1851 1332,1847 1476,1847"/>
+        <TextEquiv conf="0.999">
+          <Unicode>odborné školy: obchodní škola gremiální, rodinná</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7299a404-1a3e-43a3-879c-ac56b222aec4" index="22" custom="heights_v2:[42.5,15.3]">
+        <Coords points="427,1886 427,1944 549,1944 666,1940 784,1944 902,1944 1019,1944 1137,1947 1255,1947 1373,1944 1498,1944 1498,1886 1373,1886 1254,1890 1137,1890 1021,1886 902,1886 784,1886 667,1882 547,1886 427,1886"/>
+        <Baseline points="427,1928 548,1928 666,1925 784,1928 902,1928 1019,1928 1137,1932 1255,1932 1373,1928 1498,1928"/>
+        <TextEquiv conf="0.994">
+          <Unicode>a živnostenská škola a rozmanité školy po</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b9cb50bf-47c6-4a9e-af8a-a71179af5080" index="23" custom="heights_v2:[43.7,16.0]">
+        <Coords points="438,1958 438,2018 493,2018 540,2018 593,2022 640,2022 699,2022 699,1962 640,1962 593,1962 544,1958 493,1958 438,1958"/>
+        <Baseline points="438,2002 493,2002 541,2002 593,2006 640,2006 699,2006"/>
+        <TextEquiv conf="0.953">
+          <Unicode>kračovací;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c243df4d-eb3c-4cba-b1de-288d9706f019" index="24" custom="heights_v2:[44.2,16.4]">
+        <Coords points="272,2089 272,2092 917,2087 983,2085 1082,2085 1192,2085 1192,2024 1082,2024 983,2024 882,2028 780,2028 679,2031 581,2031 478,2031 377,2035 274,2031 272,2089"/>
+        <Baseline points="272,2076 379,2079 478,2076 581,2076 681,2076 780,2072 883,2072 983,2068 1082,2068 1192,2068"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mateřská škola městská a klášterní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9da7b843-8be4-482c-bc91-59c794818ed5">
+      <Coords points="408,2311 393,2393 272,2478 269,2695 1513,2673 1509,2541 1520,2392 769,2400 629,2326 408,2311"/>
+      <TextLine id="48b18452-e189-4229-aae7-eeec4b8be984" index="0" custom="heights_v2:[47.9,17.2]">
+        <Coords points="408,2311 408,2313 404,2376 462,2380 514,2383 566,2387 625,2391 629,2326 617,2325 570,2322 519,2319 498,2317 446,2314 408,2311"/>
+        <Baseline points="405,2359 464,2363 515,2366 567,2370 626,2374"/>
+        <TextEquiv conf="0.982">
+          <Unicode>Kostely</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="02f280d8-efe8-477a-bd30-e9721e54f3c9" index="1" custom="heights_v2:[43.8,15.9]">
+        <Coords points="393,2393 393,2393 393,2393 389,2452 519,2460 644,2460 769,2460 891,2460 1016,2456 1141,2452 1262,2452 1387,2452 1516,2452 1520,2393 1520,2392 1477,2392 949,2398 889,2400 786,2400 769,2400 769,2400 644,2400 519,2400 393,2393"/>
+        <Baseline points="390,2436 519,2444 644,2444 769,2444 891,2444 1016,2440 1141,2436 1262,2436 1387,2436 1517,2436"/>
+        <TextEquiv conf="0.992">
+          <Unicode>Farní chrám sv. Vavřince v Kratochvílově ul. (dříve</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1a270f44-1ae4-4d50-b2e8-f6647d8f7aa0" index="2" custom="heights_v2:[42.5,15.3]">
+        <Coords points="272,2478 272,2536 412,2536 545,2536 678,2536 810,2533 946,2533 1079,2529 1211,2525 1344,2525 1487,2522 1486,2464 1342,2467 1211,2467 1077,2471 945,2475 810,2475 676,2478 545,2478 412,2478 272,2478"/>
+        <Baseline points="272,2521 412,2521 545,2521 677,2521 810,2517 946,2517 1078,2514 1211,2510 1343,2510 1487,2506"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kostelní) na bývalém malém hřbitově. Tento kostel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e2390546-ec59-4a48-ba3d-2867644932d3" index="3" custom="heights_v2:[42.2,15.0]">
+        <Coords points="272,2556 272,2613 412,2613 548,2613 685,2613 821,2610 957,2606 1093,2606 1230,2602 1365,2598 1509,2598 1509,2541 1365,2541 1228,2545 1092,2549 957,2549 820,2552 683,2556 548,2556 412,2556 272,2556"/>
+        <Baseline points="272,2598 412,2598 548,2598 685,2598 821,2595 957,2591 1093,2591 1229,2587 1365,2583 1509,2583"/>
+        <TextEquiv conf="0.999">
+          <Unicode>byl postaven r. 1324, až do r. 1566 byl prý katolický,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2c89ae6b-4f9b-43f7-962a-0e72b8491694" index="4" custom="heights_v2:[43.6,15.6]">
+        <Coords points="270,2636 269,2694 269,2695 413,2691 549,2687 685,2684 821,2684 957,2680 1093,2680 1230,2676 1365,2673 1513,2673 1513,2658 1511,2614 1365,2614 1228,2617 1092,2621 957,2621 820,2625 685,2625 547,2628 411,2632 270,2636"/>
+        <Baseline points="269,2679 412,2675 548,2672 685,2668 821,2668 957,2664 1093,2664 1229,2661 1365,2657 1513,2657"/>
+        <TextEquiv conf="0.999">
+          <Unicode>do r. 1622 byl českobratrský a od té doby je katolický.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,325 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:18:52.703963</Created>
+    <LastChange>2023-01-19T00:18:52.703963</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_obce_Moravicany_inv_c_neinventarizovano_011.jpg" imageWidth="1738" imageHeight="2148">
+    <TextRegion id="ab8e07db-2ce7-41fc-a7a9-a734d12edabd">
+      <Coords points="832,93 786,96 789,159 835,157 832,93"/>
+      <TextLine id="e20c4a6b-db9a-4d2e-8395-cb6c458822dd" index="0" custom="heights_v2:[43.7,19.5]">
+        <Coords points="802,95 786,96 789,159 835,157 832,93 802,95"/>
+        <Baseline points="789,139 834,137"/>
+        <TextEquiv conf="1.000">
+          <Unicode>7-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="3c306626-4b9e-48b6-8221-38f463f0aca7">
+      <Coords points="1090,135 1055,137 1059,196 1162,189 1158,130 1090,135"/>
+      <TextLine id="8836df83-9d78-457a-a48d-0f72e49be758" index="0" custom="heights_v2:[41.2,18.0]">
+        <Coords points="1090,135 1071,136 1055,137 1059,196 1162,189 1158,130 1132,132 1090,135"/>
+        <Baseline points="1058,178 1092,176 1124,174 1161,171"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="7aff136b-f5aa-4a61-9de6-81534498b09b">
+      <Coords points="1208,114 1176,116 1181,178 1326,171 1339,88 1246,86 1208,114"/>
+      <TextLine id="e604a8e0-e8ab-4be8-b7e9-dfef50f612be" index="0" custom="heights_v2:[30.7,15.8]">
+        <Coords points="1332,134 1338,92 1339,88 1333,88 1246,86 1246,86 1246,132 1291,132 1332,134"/>
+        <Baseline points="1246,117 1291,117 1334,119"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="947f1bb2-b493-4ef9-b827-e3b622cc948a" index="1" custom="heights_v2:[43.9,18.1]">
+        <Coords points="1208,114 1200,115 1176,116 1178,138 1181,178 1213,176 1240,173 1266,171 1294,171 1322,171 1326,171 1326,109 1294,109 1266,109 1235,112 1208,114 1208,114"/>
+        <Baseline points="1180,160 1211,158 1239,155 1266,153 1294,153 1326,153"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c1e21f98-5d24-4ebb-b5ba-a666afa2709a">
+      <Coords points="30,459 23,613 25,660 46,748 48,842 36,896 43,1110 23,1187 23,1255 104,1253 249,1203 429,1208 610,1252 1354,1261 1452,1271 1696,1208 1708,948 1692,769 1703,671 1709,216 971,193 422,186 236,193 142,156 59,158 33,257 24,365 30,459"/>
+      <TextLine id="c67b5154-b7c7-4d49-a96b-cf0b2c606b2d" index="0" custom="heights_v2:[38.5,17.6]">
+        <Coords points="142,156 62,158 59,158 63,214 101,212 142,212 142,156"/>
+        <Baseline points="62,197 101,194 142,194"/>
+        <TextEquiv conf="1.000">
+          <Unicode>14.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="739ae42c-b3ae-4052-a22a-811c93ee52be" index="1" custom="heights_v2:[42.2,18.9]">
+        <Coords points="1696,216 1227,201 1152,200 971,193 786,193 603,193 422,186 236,193 49,200 51,261 238,254 420,247 603,254 786,254 968,254 1152,261 1334,263 1517,270 1707,277 1709,216 1696,216"/>
+        <Baseline points="50,242 238,235 421,229 603,235 786,235 969,235 1152,242 1335,245 1518,251 1707,258"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Po míru v Brestě Litevském první přišel domů z ruského zajetí již v lednu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="89f9da14-e6e0-43da-a13e-31f00a2362a4" index="2" custom="heights_v2:[37.6,16.7]">
+        <Coords points="33,257 32,264 32,312 194,314 352,314 509,314 667,316 825,316 983,316 1140,318 1298,321 1463,321 1463,266 1298,266 1141,264 983,262 825,262 667,262 510,259 352,259 194,259 33,257"/>
+        <Baseline points="32,295 194,297 352,297 510,297 667,299 825,299 983,299 1140,302 1298,304 1463,304"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1918 dělník Jan Frébort, který se oženil v Ukrajině z Rusínkou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4e0447cb-90a0-41ed-ab05-713ba3612924" index="3" custom="heights_v2:[35.9,15.5]">
+        <Coords points="32,300 32,352 219,354 402,356 587,361 770,365 953,365 1138,367 1321,370 1504,367 1693,372 1694,321 1505,316 1321,318 1139,316 954,314 770,314 588,309 403,305 220,302 32,300"/>
+        <Baseline points="32,336 219,338 402,341 587,345 770,350 953,350 1138,352 1321,354 1504,352 1694,357"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Mimo to vrátili se před 28. říjnem 1918 z Ukrajiny zajatci: Rudolf Skurek,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="199b9e3b-7e8e-44fb-913f-66184b8dcf8e" index="4" custom="heights_v2:[34.6,15.1]">
+        <Coords points="1706,426 1707,377 1517,365 1330,365 1145,368 958,365 773,365 588,363 400,363 215,361 24,365 24,373 27,415 215,411 400,413 587,413 773,415 957,415 1145,417 1330,415 1514,415 1706,426"/>
+        <Baseline points="26,400 215,395 400,398 587,398 773,400 958,400 1145,402 1330,400 1515,400 1706,411"/>
+        <TextEquiv conf="1.000">
+          <Unicode>syn domkaře v Hlinikách, železniční dělník Oldřich Zapletal a domkař</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="94d14c74-d4ab-4a67-b9d9-f89e0d83c7be" index="5" custom="heights_v2:[36.1,15.5]">
+        <Coords points="30,457 30,459 215,457 395,459 576,463 757,461 937,461 1118,461 1298,461 1479,463 1664,463 1664,412 1479,412 1299,410 1118,410 937,410 757,410 576,412 396,407 215,405 29,407 30,457"/>
+        <Baseline points="30,443 215,441 395,443 576,448 757,446 937,446 1118,446 1298,446 1479,448 1664,448"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Alois Rosypal. Všichni museli po dvou měsíční dovolené nadále sloužiti v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d5cb372c-80b3-4013-aef0-d08b1c9695ff" index="6" custom="heights_v2:[36.0,16.1]">
+        <Coords points="43,460 43,512 231,512 414,514 597,512 779,512 965,517 1147,514 1330,517 1512,517 1702,523 1704,471 1514,465 1330,465 1148,462 964,465 780,460 597,460 413,462 231,460 43,460"/>
+        <Baseline points="43,496 231,496 414,498 597,496 779,496 965,501 1147,498 1330,501 1513,501 1703,507"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rakauské armádě až do převratu. Po pádu rakouské monarchie na podzim</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0efdf558-6fdb-4c21-a3b3-7c34ea8d495f" index="7" custom="heights_v2:[35.9,15.8]">
+        <Coords points="36,499 34,551 215,557 391,560 567,560 743,562 919,564 1095,564 1271,564 1447,567 1627,569 1628,517 1447,515 1271,513 1095,513 919,513 743,510 567,508 391,508 215,506 36,499"/>
+        <Baseline points="34,535 215,542 391,544 567,544 743,546 919,549 1095,549 1271,549 1447,551 1627,553"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1918 vrátili se do Mor.. ruští zajatci: bratři Jan a Josef Poštulkovi synové</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a1830903-d9f6-4c98-b8a0-fbbd48273583" index="8" custom="heights_v2:[36.3,16.2]">
+        <Coords points="25,560 23,613 210,613 393,613 576,615 759,613 944,615 1127,615 1310,617 1492,617 1682,620 1683,567 1493,565 1310,565 1127,563 944,563 759,560 576,563 394,560 210,560 25,560"/>
+        <Baseline points="24,597 210,597 393,597 576,599 759,597 944,599 1127,599 1310,601 1492,601 1682,603"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zahradníka z Tkanovic, (Josef v Rusku se oženil s Polkou z Varšavy). Josef</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fea76e5c-878f-400c-8a8b-980772092e7e" index="9" custom="heights_v2:[34.1,15.2]">
+        <Coords points="25,610 25,660 215,660 400,657 585,662 770,657 955,662 1141,664 1325,662 1511,669 1703,671 1703,622 1511,620 1327,613 1140,615 956,613 771,608 584,613 401,608 214,610 25,610"/>
+        <Baseline points="25,645 215,645 400,642 585,647 770,642 955,647 1140,649 1326,647 1511,654 1703,656"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Řucot syn domkáře z Tkanovic, a rodák a učitel moravičanský Frant. Jílek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8e99022e-c2ab-4329-83b1-dcd551d8f188" index="10" custom="heights_v2:[32.4,14.6]">
+        <Coords points="48,665 48,712 222,712 393,707 565,714 736,709 905,712 1077,714 1248,709 1419,714 1595,716 1596,669 1420,667 1249,662 1076,667 906,665 736,662 564,667 394,660 221,665 48,665"/>
+        <Baseline points="48,697 222,697 393,693 565,699 736,695 905,697 1076,699 1248,695 1419,699 1595,702"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Všichni tito vrátili se po mnoha strastech hladoví. Costou trpěli</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e016df75-0b28-4e72-9cb1-855225b39cad" index="11" custom="heights_v2:[32.6,14.3]">
+        <Coords points="48,703 48,750 228,753 407,755 585,753 763,753 942,757 1120,755 1298,753 1477,759 1660,753 1658,706 1475,713 1299,706 1120,708 941,710 764,706 585,706 406,708 229,706 48,703"/>
+        <Baseline points="48,736 229,738 407,741 585,738 763,738 942,743 1120,741 1298,738 1476,745 1659,738"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mnoho od Bolševiků, a v Polsku od Poláků. Učitel F. Jílek nastoupil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ab307798-ab1a-4920-ad73-3c3f6c67d45e" index="12" custom="heights_v2:[31.0,13.8]">
+        <Coords points="46,759 47,793 231,798 414,800 594,802 777,802 957,805 1141,807 1320,802 1504,811 1691,814 1692,769 1504,767 1323,758 1140,762 958,760 777,758 594,758 414,755 231,753 46,748 46,759"/>
+        <Baseline points="47,779 231,784 414,786 594,789 777,789 958,791 1140,793 1321,789 1504,798 1691,800"/>
+        <TextEquiv conf="1.000">
+          <Unicode>službu 1 února 1915 k střel. pluku č. 13 v Olom. V září 1915 v bojích u Dubna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="63a688e6-0701-4ba6-9aeb-ed7ddf0cf4d6" index="13" custom="heights_v2:[33.7,14.7]">
+        <Coords points="48,837 48,842 48,842 233,844 413,847 594,849 775,847 956,847 1136,844 1316,849 1497,854 1682,854 1682,805 1497,805 1317,801 1137,796 955,798 775,798 594,801 414,798 234,796 48,794 48,837"/>
+        <Baseline points="48,827 233,830 414,832 594,834 775,832 955,832 1136,830 1316,834 1497,839 1682,839"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v rus. Polsku byl zajat, dopraven asi 10.000 jinými za 21 dní do Kyjeva. Pak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9ed7e3b4-a0da-446d-8560-d598a0877fcc" index="14" custom="heights_v2:[36.3,16.1]">
+        <Coords points="51,844 50,896 228,901 404,905 579,912 754,907 928,912 1104,910 1277,910 1454,912 1634,910 1634,857 1453,860 1278,857 1104,857 927,860 755,855 577,860 406,853 229,848 51,844"/>
+        <Baseline points="50,880 229,885 405,889 578,896 754,891 928,896 1104,894 1278,894 1454,896 1634,894"/>
+        <TextEquiv conf="1.000">
+          <Unicode>byl poslán do gub. Mogilevská dež žil za frontou do konce r. 1915</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="88c309de-f3b4-4e48-abfc-4c473275ee1d" index="15" custom="heights_v2:[36.1,16.0]">
+        <Coords points="36,902 38,948 223,946 409,955 594,960 780,960 962,958 1147,958 1332,958 1518,958 1708,948 1708,948 1703,897 1516,906 1332,906 1147,906 962,906 779,908 594,908 410,903 226,894 36,896 36,902"/>
+        <Baseline points="37,933 224,930 409,939 594,944 779,944 962,942 1147,942 1332,942 1518,942 1707,933"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ošetřujíc voj koně. V 1916 pracoval na statku blíže města Efremova ogno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4a8a5e70-2ae8-4f29-bbd8-f1605c057ab5" index="16" custom="heights_v2:[35.5,15.8]">
+        <Coords points="38,956 40,1008 221,1001 402,1008 583,1010 764,1012 944,1008 1124,1010 1305,1010 1485,1010 1671,1012 1671,961 1486,959 1305,959 1124,959 944,956 762,961 583,959 403,956 223,950 38,956"/>
+        <Baseline points="39,992 222,985 402,992 583,994 763,997 944,992 1124,994 1305,994 1486,994 1671,997"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Tullské jako hosp. děl. za plat 8 kop (16 hal) V r 1917 kácel dříví</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="468476e1-9a82-403f-887b-57feb3fd0b73" index="17" custom="heights_v2:[35.7,15.6]">
+        <Coords points="50,1000 50,1051 222,1051 388,1051 557,1053 724,1058 892,1060 1061,1056 1227,1053 1394,1056 1568,1053 1567,1002 1394,1004 1228,1002 1060,1004 890,1009 725,1006 559,1002 389,1000 222,1000 50,1000"/>
+        <Baseline points="50,1035 222,1035 389,1035 558,1038 725,1042 891,1045 1060,1040 1227,1038 1394,1040 1568,1038"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v gub. Orlovské u města Yvol, jak na lesním panství Sinjevě a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1183b6ac-487d-4542-bdc9-1a8bf3d831e7" index="18" custom="heights_v2:[33.7,15.2]">
+        <Coords points="43,1061 43,1110 224,1110 402,1108 581,1110 756,1108 935,1110 1113,1108 1289,1110 1468,1108 1651,1103 1649,1054 1466,1059 1289,1061 1114,1059 934,1061 757,1059 580,1061 403,1059 224,1061 43,1061"/>
+        <Baseline points="43,1095 224,1095 402,1092 581,1095 757,1092 935,1095 1113,1092 1289,1095 1467,1092 1650,1088"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Matreníně v gub. Kalužské. Naučiv se rus. písmu, přišel do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dd89fce3-8102-4cdc-a497-734a51dabb51" index="19" custom="heights_v2:[34.4,15.1]">
+        <Coords points="1699,1138 1701,1096 1701,1088 1511,1099 1330,1102 1147,1102 964,1104 781,1106 600,1102 416,1104 234,1102 48,1104 48,1153 233,1151 416,1153 598,1151 782,1156 965,1153 1147,1151 1330,1151 1514,1149 1699,1138"/>
+        <Baseline points="48,1138 233,1136 416,1138 599,1136 782,1140 965,1138 1147,1136 1330,1136 1513,1134 1700,1122"/>
+        <TextEquiv conf="1.000">
+          <Unicode>lesní kanceláře s platem 50 rublů měsíčně. Koncem listop. se 2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="86087fd3-b86e-455a-9592-9155604cedc1" index="20" custom="heights_v2:[24.2,12.3]">
+        <Coords points="1698,1171 1699,1135 1634,1135 1634,1171 1698,1171"/>
+        <Baseline points="1634,1159 1698,1159"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1918.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d423f294-fa0c-4a22-977a-ba7c31bce99d" index="21" custom="heights_v2:[37.5,16.9]">
+        <Coords points="249,1203 249,1203 273,1204 429,1208 610,1210 791,1208 969,1210 1150,1210 1330,1210 1511,1212 1696,1208 1696,1204 1695,1153 1510,1158 1331,1156 1150,1156 969,1156 791,1153 610,1156 430,1153 250,1149 66,1149 66,1203 249,1203 249,1203"/>
+        <Baseline points="66,1186 249,1186 430,1191 610,1193 791,1191 969,1193 1150,1193 1330,1193 1511,1195 1696,1191"/>
+        <TextEquiv conf="1.000">
+          <Unicode>soudruhy vydal se na cestu do vlasti. Dou Moravičan přijel 14. prosin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9a1f0534-788b-4d64-a805-53eb66a2c0ed" index="22" custom="heights_v2:[47.0,20.9]">
+        <Coords points="23,1187 23,1255 97,1253 104,1253 100,1185 59,1187 23,1187"/>
+        <Baseline points="23,1234 62,1234 103,1232"/>
+        <TextEquiv conf="1.000">
+          <Unicode>16)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0e2823b5-63e2-48fc-ac55-16237a469797" index="23" custom="heights_v2:[36.5,15.9]">
+        <Coords points="610,1252 639,1252 706,1252 772,1254 1017,1257 1076,1257 1135,1258 1354,1261 1403,1266 1452,1271 1457,1218 1359,1209 1262,1209 1171,1207 1077,1205 985,1205 891,1205 801,1202 707,1200 610,1200 610,1252"/>
+        <Baseline points="610,1236 706,1236 800,1239 891,1241 985,1241 1076,1241 1170,1243 1262,1246 1355,1246 1454,1255"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Vítez se vrátil v štastný domov svůj.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="faf77fec-1e52-46a9-bf08-0e9b97c787e1">
+      <Coords points="30,1607 20,1693 27,1801 24,2033 345,2045 820,2036 1461,2040 1682,1997 1703,1940 1698,1857 1705,1693 1698,1558 1705,1510 1708,1295 1146,1288 772,1295 401,1283 25,1288 30,1607"/>
+      <TextLine id="1b5902a4-9693-458a-a70f-c0910da3c3ae" index="0" custom="heights_v2:[39.9,18.1]">
+        <Coords points="1708,1295 1522,1293 1516,1293 1331,1290 1146,1288 1141,1288 772,1295 461,1285 401,1283 214,1286 25,1288 26,1346 215,1344 400,1341 587,1346 773,1353 958,1348 1145,1346 1330,1348 1515,1351 1707,1353 1708,1295"/>
+        <Baseline points="26,1328 215,1326 400,1323 587,1328 773,1335 958,1330 1145,1328 1330,1330 1515,1332 1707,1335"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Když prohlášen byl československý stát a národní shromáždění hned v první</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f1d51137-b346-4b56-a616-a83bf2729a44" index="1" custom="heights_v2:[37.1,17.0]">
+        <Coords points="27,1355 28,1409 217,1407 402,1404 587,1404 772,1407 958,1409 1143,1407 1328,1407 1513,1407 1703,1409 1703,1355 1513,1353 1328,1353 1143,1353 957,1355 773,1353 588,1350 402,1350 217,1353 27,1355"/>
+        <Baseline points="27,1392 217,1390 402,1387 587,1387 773,1390 958,1392 1143,1390 1328,1390 1513,1390 1703,1392"/>
+        <TextEquiv conf="1.000">
+          <Unicode>schůzi své zvolilo Masaryka, který vykonal pro nás za války nejvíce a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="473260d7-2284-418e-a140-d68fc1bf86e1" index="2" custom="heights_v2:[34.7,15.3]">
+        <Coords points="31,1391 29,1441 210,1448 388,1451 567,1455 745,1451 921,1455 1099,1455 1277,1457 1456,1460 1639,1453 1637,1403 1455,1410 1278,1407 1100,1405 921,1405 746,1401 566,1405 389,1401 211,1398 31,1391"/>
+        <Baseline points="30,1426 210,1433 389,1435 567,1440 745,1435 921,1440 1099,1440 1278,1442 1456,1444 1639,1438"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bez jehož nadlidské obětavosti, tylonského úsilí a neobyčejného důmyslu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d7025723-fe6f-4bdd-b62c-9e380243edd3" index="3" custom="heights_v2:[33.8,15.4]">
+        <Coords points="1705,1476 1706,1461 1516,1456 1330,1456 1145,1456 960,1456 775,1456 589,1459 405,1454 219,1454 29,1459 30,1508 219,1503 404,1503 590,1508 775,1506 960,1506 1145,1506 1330,1506 1515,1506 1705,1510 1705,1476"/>
+        <Baseline points="30,1492 219,1488 405,1488 590,1492 775,1490 960,1490 1145,1490 1330,1490 1515,1490 1705,1495"/>
+        <TextEquiv conf="1.000">
+          <Unicode>úpěli bychom do dnes pode jhem nepřátelským náčelnikem státu. Masaryk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="022303c5-5e20-4c7e-8f88-4f65405a492f" index="4" custom="heights_v2:[34.0,15.1]">
+        <Coords points="34,1506 34,1556 222,1553 405,1551 590,1551 773,1551 958,1551 1140,1549 1326,1551 1508,1551 1698,1558 1699,1509 1510,1502 1326,1502 1141,1500 957,1502 773,1502 590,1502 405,1502 221,1504 34,1506"/>
+        <Baseline points="34,1540 222,1538 405,1536 590,1536 773,1536 958,1536 1140,1534 1326,1536 1508,1536 1698,1543"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dlel ještě za hranicemi v Americe. Jednal tam s Čechy americkými a s preziden„</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5dc2f196-a36a-4df0-a065-de0902da1387" index="5" custom="heights_v2:[35.1,15.8]">
+        <Coords points="30,1580 30,1607 213,1604 391,1604 569,1604 748,1607 926,1604 1104,1604 1282,1604 1461,1607 1644,1604 1643,1553 1460,1556 1283,1553 1104,1553 926,1553 747,1556 570,1553 391,1553 213,1553 29,1556 30,1580"/>
+        <Baseline points="30,1591 213,1588 391,1588 569,1588 747,1591 926,1588 1104,1588 1282,1588 1460,1591 1643,1588"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tem Vilsonem a stále neúnavně pro nás pracoval. Ale bylo všeobecné přání a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="97f7db4a-bb84-4ccb-8d7a-d088e206c8d9" index="6" custom="heights_v2:[34.0,15.1]">
+        <Coords points="36,1602 37,1652 220,1649 397,1647 578,1649 756,1654 937,1661 1115,1656 1296,1656 1474,1654 1659,1654 1659,1605 1474,1605 1295,1607 1115,1607 936,1612 758,1605 579,1600 398,1598 219,1600 36,1602"/>
+        <Baseline points="37,1636 219,1634 398,1632 578,1634 757,1639 937,1646 1115,1641 1296,1641 1474,1639 1659,1639"/>
+        <TextEquiv conf="1.000">
+          <Unicode>touha aby už byl v našem středu a vzal řízení republiky do svých rukou.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="29c0925b-bcd4-41a8-8252-0eb5325e2c35" index="7" custom="heights_v2:[33.1,14.5]">
+        <Coords points="30,1651 30,1699 215,1699 398,1699 581,1701 763,1701 946,1701 1129,1704 1312,1704 1495,1706 1683,1701 1681,1654 1494,1658 1312,1656 1129,1656 947,1654 763,1654 581,1654 398,1651 215,1651 30,1651"/>
+        <Baseline points="30,1684 215,1684 398,1684 581,1687 763,1687 946,1687 1129,1689 1312,1689 1495,1691 1682,1687"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Z Nového Yorku odjel 22. listopadu do Londýna. Z Londyna odejel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a6cea926-aecb-4d0d-9e60-15bdf4f50e08" index="8" custom="heights_v2:[34.9,15.0]">
+        <Coords points="20,1693 23,1743 210,1738 395,1743 583,1750 768,1747 955,1750 1140,1750 1328,1750 1513,1745 1703,1743 1705,1700 1705,1693 1513,1695 1327,1700 1140,1700 955,1700 768,1698 582,1700 397,1693 211,1688 20,1693"/>
+        <Baseline points="22,1728 210,1723 395,1728 583,1735 768,1732 955,1735 1140,1735 1328,1735 1513,1730 1704,1728"/>
+        <TextEquiv conf="1.000">
+          <Unicode>do Paříže, kde byl pozdraven tamějšími Čechy a legionáři a ministrem Benešem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0320d1d1-c19f-4cd7-82f6-435fd623af06" index="9" custom="heights_v2:[35.0,15.5]">
+        <Coords points="28,1750 27,1801 215,1803 400,1803 583,1801 768,1803 951,1801 1136,1803 1319,1803 1504,1803 1693,1805 1694,1755 1504,1752 1319,1752 1136,1752 951,1750 768,1752 583,1750 400,1752 215,1752 28,1750"/>
+        <Baseline points="27,1785 215,1787 400,1787 583,1785 768,1787 951,1785 1136,1787 1319,1787 1504,1787 1694,1790"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v čele i Francouzi. Přes Curych jel do Italie. V Padově byl uvítán italským</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9675a792-4fc9-4ee9-9b0d-ea0051e35a08" index="10" custom="heights_v2:[34.4,15.2]">
+        <Coords points="28,1794 27,1844 215,1846 400,1848 585,1846 771,1848 953,1844 1138,1848 1324,1853 1508,1850 1698,1857 1699,1808 1510,1801 1323,1803 1139,1799 954,1794 769,1799 586,1796 400,1799 215,1796 28,1794"/>
+        <Baseline points="27,1828 215,1831 400,1833 585,1831 770,1833 953,1828 1138,1833 1323,1838 1508,1835 1698,1842"/>
+        <TextEquiv conf="1.000">
+          <Unicode>králem, a v průvodu 400 čes. legionářů odjel do Čech. 20. prosince přijel na hranici</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="33188eb6-1efc-48a1-a4bd-7be2cb72808c" index="11" custom="heights_v2:[34.2,15.5]">
+        <Coords points="37,1842 36,1892 219,1897 398,1901 578,1899 757,1901 937,1901 1116,1903 1296,1899 1474,1901 1660,1899 1659,1849 1474,1851 1296,1849 1114,1854 938,1851 757,1851 579,1849 397,1851 220,1847 37,1842"/>
+        <Baseline points="37,1876 219,1881 398,1886 578,1883 757,1886 937,1886 1115,1888 1296,1883 1474,1886 1659,1883"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Tam byl uvítán ministrem Zahradníkem, Dr. Frantou, Janem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ccb4092e-35a1-4c31-b6b1-67596d7f7b42" index="12" custom="heights_v2:[35.8,15.9]">
+        <Coords points="1703,1940 1703,1940 1703,1939 1700,1889 1513,1891 1327,1895 1142,1900 959,1895 772,1900 588,1898 403,1895 217,1895 27,1895 27,1947 217,1947 402,1947 587,1949 773,1952 957,1947 1143,1952 1328,1947 1513,1943 1703,1940"/>
+        <Baseline points="27,1931 217,1931 402,1931 587,1934 773,1936 958,1931 1143,1936 1328,1931 1513,1927 1702,1924"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Herbenem a synem Masarykovým Janem. Vjezd Masarykův do Prahy byl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6039453a-1359-4cc4-a7ab-52ee32df46ee" index="13" custom="heights_v2:[36.4,15.9]">
+        <Coords points="1680,1997 1682,1997 1682,1997 1682,1945 1495,1945 1314,1945 1134,1945 950,1947 771,1945 589,1950 407,1950 227,1947 41,1947 41,2000 226,2000 407,2002 590,2002 770,1997 951,2000 1134,1997 1314,1997 1495,1997 1680,1997"/>
+        <Baseline points="41,1984 226,1984 407,1986 590,1986 770,1982 951,1984 1134,1982 1314,1982 1495,1982 1682,1982"/>
+        <TextEquiv conf="1.000">
+          <Unicode>triumfální. Žádný panovník minulosti české nebyl s takovou láskou a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c60e639-b3f2-4ef9-a306-ee6bbf2c311f" index="14" custom="heights_v2:[34.3,15.2]">
+        <Coords points="24,2033 335,2045 345,2045 356,2045 806,2036 820,2036 865,2036 1461,2040 1460,1991 1295,1993 1138,1993 981,1988 821,1986 661,1993 505,1995 345,1995 188,1993 27,1984 24,2033"/>
+        <Baseline points="25,2018 187,2027 345,2030 505,2030 663,2027 821,2020 981,2023 1138,2027 1296,2027 1460,2025"/>
+        <TextEquiv conf="1.000">
+          <Unicode>srdečností uvítán jako tento prostý muž syn konského čeledína</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

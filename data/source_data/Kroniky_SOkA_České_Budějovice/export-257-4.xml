@@ -1,0 +1,240 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:12:22.212707+00:00</Created>
+    <LastChange>2023-02-07T20:12:22.212707+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-257-4" imageWidth="1991" imageHeight="1604">
+    <TextRegion id="r000">
+      <Coords points="938,747 935,792 1029,795 1029,749 938,747"/>
+      <TextLine id="r000-l011" index="0" custom="heights_v2:[32.7,11.0]">
+        <Coords points="938,748 981,751 1029,751 1029,794 981,794 935,792"/>
+        <Baseline points="936,781 981,783 1029,783"/>
+        <TextEquiv conf="0.212">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="943,961 940,1007 988,1010 991,964 943,961"/>
+      <TextLine id="r001-l017" index="0" custom="heights_v2:[32.9,12.1]">
+        <Coords points="943,962 991,965 988,1010 940,1007"/>
+        <Baseline points="941,995 989,998"/>
+        <TextEquiv conf="0.103">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1098,1185 1096,1506 1792,1498 1807,1405 1795,1317 1798,1176 1807,1128 1806,996 1792,946 1806,901 1806,857 1792,805 1801,618 1789,481 1756,434 1230,423 1113,475 1102,720 1107,904 1098,1185"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[30.5,12.7]">
+        <Coords points="1230,423 1291,426 1348,426 1406,429 1462,429 1520,429 1578,432 1636,432 1691,434 1756,434 1756,478 1691,478 1634,475 1578,475 1518,472 1462,472 1406,472 1346,469 1291,469 1228,466"/>
+        <Baseline points="1229,454 1291,456 1347,456 1406,459 1462,459 1519,459 1578,462 1634,462 1691,465 1756,465"/>
+        <TextEquiv conf="0.801">
+          <Unicode>Ve schůzi obecního zastupitelstva</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l003" index="1" custom="heights_v2:[28.8,12.4]">
+        <Coords points="1113,476 1193,476 1265,478 1340,478 1412,481 1488,481 1561,481 1634,481 1708,481 1789,481 1789,522 1708,522 1634,522 1561,522 1488,522 1412,522 1338,520 1265,520 1191,517 1113,517"/>
+        <Baseline points="1113,504 1192,504 1265,507 1338,507 1412,510 1488,510 1561,510 1634,510 1708,510 1789,510"/>
+        <TextEquiv conf="0.692">
+          <Unicode>v Kasejovce dne 14. března 1927 zvolen byl kro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l004" index="2" custom="heights_v2:[28.5,12.4]">
+        <Coords points="1109,527 1186,527 1260,527 1333,527 1406,527 1480,527 1552,529 1626,527 1700,527 1779,529 1778,570 1699,567 1626,568 1553,570 1479,567 1406,568 1333,568 1260,568 1186,568 1109,568"/>
+        <Baseline points="1109,555 1186,555 1260,555 1333,555 1406,555 1479,555 1553,558 1626,555 1699,555 1778,558"/>
+        <TextEquiv conf="0.809">
+          <Unicode>nikářem obce správce školy z Prostř. Svinců</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="3" custom="heights_v2:[28.7,12.6]">
+        <Coords points="1106,574 1186,571 1262,571 1338,571 1412,571 1488,571 1565,571 1637,574 1713,574 1795,574 1795,616 1713,616 1637,616 1563,613 1488,613 1412,613 1338,613 1262,613 1186,613 1108,616"/>
+        <Baseline points="1107,603 1186,600 1262,600 1338,600 1412,600 1488,600 1564,600 1637,603 1713,603 1795,603"/>
+        <TextEquiv conf="0.557">
+          <Unicode>p. Václ. Sýkora. Týž není v obci znám a pro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l006" index="4" custom="heights_v2:[29.5,13.4]">
+        <Coords points="1105,621 1186,621 1261,621 1338,619 1415,619 1491,619 1567,619 1643,619 1719,619 1799,619 1799,661 1719,661 1643,661 1567,661 1491,661 1415,661 1338,661 1263,664 1186,664 1105,664"/>
+        <Baseline points="1105,651 1186,651 1262,651 1338,648 1415,648 1491,648 1567,648 1643,648 1719,648 1799,648"/>
+        <TextEquiv conf="0.632">
+          <Unicode>to zvolení členové letopisecké komise dle jeho ná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l008" index="5" custom="heights_v2:[29.6,13.9]">
+        <Coords points="1107,669 1186,669 1262,669 1336,669 1411,669 1485,666 1560,666 1634,664 1710,664 1792,664 1792,707 1710,707 1634,707 1562,710 1485,710 1412,713 1336,713 1262,713 1186,713 1107,713"/>
+        <Baseline points="1107,699 1186,699 1262,699 1336,699 1412,699 1485,696 1561,696 1634,693 1710,693 1792,693"/>
+        <TextEquiv conf="0.920">
+          <Unicode>vodu shromáždí každoročně látku ze své obce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l010" index="6" custom="heights_v2:[29.5,13.9]">
+        <Coords points="1103,720 1182,720 1260,717 1335,717 1412,714 1488,714 1564,714 1640,714 1716,714 1795,714 1795,758 1716,758 1640,758 1564,758 1488,758 1412,758 1336,761 1260,761 1184,763 1103,763"/>
+        <Baseline points="1103,750 1183,750 1260,747 1336,747 1412,744 1488,744 1564,744 1640,744 1716,744 1795,744"/>
+        <TextEquiv conf="0.750">
+          <Unicode>a společně ji zpracují. Členové letopisecké komi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="7" custom="heights_v2:[29.4,13.9]">
+        <Coords points="1105,768 1182,768 1258,765 1336,762 1408,762 1485,760 1562,760 1634,762 1710,762 1792,762 1792,806 1710,806 1634,806 1561,803 1485,803 1409,806 1336,806 1260,809 1184,811 1105,811"/>
+        <Baseline points="1105,797 1183,797 1260,795 1336,792 1409,792 1485,789 1561,789 1634,792 1710,792 1792,792"/>
+        <TextEquiv conf="0.662">
+          <Unicode>se jsou: Milíkovice: Tomáš Kocich, zástupce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="8" custom="heights_v2:[30.3,14.0]">
+        <Coords points="1105,815 1183,812 1258,812 1333,809 1409,809 1482,809 1557,809 1632,807 1709,807 1790,809 1789,854 1707,851 1632,851 1559,854 1482,854 1409,854 1333,854 1260,857 1183,857 1106,859"/>
+        <Baseline points="1106,845 1183,843 1260,843 1333,840 1409,840 1482,840 1558,840 1632,837 1708,837 1789,840"/>
+        <TextEquiv conf="0.629">
+          <Unicode>Jan Paťa, Krasejovka: Jan Dvořák, Dolní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l014" index="9" custom="heights_v2:[30.6,14.0]">
+        <Coords points="1107,860 1188,860 1265,857 1340,857 1417,854 1493,854 1571,854 1646,857 1722,857 1806,857 1806,902 1722,902 1646,902 1569,899 1493,899 1417,899 1342,902 1265,902 1190,904 1107,904"/>
+        <Baseline points="1107,890 1189,890 1265,888 1341,888 1417,885 1493,885 1570,885 1646,888 1722,888 1806,888"/>
+        <TextEquiv conf="0.946">
+          <Unicode>Svince František Žáček, zástupce Jan Štěpán.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l015" index="10" custom="heights_v2:[30.5,13.8]">
+        <Coords points="1200,905 1268,905 1333,905 1398,905 1462,905 1527,905 1591,905 1657,902 1722,902 1792,902 1792,946 1722,946 1657,946 1593,949 1527,949 1462,949 1398,949 1333,949 1268,949 1200,949"/>
+        <Baseline points="1200,936 1268,936 1333,936 1398,936 1462,936 1527,936 1592,936 1657,933 1722,933 1792,933"/>
+        <TextEquiv conf="0.986">
+          <Unicode>Katastrální obec Krasejovka skládá</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l016" index="11" custom="heights_v2:[30.4,13.2]">
+        <Coords points="1105,956 1150,956 1190,956 1234,953 1276,953 1317,953 1361,950 1403,950 1444,950 1492,947 1494,991 1446,994 1403,994 1361,994 1320,997 1276,997 1234,997 1193,999 1150,999 1105,999"/>
+        <Baseline points="1105,986 1150,986 1192,986 1234,983 1276,983 1319,983 1361,981 1403,981 1446,981 1493,978"/>
+        <TextEquiv conf="0.751">
+          <Unicode>se ze tří místních obcí:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l019" index="12" custom="heights_v2:[29.7,12.9]">
+        <Coords points="1200,999 1271,999 1336,999 1403,999 1467,999 1536,996 1601,996 1668,996 1733,996 1806,996 1806,1039 1733,1039 1668,1039 1601,1039 1536,1039 1469,1041 1403,1041 1336,1041 1271,1041 1200,1041"/>
+        <Baseline points="1200,1029 1271,1029 1336,1029 1403,1029 1468,1029 1536,1026 1601,1026 1668,1026 1733,1026 1806,1026"/>
+        <TextEquiv conf="0.893">
+          <Unicode>1. Krasejovka na severním svahu kopce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l020" index="13" custom="heights_v2:[29.0,12.4]">
+        <Coords points="1105,1050 1186,1050 1262,1050 1337,1050 1415,1047 1491,1047 1566,1047 1643,1045 1718,1045 1800,1042 1801,1083 1719,1086 1643,1086 1567,1089 1491,1089 1415,1089 1339,1092 1262,1092 1186,1092 1105,1092"/>
+        <Baseline points="1105,1079 1186,1079 1262,1079 1338,1079 1415,1076 1491,1076 1567,1076 1643,1074 1719,1074 1801,1071"/>
+        <TextEquiv conf="0.564">
+          <Unicode>má polohu otevřenou severním větrem, ale s krás-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l021" index="14" custom="heights_v2:[28.8,12.0]">
+        <Coords points="1107,1098 1189,1098 1264,1098 1340,1096 1417,1093 1493,1093 1568,1093 1646,1090 1721,1090 1805,1087 1807,1128 1722,1131 1646,1131 1570,1133 1493,1133 1417,1133 1342,1136 1266,1139 1189,1139 1107,1139"/>
+        <Baseline points="1107,1127 1189,1127 1265,1127 1341,1124 1417,1121 1493,1121 1570,1121 1646,1119 1722,1119 1806,1116"/>
+        <TextEquiv conf="0.940">
+          <Unicode>nou vyhlídkou na kotlinu budějovickou, ležící</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l022" index="15" custom="heights_v2:[28.7,12.2]">
+        <Coords points="1102,1144 1183,1144 1260,1144 1335,1144 1412,1141 1487,1141 1563,1138 1640,1135 1716,1135 1798,1135 1798,1176 1716,1176 1640,1176 1564,1179 1488,1182 1412,1182 1336,1184 1260,1184 1183,1184 1102,1184"/>
+        <Baseline points="1102,1172 1183,1172 1260,1172 1336,1172 1412,1169 1488,1169 1564,1167 1640,1164 1716,1164 1798,1164"/>
+        <TextEquiv conf="0.946">
+          <Unicode>i s osadou Bartochovem při státní silnici Č.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l023" index="16" custom="heights_v2:[28.6,12.3]">
+        <Coords points="1100,1186 1136,1189 1172,1189 1207,1189 1245,1186 1279,1186 1316,1186 1353,1186 1389,1186 1431,1186 1431,1227 1389,1227 1353,1227 1316,1227 1279,1227 1245,1227 1210,1230 1172,1230 1136,1230 1097,1227"/>
+        <Baseline points="1098,1215 1136,1217 1172,1217 1209,1217 1245,1214 1279,1214 1316,1214 1353,1214 1389,1214 1431,1214"/>
+        <TextEquiv conf="0.918">
+          <Unicode>Budějovice - Kaplice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l025" index="17" custom="heights_v2:[29.6,12.5]">
+        <Coords points="1209,1233 1276,1233 1341,1233 1405,1233 1468,1230 1532,1230 1598,1227 1660,1227 1725,1227 1795,1227 1795,1269 1725,1269 1660,1269 1598,1269 1533,1272 1468,1272 1407,1275 1341,1275 1276,1275 1209,1275"/>
+        <Baseline points="1209,1262 1276,1262 1341,1262 1406,1262 1468,1260 1533,1260 1598,1257 1660,1257 1725,1257 1795,1257"/>
+        <TextEquiv conf="0.578">
+          <Unicode>2. Milíkovice asi 1 km vzdálené směrem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l026" index="18" custom="heights_v2:[29.2,12.3]">
+        <Coords points="1098,1278 1178,1281 1254,1281 1329,1281 1406,1278 1481,1278 1558,1275 1634,1275 1710,1275 1795,1275 1795,1317 1710,1317 1634,1317 1558,1317 1483,1320 1406,1320 1330,1323 1254,1323 1178,1323 1097,1320"/>
+        <Baseline points="1097,1308 1178,1310 1254,1310 1330,1310 1406,1307 1482,1307 1558,1305 1634,1305 1710,1305 1795,1305"/>
+        <TextEquiv conf="0.525">
+          <Unicode>severním na mírném kopci s osadami Mokřady</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l027" index="19" custom="heights_v2:[29.6,12.3]">
+        <Coords points="1100,1326 1178,1329 1254,1329 1329,1329 1405,1326 1479,1323 1554,1323 1632,1320 1707,1320 1788,1317 1790,1359 1708,1362 1632,1362 1556,1365 1479,1365 1407,1368 1330,1370 1254,1371 1178,1371 1099,1368"/>
+        <Baseline points="1099,1355 1178,1358 1254,1358 1330,1358 1406,1355 1479,1353 1555,1353 1632,1350 1708,1350 1789,1347"/>
+        <TextEquiv conf="0.398">
+          <Unicode>také myší krátky zvané, Bukovcem, Janášem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l028" index="20" custom="heights_v2:[29.3,12.6]">
+        <Coords points="1100,1371 1181,1374 1257,1374 1335,1374 1411,1371 1491,1368 1566,1368 1646,1366 1721,1366 1804,1363 1805,1405 1722,1407 1646,1407 1567,1410 1491,1410 1412,1413 1336,1416 1257,1416 1181,1416 1099,1413"/>
+        <Baseline points="1099,1400 1181,1403 1257,1403 1336,1403 1412,1400 1491,1398 1567,1398 1646,1395 1722,1395 1805,1392"/>
+        <TextEquiv conf="0.888">
+          <Unicode>a hajnicí vévodí nejbližšímu okolí prostoupené-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l029" index="21" custom="heights_v2:[29.4,12.7]">
+        <Coords points="1100,1419 1181,1422 1257,1422 1332,1422 1408,1419 1488,1416 1563,1416 1639,1413 1715,1411 1800,1408 1801,1450 1716,1453 1640,1455 1564,1458 1488,1458 1409,1461 1333,1464 1257,1464 1181,1464 1099,1461"/>
+        <Baseline points="1099,1448 1181,1451 1257,1451 1333,1451 1409,1448 1488,1446 1564,1446 1640,1443 1716,1440 1801,1437"/>
+        <TextEquiv conf="0.783">
+          <Unicode>mu úrodnými polí a lučinami, lemovanými</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l030" index="22" custom="heights_v2:[30.3,12.8]">
+        <Coords points="1097,1463 1177,1466 1254,1463 1329,1463 1406,1460 1481,1460 1558,1458 1633,1458 1710,1455 1792,1455 1792,1498 1710,1498 1635,1501 1558,1501 1483,1503 1406,1503 1330,1506 1254,1506 1178,1509 1096,1506"/>
+        <Baseline points="1096,1493 1178,1496 1254,1493 1330,1493 1406,1491 1482,1491 1558,1488 1634,1488 1710,1485 1792,1485"/>
+        <TextEquiv conf="0.775">
+          <Unicode>na západě a severovýchodě lesy a lesíky, zdo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1344,275 1340,334 1488,337 1488,278 1344,275"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[44.1,16.9]">
+        <Coords points="1344,274 1392,277 1437,277 1488,277 1488,338 1437,338 1392,338 1340,335"/>
+        <Baseline points="1341,318 1392,321 1437,321 1488,321"/>
+        <TextEquiv conf="0.979">
+          <Unicode>Úvod.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1854,1226 1815,1226 1815,1269 1970,1269 1970,1226 1854,1226"/>
+      <TextLine id="r004-l024" index="0" custom="heights_v2:[29.9,11.6]">
+        <Coords points="1815,1227 1854,1227 1891,1227 1927,1227 1970,1227 1970,1268 1927,1268 1891,1268 1854,1268 1815,1268"/>
+        <Baseline points="1815,1257 1854,1257 1891,1257 1927,1257 1970,1257"/>
+        <TextEquiv conf="0.943">
+          <Unicode>Milíkovice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1820,706 1818,754 1967,754 1967,716 1930,669 1820,669 1820,706"/>
+      <TextLine id="r005-l007" index="0" custom="heights_v2:[26.3,9.7]">
+        <Coords points="1820,670 1874,670 1930,670 1930,706 1874,706 1820,706"/>
+        <Baseline points="1820,696 1874,696 1930,696"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Komise</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l009" index="1" custom="heights_v2:[28.1,9.7]">
+        <Coords points="1818,716 1857,716 1891,716 1925,716 1967,716 1967,754 1925,754 1891,754 1857,754 1818,754"/>
+        <Baseline points="1818,744 1857,744 1891,744 1925,744 1967,744"/>
+        <TextEquiv conf="0.825">
+          <Unicode>letopisecká.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1868,997 1826,997 1826,1037 1991,1040 1994,999 1868,997"/>
+      <TextLine id="r006-l018" index="0" custom="heights_v2:[28.8,11.5]">
+        <Coords points="1826,997 1868,997 1908,997 1949,997 1994,1000 1991,1040 1946,1037 1908,1037 1868,1037 1826,1037"/>
+        <Baseline points="1826,1026 1868,1026 1908,1026 1947,1026 1992,1029"/>
+        <TextEquiv conf="0.879">
+          <Unicode>Krasejovka.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

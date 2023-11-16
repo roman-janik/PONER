@@ -1,0 +1,677 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:21:47.208522</Created>
+    <LastChange>2023-01-19T00:21:47.208522</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Lhota_inv_c_neinventarizovano_045.jpg" imageWidth="3420" imageHeight="2620">
+    <TextRegion id="5787cffd-2213-4b80-9e0b-468db7990b81">
+      <Coords points="204,451 200,586 472,590 472,523 448,451 204,451"/>
+      <TextLine id="d28c8789-8c34-4e66-bfbc-8f468fb50d70" index="0" custom="heights_v2:[44.8,20.7]">
+        <Coords points="204,451 204,517 268,517 324,517 380,517 448,517 448,451 380,451 324,451 268,451 204,451"/>
+        <Baseline points="204,496 268,496 324,496 380,496 448,496"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zálohy na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="16b65b05-5926-4a81-a9ca-3d0b49ce112c" index="1" custom="heights_v2:[45.1,21.7]">
+        <Coords points="202,519 200,586 254,586 274,587 450,590 472,590 472,523 472,523 412,523 360,523 308,523 259,519 202,519"/>
+        <Baseline points="201,564 256,564 308,568 360,568 412,568 472,568"/>
+        <TextEquiv conf="1.000">
+          <Unicode>láhve od piva.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="6a813d96-3181-4dd7-8301-d81611301774">
+      <Coords points="207,802 202,876 432,876 432,802 207,802"/>
+      <TextLine id="6694ddf3-09e0-46ea-8d08-55192132abd5" index="0" custom="heights_v2:[50.1,24.5]">
+        <Coords points="202,876 432,876 432,802 367,802 312,806 264,806 207,802 202,876"/>
+        <Baseline points="204,852 264,856 316,856 368,852 432,852"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Rozpočty</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="6535ab0d-d595-496c-a721-b75c006d40f3">
+      <Coords points="612,241 480,241 488,451 532,528 536,733 1000,725 1016,654 1180,519 1677,511 1673,312 1632,241 612,241"/>
+      <TextLine id="2a4c7dff-5a33-481b-92f5-ab897d543889" index="0" custom="heights_v2:[46.7,20.9]">
+        <Coords points="480,241 483,309 612,309 740,309 864,309 992,309 1116,309 1244,309 1368,309 1496,309 1632,309 1632,241 1496,241 1368,241 1244,241 1116,241 992,241 864,241 740,241 612,241 480,241"/>
+        <Baseline points="482,288 612,288 740,288 864,288 992,288 1116,288 1244,288 1368,288 1496,288 1632,288"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zároveň stanovil dovoz a odvoz výrobků</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f6c88cba-a39a-44d0-ae03-a9c4d8f8c4c1" index="1" custom="heights_v2:[44.0,19.6]">
+        <Coords points="483,320 485,383 616,380 748,380 880,380 1008,380 1141,380 1273,376 1400,372 1531,372 1671,376 1673,317 1673,312 1533,308 1400,308 1271,312 1139,316 1008,316 880,316 748,316 616,316 483,320"/>
+        <Baseline points="485,364 616,360 748,360 880,360 1008,360 1140,360 1272,356 1400,352 1532,352 1672,356"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na středu, čtvrtek a pátek. /Poznámka musí se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2dcb048b-46d4-41dd-acc3-2fac3c51bc56" index="2" custom="heights_v2:[42.4,19.4]">
+        <Coords points="488,451 488,451 542,451 584,447 632,447 676,447 724,447 770,447 816,443 860,443 916,443 916,382 860,382 816,382 764,386 724,386 676,386 632,386 584,386 536,390 488,390 488,451"/>
+        <Baseline points="488,432 540,432 584,428 632,428 676,428 724,428 768,428 816,424 860,424 916,424"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jeti hromadně/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7cfb2c66-4f12-4e79-9f95-df6436ced2c6" index="3" custom="heights_v2:[53.1,23.3]">
+        <Coords points="1180,519 1180,519 1677,511 1674,435 1542,439 1422,443 1300,443 1180,443 1056,443 936,443 812,443 690,447 564,447 564,523 693,523 812,519 936,519 1056,519 1180,519"/>
+        <Baseline points="564,500 692,500 812,496 936,496 1056,496 1180,496 1300,496 1424,496 1544,492 1676,488"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zemský úřad v Brně stanovil tyto zálohy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1342a3bb-9342-4c80-a3c7-827d7beac7b8" index="4" custom="heights_v2:[40.3,18.6]">
+        <Coords points="532,528 533,587 588,587 640,587 692,587 744,587 796,587 848,587 900,587 952,587 1012,587 1012,528 952,528 900,528 848,528 796,528 744,528 692,528 640,528 588,528 532,528 532,528"/>
+        <Baseline points="533,568 588,568 640,568 692,568 744,568 796,568 848,568 900,568 952,568 1012,568"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na láhve od piva:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c5827ab5-8bd4-45a7-b396-38bcc60fc940" index="5" custom="heights_v2:[40.7,18.8]">
+        <Coords points="544,595 544,655 600,655 648,655 697,655 757,651 753,591 693,595 648,595 600,595 544,595"/>
+        <Baseline points="544,636 600,636 648,636 696,636 756,632"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Obsahu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="13941c4d-2e33-4cfc-ba16-e3a3892e4433" index="6" custom="heights_v2:[38.0,18.3]">
+        <Coords points="1016,654 1016,654 1016,598 904,598 904,654 1016,654"/>
+        <Baseline points="904,636 1016,636"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1l</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5d8ca3ed-0309-4508-9e74-21a5d2d9d10e" index="7" custom="heights_v2:[44.9,20.8]">
+        <Coords points="904,659 904,725 1000,725 1000,659 904,659"/>
+        <Baseline points="904,704 1000,704"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1l</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c3e0f46d-21f9-4f6b-977f-3ebfc64af6ec" index="8" custom="heights_v2:[43.5,20.8]">
+        <Coords points="549,733 676,731 676,668 604,668 536,668 536,733 549,733"/>
+        <Baseline points="536,712 604,712 676,712"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pod</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="e1aa0bfb-a42f-46dc-ae06-4b33cf303751">
+      <Coords points="1183,579 1172,651 1172,722 1340,722 1379,659 1383,587 1183,579"/>
+      <TextLine id="5911964d-2f36-457c-8f92-215e5ea367ac" index="0" custom="heights_v2:[48.8,23.0]">
+        <Coords points="1183,579 1183,580 1179,651 1248,655 1307,655 1379,659 1383,587 1363,586 1290,583 1248,583 1183,579"/>
+        <Baseline points="1180,628 1248,632 1308,632 1380,636"/>
+        <TextEquiv conf="1.000">
+          <Unicode>K 3</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d0ed3797-30f1-45a9-abe2-be26fbb25a67" index="1" custom="heights_v2:[49.1,21.8]">
+        <Coords points="1172,651 1172,651 1172,722 1256,722 1340,722 1340,651 1256,651 1172,651"/>
+        <Baseline points="1172,700 1256,700 1340,700"/>
+        <TextEquiv conf="1.000">
+          <Unicode>50 h.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="5cea1f4e-d40f-499b-921e-960c6df2d949">
+      <Coords points="1772,521 1716,521 1716,579 1932,575 1932,517 1772,521"/>
+      <TextLine id="db7082a7-314a-4654-bbe9-b41c1298e181" index="0" custom="heights_v2:[39.0,18.9]">
+        <Coords points="1716,521 1716,579 1723,579 1853,576 1872,575 1932,575 1932,517 1931,517 1845,519 1821,521 1772,521 1716,521"/>
+        <Baseline points="1716,560 1772,560 1824,560 1872,556 1932,556"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Orientační</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="1f17c8e0-78c2-4776-acbc-ef65e1ededf3">
+      <Coords points="1784,587 1721,591 1725,652 1904,649 1904,587 1784,587"/>
+      <TextLine id="0adff82e-a7de-4ae9-b996-d2925321367e" index="0" custom="heights_v2:[41.1,20.5]">
+        <Coords points="1784,587 1721,591 1725,652 1735,652 1784,649 1840,649 1904,649 1904,587 1784,587"/>
+        <Baseline points="1724,632 1784,628 1840,628 1904,628"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tabule.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eab4afbb-2573-4b33-89fd-807b1a9bbcb2">
+      <Coords points="1963,310 1957,373 1961,441 2429,437 2600,376 3117,372 3112,242 2600,242 2355,230 1968,230 1963,310"/>
+      <TextLine id="ebd9fb25-5bd1-4560-8f8d-5d2ee75fdcaa" index="0" custom="heights_v2:[46.0,20.5]">
+        <Coords points="1968,230 1968,297 2100,297 2224,297 2351,296 2475,305 2600,309 2728,309 2852,309 2976,309 3112,309 3112,242 2976,242 2852,242 2728,242 2600,242 2477,238 2355,230 2224,230 2100,230 1968,230"/>
+        <Baseline points="1968,276 2100,276 2224,276 2352,276 2476,284 2600,288 2728,288 2852,288 2976,288 3112,288"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nákladem obce za 2.700 K. Jiné výlohy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c2957d2e-1ad7-44fc-ada5-78fd9a8d66de" index="1" custom="heights_v2:[42.4,19.7]">
+        <Coords points="1963,310 1963,312 1965,372 2096,368 2224,368 2347,368 2475,372 2600,376 2645,376 3100,372 3117,372 3115,327 3115,310 2979,314 2852,314 2728,314 2600,314 2477,310 2349,306 2224,306 2096,306 1963,310 1963,310"/>
+        <Baseline points="1964,352 2096,348 2224,348 2348,348 2476,352 2600,356 2728,356 2852,356 2980,356 3116,352"/>
+        <TextEquiv conf="1.000">
+          <Unicode>činily 14.508 K. Provoz byl zahájen dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3178adf5-21e4-4432-ba01-8f73704f3bfe" index="2" custom="heights_v2:[46.7,20.7]">
+        <Coords points="1957,373 1959,401 1961,441 2014,437 2063,440 2076,440 2116,437 2166,437 2196,439 2423,437 2429,437 2425,369 2365,373 2316,373 2268,373 2216,373 2172,369 2116,369 2064,373 2020,369 1957,373"/>
+        <Baseline points="1960,420 2016,416 2068,420 2116,416 2168,416 2216,420 2268,420 2316,420 2368,420 2428,416"/>
+        <TextEquiv conf="1.000">
+          <Unicode>10. července 1941</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="99d63392-d4db-4f6a-b2d0-3974173b25e1">
+      <Coords points="1969,727 1967,798 2520,803 2610,870 2664,874 3028,866 3213,798 3212,520 1980,512 1971,593 1969,727"/>
+      <TextLine id="443f13df-945b-41a4-8b39-39b51735e84e" index="0" custom="heights_v2:[47.7,21.7]">
+        <Coords points="2839,518 2030,512 1980,512 1980,582 2120,582 2256,582 2392,582 2528,582 2659,582 2795,586 2932,590 3068,590 3212,590 3212,520 3068,520 2932,520 2839,518"/>
+        <Baseline points="1980,560 2120,560 2256,560 2392,560 2528,560 2660,560 2796,564 2932,568 3068,568 3212,568"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dle nařízení říšských úřadů musely míti orienta-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6f317122-ea59-44e4-bb35-42a0a0cb0181" index="1" custom="heights_v2:[42.7,19.6]">
+        <Coords points="1971,593 1971,598 1973,656 2112,652 2243,652 2376,656 2508,656 2640,656 2771,656 2905,660 3037,656 3177,652 3175,589 3035,593 2903,597 2773,593 2640,593 2508,593 2376,593 2245,589 2112,589 1971,593"/>
+        <Baseline points="1972,636 2112,632 2244,632 2376,636 2508,636 2640,636 2772,636 2904,640 3036,636 3176,632"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ční tabule ať na silnicích okresních nebo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0e8cd74f-82c8-49cc-b2db-6c895d032927" index="2" custom="heights_v2:[46.2,21.0]">
+        <Coords points="1972,662 1972,729 2100,729 2225,729 2348,725 2468,725 2592,725 2716,725 2836,725 2960,725 3092,725 3092,658 2960,658 2836,658 2716,658 2592,658 2468,658 2348,658 2223,662 2100,662 1972,662"/>
+        <Baseline points="1972,708 2100,708 2224,708 2348,704 2468,704 2592,704 2716,704 2836,704 2960,704 3092,704"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obecních kromě jména příslušné obce i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3389387d-6012-4f40-9130-1d99f5e81bcc" index="3" custom="heights_v2:[48.7,22.5]">
+        <Coords points="1967,798 2465,803 2520,803 2656,803 2792,803 2928,803 3065,802 3212,799 3213,798 3211,727 3063,731 2928,731 2792,731 2656,731 2520,731 2384,731 2248,731 2112,731 1969,727 1967,798"/>
+        <Baseline points="1968,776 2112,780 2248,780 2384,780 2520,780 2656,780 2792,780 2928,780 3064,780 3212,776"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jméno okrem. (Bezirk) Bezirk: Máhr. Weisskirchen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b9ae75b8-1c87-46bf-a456-afc8c924c157" index="4" custom="heights_v2:[47.8,21.7]">
+        <Coords points="2676,874 2777,872 2796,870 2840,870 2860,870 2893,869 2928,866 2972,866 3028,866 3028,796 2972,796 2928,796 2880,800 2840,800 2796,800 2748,804 2708,804 2664,804 2616,800 2610,870 2664,874 2676,874"/>
+        <Baseline points="2612,848 2664,852 2708,852 2752,852 2796,848 2840,848 2884,848 2928,844 2972,844 3028,844"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Okres Hranice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="629a36c0-e1dd-4054-9f2c-6786c9306b07">
+      <Coords points="260,1077 200,1077 200,1156 480,1156 480,1077 260,1077"/>
+      <TextLine id="bc92da0a-2c73-470c-9fe5-85a66bb04ed3" index="0" custom="heights_v2:[54.9,23.8]">
+        <Coords points="200,1077 200,1156 260,1156 312,1156 364,1156 416,1156 480,1156 480,1077 416,1077 364,1077 312,1077 260,1077 200,1077"/>
+        <Baseline points="200,1132 260,1132 312,1132 364,1132 416,1132 480,1132"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Výroční účty.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="938a9539-e97a-4e02-a005-2fa6c80892ec">
+      <Coords points="264,1292 204,1292 204,1356 228,1435 404,1435 404,1364 384,1292 264,1292"/>
+      <TextLine id="4bd37280-f8d7-49f1-9289-daff043139e7" index="0" custom="heights_v2:[44.0,20.3]">
+        <Coords points="264,1292 204,1292 204,1356 204,1356 264,1356 320,1356 384,1356 384,1292 264,1292"/>
+        <Baseline points="204,1336 264,1336 320,1336 384,1336"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Užívání</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="45c13f7b-7c0f-42f5-888b-97e7873cd3c8" index="1" custom="heights_v2:[48.5,22.5]">
+        <Coords points="404,1435 404,1364 404,1364 340,1364 288,1364 228,1364 228,1435 288,1435 340,1435 404,1435"/>
+        <Baseline points="228,1412 288,1412 340,1412 404,1412"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vlajek.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="420c5b54-9a25-4c15-955e-7bc312a99264">
+      <Coords points="200,2132 198,2200 432,2204 432,2131 408,2058 200,2058 200,2132"/>
+      <TextLine id="b86adba9-b7fd-4973-bc63-00a008c12cb5" index="0" custom="heights_v2:[50.5,23.6]">
+        <Coords points="408,2058 200,2058 200,2132 272,2132 336,2132 408,2132 408,2058"/>
+        <Baseline points="200,2108 272,2108 336,2108 408,2108"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zřízení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="85584f0f-50f4-4187-831c-58591b4508bb" index="1" custom="heights_v2:[49.2,23.9]">
+        <Coords points="202,2200 426,2204 432,2204 432,2131 432,2131 368,2131 316,2131 260,2131 203,2127 198,2200 202,2200"/>
+        <Baseline points="200,2176 260,2180 316,2180 368,2180 432,2180"/>
+        <TextEquiv conf="1.000">
+          <Unicode>telefonu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="dd0cf25e-fb1e-4224-a968-f13ba193d380">
+      <Coords points="468,1571 472,1997 481,2065 475,2341 484,2413 749,2421 1387,2413 1651,2425 1653,2280 1629,2200 1628,2130 1681,1989 1680,1710 1647,1497 1676,1355 1676,1292 1509,1142 1498,789 1270,797 836,793 504,801 504,875 523,942 516,1154 471,1300 477,1431 468,1571"/>
+      <TextLine id="21c1cd8f-d46d-4dae-8cf2-f5ef45e95b36" index="0" custom="heights_v2:[51.4,22.6]">
+        <Coords points="1500,863 1498,789 1270,797 1091,795 1054,797 995,794 836,793 806,794 726,797 618,801 520,801 504,801 504,875 621,875 729,871 836,867 943,867 1057,871 1163,867 1273,871 1381,867 1500,863"/>
+        <Baseline points="504,852 620,852 728,848 836,844 944,844 1056,848 1164,844 1272,848 1380,844 1500,840"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hlavní rozpočet obce se jeví takto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="56608377-3e43-48b7-bb54-1558777d62ec" index="1" custom="heights_v2:[43.9,20.2]">
+        <Coords points="530,876 533,940 604,936 672,936 737,936 804,932 868,932 936,932 1000,932 1068,932 1144,932 1144,868 1068,868 1000,868 936,868 868,868 804,868 733,872 672,872 604,872 530,876"/>
+        <Baseline points="532,920 604,916 672,916 736,916 804,912 868,912 936,912 1000,912 1068,912 1144,912"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Příjem 24.283 K</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ffb5e0eb-eac1-4af8-8382-e4872674e937" index="2" custom="heights_v2:[46.0,20.8]">
+        <Coords points="523,942 521,1009 593,1013 661,1009 728,1005 792,1005 860,1005 928,1005 992,1005 1060,1005 1136,1005 1136,938 1060,938 992,938 928,938 860,938 792,938 728,938 657,942 589,946 523,942"/>
+        <Baseline points="521,988 592,992 660,988 728,984 792,984 860,984 928,984 992,984 1060,984 1136,984"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vydání 42.576 K</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8663cefc-0019-4b56-8b6e-b766794ab365" index="3" custom="heights_v2:[49.4,22.3]">
+        <Coords points="518,1083 516,1154 516,1154 632,1154 741,1154 849,1150 957,1146 1063,1142 1172,1146 1280,1146 1389,1146 1509,1142 1506,1071 1386,1075 1280,1075 1172,1075 1066,1071 954,1075 846,1079 738,1083 632,1083 518,1083"/>
+        <Baseline points="517,1132 632,1132 740,1132 848,1128 956,1124 1064,1120 1172,1124 1280,1124 1388,1124 1508,1120"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Součet řádných příjmů 96.208,15 K</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d01fe47f-c6d0-4ce3-8baf-5a24e9a0dd1b" index="4" custom="heights_v2:[49.1,21.7]">
+        <Coords points="896,1147 896,1218 968,1218 1032,1218 1095,1218 1160,1222 1223,1222 1289,1226 1352,1222 1417,1222 1493,1218 1489,1147 1413,1151 1352,1151 1285,1155 1227,1151 1160,1151 1099,1147 1032,1147 968,1147 896,1147"/>
+        <Baseline points="896,1196 968,1196 1032,1196 1096,1196 1160,1200 1224,1200 1288,1204 1352,1200 1416,1200 1492,1196"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vydajů 96.035,30 K</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e104050e-9ea1-4be0-91ad-ab32e107fd57" index="5" custom="heights_v2:[43.5,19.4]">
+        <Coords points="1676,1355 1676,1355 1676,1292 1536,1292 1404,1292 1272,1292 1140,1292 1007,1296 876,1296 744,1296 612,1296 471,1300 474,1363 612,1359 744,1359 876,1359 1009,1359 1140,1355 1272,1355 1404,1355 1536,1355 1676,1355"/>
+        <Baseline points="473,1344 612,1340 744,1340 876,1340 1008,1340 1140,1336 1272,1336 1404,1336 1536,1336 1676,1336"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kdykoliv jest rozhlasem nebo denním tiskem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5c04f77c-6b21-458b-a05b-1b9fcfc070bf" index="6" custom="heights_v2:[42.1,19.1]">
+        <Coords points="476,1404 477,1431 477,1431 608,1427 732,1427 856,1427 980,1427 1109,1427 1232,1423 1356,1423 1480,1423 1616,1423 1616,1362 1480,1362 1356,1362 1232,1362 1107,1366 980,1366 856,1366 732,1366 608,1366 475,1370 476,1404"/>
+        <Baseline points="476,1412 608,1408 732,1408 856,1408 980,1408 1108,1408 1232,1404 1356,1404 1480,1404 1616,1404"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vyhlášeno všeobecné vlajkování jest povinností</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="783ef87b-0692-4179-bab6-894e7ce20c83" index="7" custom="heights_v2:[42.7,18.9]">
+        <Coords points="480,1437 480,1499 613,1499 736,1495 860,1495 984,1495 1108,1495 1232,1495 1357,1495 1480,1491 1612,1491 1612,1429 1480,1429 1355,1433 1232,1433 1108,1433 984,1433 860,1433 736,1433 611,1437 480,1437"/>
+        <Baseline points="480,1480 612,1480 736,1476 860,1476 984,1476 1108,1476 1232,1476 1356,1476 1480,1472 1612,1472"/>
+        <TextEquiv conf="1.000">
+          <Unicode>všech majitelů budov, nebo jejich nájemců</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9a874270-2a69-4d87-bc3d-68afded3d292" index="8" custom="heights_v2:[42.8,19.3]">
+        <Coords points="468,1571 468,1571 604,1571 733,1571 865,1567 992,1563 1120,1563 1252,1563 1380,1563 1509,1563 1649,1559 1647,1497 1507,1501 1380,1501 1252,1501 1120,1501 992,1501 863,1505 731,1509 604,1509 472,1509 468,1571"/>
+        <Baseline points="469,1552 604,1552 732,1552 864,1548 992,1544 1120,1544 1252,1544 1380,1544 1508,1544 1648,1540"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vyvěsiti říšskou a národní vlajku. Z té příčiny</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1cef75ea-701c-4717-b096-a99109915e12" index="9" custom="heights_v2:[44.6,19.8]">
+        <Coords points="468,1579 469,1644 604,1640 736,1640 869,1640 996,1632 1127,1632 1261,1636 1388,1632 1522,1632 1662,1616 1655,1552 1515,1568 1388,1567 1259,1571 1129,1567 996,1567 865,1575 736,1575 604,1575 468,1579"/>
+        <Baseline points="468,1624 604,1620 736,1620 868,1620 996,1612 1128,1612 1260,1616 1388,1612 1520,1612 1660,1596"/>
+        <TextEquiv conf="1.000">
+          <Unicode>opatřovali si občané vlajky a prapory, neboť</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ae1aa96b-629e-4b88-aa01-82caaa051cac" index="10" custom="heights_v2:[45.5,20.2]">
+        <Coords points="469,1646 469,1712 600,1712 729,1712 856,1708 984,1708 1113,1708 1240,1704 1368,1704 1496,1704 1632,1704 1632,1638 1496,1638 1368,1638 1240,1638 1111,1642 984,1642 856,1642 727,1646 600,1646 469,1646"/>
+        <Baseline points="469,1692 600,1692 728,1692 856,1688 984,1688 1112,1688 1240,1684 1368,1684 1496,1684 1632,1684"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obecní úřad byl vyzván provésti po domech</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="265d8649-fadf-44f0-bc83-ea1c3ef2be40" index="11" custom="heights_v2:[46.1,20.4]">
+        <Coords points="1680,1710 1680,1710 1536,1710 1404,1710 1272,1710 1140,1710 1007,1714 876,1714 743,1718 612,1718 471,1722 473,1788 612,1784 745,1784 876,1780 1009,1780 1140,1776 1272,1776 1404,1776 1536,1776 1680,1776 1680,1710"/>
+        <Baseline points="472,1768 612,1764 744,1764 876,1760 1008,1760 1140,1756 1272,1756 1404,1756 1536,1756 1680,1756"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kontrolu. Starosta obce Josef Kovářík usna-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b6cbd97-9f5c-4ac1-9055-f11158589149" index="12" custom="heights_v2:[44.6,20.1]">
+        <Coords points="471,1791 473,1856 608,1852 741,1852 871,1848 1000,1852 1133,1852 1264,1848 1392,1848 1525,1848 1665,1844 1663,1779 1523,1783 1392,1783 1264,1783 1131,1787 1000,1787 873,1783 739,1787 608,1787 471,1791"/>
+        <Baseline points="472,1836 608,1832 740,1832 872,1828 1000,1832 1132,1832 1264,1828 1392,1828 1524,1828 1664,1824"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dnil občanům objednávku tím, že objednal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3675427d-5a43-4e76-aca4-29b41fb8b2cc" index="13" custom="heights_v2:[47.3,20.6]">
+        <Coords points="473,1861 477,1929 612,1921 744,1921 876,1921 1008,1921 1140,1921 1272,1921 1405,1921 1536,1917 1676,1917 1676,1849 1536,1849 1403,1853 1272,1853 1140,1853 1008,1853 876,1853 744,1853 612,1853 473,1861"/>
+        <Baseline points="476,1908 612,1900 744,1900 876,1900 1008,1900 1140,1900 1272,1900 1404,1900 1536,1896 1676,1896"/>
+        <TextEquiv conf="1.000">
+          <Unicode>od firmy z Frenštátu pod Radhoštem hroma-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="511478de-4a2e-4596-98ff-3fb87ab79a42" index="14" custom="heights_v2:[48.2,21.4]">
+        <Coords points="472,1997 472,1997 613,1997 743,1993 876,1997 1008,1997 1141,1997 1272,1993 1404,1993 1537,1993 1681,1989 1679,1920 1535,1924 1404,1924 1272,1924 1139,1928 1008,1928 876,1928 745,1924 611,1928 472,1928 472,1997"/>
+        <Baseline points="472,1976 612,1976 744,1972 876,1976 1008,1976 1140,1976 1272,1972 1404,1972 1536,1972 1680,1968"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dně 60 kusů říšských a 60 kusů protektorat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f88e6769-e356-4aff-a1f8-84959bacb26e" index="15" custom="heights_v2:[45.2,20.8]">
+        <Coords points="477,1999 481,2065 539,2061 596,2065 660,2065 660,1999 596,1999 543,1995 477,1999"/>
+        <Baseline points="480,2044 540,2040 596,2044 660,2044"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vlajek.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b3c8f51-8d9c-41e8-8604-7bba86528b1f" index="16" custom="heights_v2:[49.4,21.8]">
+        <Coords points="524,2063 524,2134 652,2134 772,2134 892,2134 1012,2134 1137,2134 1256,2130 1376,2130 1496,2130 1628,2130 1628,2059 1496,2059 1376,2059 1256,2059 1134,2063 1012,2063 892,2063 772,2063 652,2063 524,2063"/>
+        <Baseline points="524,2112 652,2112 772,2112 892,2112 1012,2112 1136,2112 1256,2108 1376,2108 1496,2108 1628,2108"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Letošního roku projednalo obecní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="00e6d4b5-5e9a-4b7f-897b-5f2d3ae72601" index="17" custom="heights_v2:[45.1,20.1]">
+        <Coords points="481,2135 479,2200 612,2204 736,2204 863,2204 989,2208 1116,2204 1240,2204 1368,2204 1493,2204 1629,2200 1627,2135 1491,2139 1368,2139 1240,2139 1116,2139 987,2143 865,2139 736,2139 612,2139 481,2135"/>
+        <Baseline points="480,2180 612,2184 736,2184 864,2184 988,2188 1116,2184 1240,2184 1368,2184 1492,2184 1628,2180"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zastupitelstvo nalehavou potřebu zřízení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0696188f-7759-4ce6-83c3-ad6b8c269aa0" index="18" custom="heights_v2:[45.5,20.1]">
+        <Coords points="480,2206 480,2272 608,2272 732,2272 856,2272 980,2272 1100,2272 1224,2272 1349,2272 1473,2268 1605,2264 1603,2199 1471,2203 1347,2207 1224,2206 1100,2206 980,2206 856,2206 732,2206 608,2206 480,2206"/>
+        <Baseline points="480,2252 608,2252 732,2252 856,2252 980,2252 1100,2252 1224,2252 1348,2252 1472,2248 1604,2244"/>
+        <TextEquiv conf="1.000">
+          <Unicode>telefonní hovorny ve zdejší obci. Hovorna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2a4aa1ab-f493-4c60-9db8-12c75dc5f67a" index="19" custom="heights_v2:[47.7,20.8]">
+        <Coords points="1653,2305 1653,2280 1513,2276 1384,2276 1256,2276 1128,2276 996,2276 867,2280 740,2280 613,2276 477,2272 475,2341 611,2345 740,2349 869,2349 996,2345 1128,2345 1256,2345 1384,2345 1511,2345 1651,2349 1653,2305"/>
+        <Baseline points="476,2320 612,2324 740,2328 868,2328 996,2324 1128,2324 1256,2324 1384,2324 1512,2324 1652,2328"/>
+        <TextEquiv conf="1.000">
+          <Unicode>byla zřízena v místnostech p. Klementa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6b56742-ec6e-4d8e-9ef0-592ddc6a5fc1" index="20" custom="heights_v2:[45.7,21.3]">
+        <Coords points="484,2413 493,2413 619,2413 740,2421 749,2421 763,2421 876,2417 1005,2417 1132,2413 1260,2413 1365,2413 1387,2413 1406,2414 1515,2417 1631,2424 1651,2425 1651,2420 1652,2358 1519,2350 1389,2346 1260,2346 1132,2346 1003,2350 876,2350 747,2354 623,2346 484,2346 484,2413"/>
+        <Baseline points="484,2392 620,2392 748,2400 876,2396 1004,2396 1132,2392 1260,2392 1388,2392 1516,2396 1651,2404"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hradilíka, hostinského ve Lhotě č. 15.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="fb7a4b7d-e39c-401e-a8f5-8101b252ce06">
+      <Coords points="1784,930 1717,934 1726,1019 1727,1006 1855,1009 1852,930 1784,930"/>
+      <TextLine id="8441cb2b-867b-4472-aceb-7e7a4ba31403" index="0" custom="heights_v2:[46.0,21.4]">
+        <Coords points="1717,937 1724,1001 1784,997 1852,997 1852,930 1784,930 1717,934 1717,937"/>
+        <Baseline points="1722,980 1784,976 1852,976"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Počet</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="08acd57b-871e-489c-bbed-15fe96721d85">
+      <Coords points="1726,1019 1723,1073 1948,1077 1948,1009 1727,1006 1726,1019"/>
+      <TextLine id="d954d378-ce28-4855-9201-923b4e424fef" index="0" custom="heights_v2:[46.6,21.2]">
+        <Coords points="1725,1037 1723,1073 1948,1077 1948,1009 1888,1009 1836,1009 1784,1009 1736,1006 1727,1006 1725,1037"/>
+        <Baseline points="1724,1052 1784,1056 1836,1056 1888,1056 1948,1056"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obyvatel r.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="b80eb03d-9c02-4b5a-ae01-85122723e04f">
+      <Coords points="1742,1074 1739,1141 1873,1141 1869,1077 1742,1074"/>
+      <TextLine id="b6c2ca85-42bf-4bd1-a907-a91fc4752bbe" index="0" custom="heights_v2:[43.7,21.3]">
+        <Coords points="1740,1123 1739,1141 1873,1141 1869,1077 1862,1077 1801,1080 1743,1076 1740,1123"/>
+        <Baseline points="1740,1120 1804,1124 1872,1120"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1941</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="bd724482-6505-4092-9556-9abf6f0ea2e6">
+      <Coords points="1732,1420 1728,1561 1935,1569 1960,1499 1960,1424 1732,1420"/>
+      <TextLine id="ad80d2d8-2255-4522-9548-cee7796c76c1" index="0" custom="heights_v2:[52.2,23.0]">
+        <Coords points="1960,1499 1960,1499 1960,1424 1948,1424 1896,1424 1882,1423 1732,1420 1732,1495 1792,1495 1842,1495 1896,1499 1960,1499"/>
+        <Baseline points="1732,1472 1792,1472 1844,1472 1896,1476 1960,1476"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kontingenta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d32bf9b5-8755-4864-bb6a-f602df6239ba" index="1" custom="heights_v2:[45.4,21.0]">
+        <Coords points="1730,1495 1728,1561 1729,1561 1799,1561 1863,1565 1934,1569 1935,1569 1939,1503 1867,1499 1803,1495 1730,1495"/>
+        <Baseline points="1729,1540 1800,1540 1864,1544 1936,1548"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ce dobytka</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="6efee1d9-3288-475e-974a-130817d0730a">
+      <Coords points="1796,1774 1733,1778 1738,1852 1912,1848 1912,1774 1796,1774"/>
+      <TextLine id="b4bac24e-3cfb-4ee1-89cc-231afbeb1604" index="0" custom="heights_v2:[49.9,23.7]">
+        <Coords points="1733,1778 1738,1852 1796,1848 1848,1848 1912,1848 1912,1774 1848,1774 1796,1774 1733,1778"/>
+        <Baseline points="1736,1828 1796,1824 1848,1824 1912,1824"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Sklizeň</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="48873256-5d32-439a-abcc-91325f0e7428">
+      <Coords points="1828,2194 1760,2194 1760,2266 1780,2339 1920,2339 1948,2270 1948,2198 1828,2194"/>
+      <TextLine id="4a181d53-2ca4-4630-ba90-c2fabd399c53" index="0" custom="heights_v2:[50.0,22.3]">
+        <Coords points="1765,2194 1760,2194 1760,2266 1760,2266 1822,2266 1880,2270 1948,2270 1948,2270 1948,2198 1948,2198 1880,2198 1828,2194 1765,2194"/>
+        <Baseline points="1760,2244 1824,2244 1880,2248 1948,2248"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Sklizeň</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="39bc2548-03e3-4630-af9d-a91035d2add6" index="1" custom="heights_v2:[49.9,23.2]">
+        <Coords points="1780,2339 1920,2339 1920,2266 1848,2266 1780,2266 1780,2339"/>
+        <Baseline points="1780,2316 1848,2316 1920,2316"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ovoce</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c1f5714b-7767-4ecc-974d-07daa47fec6b">
+      <Coords points="1989,1993 1960,2063 1960,2147 2128,2147 2208,2067 2216,1854 1996,1850 1986,1929 1989,1993"/>
+      <TextLine id="41681bd5-58eb-4d16-8a13-2caa8c287b23" index="0" custom="heights_v2:[41.7,19.8]">
+        <Coords points="2214,1916 2216,1854 2156,1854 2104,1854 2067,1851 2012,1850 1996,1850 1996,1912 2050,1912 2104,1916 2156,1916 2214,1916"/>
+        <Baseline points="1996,1892 2052,1892 2104,1896 2156,1896 2214,1896"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pšenice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="66358424-9224-4528-ad07-ae7306e85fd1" index="1" custom="heights_v2:[43.5,21.1]">
+        <Coords points="1986,1929 1986,1929 1988,1974 1989,1993 2060,1989 2132,1989 2132,1925 2060,1925 1986,1929"/>
+        <Baseline points="1988,1972 2060,1968 2132,1968"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Žito</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="76f90c13-c2db-4531-a517-4874f6f45f1a" index="2" custom="heights_v2:[49.4,23.2]">
+        <Coords points="2208,2067 2208,2067 2208,1995 2148,1995 2100,1995 2048,1995 1992,1995 1992,2067 2048,2067 2100,2067 2148,2067 2208,2067"/>
+        <Baseline points="1992,2044 2048,2044 2100,2044 2148,2044 2208,2044"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ječmen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="11817769-fa03-4f20-a1de-81eb6fecc1a5" index="3" custom="heights_v2:[57.3,26.8]">
+        <Coords points="1960,2063 1960,2063 1960,2147 2044,2147 2128,2147 2128,2063 2044,2063 1960,2063"/>
+        <Baseline points="1960,2120 2044,2120 2128,2120"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Oves</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="506adbfd-ad29-4e53-8151-944c059f77e9">
+      <Coords points="1981,1218 2002,1713 2212,1709 2352,1569 2644,1565 2808,1705 2816,1775 2765,1981 2760,2119 3012,2119 3090,1978 3096,1914 3181,1693 3228,1628 3225,1424 3180,1285 3179,1135 3216,1007 3216,933 2538,937 2004,929 2004,1003 1981,1218"/>
+      <TextLine id="14e7f6b6-9749-405a-b1f7-8d5777624a96" index="0" custom="heights_v2:[51.4,22.9]">
+        <Coords points="3216,1007 3216,933 3021,934 2938,937 2884,935 2538,937 2004,929 2004,1003 2143,1003 2276,1007 2407,1007 2541,1011 2676,1007 2807,1007 2941,1011 3072,1007 3216,1007"/>
+        <Baseline points="2004,980 2144,980 2276,984 2408,984 2540,988 2676,984 2808,984 2940,988 3072,984 3216,984"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Začátkem roku. Koncem roku mar. zemř.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bb04ab8a-23d9-4520-8247-107ded8f4934" index="1" custom="heights_v2:[40.5,18.1]">
+        <Coords points="3136,1007 3136,1066 3196,1066 3196,1007 3136,1007"/>
+        <Baseline points="3136,1048 3196,1048"/>
+        <TextEquiv>
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c1bb74e9-a73f-4fce-8a8c-55ff20dc391f" index="2" custom="heights_v2:[46.0,20.4]">
+        <Coords points="2652,1006 2652,1072 2724,1072 2800,1072 2800,1006 2724,1006 2652,1006"/>
+        <Baseline points="2652,1052 2724,1052 2800,1052"/>
+        <TextEquiv conf="1.000">
+          <Unicode>440</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="89ce443d-ff95-42ee-b85a-d53c5a914b48" index="3" custom="heights_v2:[53.4,23.2]">
+        <Coords points="2076,1007 2076,1083 2132,1083 2184,1083 2232,1083 2292,1083 2292,1007 2232,1007 2184,1007 2132,1007 2076,1007"/>
+        <Baseline points="2076,1060 2132,1060 2184,1060 2232,1060 2292,1060"/>
+        <TextEquiv conf="1.000">
+          <Unicode>422</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="da3b72ef-af21-4f82-80a0-02f0b480620d" index="4" custom="heights_v2:[49.0,21.8]">
+        <Coords points="3179,1206 3179,1153 3179,1135 3039,1139 2907,1143 2780,1143 2648,1143 2516,1143 2388,1143 2255,1147 2124,1147 1988,1151 1987,1163 1989,1222 2124,1218 2257,1218 2388,1214 2516,1214 2648,1214 2780,1214 2909,1214 3041,1210 3179,1206"/>
+        <Baseline points="1988,1200 2124,1196 2256,1196 2388,1192 2516,1192 2648,1192 2780,1192 2908,1192 3040,1188 3179,1184"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 4. 8. 1941 zemřela pí Marie Hartlová</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dd2211ab-d008-46ed-aeed-d3e3ca30b38d" index="5" custom="heights_v2:[46.4,20.9]">
+        <Coords points="1981,1223 1984,1285 2116,1289 2249,1289 2380,1285 2512,1285 2644,1285 2776,1285 2908,1285 3040,1285 3180,1285 3180,1218 3040,1218 2908,1218 2776,1218 2644,1218 2512,1218 2380,1218 2247,1222 2116,1222 1981,1218 1981,1223"/>
+        <Baseline points="1983,1264 2116,1268 2248,1268 2380,1264 2512,1264 2644,1264 2776,1264 2908,1264 3040,1264 3180,1264"/>
+        <TextEquiv conf="1.000">
+          <Unicode>manželka místního řídícího uč. ve svém</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f35d9d34-6853-4a6c-ac2b-a44dd0e4fc3c" index="6" custom="heights_v2:[48.5,21.6]">
+        <Coords points="1984,1291 1987,1361 2088,1358 2188,1358 2283,1358 2384,1362 2480,1362 2580,1362 2676,1362 2776,1362 2884,1362 2884,1292 2776,1292 2676,1292 2580,1292 2480,1292 2384,1292 2286,1288 2188,1288 2088,1288 1984,1291"/>
+        <Baseline points="1986,1340 2088,1336 2188,1336 2284,1336 2384,1340 2480,1340 2580,1340 2676,1340 2776,1340 2884,1340"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rodišti Rozstání u Prostějova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5cd7ca93-8f4e-4f98-8c00-4bfbbed9c4ea" index="7" custom="heights_v2:[47.5,21.4]">
+        <Coords points="1990,1428 1993,1497 2128,1497 2264,1497 2401,1497 2536,1493 2672,1493 2809,1493 2944,1489 3079,1489 3223,1493 3225,1432 3225,1424 3081,1420 2944,1420 2807,1424 2672,1424 2536,1424 2399,1428 2264,1428 2128,1428 1990,1428"/>
+        <Baseline points="1992,1476 2128,1476 2264,1476 2400,1476 2536,1472 2672,1472 2808,1472 2944,1468 3080,1468 3224,1472"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Stav dobytka ke dni 4. XII. 1940 206 kusů hov.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ca982d91-298e-411c-bd21-6978b0a8c31c" index="8" custom="heights_v2:[43.9,20.0]">
+        <Coords points="2841,1496 2845,1560 2898,1556 2948,1560 2996,1560 3044,1560 3092,1560 3152,1560 3152,1496 3092,1496 3044,1496 2996,1496 2948,1496 2904,1492 2841,1496"/>
+        <Baseline points="2844,1540 2900,1536 2948,1540 2996,1540 3044,1540 3092,1540 3152,1540"/>
+        <TextEquiv conf="1.000">
+          <Unicode>250, 81 ha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ebc4f3c3-64f0-4e96-81b7-784cd3864e9d" index="9" custom="heights_v2:[46.2,21.4]">
+        <Coords points="1994,1514 1996,1566 2068,1569 2140,1569 2212,1569 2280,1569 2352,1569 2352,1569 2548,1566 2564,1565 2613,1565 2644,1565 2644,1498 2564,1498 2489,1502 2424,1502 2352,1502 2280,1502 2212,1502 2140,1502 2068,1502 1994,1498 1994,1514"/>
+        <Baseline points="1995,1544 2068,1548 2140,1548 2212,1548 2280,1548 2352,1548 2424,1548 2492,1548 2564,1544 2644,1544"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Výměra zemědělské půdy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5fe92c4e-9d94-4ef0-a613-30aa80e19bd7" index="10" custom="heights_v2:[43.4,20.5]">
+        <Coords points="3228,1628 3228,1628 3227,1565 3168,1565 3120,1565 3072,1565 3024,1565 2976,1565 2928,1565 2876,1569 2821,1573 2825,1636 2882,1632 2928,1628 2976,1628 3024,1628 3072,1628 3120,1628 3168,1628 3228,1628"/>
+        <Baseline points="2824,1616 2880,1612 2928,1608 2976,1608 3024,1608 3072,1608 3120,1608 3168,1608 3228,1608"/>
+        <TextEquiv conf="1.000">
+          <Unicode>18.255 kg masa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5fba9b4f-e8be-495a-addd-0af826eb76b2" index="11" custom="heights_v2:[44.0,21.6]">
+        <Coords points="2008,1580 2008,1646 2066,1646 2116,1642 2168,1642 2228,1642 2228,1576 2168,1576 2116,1576 2061,1580 2008,1580"/>
+        <Baseline points="2008,1624 2064,1624 2116,1620 2168,1620 2228,1620"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Předpis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1218b9a8-084a-47f0-b4e5-b1182263e64f" index="12" custom="heights_v2:[43.4,20.8]">
+        <Coords points="3181,1693 3181,1692 3177,1629 3121,1633 3080,1633 3036,1633 2992,1633 2948,1633 2900,1637 2856,1641 2808,1641 2808,1705 2862,1705 2906,1701 2948,1697 2992,1697 3036,1697 3080,1697 3125,1697 3181,1693"/>
+        <Baseline points="2808,1684 2860,1684 2904,1680 2948,1676 2992,1676 3036,1676 3080,1676 3124,1676 3180,1672"/>
+        <TextEquiv conf="1.000">
+          <Unicode>19.488 kg "</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1ee6204f-7c3e-44d1-82c4-7bd61de96ca5" index="13" custom="heights_v2:[44.2,21.2]">
+        <Coords points="1999,1648 2002,1713 2004,1713 2056,1709 2104,1709 2152,1709 2203,1709 2212,1709 2212,1644 2152,1644 2104,1644 2056,1644 1999,1648"/>
+        <Baseline points="2001,1692 2056,1688 2104,1688 2152,1688 2212,1688"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dodáno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4e522b93-596e-44fd-9964-cf1eaf4f7f9d" index="14" custom="heights_v2:[46.5,22.1]">
+        <Coords points="3154,1762 3160,1748 3160,1694 3124,1694 3124,1762 3154,1762"/>
+        <Baseline points="3124,1740 3160,1740"/>
+        <TextEquiv>
+          <Unicode>„</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0b7d655b-fbd0-4b58-901a-b5d3e485c354" index="15" custom="heights_v2:[50.7,23.3]">
+        <Coords points="2816,1775 2816,1775 2874,1775 2924,1771 2972,1771 3024,1771 3084,1771 3084,1697 3024,1697 2972,1697 2924,1697 2868,1701 2816,1701 2816,1775"/>
+        <Baseline points="2816,1752 2872,1752 2924,1748 2972,1748 3024,1748 3084,1748"/>
+        <TextEquiv conf="1.000">
+          <Unicode>7 287 kg „</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="61cd1836-0e63-440c-a6d0-0b0e83a4a4f4" index="16" custom="heights_v2:[51.3,22.4]">
+        <Coords points="3096,1914 3096,1914 3096,1841 3040,1841 2996,1841 2948,1841 2904,1841 2856,1841 2800,1845 2806,1918 2856,1914 2904,1914 2948,1914 2996,1914 3040,1914 3096,1914"/>
+        <Baseline points="2804,1896 2856,1892 2904,1892 2948,1892 2996,1892 3040,1892 3096,1892"/>
+        <TextEquiv conf="1.000">
+          <Unicode>274, 40 q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="16c117da-16ed-4084-9790-b2e4e0957aa8" index="17" custom="heights_v2:[50.6,22.4]">
+        <Coords points="2784,1914 2790,1986 2840,1982 2888,1982 2936,1982 2984,1982 3034,1982 3090,1978 3084,1906 3028,1910 2984,1909 2936,1909 2888,1909 2840,1909 2784,1914"/>
+        <Baseline points="2788,1964 2840,1960 2888,1960 2936,1960 2984,1960 3032,1960 3088,1956"/>
+        <TextEquiv conf="1.000">
+          <Unicode>399, 49 q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9b91431e-4bfc-4c9e-82db-75230ac063fc" index="18" custom="heights_v2:[51.1,23.0]">
+        <Coords points="2765,1981 2765,1985 2770,2055 2828,2051 2880,2051 2932,2051 2984,2051 3048,2051 3048,1977 2984,1977 2932,1977 2880,1977 2828,1977 2765,1981"/>
+        <Baseline points="2768,2032 2828,2028 2880,2028 2932,2028 2984,2028 3048,2028"/>
+        <TextEquiv conf="1.000">
+          <Unicode>460, 91 q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="08e2f15e-d897-475e-a883-97f342246138" index="19" custom="heights_v2:[52.7,23.2]">
+        <Coords points="2763,2043 2760,2119 2816,2119 2858,2115 2905,2119 3012,2119 3012,2043 2956,2043 2908,2043 2864,2039 2808,2043 2763,2043"/>
+        <Baseline points="2761,2096 2812,2096 2860,2092 2908,2096 2956,2096 3012,2096"/>
+        <TextEquiv conf="1.000">
+          <Unicode>444,48</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="faf5fa23-b85a-4449-80b2-28f5a0b688e6">
+      <Coords points="2172,1716 2100,1716 2100,1780 2696,1772 2696,1708 2172,1716"/>
+      <TextLine id="35a99ece-8369-4038-b7e7-db859ce82e15" index="0" custom="heights_v2:[43.9,20.2]">
+        <Coords points="2100,1716 2100,1780 2278,1778 2300,1776 2364,1776 2382,1776 2604,1773 2620,1772 2680,1772 2696,1772 2696,1708 2686,1708 2598,1709 2553,1712 2492,1712 2428,1712 2424,1712 2259,1715 2233,1716 2172,1716 2100,1716"/>
+        <Baseline points="2100,1760 2172,1760 2236,1760 2300,1756 2364,1756 2428,1756 2492,1756 2556,1756 2620,1752 2696,1752"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vepřového masa dodáno</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="cb427b9a-1bd2-45a4-83ec-ca6c6cfebc07">
+      <Coords points="1992,2198 1984,2274 1990,2423 2312,2423 2381,2347 3169,2331 3177,2264 3174,2186 2906,2194 2648,2190 1992,2198"/>
+      <TextLine id="0bec93b9-0b87-4554-8be2-6a9449fa2232" index="0" custom="heights_v2:[54.2,23.5]">
+        <Coords points="3176,2232 3174,2186 2906,2194 2648,2190 2636,2190 2514,2194 2388,2194 2254,2198 2128,2198 2009,2198 1992,2198 1992,2276 2128,2276 2257,2275 2388,2272 2517,2271 2648,2268 2775,2267 2909,2271 3037,2268 3177,2264 3176,2232"/>
+        <Baseline points="1992,2252 2128,2252 2256,2252 2388,2248 2516,2248 2648,2244 2776,2244 2908,2248 3036,2244 3176,2240"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Sklizeň ovoce byla v tomto roce nepatrná</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="91d43790-ac0d-4f73-ba49-93e0e8ecd72c" index="1" custom="heights_v2:[53.9,23.2]">
+        <Coords points="1984,2274 1987,2351 2120,2351 2249,2351 2381,2347 2381,2347 2381,2347 2399,2347 2508,2343 2567,2343 3169,2331 3166,2254 3026,2258 2898,2262 2768,2262 2638,2266 2508,2266 2378,2270 2246,2274 2120,2274 1984,2274"/>
+        <Baseline points="1986,2328 2120,2328 2248,2328 2380,2324 2508,2320 2640,2320 2768,2316 2900,2316 3028,2312 3168,2308"/>
+        <TextEquiv conf="1.000">
+          <Unicode>následkem jarních mrazů a řáděním</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="70448933-37a4-4756-921e-a0920c71ee35" index="2" custom="heights_v2:[52.5,23.4]">
+        <Coords points="1987,2347 1990,2423 1994,2423 2044,2419 2096,2419 2146,2419 2195,2423 2312,2423 2312,2347 2252,2347 2200,2347 2152,2344 2096,2343 2044,2343 1987,2347"/>
+        <Baseline points="1989,2400 2044,2396 2096,2396 2148,2396 2200,2400 2252,2400 2312,2400"/>
+        <TextEquiv conf="1.000">
+          <Unicode>květopasu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

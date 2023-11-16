@@ -1,0 +1,94 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:04.234328</Created>
+    <LastChange>2023-03-26T21:22:04.234328</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_002.jpg" imageWidth="1995" imageHeight="3147">
+    <TextRegion id="a64e06d5-8782-4c5f-992d-5a26c8695264">
+      <Coords points="371,796 208,796 208,948 855,942 1662,913 1657,762 849,791 371,796"/>
+      <TextLine id="ea2bc3fd-c0df-41aa-b6f8-3a9e00b72ef0" index="0" custom="heights_v2:[108.8,42.8]">
+        <Coords points="208,796 208,948 215,948 431,946 536,942 692,942 840,942 855,942 976,938 1010,936 1172,931 1327,925 1489,919 1542,917 1662,913 1657,762 849,791 387,796 371,796 208,796"/>
+        <Baseline points="208,905 375,905 536,899 692,899 853,899 1009,894 1170,888 1326,882 1487,876 1660,871"/>
+        <TextEquiv conf="0.995">
+          <Unicode>1. Pamětní kniha města</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9000d5d1-a1f9-468b-8501-ce2732bd7a7c">
+      <Coords points="545,1176 415,1176 415,1275 430,1338 432,1504 611,1504 824,1428 1463,1422 1607,1428 1611,1332 1507,1164 1257,1170 1124,1014 686,1020 545,1176"/>
+      <TextLine id="cb23c9bc-99f9-4fe2-a0c3-d75f0d5a0180" index="0" custom="heights_v2:[87.1,34.0]">
+        <Coords points="1124,1014 1124,1014 1038,1020 974,1020 905,1020 836,1020 767,1020 706,1020 686,1020 686,1141 767,1141 836,1141 905,1141 974,1141 1046,1141 1132,1135 1124,1014"/>
+        <Baseline points="686,1107 767,1107 836,1107 905,1107 974,1107 1043,1107 1130,1101"/>
+        <TextEquiv conf="0.974">
+          <Unicode>Přerova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="413b6071-d067-4922-a206-aff48c86496d" index="1" custom="heights_v2:[69.4,29.7]">
+        <Coords points="545,1176 415,1176 415,1275 540,1275 663,1281 784,1281 901,1281 1020,1275 1143,1275 1257,1269 1379,1269 1512,1263 1507,1165 1507,1164 1375,1170 1257,1170 1138,1176 1020,1176 896,1182 784,1182 663,1182 545,1176 545,1176 545,1176"/>
+        <Baseline points="415,1245 542,1245 663,1251 784,1251 899,1251 1020,1245 1141,1245 1257,1239 1378,1239 1510,1234"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Od roku 1922 do března 1925.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="61800e20-f871-465b-9d1b-887c43138d04" index="2" custom="heights_v2:[68.9,26.7]">
+        <Coords points="430,1338 430,1338 430,1354 433,1433 571,1428 698,1428 824,1428 869,1428 1300,1424 1337,1422 1463,1422 1607,1428 1611,1332 1611,1332 1467,1326 1337,1326 1208,1332 1084,1332 951,1332 824,1332 698,1332 571,1332 430,1338"/>
+        <Baseline points="432,1407 571,1401 698,1401 824,1401 951,1401 1084,1401 1211,1401 1337,1395 1464,1395 1608,1401"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Tato kniha má 240 (dvě stě čtyřicet)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="19a47851-8a22-4099-bce7-2638e1dbe0d3" index="3" custom="heights_v2:[55.2,22.2]">
+        <Coords points="432,1426 432,1504 611,1504 611,1426 432,1426"/>
+        <Baseline points="432,1482 611,1482"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stran.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="f0c417a4-28f0-410d-8b46-9265cd1953a6">
+      <Coords points="461,1554 357,1554 357,1645 1211,1640 1211,1548 461,1554"/>
+      <TextLine id="529a16ed-c7e5-4cc1-9e80-6ac47a7d3f89" index="0" custom="heights_v2:[66.1,25.5]">
+        <Coords points="461,1554 357,1554 357,1645 1091,1641 1107,1640 1211,1640 1211,1548 1202,1548 1093,1549 1011,1554 922,1554 830,1554 738,1554 646,1554 553,1554 481,1554 461,1554"/>
+        <Baseline points="357,1620 461,1620 553,1620 646,1620 738,1620 830,1620 922,1620 1015,1620 1107,1614 1211,1614"/>
+        <TextEquiv conf="0.998">
+          <Unicode>V Přerově v březnu 1923.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="dd597321-7aa1-4996-bc45-d541b7fa9e96">
+      <Coords points="244,1810 173,1810 173,1881 231,1951 600,1951 669,1876 669,1804 523,1798 244,1810"/>
+      <TextLine id="7a2f0842-dd20-4d76-902d-5de1b4af812b" index="0" custom="heights_v2:[52.3,19.3]">
+        <Coords points="244,1810 173,1810 173,1881 173,1881 249,1881 317,1876 386,1876 451,1876 517,1870 588,1876 669,1876 669,1804 669,1804 588,1804 523,1798 445,1804 386,1804 384,1804 244,1810"/>
+        <Baseline points="173,1862 248,1862 317,1856 386,1856 450,1856 519,1851 588,1856 669,1856"/>
+        <TextEquiv conf="0.633">
+          <Unicode>Jaroslav Strašil,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9656b8b1-5f28-4b10-acf4-c2373897d77f" index="1" custom="heights_v2:[52.5,19.7]">
+        <Coords points="231,1951 231,1951 311,1951 380,1951 450,1951 519,1951 600,1951 600,1879 519,1879 450,1879 380,1879 311,1879 231,1879 231,1951"/>
+        <Baseline points="231,1931 311,1931 380,1931 450,1931 519,1931 600,1931"/>
+        <TextEquiv conf="0.979">
+          <Unicode>městský radní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="4166763e-6c47-42e7-91e3-eb62004665c1">
+      <Coords points="1245,1756 1164,1762 1173,1868 1268,1942 1441,1942 1601,1879 1608,1773 1390,1756 1245,1756"/>
+      <TextLine id="e59d1376-0722-47c3-92bb-52655a5e07c5" index="0" custom="heights_v2:[77.4,29.0]">
+        <Coords points="1245,1756 1164,1762 1168,1807 1173,1868 1245,1862 1314,1862 1381,1862 1450,1868 1520,1874 1600,1879 1601,1879 1606,1810 1608,1773 1527,1768 1459,1762 1390,1756 1342,1756 1245,1756"/>
+        <Baseline points="1171,1839 1245,1833 1314,1833 1384,1833 1453,1839 1522,1845 1603,1851"/>
+        <TextEquiv conf="0.000">
+          <Unicode>V. Kar. Novák,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c57c8ae2-16c3-4331-935a-4f00b4f25a87" index="1" custom="heights_v2:[60.6,22.3]">
+        <Coords points="1268,1942 1441,1942 1441,1942 1441,1859 1268,1859 1268,1942"/>
+        <Baseline points="1268,1920 1441,1920"/>
+        <TextEquiv conf="0.796">
+          <Unicode>stants</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

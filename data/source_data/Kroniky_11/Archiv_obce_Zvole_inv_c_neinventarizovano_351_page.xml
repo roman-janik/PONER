@@ -1,0 +1,295 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:19:43.166181</Created>
+    <LastChange>2023-01-19T00:19:43.166181</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_obce_Zvole_inv_c_neinventarizovano_351.jpg" imageWidth="4688" imageHeight="3493">
+    <TextRegion id="8619abf0-7d8d-407f-8ef6-e152540f0fec">
+      <Coords points="3061,307 3054,420 3526,430 3526,317 3061,307"/>
+      <TextLine id="7ff169f6-53ac-4b09-84d6-b288f5d933f3" index="0" custom="heights_v2:[78.6,34.8]">
+        <Coords points="3061,307 3058,358 3054,420 3213,423 3213,423 3263,423 3289,425 3367,427 3413,427 3440,428 3521,430 3526,430 3526,317 3503,317 3468,317 3450,315 3351,313 3314,313 3298,312 3199,310 3164,310 3112,310 3065,307 3061,307"/>
+        <Baseline points="3056,385 3112,389 3164,389 3213,389 3265,389 3314,392 3366,392 3415,392 3468,395 3526,395"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Antonín Böhm</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="f2d9d3bf-bafe-4a79-b8e0-d7015651e17e">
+      <Coords points="2536,1528 2533,1607 2557,1700 2570,2044 2586,2183 2566,2284 2563,2817 2582,2925 2589,3167 3473,3180 3768,3196 3922,3193 4025,3121 4232,3131 4444,3128 4526,3045 4502,2738 4523,2637 4516,2549 4527,2209 4495,2074 4369,1814 4369,1732 4386,1639 4384,1561 4356,1465 4356,1393 4375,1214 4369,1049 4385,952 4386,882 4376,792 4320,706 4281,607 4281,534 3486,514 2847,508 2691,598 2563,598 2563,852 2553,1023 2562,1269 2560,1445 2536,1528"/>
+      <TextLine id="f15f62a2-78ff-434d-8c7d-7624b6d7706d" index="0" custom="heights_v2:[50.6,22.4]">
+        <Coords points="4281,534 4274,534 4114,534 3958,531 3803,524 3642,521 3486,514 3327,514 3171,511 2847,508 2847,581 3010,581 3167,584 3327,587 3483,587 3640,594 3800,597 3957,604 4114,607 4281,607 4281,534"/>
+        <Baseline points="2847,558 3011,558 3167,562 3327,565 3484,565 3641,571 3801,575 3957,581 4114,584 4281,584"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Antonín Böhm narozen 12. března 1832 v Krumpachu, syn Františka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="978b7d83-4833-410f-a6c1-26bf8c1d70bc" index="1" custom="heights_v2:[48.1,20.5]">
+        <Coords points="2563,598 2563,667 2691,667 2811,667 2932,667 3052,667 3176,670 3298,674 3418,674 3539,677 3670,677 3670,608 3539,608 3420,605 3298,605 3178,602 3054,598 2932,598 2811,598 2691,598 2563,598"/>
+        <Baseline points="2563,647 2691,647 2811,647 2932,647 3053,647 3177,650 3298,653 3419,653 3539,656 3670,656"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Böhma domkaře a manželky jeho Anny, roz. Mikulové.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c0db02f3-df36-4bf1-aa26-b1e122812eac" index="2" custom="heights_v2:[48.5,21.3]">
+        <Coords points="2842,680 2840,749 3007,753 3170,753 3333,756 3496,759 3660,766 3823,769 3986,772 4150,776 4320,776 4320,706 4150,706 3988,703 3825,699 3661,696 3499,690 3335,686 3171,683 3007,683 2842,680"/>
+        <Baseline points="2841,728 3007,731 3171,731 3334,735 3497,738 3660,744 3824,748 3987,751 4150,754 4320,754"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Byl výborným učitelem, vychovatelem. Dobrým štěpařem a velmi nadaným</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="faa673f2-b3bd-47a0-a91c-a3a16a19565c" index="3" custom="heights_v2:[50.6,21.7]">
+        <Coords points="4376,793 4376,792 4376,792 4167,789 3967,789 3770,782 3570,779 3368,772 3167,772 2970,766 2770,762 2563,762 2563,835 2769,835 2967,838 3167,845 3366,845 3569,851 3767,854 3967,861 4166,861 4375,864 4376,793"/>
+        <Baseline points="2563,813 2769,813 2968,816 3167,823 3366,823 3569,829 3768,833 3967,839 4166,839 4375,842"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hudebníkem. Hrál na vše možné nástroje. Složil také pěknou polku „U kanonu stál“, kterou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="41a3bd83-a298-4f98-a74d-b6eefe006c8b" index="4" custom="heights_v2:[49.1,21.5]">
+        <Coords points="2563,852 2563,923 2769,923 2971,926 3170,929 3373,932 3571,936 3774,942 3973,946 4176,949 4385,952 4386,882 4177,878 3975,875 3775,872 3574,865 3374,862 3171,859 2972,855 2770,852 2563,852"/>
+        <Baseline points="2563,901 2769,901 2971,904 3171,908 3373,911 3572,914 3775,921 3974,924 4176,927 4385,931"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dubická kapela jako velmi časovou a oblíbenou polku hrávala. Měl dobře nacvičené kostel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4ae097b6-5982-4f68-b37d-2ec0578eca99" index="5" custom="heights_v2:[49.8,21.3]">
+        <Coords points="2558,939 2556,967 2557,1011 2755,1007 2951,1011 3147,1014 3343,1017 3536,1020 3732,1027 3928,1030 4124,1034 4326,1037 4327,966 4125,962 3929,959 3733,956 3538,949 3344,946 3148,943 2953,940 2757,936 2558,939"/>
+        <Baseline points="2557,989 2756,986 2952,989 3148,993 3344,996 3536,999 3732,1006 3928,1009 4124,1012 4326,1015"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ní zpěváky a poslechnouti si jeho Figurální mše jím řízené, zejména „pastoralku“ bylo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c66e4213-c914-4665-8698-9b54a6bad863" index="6" custom="heights_v2:[51.6,21.8]">
+        <Coords points="2553,1034 2556,1096 2759,1096 2958,1099 3160,1106 3360,1109 3559,1112 3761,1116 3960,1119 4160,1122 4369,1122 4369,1049 4160,1049 3962,1046 3762,1042 3560,1039 3361,1036 3162,1032 2960,1026 2760,1023 2553,1023 2553,1034"/>
+        <Baseline points="2555,1074 2759,1074 2958,1078 3161,1084 3360,1087 3559,1091 3762,1094 3961,1097 4160,1100 4369,1100"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vzácným požitkem. Spolupůsobili na kůře místní rolníci, jejich děti a četní okolní u-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1d4d6137-017b-4820-9763-40d7f779d15f" index="7" custom="heights_v2:[53.1,21.8]">
+        <Coords points="4375,1214 4372,1139 4166,1139 3968,1135 3769,1132 3566,1129 3368,1122 3169,1116 2966,1113 2767,1109 2560,1109 2560,1184 2765,1184 2964,1187 3167,1191 3366,1197 3565,1204 3768,1207 3967,1210 4166,1214 4375,1214"/>
+        <Baseline points="2560,1162 2766,1162 2965,1166 3167,1169 3366,1175 3566,1182 3768,1185 3967,1189 4166,1192 4374,1192"/>
+        <TextEquiv conf="1.000">
+          <Unicode>čitelé. Byl s Janem Novotným spoluzakladatelem a prvním starostou prvního českého</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3c0a82da-210f-4409-ad96-8ff71d782f26" index="8" custom="heights_v2:[50.8,22.1]">
+        <Coords points="2566,1197 2562,1269 2628,1273 2691,1273 2753,1273 2811,1273 2872,1273 2935,1276 2994,1276 3056,1276 3125,1276 3125,1203 3056,1203 2994,1203 2935,1203 2876,1200 2811,1200 2753,1200 2691,1200 2628,1200 2566,1197"/>
+        <Baseline points="2563,1247 2628,1251 2691,1251 2753,1251 2811,1251 2873,1251 2935,1254 2994,1254 3056,1254 3125,1254"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hasičského sboru ve Zvoli.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b1ac8974-5f84-4c16-a09a-0b861a6ae105" index="9" custom="heights_v2:[53.1,22.3]">
+        <Coords points="2788,1286 2788,1361 2964,1361 3134,1364 3307,1368 3477,1371 3647,1374 3820,1377 3990,1377 4160,1381 4339,1381 4339,1305 4160,1305 3991,1302 3820,1302 3648,1299 3478,1295 3309,1292 3136,1289 2966,1286 2788,1286"/>
+        <Baseline points="2788,1339 2965,1339 3135,1342 3308,1345 3477,1349 3647,1352 3820,1355 3990,1355 4160,1358 4339,1358"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Životopis podává Dr. Jan Špringer, profesor na gymnasiu v Olomouci asice s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aa6de6e0-57d9-4408-a9e2-8f124de753f9" index="10" custom="heights_v2:[50.2,21.5]">
+        <Coords points="2561,1373 2560,1445 2560,1445 2762,1448 2962,1452 3160,1452 3356,1455 3555,1458 3755,1461 3951,1465 4150,1465 4356,1465 4356,1393 4150,1393 3951,1393 3756,1390 3557,1386 3357,1383 3162,1380 2962,1380 2763,1377 2561,1373"/>
+        <Baseline points="2560,1424 2762,1427 2962,1430 3161,1430 3357,1433 3556,1437 3755,1440 3951,1443 4150,1443 4356,1443"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tímto dodatkem: „Moje matka, Anna Špringerová, roz. Doleželová z Lukavice r. 1868, dobře</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b3a80a8e-213f-4483-aa1a-b59164aa7dde" index="11" custom="heights_v2:[51.4,21.7]">
+        <Coords points="2558,1454 2556,1527 2759,1533 2955,1533 3154,1537 3350,1540 3546,1543 3745,1547 3941,1550 4137,1550 4342,1553 4344,1480 4138,1477 3941,1477 3746,1473 3547,1470 3351,1467 3155,1464 2956,1460 2759,1460 2558,1454"/>
+        <Baseline points="2557,1505 2759,1512 2955,1512 3154,1515 3350,1518 3546,1522 3745,1525 3941,1528 4137,1528 4343,1531"/>
+        <TextEquiv conf="1.000">
+          <Unicode>znala nadučitele Böhma, dobrého zpěváka. Pastorálka byla s voláním kukačky „kuku“.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aae296cd-c7fa-457d-bcbe-2e6ddba992bb" index="12" custom="heights_v2:[55.3,23.0]">
+        <Coords points="2534,1574 2533,1607 2742,1616 2948,1623 3151,1623 3356,1626 3559,1633 3764,1636 3967,1639 4173,1643 4386,1639 4385,1593 4384,1561 4384,1561 4172,1564 3968,1561 3766,1558 3560,1554 3358,1548 3152,1545 2948,1545 2745,1538 2536,1528 2534,1574"/>
+        <Baseline points="2534,1584 2743,1593 2948,1600 3151,1600 3357,1603 3559,1610 3765,1613 3967,1616 4173,1620 4385,1616"/>
+        <TextEquiv conf="1.000">
+          <Unicode>?/zpívala Anna Küchová se Zvole + 1944) Podotýká, že na jitřní mši by nebyl zůstal nikdo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2df6d7fd-9fdd-4b4f-af10-ea8357954d11" index="13" custom="heights_v2:[52.4,22.1]">
+        <Coords points="2557,1699 2557,1700 2557,1700 2622,1700 2681,1700 2742,1700 2802,1704 2860,1704 2921,1704 2981,1707 3041,1707 3110,1704 3106,1629 3037,1633 2981,1632 2925,1629 2860,1629 2802,1629 2746,1626 2681,1626 2622,1626 2557,1626 2557,1699"/>
+        <Baseline points="2557,1678 2622,1678 2681,1678 2743,1678 2802,1682 2860,1682 2922,1682 2981,1685 3040,1685 3108,1682"/>
+        <TextEquiv conf="1.000">
+          <Unicode>doma, kdyby ho byl uvázal.“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a75d0bc0-ffde-4980-bb9c-9c1e02a02245" index="14" custom="heights_v2:[57.3,24.8]">
+        <Coords points="2686,1716 2688,1798 2876,1795 3063,1798 3248,1798 3435,1804 3617,1808 3804,1811 3990,1811 4176,1814 4369,1814 4369,1732 4176,1732 3991,1729 3804,1729 3619,1726 3436,1722 3251,1716 3063,1716 2878,1712 2686,1716"/>
+        <Baseline points="2687,1773 2877,1770 3063,1773 3249,1773 3435,1780 3618,1783 3804,1786 3990,1786 4176,1789 4369,1789"/>
+        <TextEquiv conf="1.000">
+          <Unicode>? Jeho syn Dr. Jaroslav Böhm byl komisařem osvětové služby v Praze. Druhý jeho</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0c61e7ff-3dfc-48d2-b60d-4bbeca817874" index="15" custom="heights_v2:[51.7,22.1]">
+        <Coords points="2561,1796 2563,1870 2761,1870 2961,1880 3161,1887 3360,1887 3555,1890 3755,1896 3954,1900 4154,1903 4359,1900 4358,1826 4153,1829 3955,1826 3756,1822 3558,1816 3361,1813 3161,1813 2963,1806 2765,1796 2561,1796"/>
+        <Baseline points="2563,1848 2762,1848 2962,1858 3161,1864 3360,1864 3556,1868 3755,1874 3954,1877 4153,1881 4359,1877"/>
+        <TextEquiv conf="1.000">
+          <Unicode>syn Antonín byl ředitelem měšťanské školy v Klimkovicích a prvním českým školským</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b129f2e9-56e9-4f21-8c9f-58b9448e618d" index="16" custom="heights_v2:[50.8,21.7]">
+        <Coords points="2566,1944 2567,1958 2769,1965 2964,1968 3164,1971 3359,1971 3555,1978 3755,1981 3951,1981 4147,1981 4353,1981 4353,1908 4147,1908 3951,1908 3755,1908 3557,1905 3362,1899 3164,1899 2966,1895 2770,1892 2568,1886 2566,1944"/>
+        <Baseline points="2566,1936 2769,1943 2965,1946 3164,1949 3360,1949 3556,1956 3755,1959 3951,1959 4147,1959 4353,1959"/>
+        <TextEquiv conf="1.000">
+          <Unicode>inspektorem pro okres Bílovec na Ostravsku. Jako jeho otec mistrovsky ovládal královský</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0cb5f978-9c1d-4230-a717-e671ab11a09d" index="17" custom="heights_v2:[47.0,19.7]">
+        <Coords points="2570,2037 2570,2044 2570,2044 2655,2044 2735,2044 2818,2047 2899,2047 2978,2051 3060,2051 3140,2047 3223,2051 3312,2047 3309,1981 3221,1984 3143,1981 3058,1984 2978,1984 2901,1981 2818,1981 2738,1977 2655,1977 2570,1977 2570,2037"/>
+        <Baseline points="2570,2024 2655,2024 2736,2024 2818,2028 2900,2028 2978,2031 3059,2031 3141,2028 3223,2031 3311,2028"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hudební nástroj - varhany .+ r. 1939.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f396861d-a3f9-4551-ba44-524e84c03eaf" index="18" custom="heights_v2:[37.1,17.1]">
+        <Coords points="4474,2031 4474,2030 4419,2024 4369,2023 4326,2020 4271,2020 4271,2074 4322,2074 4369,2077 4413,2077 4468,2084 4474,2031"/>
+        <Baseline points="4271,2057 4323,2057 4369,2060 4415,2060 4470,2067"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nově č 4.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e4aae109-e9e1-4348-add8-85e8038ea0ea" index="19" custom="heights_v2:[44.8,20.4]">
+        <Coords points="2582,2065 2583,2130 2798,2126 3011,2126 3220,2126 3432,2123 3640,2120 3853,2123 4061,2120 4273,2130 4492,2139 4495,2074 4276,2065 4064,2055 3852,2058 3641,2055 3431,2058 3219,2061 3011,2061 2798,2061 2582,2065"/>
+        <Baseline points="2583,2109 2798,2106 3011,2106 3219,2106 3432,2103 3641,2100 3853,2103 4062,2100 4274,2109 4493,2119"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V této kapitole je více nepravd a nesprávností a uvádím je jako pamětník</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="def86ec1-eb68-48be-8848-bf5284588dcc" index="20" custom="heights_v2:[39.0,18.0]">
+        <Coords points="4514,2156 4513,2149 4293,2136 4079,2129 3867,2123 3654,2119 3441,2123 3229,2123 3017,2123 2804,2126 2586,2126 2586,2183 2805,2183 3017,2180 3229,2180 3442,2180 3653,2176 3865,2180 4078,2186 4289,2193 4511,2206 4514,2156"/>
+        <Baseline points="2586,2165 2805,2165 3017,2162 3229,2162 3442,2162 3654,2158 3866,2162 4078,2168 4290,2175 4513,2188"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na pravou míru. Předně o Germánce Anně Küchové (viz č 47) Byla si-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3e34784f-c654-4778-993c-ae1ca34de9bb" index="21" custom="heights_v2:[37.4,17.2]">
+        <Coords points="2590,2170 2589,2224 2808,2231 3020,2231 3235,2234 3448,2241 3663,2241 3875,2244 4091,2251 4303,2257 4525,2264 4527,2209 4305,2203 4092,2196 3877,2190 3664,2186 3448,2186 3237,2180 3021,2176 2808,2176 2590,2170"/>
+        <Baseline points="2589,2207 2808,2214 3020,2214 3236,2217 3448,2224 3664,2224 3876,2227 4091,2233 4304,2240 4526,2246"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ce o něco starší, ale chodil jsem s ní do bývale utraquistické školy ve Zvolí do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c3e5545d-3977-4fa9-87a4-569dff0e3576" index="22" custom="heights_v2:[38.5,17.5]">
+        <Coords points="2587,2221 2586,2277 2805,2284 3017,2287 3229,2290 3441,2293 3653,2300 3866,2310 4078,2313 4289,2316 4508,2332 4512,2277 4293,2260 4079,2257 3867,2254 3656,2244 3443,2237 3230,2234 3018,2231 2805,2228 2587,2221"/>
+        <Baseline points="2586,2260 2805,2266 3017,2269 3229,2273 3442,2276 3654,2282 3866,2292 4078,2295 4290,2299 4509,2315"/>
+        <TextEquiv conf="1.000">
+          <Unicode>r 1877. Znala dobře česky ale nerada mluvila. V kostele nikdy a česky nezpí-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3804d259-a32e-4a58-adba-6c71821a3d54" index="23" custom="heights_v2:[37.3,17.0]">
+        <Coords points="2566,2284 2566,2339 2782,2339 2994,2342 3206,2342 3415,2348 3627,2358 3839,2361 4049,2368 4261,2371 4480,2371 4480,2317 4261,2317 4049,2314 3841,2307 3628,2304 3417,2294 3208,2288 2994,2288 2783,2284 2566,2284"/>
+        <Baseline points="2566,2322 2782,2322 2994,2325 3206,2325 3415,2331 3628,2341 3840,2344 4049,2351 4261,2354 4480,2354"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vala na kůru. Sám pán na „I choře zpíval a hrál na housle jak mohla</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f858edab-c3d8-49c7-8aa1-0e0e9a57d134" index="24" custom="heights_v2:[39.8,17.9]">
+        <Coords points="4520,2428 4522,2370 4298,2367 4082,2367 3866,2367 3652,2360 3437,2350 3220,2347 3005,2341 2788,2344 2568,2334 2566,2392 2789,2402 3003,2398 3219,2405 3434,2408 3650,2418 3866,2424 4082,2424 4297,2424 4520,2428"/>
+        <Baseline points="2566,2374 2788,2384 3004,2380 3219,2387 3435,2390 3651,2400 3866,2406 4082,2406 4297,2406 4521,2410"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v kostele zpívat r. 1944, když zemřela svobodná (?) dne 17. června 1942?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8bf50239-188d-425c-b5be-1f6d3a949651" index="25" custom="heights_v2:[37.5,17.4]">
+        <Coords points="2571,2395 2569,2450 2788,2456 3003,2460 3216,2470 3431,2476 3644,2483 3859,2486 4072,2489 4288,2489 4510,2483 4508,2428 4286,2434 4072,2434 3860,2431 3645,2428 3433,2421 3217,2415 3006,2405 2789,2402 2571,2395"/>
+        <Baseline points="2570,2433 2788,2439 3004,2442 3216,2452 3432,2459 3644,2465 3859,2468 4072,2472 4287,2472 4509,2465"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nadučitel Ant. Böhm zemřel v říjnu 17/V 1885 a zanechal vdovu Marii, rozenou Čulí=</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c8eb8a61-8a30-4082-aab0-ab0347e54794" index="26" custom="heights_v2:[35.7,16.4]">
+        <Coords points="2571,2452 2569,2505 2785,2511 2997,2514 3206,2521 3418,2531 3627,2534 3839,2540 4049,2547 4261,2550 4480,2553 4480,2501 4262,2498 4049,2495 3841,2488 3629,2482 3419,2478 3208,2469 2999,2462 2786,2459 2571,2452"/>
+        <Baseline points="2570,2488 2785,2495 2997,2498 3206,2504 3419,2514 3628,2517 3840,2524 4049,2531 4261,2534 4480,2537"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kovu z Lovunska se dvěma dětmi. Marie dcera byla starší a syn Antonín mladší</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="529cc366-17e2-4da1-9654-57b1b194830c" index="27" custom="heights_v2:[34.0,15.7]">
+        <Coords points="2565,2503 2564,2553 2784,2559 3000,2572 3216,2579 3431,2585 3647,2589 3863,2595 4078,2595 4294,2598 4516,2598 4516,2549 4294,2549 4079,2546 3863,2546 3648,2539 3432,2536 3217,2529 3002,2523 2787,2510 2565,2503"/>
+        <Baseline points="2565,2537 2785,2544 3001,2557 3216,2563 3432,2570 3647,2573 3863,2580 4078,2580 4294,2583 4516,2583"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Oba se narodili ještě v Zvoli kde otec jejich dřív působil. Vdova se musila po smrti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4feaf1cb-a9aa-4359-bfdc-3e8781a14850" index="28" custom="heights_v2:[32.2,15.0]">
+        <Coords points="4522,2630 4519,2590 4300,2593 4085,2590 3872,2593 3658,2590 3445,2587 3230,2583 3018,2577 2803,2564 2584,2557 2582,2604 2801,2611 3017,2624 3229,2630 3445,2634 3657,2637 3873,2640 4085,2637 4300,2640 4523,2637 4522,2630"/>
+        <Baseline points="2583,2589 2802,2596 3017,2609 3229,2615 3445,2619 3657,2622 3873,2625 4085,2622 4300,2625 4522,2622"/>
+        <TextEquiv conf="1.000">
+          <Unicode>manželově hned vystěhovat a sice k nám na č. nové 17 kde bydlila až do smrti. Dcera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5dcab5ea-7e9b-4f9c-96be-a966099c2f11" index="29" custom="heights_v2:[32.6,15.0]">
+        <Coords points="2568,2602 2566,2650 2785,2660 2997,2670 3210,2679 3422,2679 3634,2683 3846,2686 4059,2689 4271,2686 4490,2686 4490,2638 4271,2638 4058,2642 3847,2638 3635,2635 3422,2632 3210,2632 2999,2622 2787,2612 2568,2602"/>
+        <Baseline points="2566,2635 2785,2645 2997,2655 3210,2664 3422,2664 3634,2668 3846,2671 4059,2674 4271,2671 4490,2671"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Marie byla hudebně velmi nadaná a vzdělaná. Krásně zpívala na klavír hrála</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e700e088-6e3f-4bfa-a4e8-31526d9f63bd" index="30" custom="heights_v2:[33.4,15.5]">
+        <Coords points="2573,2660 2573,2709 2788,2713 2997,2719 3206,2726 3415,2732 3624,2732 3834,2742 4042,2739 4251,2739 4467,2739 4467,2690 4251,2690 4042,2690 3833,2693 3626,2683 3415,2683 3207,2677 2999,2670 2790,2664 2573,2660"/>
+        <Baseline points="2573,2694 2788,2697 2997,2704 3206,2710 3415,2717 3624,2717 3833,2726 4042,2723 4251,2723 4467,2723"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a za časté nemoci otce v Kostele a při pokřtech zastávala neboť uměla i na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="78f49fe2-1ab8-43bb-8e48-063c55485a2d" index="31" custom="heights_v2:[33.9,15.5]">
+        <Coords points="2564,2723 2563,2762 2782,2765 2997,2768 3209,2771 3425,2781 3637,2788 3853,2788 4065,2788 4281,2791 4503,2788 4502,2741 4502,2738 4280,2742 4066,2738 3853,2738 3637,2738 3426,2732 3211,2722 2998,2719 2782,2715 2564,2712 2564,2723"/>
+        <Baseline points="2563,2746 2782,2749 2997,2753 3210,2756 3425,2766 3637,2772 3853,2772 4065,2772 4281,2775 4503,2772"/>
+        <TextEquiv conf="1.000">
+          <Unicode>varhany. Provdala se za nadučitele Fr. Hanáka ze Slovácka a tam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="81117442-2886-4508-b87e-ebeec2a73237" index="32" custom="heights_v2:[33.4,15.3]">
+        <Coords points="2563,2812 2563,2817 2779,2820 2988,2820 3196,2820 3405,2823 3614,2833 3824,2836 4032,2836 4242,2840 4457,2833 4456,2784 4240,2791 4033,2788 3824,2788 3615,2784 3407,2775 3197,2771 2988,2771 2779,2771 2564,2768 2563,2812"/>
+        <Baseline points="2563,2802 2779,2805 2988,2805 3197,2805 3406,2808 3615,2818 3824,2821 4033,2821 4242,2824 4457,2818"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zemřela. Jednou taky kandidovala pří zemských volbách na program</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f72c8892-c9f8-4001-9ba9-c05ee9cb5420" index="33" custom="heights_v2:[34.9,15.7]">
+        <Coords points="2577,2819 2576,2869 2792,2876 3001,2876 3209,2876 3419,2879 3627,2879 3837,2883 4046,2883 4255,2879 4470,2876 4470,2825 4254,2829 4045,2832 3837,2832 3628,2829 3419,2829 3210,2825 3001,2825 2792,2825 2577,2819"/>
+        <Baseline points="2576,2854 2792,2860 3001,2860 3210,2860 3419,2864 3628,2864 3837,2867 4046,2867 4255,2864 4470,2860"/>
+        <TextEquiv conf="1.000">
+          <Unicode>národních socialistů, ale neprošla. - Bratr Antonín byl učitelem napřed v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="899e73a9-8d40-455d-ab96-7e8dccdc4464" index="34" custom="heights_v2:[36.3,16.1]">
+        <Coords points="4516,2914 4513,2883 4294,2883 4082,2880 3869,2880 3655,2873 3441,2876 3229,2880 3014,2876 2800,2883 2584,2873 2582,2925 2802,2935 3014,2929 3230,2932 3442,2929 3653,2925 3869,2932 4081,2932 4294,2935 4516,2935 4516,2914"/>
+        <Baseline points="2583,2909 2802,2919 3014,2913 3229,2916 3442,2913 3654,2909 3869,2916 4082,2916 4294,2919 4516,2919"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dol. Studýnkách a pak se hlásil na Ostravsko jak je nahoře správně napsáno.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="643feefa-dfb5-413f-97c3-177342e9a5da" index="35" custom="heights_v2:[39.0,17.3]">
+        <Coords points="2582,2942 2584,2998 2799,2992 3007,2989 3217,2992 3425,2985 3638,2985 3846,2982 4055,2982 4263,2985 4482,2998 4485,2942 4267,2929 4056,2926 3846,2926 3637,2929 3425,2929 3215,2936 3008,2932 2798,2936 2582,2942"/>
+        <Baseline points="2584,2981 2798,2975 3007,2971 3216,2975 3425,2968 3637,2968 3846,2965 4055,2965 4264,2968 4483,2981"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Žil-li v Praze nějaký Dr. Jaroslav Bohm, tedy to byl z rodiny zcela jiné</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c6d27afe-42ff-4416-bb7c-828efeb64b5f" index="36" custom="heights_v2:[41.4,18.5]">
+        <Coords points="4526,3040 4521,2985 4304,2985 4093,2979 3876,2979 3663,2982 3447,2989 3235,2992 3021,2989 2807,2992 2589,2995 2590,3055 2808,3052 3020,3049 3236,3052 3449,3049 3664,3042 3876,3039 4091,3039 4304,3045 4526,3045 4526,3040"/>
+        <Baseline points="2589,3037 2808,3033 3020,3030 3236,3033 3448,3030 3664,3024 3876,3020 4091,3020 4304,3027 4525,3027"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 3/7 1958 opravil Jan Novotný. Manželka Marie přežila svého muze o 8 let</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4cf739be-d742-49d3-9326-dd91cb28c694" index="37" custom="heights_v2:[41.7,19.1]">
+        <Coords points="2586,3047 2587,3108 2792,3108 2997,3108 3203,3118 3409,3114 3614,3111 3820,3114 4025,3121 4232,3131 4444,3128 4443,3067 4231,3070 4028,3060 3822,3054 3615,3050 3408,3054 3203,3057 2999,3047 2792,3047 2586,3047"/>
+        <Baseline points="2587,3089 2792,3089 2997,3089 3203,3099 3409,3095 3615,3092 3820,3095 4026,3102 4232,3112 4444,3108"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a leží oba v jednom hrobě pod tímto nápisem„: Co země končí, to nebe sloučí“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="512741f8-9b15-4257-a43e-55b3105dc3cf" index="38" custom="heights_v2:[41.4,19.0]">
+        <Coords points="2589,3165 2589,3167 2640,3168 2786,3170 2886,3170 2935,3172 3452,3180 3473,3180 3620,3186 3768,3196 3789,3196 3922,3193 3921,3132 3767,3136 3624,3126 3476,3119 3327,3119 3180,3119 3034,3116 2888,3110 2740,3110 2590,3106 2589,3165"/>
+        <Baseline points="2589,3148 2740,3151 2886,3151 3033,3157 3180,3161 3327,3161 3474,3161 3621,3167 3768,3177 3922,3174"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dosud nebyli vykopáni a kdosi udržuje jejich hrob.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

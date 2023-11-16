@@ -1,0 +1,43 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:32.554704</Created>
+    <LastChange>2023-03-26T21:22:32.554704</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_044.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="0c2f3b80-3773-42a6-b710-a06af624f1b7">
+      <Coords points="151,79 66,79 66,132 151,132 151,79"/>
+      <TextLine id="b849a68e-7148-4775-9867-5ce3324ebe49" index="0" custom="heights_v2:[42.6,10.2]">
+        <Coords points="151,79 66,79 66,132 151,132 151,79"/>
+        <Baseline points="66,121 151,121"/>
+        <TextEquiv conf="0.991">
+          <Unicode>42</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="f688ec52-0704-4f5b-8b81-1fc001114f07">
+      <Coords points="674,249 537,318 545,464 1711,475 1737,397 1738,329 1332,325 1240,245 674,249"/>
+      <TextLine id="d3bde5ab-e300-441c-9473-a326d56f0638" index="0" custom="heights_v2:[52.9,17.9]">
+        <Coords points="1240,245 1240,245 1214,245 1164,246 1105,249 1049,249 986,249 927,249 903,247 674,249 678,320 743,316 806,316 864,316 927,320 986,320 1049,320 1109,320 1170,316 1240,316 1240,245"/>
+        <Baseline points="677,302 743,298 806,298 865,298 927,302 986,302 1049,302 1108,302 1170,298 1240,298"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Náboženské vyznání.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="82ec4ccd-a9e4-47a0-97e3-6e5d603b1eb6" index="1" custom="heights_v2:[50.5,18.0]">
+        <Coords points="538,318 537,318 537,324 541,386 673,386 806,386 938,386 1070,386 1199,390 1332,393 1465,393 1597,393 1737,397 1738,360 1738,329 1332,325 1332,325 1201,321 1072,318 938,318 806,318 673,318 538,318"/>
+        <Baseline points="540,368 673,368 806,368 938,368 1071,368 1200,372 1332,375 1465,375 1597,375 1737,379"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Římsko-katolická církev 18562, evangelická 466,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f1226d48-1506-4875-b376-7a3d719d7555" index="2" custom="heights_v2:[51.5,18.6]">
+        <Coords points="545,458 545,464 677,464 806,464 935,464 1063,464 1189,468 1317,468 1446,471 1511,473 1705,475 1711,475 1711,474 1711,405 1575,405 1448,401 1319,398 1189,398 1065,394 935,394 806,394 677,394 545,394 545,458"/>
+        <Baseline points="545,445 677,445 806,445 935,445 1064,445 1189,449 1318,449 1446,453 1575,456 1711,456"/>
+        <TextEquiv conf="0.998">
+          <Unicode>československá 651, židovská 320, bez vyznání 1339</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

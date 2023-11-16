@@ -1,0 +1,411 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:20:27.271240</Created>
+    <LastChange>2023-01-19T00:20:27.271240</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Kokory_inv_c_neinventarizovano_009.jpg" imageWidth="1536" imageHeight="2048">
+    <TextRegion id="ab9e7e76-c15c-4cd1-95b2-6dac86072bcb">
+      <Coords points="83,1180 85,1254 102,1368 84,1517 86,1596 164,1627 264,1627 349,1597 666,1598 839,1650 862,1652 862,1644 913,1649 1025,1599 1130,1598 1183,1567 1324,1564 1324,1524 1298,1477 1340,1230 1340,1195 1321,1121 1321,1014 1312,944 1323,765 1307,703 1308,669 1327,597 1328,527 1291,382 1287,299 1269,237 132,217 111,396 83,1180"/>
+      <TextLine id="edae659f-bcd5-4d04-b03c-98765b55a2d1" index="0" custom="heights_v2:[25.5,11.4]">
+        <Coords points="1034,233 132,217 132,253 260,253 385,253 511,257 637,259 762,261 888,265 1013,269 1139,274 1269,274 1269,237 1139,237 1034,233"/>
+        <Baseline points="132,242 260,242 386,242 511,246 637,247 762,250 888,254 1014,258 1139,263 1269,263"/>
+        <TextEquiv conf="1.000">
+          <Unicode>že dnešní zahájení činnosti místního rozhlasu vítá s radostí se mnou velká většina</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9f0227f5-17fc-4939-aa74-590694e5b642" index="1" custom="heights_v2:[21.5,9.3]">
+        <Coords points="129,256 131,286 241,280 348,280 455,281 563,284 670,286 778,289 885,292 993,294 1104,297 1105,266 993,263 886,261 778,258 671,256 564,253 456,250 348,249 241,249 129,256"/>
+        <Baseline points="131,277 241,271 348,271 456,272 563,274 671,277 778,280 885,282 993,285 1104,287"/>
+        <TextEquiv conf="1.000">
+          <Unicode>občanů, ne-li celá obec. Máme také proč tuto událost vítat s nadšením.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8863f557-a6c0-452a-896d-e4fa2f2eeb3f" index="2" custom="heights_v2:[21.0,9.3]">
+        <Coords points="1287,300 1287,299 1287,299 1168,296 1053,295 938,292 821,288 706,286 591,283 474,282 359,279 241,279 241,310 358,310 474,312 590,314 705,316 820,319 937,323 1052,325 1167,326 1286,329 1287,300"/>
+        <Baseline points="241,300 359,300 474,303 590,304 705,307 821,309 937,313 1052,316 1168,317 1287,320"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Řadíme se k ostatním moderním obcím, ve kterých byl obecní buben odložen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7dba159d-91db-4fe3-8030-19adea242493" index="3" custom="heights_v2:[20.4,8.9]">
+        <Coords points="121,314 119,327 119,343 245,343 369,340 493,340 617,343 742,344 866,345 990,349 1114,352 1241,357 1242,328 1115,323 991,320 867,316 742,315 618,314 494,311 369,311 244,314 121,314"/>
+        <Baseline points="119,334 245,334 369,331 493,331 617,334 742,335 866,337 990,340 1114,343 1241,348"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a občané jsou informováni tímto moderním prostředkem rychleji a podrobněji.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="79e05abe-c9e1-4140-b321-445271df255d" index="4" custom="heights_v2:[20.6,8.9]">
+        <Coords points="118,343 118,373 234,371 351,370 465,367 579,369 692,369 806,371 920,373 1034,378 1152,380 1152,351 1035,348 921,343 807,342 693,339 579,339 465,338 350,341 234,342 118,343"/>
+        <Baseline points="118,364 234,362 351,361 465,359 579,360 693,360 806,362 920,364 1034,369 1152,371"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Náš obecní sluha nemohl na 24 místech hlášení podati v podrobnostech</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3f78ef89-7d38-4725-8bac-33b868b41aba" index="5" custom="heights_v2:[20.1,8.8]">
+        <Coords points="243,367 243,396 361,396 476,397 593,397 708,398 824,400 939,401 1056,405 1171,409 1290,411 1291,382 1172,380 1057,376 940,372 825,371 708,369 593,368 476,368 361,367 243,367"/>
+        <Baseline points="243,387 361,387 476,388 593,388 708,390 825,391 940,392 1056,396 1171,400 1291,403"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Naše radost je větší proto, že si uvědomujeme tu krásnou spolupráci, och</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="666182a2-16d3-48ee-a7ad-412ba1e96f2d" index="6" custom="heights_v2:[20.8,9.1]">
+        <Coords points="111,396 111,426 243,425 373,425 502,425 632,425 761,426 890,429 1020,432 1149,438 1282,441 1283,412 1150,408 1021,403 891,399 762,396 632,395 502,395 373,395 243,395 111,396"/>
+        <Baseline points="111,417 243,416 373,416 502,416 632,416 761,417 891,419 1020,423 1149,428 1283,432"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tu a obětavost všech občanů při pořízení rozhlasu. Přičinili jsme se všichni a dílo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2bd5ff91-df14-4412-8d07-540cd611808c" index="7" custom="heights_v2:[21.2,9.2]">
+        <Coords points="115,423 115,453 249,453 379,453 510,452 641,454 771,456 902,458 1033,462 1163,465 1297,469 1298,438 1164,434 1033,432 903,428 772,425 641,424 510,421 379,423 249,423 115,423"/>
+        <Baseline points="115,444 249,444 379,444 510,443 641,445 771,447 902,449 1033,453 1164,456 1297,460"/>
+        <TextEquiv conf="1.000">
+          <Unicode>je úspěšně dokonáno. Jako u každé věci, bylo v prvé řadě nutno zajistiti finanční</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b35a57df-18b2-47bb-ac73-5899e8a45911" index="8" custom="heights_v2:[22.7,10.2]">
+        <Coords points="1316,478 1314,470 1180,467 1047,463 913,459 780,456 646,454 513,452 380,450 246,451 110,450 110,483 246,484 379,483 512,485 646,486 779,489 912,492 1046,496 1179,499 1315,503 1316,478"/>
+        <Baseline points="110,472 246,474 379,472 513,475 646,476 779,479 913,482 1046,485 1179,489 1315,493"/>
+        <TextEquiv conf="1.000">
+          <Unicode>úhradu mimo rámec obecního rozpočtu, protože bylo rozhodnuto poříditi rozhlas bez znač-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e3efaf37-8f69-4113-b6bb-08a2ea18044a" index="9" custom="heights_v2:[23.4,10.1]">
+        <Coords points="110,479 110,512 164,512 216,512 269,512 321,514 374,514 426,516 479,518 530,519 586,520 587,487 531,485 480,484 426,483 375,480 321,480 270,479 216,479 164,479 110,479"/>
+        <Baseline points="110,502 164,502 216,502 269,502 321,504 374,504 426,506 479,507 531,509 586,510"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nějšího zatížení obecní pokladny.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7f14c0ea-85a9-4895-a030-55f384065716" index="10" custom="heights_v2:[25.7,11.8]">
+        <Coords points="1327,564 1328,527 1328,527 1208,527 1090,524 974,523 856,522 738,521 622,519 504,515 387,511 267,509 266,546 385,549 503,553 621,557 738,558 855,559 973,561 1090,562 1208,564 1327,564"/>
+        <Baseline points="267,535 386,537 504,541 621,545 738,546 856,548 973,549 1090,550 1208,553 1328,553"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Byla to kokorská hudba Františka Lichnovského, některé cizí firmy a míst-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="339eea22-864b-4abc-9f94-fa12636b8956" index="11" custom="heights_v2:[23.4,10.3]">
+        <Coords points="106,545 106,579 243,577 378,581 514,585 648,586 783,590 919,591 1053,593 1188,595 1327,597 1327,563 1188,562 1054,559 919,558 783,556 649,553 514,551 379,547 244,544 106,545"/>
+        <Baseline points="106,568 243,567 378,571 514,575 648,576 783,580 919,581 1054,582 1188,585 1327,586"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ní spolky, které jako první vytvořily svými dary již v r. 1946 a 1947 finanční základ-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d2f5a6df-7770-453f-8722-c370d07f8c35" index="12" custom="heights_v2:[23.0,10.2]">
+        <Coords points="105,576 103,606 103,609 238,611 371,615 504,619 638,624 770,625 903,625 1037,626 1170,629 1306,630 1306,597 1170,596 1037,593 904,592 770,592 638,591 506,585 372,582 239,578 105,576"/>
+        <Baseline points="104,599 238,601 371,604 505,608 638,614 770,615 903,615 1037,616 1170,619 1306,620"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nu, potom celá obec dobrovolnými příspěvky při sbírce rozšířila finanční hotovost</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ecade83f-8947-42a5-b897-a0a9b3fde143" index="13" custom="heights_v2:[23.0,10.3]">
+        <Coords points="105,609 105,642 239,645 371,648 503,651 635,656 767,657 900,661 1031,663 1164,665 1300,665 1300,632 1164,632 1032,629 900,628 768,624 636,623 504,618 372,615 240,611 105,609"/>
+        <Baseline points="105,632 239,634 371,638 504,641 636,646 768,647 900,651 1032,652 1164,655 1300,655"/>
+        <TextEquiv conf="1.000">
+          <Unicode>až na částku 83.000 Kčs, takže mohlo dojíti v prosinci minulého roku k zadání</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d58e61b8-7074-4154-8bf0-17b73ac9bc0f" index="14" custom="heights_v2:[23.5,10.4]">
+        <Coords points="1307,703 1307,689 1308,669 1172,666 1039,663 905,661 772,657 639,655 505,652 372,647 239,643 103,638 102,672 238,677 371,681 505,686 638,689 771,691 905,695 1038,696 1171,700 1307,703"/>
+        <Baseline points="102,661 238,667 371,671 505,676 638,678 771,681 905,685 1038,686 1171,690 1307,693"/>
+        <TextEquiv conf="1.000">
+          <Unicode>výstavby rozhlasového zařízení firmě Mazák v Olomouci. Nebylo vinou vedení obce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e2537a87-b96a-4f52-bee1-84b84768947d" index="15" custom="heights_v2:[23.4,10.3]">
+        <Coords points="104,677 103,711 235,714 365,716 494,721 624,724 754,726 884,729 1013,730 1143,731 1276,733 1277,699 1143,698 1014,696 884,695 755,692 624,690 495,687 366,682 236,681 104,677"/>
+        <Baseline points="104,700 236,704 365,705 494,711 624,713 755,716 884,718 1014,720 1143,721 1276,722"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ani firmy, že rozhlas nezahájil činnost v hody, jak bylo původně stanoveno.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="965eca9b-2a74-4017-baa4-894406d56381" index="16" custom="heights_v2:[23.1,10.4]">
+        <Coords points="102,711 101,744 231,748 360,751 488,755 616,760 744,761 872,761 1001,764 1129,764 1259,764 1259,730 1129,730 1001,730 873,728 744,728 616,726 489,721 361,717 232,715 102,711"/>
+        <Baseline points="101,734 232,738 360,740 488,744 616,749 744,751 872,751 1001,753 1129,753 1259,753"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nedostatek materiálu v nynější poválečné době se projevil i v tomto oboru.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5ee4685d-d0ee-47c2-b788-86d94aafa445" index="17" custom="heights_v2:[23.1,10.4]">
+        <Coords points="1321,799 1323,765 1185,764 1050,763 915,763 781,761 645,759 510,757 376,752 241,748 104,744 103,778 240,782 375,786 510,791 644,792 780,795 915,796 1050,796 1184,797 1321,799"/>
+        <Baseline points="104,768 241,771 375,775 510,781 645,782 781,784 915,786 1050,786 1184,787 1322,788"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Firma Mazák se však snažila dodržeti dodací lhůtu a tak v červnu bylo zapo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="54d7be72-8ddb-49c3-aaf9-7e9b79a0c1f9" index="18" custom="heights_v2:[23.2,10.5]">
+        <Coords points="102,777 101,810 230,814 358,821 486,826 614,831 742,829 870,830 997,832 1125,834 1255,835 1256,801 1125,800 997,799 870,796 742,795 613,797 488,792 359,787 232,781 102,777"/>
+        <Baseline points="101,800 230,804 359,810 487,815 614,821 742,818 870,819 997,822 1125,823 1256,825"/>
+        <TextEquiv conf="1.000">
+          <Unicode>čato s pracemi na hlavním vedení. Tu dlužno zdůrazniti, že většina těchto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c0d3bb84-18e0-4ef7-80f8-8a93bc57a06b" index="19" custom="heights_v2:[23.7,10.7]">
+        <Coords points="99,815 98,849 234,853 369,857 503,861 638,865 771,868 906,868 1040,868 1176,870 1313,868 1312,833 1175,836 1041,833 906,833 771,833 639,831 504,827 370,823 235,819 99,815"/>
+        <Baseline points="98,839 234,843 369,847 504,850 638,854 771,857 906,857 1041,857 1175,859 1313,857"/>
+        <TextEquiv conf="1.000">
+          <Unicode>prací byla vykonána zdarma a náš dík patří zedníkům, kteří provedli za-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9e240e6b-3fa7-4a51-b6dd-626831cabaf5" index="20" custom="heights_v2:[23.5,10.5]">
+        <Coords points="95,850 94,884 228,888 360,892 490,895 622,898 753,904 885,905 1016,905 1148,906 1283,906 1283,872 1148,872 1016,871 885,871 754,870 624,864 491,861 360,858 229,854 95,850"/>
+        <Baseline points="94,874 228,878 360,881 491,884 623,888 753,893 885,894 1016,894 1148,896 1283,896"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zdění konsolek a nastřešáků, dobrovolným pracovníkům, kteří jim při této</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="79494157-bf53-45dd-b923-551322c19aad" index="21" custom="heights_v2:[24.0,10.7]">
+        <Coords points="1312,944 1312,936 1313,909 1174,907 1040,905 905,907 770,905 634,904 500,900 366,895 231,890 94,883 93,918 230,925 365,930 499,935 634,939 770,940 905,941 1039,940 1174,941 1312,944"/>
+        <Baseline points="93,907 230,914 365,919 500,924 634,928 770,929 905,931 1039,929 1174,931 1313,933"/>
+        <TextEquiv conf="1.000">
+          <Unicode>práci pomáhali a byli činni při stavění sloupů, náš dík patří i zemědělcům,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9f59cca3-7fec-4ef2-bb56-3303e14b2fad" index="22" custom="heights_v2:[24.5,10.9]">
+        <Coords points="92,919 91,955 223,958 354,966 485,971 616,974 748,975 879,977 1010,978 1141,978 1275,975 1275,940 1140,942 1010,942 879,941 748,940 616,939 486,936 356,931 225,923 92,919"/>
+        <Baseline points="91,944 224,948 355,955 485,960 616,963 748,964 879,966 1010,967 1140,967 1275,964"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kteří zdarma dovezli sloupy a v poslední řadě elektrikářům, kteří včele s p.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8ec7f2c4-79b6-4fd4-80f7-ea74910be044" index="23" custom="heights_v2:[26.6,12.1]">
+        <Coords points="91,957 90,996 219,1000 349,1006 479,1011 608,1013 737,1015 866,1015 995,1017 1125,1017 1257,1019 1257,980 1125,978 995,978 866,977 737,977 609,974 479,973 351,968 221,961 91,957"/>
+        <Baseline points="90,984 220,988 349,994 479,999 608,1001 737,1003 866,1003 995,1004 1125,1004 1257,1007"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Bohumilem Navrátilem provedli vedení sítě a umístění tlampačů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="967ade91-ef43-42cc-b45d-8b8ddfd70c49" index="24" custom="heights_v2:[24.1,10.9]">
+        <Coords points="1321,1049 1321,1014 1181,1017 1046,1015 910,1014 773,1015 637,1013 501,1010 364,1006 229,1001 90,998 89,1033 227,1036 363,1041 501,1045 637,1048 773,1050 910,1049 1046,1050 1182,1052 1321,1049"/>
+        <Baseline points="89,1023 228,1025 364,1030 501,1034 637,1037 773,1039 910,1038 1046,1039 1182,1041 1321,1038"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kdyby nebylo velkého nadšení a píle p. Navrátila, nebyl by rozhlas ještě v čin-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f4bfea4f-bffa-4dcc-a3ff-d5e79bf7b4c8" index="25" custom="heights_v2:[25.0,10.9]">
+        <Coords points="88,1031 87,1067 224,1074 360,1077 495,1080 632,1084 768,1085 903,1085 1040,1087 1175,1085 1314,1085 1314,1049 1175,1049 1039,1051 904,1049 768,1049 632,1048 496,1044 360,1042 225,1038 88,1031"/>
+        <Baseline points="87,1056 224,1063 360,1067 496,1069 632,1073 768,1074 903,1074 1039,1076 1175,1074 1314,1074"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nosti. Proto mu za tuto pro obec velmi záslužnou činnost veřejně srdečně děkuji,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aff357a4-68e3-4d9a-8bb1-8bcfccb21a63" index="26" custom="heights_v2:[25.6,11.2]">
+        <Coords points="88,1071 86,1108 199,1111 309,1115 419,1118 529,1119 639,1122 749,1123 859,1124 970,1124 1083,1124 1083,1088 970,1088 859,1088 750,1086 640,1085 530,1082 420,1081 310,1079 200,1075 88,1071"/>
+        <Baseline points="87,1096 199,1100 309,1104 419,1107 529,1108 639,1111 749,1112 859,1113 970,1113 1083,1113"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rovněž tak i p. Josefu Derkovi, který mu úspěšně pomáhal.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="88bf6f3a-78c3-49e6-895e-e7e65ac8e9e5" index="27" custom="heights_v2:[25.6,11.2]">
+        <Coords points="1321,1122 1321,1121 1198,1123 1080,1123 960,1124 841,1124 721,1123 602,1120 483,1119 364,1116 242,1116 242,1153 363,1153 483,1155 602,1157 721,1159 841,1161 961,1161 1080,1159 1199,1159 1322,1158 1321,1122"/>
+        <Baseline points="242,1142 364,1142 483,1144 602,1146 721,1148 841,1149 960,1149 1080,1148 1199,1148 1322,1147"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Považoval jsem za nutné tyto okolnosti dáti všem občanům na vědomí,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6557113-b8a5-4a97-8541-77d9b7985c9a" index="28" custom="heights_v2:[24.7,11.0]">
+        <Coords points="84,1144 83,1180 217,1184 349,1188 481,1190 614,1192 745,1192 877,1193 1010,1195 1142,1194 1276,1192 1276,1156 1141,1158 1009,1160 878,1157 746,1156 614,1156 482,1155 350,1152 218,1148 84,1144"/>
+        <Baseline points="83,1169 217,1173 349,1177 482,1179 614,1180 746,1180 878,1182 1010,1184 1142,1183 1276,1180"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ještě jednou děkuji všem, kteří se o zařízení rozhlasu jakýmkoliv způsobem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c136758-fd2f-43f1-bd60-eb226c13d0e9" index="29" custom="heights_v2:[24.6,11.0]">
+        <Coords points="83,1192 84,1216 224,1221 362,1225 502,1228 641,1228 780,1228 919,1229 1059,1232 1197,1230 1340,1230 1340,1195 1197,1195 1059,1196 919,1193 781,1192 641,1192 502,1192 363,1190 225,1186 84,1180 83,1192"/>
+        <Baseline points="84,1205 224,1210 362,1214 502,1217 641,1217 781,1217 919,1218 1059,1221 1197,1219 1340,1219"/>
+        <TextEquiv conf="1.000">
+          <Unicode>přičinili a přeji do budoucna, aby rozhlas byl naším dobrým pomocníkem a obča-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a88ccc3f-2ccf-4ebe-8a5c-6b49c2658baf" index="30" custom="heights_v2:[25.9,11.5]">
+        <Coords points="86,1217 85,1254 196,1257 305,1259 414,1262 523,1264 633,1266 742,1270 851,1270 959,1268 1072,1270 1072,1232 959,1231 850,1232 742,1232 634,1228 523,1227 415,1224 306,1222 197,1219 86,1217"/>
+        <Baseline points="85,1243 197,1245 305,1248 414,1250 523,1253 633,1254 742,1258 850,1258 959,1257 1072,1258"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nům našeho městečka přinášel vždy dobré a radostné zprávy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="96e17009-83f8-43b3-8fda-e71f8823a246" index="31" custom="heights_v2:[26.9,12.1]">
+        <Coords points="230,1261 230,1300 295,1300 359,1301 420,1301 484,1303 546,1304 609,1305 672,1307 735,1308 801,1308 801,1269 735,1269 672,1267 610,1266 547,1265 485,1264 421,1262 359,1262 296,1261 230,1261"/>
+        <Baseline points="230,1288 295,1288 359,1289 421,1289 484,1291 546,1292 610,1293 672,1294 735,1296 801,1296"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Náklad rozhlasového zařízení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="18348e02-a573-4655-bde3-325913ba1378" index="32" custom="heights_v2:[29.3,13.0]">
+        <Coords points="1017,1293 1008,1334 1038,1340 1059,1337 1085,1338 1106,1337 1132,1341 1156,1342 1180,1342 1204,1344 1231,1344 1231,1301 1204,1301 1182,1300 1156,1300 1134,1299 1113,1295 1083,1296 1062,1295 1034,1298 1017,1293"/>
+        <Baseline points="1011,1322 1037,1327 1060,1324 1085,1325 1108,1324 1133,1328 1156,1329 1180,1329 1204,1331 1231,1331"/>
+        <TextEquiv conf="1.000">
+          <Unicode>99.795-Kčs</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bb21b7fd-f027-4ec8-b13f-4e0a1d6642bb" index="33" custom="heights_v2:[25.9,11.7]">
+        <Coords points="100,1296 100,1333 179,1333 258,1337 335,1337 413,1338 492,1340 569,1341 647,1342 725,1344 806,1345 807,1307 725,1306 648,1305 570,1303 492,1302 413,1301 336,1300 258,1300 181,1296 100,1296"/>
+        <Baseline points="100,1322 180,1322 258,1325 335,1325 413,1327 492,1328 570,1329 647,1331 725,1332 806,1333"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Rozhlasová aparatura s 15 tlampači</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2140d384-b519-4c0c-bb29-a7911ae9489d" index="34" custom="heights_v2:[26.3,11.8]">
+        <Coords points="102,1330 102,1368 179,1367 256,1371 332,1374 409,1376 484,1376 560,1377 637,1379 713,1379 792,1379 792,1341 713,1341 637,1341 561,1339 485,1338 409,1338 334,1335 257,1333 181,1329 102,1330"/>
+        <Baseline points="102,1357 180,1355 256,1359 333,1362 409,1364 484,1364 560,1366 637,1367 713,1367 792,1367"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Sloupy, nástřešáky, konsolky, vedení a j.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b05a65e-6b56-488b-bab6-a42405656fda" index="35" custom="heights_v2:[26.5,10.9]">
+        <Coords points="1011,1334 1007,1371 1032,1374 1052,1374 1074,1374 1096,1374 1116,1371 1138,1371 1158,1371 1179,1371 1203,1373 1205,1335 1181,1334 1158,1334 1138,1334 1116,1334 1092,1337 1074,1337 1052,1337 1032,1337 1011,1334"/>
+        <Baseline points="1008,1360 1032,1363 1052,1363 1074,1363 1095,1363 1116,1360 1138,1360 1158,1360 1179,1360 1204,1362"/>
+        <TextEquiv conf="1.000">
+          <Unicode>41:544-“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f4ba2de8-503f-47a8-9744-9e3636689688" index="36" custom="heights_v2:[27.8,12.8]">
+        <Coords points="453,1370 451,1411 488,1412 522,1413 556,1415 592,1416 625,1416 660,1416 694,1417 729,1417 766,1417 766,1377 729,1377 694,1377 661,1375 625,1375 592,1375 558,1374 524,1373 489,1371 453,1370"/>
+        <Baseline points="452,1398 488,1399 523,1401 557,1402 592,1403 625,1403 660,1403 694,1404 729,1404 766,1404"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Celkový náklad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="74b7cc84-a816-4306-9373-d4323de62ad0" index="37" custom="heights_v2:[30.8,12.2]">
+        <Coords points="980,1374 976,1417 1009,1419 1037,1418 1065,1418 1094,1418 1122,1418 1150,1418 1179,1419 1207,1420 1238,1422 1240,1379 1209,1377 1181,1376 1152,1375 1122,1375 1094,1375 1065,1375 1037,1375 1007,1376 980,1374"/>
+        <Baseline points="977,1404 1008,1407 1037,1406 1065,1406 1094,1406 1122,1406 1151,1406 1179,1407 1208,1408 1239,1410"/>
+        <TextEquiv conf="1.000">
+          <Unicode>141.339-Kčs,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a1882bd2-4586-4278-9fd3-bf4aec217412" index="38" custom="heights_v2:[32.8,14.6]">
+        <Coords points="283,1407 283,1454 357,1454 430,1455 502,1454 574,1455 647,1457 720,1455 792,1454 864,1457 939,1459 941,1412 866,1409 793,1407 719,1408 647,1409 575,1408 503,1407 429,1408 358,1407 283,1407"/>
+        <Baseline points="283,1439 357,1439 430,1441 502,1439 575,1441 647,1442 720,1441 792,1439 865,1442 940,1445"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ze sbírek bylo uhrazeno 99.340 Kčs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="631b53da-44b9-4fae-b766-f32d75fcb961" index="39" custom="heights_v2:[21.9,10.3]">
+        <Coords points="233,1461 233,1494 246,1494 246,1461 233,1461"/>
+        <Baseline points="233,1483 246,1483"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="881e0da9-e52d-43e5-823b-ea173f18f50b" index="40" custom="heights_v2:[31.9,14.0]">
+        <Coords points="1298,1477 1298,1477 1173,1483 1052,1484 930,1485 809,1485 688,1484 566,1481 445,1479 322,1479 198,1477 198,1523 322,1525 444,1525 565,1527 687,1530 809,1531 931,1531 1053,1530 1175,1528 1300,1523 1298,1477"/>
+        <Baseline points="198,1509 322,1511 444,1511 566,1513 687,1516 809,1517 931,1517 1052,1516 1174,1514 1300,1509"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Znělku pro místní rozhlas komponoval předseda MNV,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0868f8e3-a6bc-4819-a406-f95cbb1dde8f" index="41" custom="heights_v2:[27.7,12.2]">
+        <Coords points="84,1517 84,1517 85,1557 222,1560 360,1563 497,1564 634,1563 771,1566 909,1566 1046,1564 1183,1567 1252,1566 1324,1564 1324,1542 1324,1524 1183,1527 1046,1524 908,1526 771,1526 635,1523 497,1524 360,1523 223,1520 84,1517"/>
+        <Baseline points="85,1544 223,1548 360,1551 497,1552 634,1551 771,1553 909,1553 1046,1552 1183,1555 1324,1552"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obsazení 3 trubky, 3 pozouny a timpan na nápěv kokorské písně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bd47ab78-4991-446d-813a-49f9f369df34" index="42" custom="heights_v2:[27.0,11.9]">
+        <Coords points="85,1557 86,1596 86,1596 139,1594 192,1595 244,1595 296,1596 348,1597 349,1597 562,1598 561,1560 505,1561 454,1561 401,1561 351,1559 297,1557 245,1556 192,1556 140,1555 85,1557"/>
+        <Baseline points="86,1584 140,1582 192,1583 245,1583 296,1584 349,1586 401,1588 454,1588 506,1588 562,1587"/>
+        <TextEquiv conf="1.000">
+          <Unicode>„Ty naše rodné městečko</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2cb43c95-8376-4c9a-921a-df1156785ac3" index="43" custom="heights_v2:[27.7,11.9]">
+        <Coords points="1038,1599 1101,1598 1130,1598 1129,1558 1075,1559 1025,1559 974,1561 923,1561 872,1562 822,1562 770,1562 721,1559 667,1558 666,1598 719,1599 770,1601 822,1601 873,1601 923,1600 975,1600 1025,1599 1038,1599"/>
+        <Baseline points="667,1586 720,1587 770,1590 822,1590 872,1590 923,1588 975,1588 1025,1587 1076,1587 1130,1586"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Viz kronika I. díl str. 77.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7d42afff-4a54-47bd-a199-ae8d14e7eefe" index="44" custom="heights_v2:[24.1,10.7]">
+        <Coords points="164,1627 264,1627 264,1627 264,1593 245,1593 229,1593 214,1593 198,1593 183,1593 164,1593 164,1627"/>
+        <Baseline points="164,1617 183,1617 198,1617 214,1617 229,1617 245,1617 264,1617"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pochod</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d9ff71b8-fd9b-46c2-95af-a719bf0e25e4" index="45" custom="heights_v2:[19.5,8.7]">
+        <Coords points="767,1597 766,1625 801,1627 802,1599 767,1597"/>
+        <Baseline points="766,1617 801,1618"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5c0fe48c-56f1-4a4c-ae4d-7ca9aa18df12" index="46" custom="heights_v2:[36.5,15.4]">
+        <Coords points="839,1650 846,1651 861,1652 862,1652 862,1644 905,1648 905,1601 881,1601 865,1600 842,1598 839,1650"/>
+        <Baseline points="840,1635 862,1636 881,1637 905,1637"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="24e08375-83bf-4a64-9c8a-b9b6450fb73d">
+      <Coords points="1343,1444 1328,1444 1328,1507 1477,1506 1477,1443 1343,1444"/>
+      <TextLine id="fce5b03a-d31a-4ffb-ba61-24bd380dfebf" index="0" custom="heights_v2:[44.2,18.6]">
+        <Coords points="1328,1507 1351,1507 1362,1506 1379,1506 1394,1506 1410,1506 1426,1506 1442,1506 1457,1506 1477,1506 1477,1443 1474,1443 1349,1444 1343,1444 1328,1444 1328,1507"/>
+        <Baseline points="1328,1489 1346,1489 1362,1487 1379,1487 1394,1487 1410,1487 1426,1487 1442,1487 1457,1487 1477,1487"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Znělka</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="51e3ba59-a332-4642-afcc-699c83d60c61">
+      <Coords points="183,1670 180,1699 193,1700 196,1671 183,1670"/>
+      <TextLine id="21002c7c-2537-497f-b313-b53f07557c11" index="0" custom="heights_v2:[20.6,8.4]">
+        <Coords points="189,1700 193,1700 196,1671 183,1670 180,1699 189,1700"/>
+        <Baseline points="181,1690 194,1692"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="1cb3eb9f-6d72-426e-a7b9-7acba0e3de62">
+      <Coords points="862,1652 862,1676 912,1677 914,1645 862,1644 862,1652"/>
+      <TextLine id="1312fa9f-8346-4267-9460-3fc22750e058" index="0" custom="heights_v2:[22.4,10.2]">
+        <Coords points="862,1676 868,1676 886,1676 899,1677 912,1677 912,1672 914,1645 862,1644 862,1676"/>
+        <Baseline points="862,1666 887,1666 913,1667"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="cefa7150-3af0-4fb4-a338-5e1489c7a3c8">
+      <Coords points="894,1700 876,1701 878,1733 896,1731 894,1700"/>
+      <TextLine id="98d750da-4868-426c-92c8-a4163bf250c5" index="0" custom="heights_v2:[21.9,9.8]">
+        <Coords points="894,1700 878,1701 876,1701 878,1733 886,1732 896,1731 894,1700"/>
+        <Baseline points="878,1723 895,1722"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="3e1da695-41ac-4f69-b825-b7cb400e4ed8">
+      <Coords points="797,1772 778,1772 778,1814 836,1813 833,1771 797,1772"/>
+      <TextLine id="653a26a3-bb63-48ca-beb7-7efc2bb42aad" index="0" custom="heights_v2:[29.5,12.0]">
+        <Coords points="778,1772 778,1814 788,1814 825,1813 836,1813 833,1776 833,1771 812,1772 797,1772 778,1772"/>
+        <Baseline points="778,1802 797,1802 814,1802 835,1801"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="56936172-8136-4a1d-9c8e-814edafdcec9">
+      <Coords points="701,1825 685,1825 685,1864 756,1863 756,1823 701,1825"/>
+      <TextLine id="38e6697f-9130-4643-8d0c-a8aa0d06a696" index="0" custom="heights_v2:[27.7,11.8]">
+        <Coords points="701,1825 685,1825 685,1864 709,1864 720,1863 737,1863 756,1863 756,1823 748,1823 701,1825"/>
+        <Baseline points="685,1852 703,1852 720,1851 737,1851 756,1851"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Simp</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="0c3d0db1-e8c8-494f-8a64-e666927f2902">
+      <Coords points="1093,1810 1074,1810 1074,1860 1133,1860 1136,1810 1093,1810"/>
+      <TextLine id="0ed1fb3f-e11a-44c3-ba95-c92f20996272" index="0" custom="heights_v2:[36.0,14.0]">
+        <Coords points="1093,1810 1074,1810 1074,1860 1096,1860 1112,1858 1133,1860 1136,1810 1093,1810"/>
+        <Baseline points="1074,1846 1095,1846 1113,1845 1134,1846"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

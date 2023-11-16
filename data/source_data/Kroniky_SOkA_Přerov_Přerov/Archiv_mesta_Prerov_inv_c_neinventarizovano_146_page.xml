@@ -1,0 +1,279 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:23:33.287787</Created>
+    <LastChange>2023-03-26T21:23:33.287787</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_146.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="a4c4c413-deb3-4f5c-9c35-d6ead00aa2ca">
+      <Coords points="1861,62 1744,62 1744,123 1861,123 1861,62"/>
+      <TextLine id="a30e0222-b2e0-43f0-ad3d-04d8991947b1" index="0" custom="heights_v2:[46.8,13.8]">
+        <Coords points="1861,62 1744,62 1744,123 1861,123 1861,62"/>
+        <Baseline points="1744,109 1861,109"/>
+        <TextEquiv conf="0.996">
+          <Unicode>147</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="5d12235d-3362-470d-bea7-f2d89beeb78a">
+      <Coords points="828,134 750,134 750,205 903,209 907,138 828,134"/>
+      <TextLine id="c8a9ed20-ca3c-4675-a0a4-4d13befec2e2" index="0" custom="heights_v2:[53.5,17.5]">
+        <Coords points="750,205 751,205 824,205 903,209 904,186 907,138 871,136 828,134 750,134 750,205"/>
+        <Baseline points="750,188 825,188 904,191"/>
+        <TextEquiv conf="0.963">
+          <Unicode>1924</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="a766be3d-49c6-4f7f-80b6-2ed619b4e60a">
+      <Coords points="221,383 194,474 214,761 244,918 225,989 226,1133 236,1205 1167,1205 1336,1122 1373,1051 1373,985 1343,829 1343,766 1329,695 1403,449 1402,387 1332,296 1330,230 716,238 222,257 221,383"/>
+      <TextLine id="547f7ed8-5364-4101-abf4-94e0cf924339" index="0" custom="heights_v2:[47.2,18.2]">
+        <Coords points="1332,296 1330,230 1199,234 1079,238 960,238 837,238 725,238 716,238 222,257 226,322 353,315 473,311 597,307 716,303 837,303 960,303 1081,303 1201,300 1332,296"/>
+        <Baseline points="225,304 353,296 473,293 596,289 716,285 837,285 960,285 1080,285 1200,281 1331,278"/>
+        <TextEquiv conf="0.991">
+          <Unicode>Sovových básní. 3. Přednáška prof. St. Skály o díle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ebfd4c6c-6167-470d-aece-b890c13c5107" index="1" custom="heights_v2:[46.1,18.6]">
+        <Coords points="221,370 221,383 327,386 424,383 521,383 620,382 716,379 815,379 912,375 1009,371 1114,371 1114,306 1009,306 910,310 812,314 716,314 617,318 521,318 424,318 325,322 223,318 221,370"/>
+        <Baseline points="221,364 326,368 424,364 521,364 619,364 716,360 814,360 912,356 1009,353 1114,353"/>
+        <TextEquiv conf="0.963">
+          <Unicode>J. S. Machara, recitace Macharových básní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="35e43406-3369-4c21-8bc8-38f2c6be58ab" index="2" custom="heights_v2:[44.5,18.1]">
+        <Coords points="1403,449 1403,449 1402,413 1402,387 1274,391 1155,391 1035,391 915,391 799,391 679,391 559,391 438,394 314,398 316,461 439,457 559,453 679,453 799,453 915,453 1035,453 1155,453 1276,453 1403,449"/>
+        <Baseline points="315,443 439,439 559,435 679,435 799,435 915,435 1035,435 1155,435 1275,435 1403,431"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Továrna An. Kulková propustila dělnictvo i úřed-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bc97ee1f-93f6-4a89-8fa1-af00b3777bc0" index="3" custom="heights_v2:[44.1,17.4]">
+        <Coords points="194,474 194,474 198,535 331,531 461,528 593,528 720,528 852,528 983,528 1111,528 1242,524 1380,524 1380,462 1242,462 1109,466 983,466 852,466 720,466 593,466 461,466 329,470 194,474"/>
+        <Baseline points="197,518 330,514 461,510 593,510 720,510 852,510 983,510 1110,510 1242,506 1380,506"/>
+        <TextEquiv conf="0.996">
+          <Unicode>nictvo, neboť banka odepřela jí úvěr pro nezaplacení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="085a02ee-5f7f-430e-8584-6fc03921fcfb" index="4" custom="heights_v2:[45.4,17.4]">
+        <Coords points="199,544 203,606 275,606 341,603 413,603 480,603 552,603 618,599 691,603 758,599 837,599 837,536 758,536 688,540 621,536 549,540 480,540 413,540 341,540 271,544 199,544"/>
+        <Baseline points="202,589 274,589 341,585 413,585 480,585 551,585 619,581 690,585 758,581 837,581"/>
+        <TextEquiv conf="0.999">
+          <Unicode>daní v obnosu 3 milionu Kč.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f4e93208-1af3-4f1c-9855-a87018ec13fb" index="5" custom="heights_v2:[45.2,18.6]">
+        <Coords points="332,615 329,679 443,683 551,679 660,679 765,679 875,679 983,675 1088,675 1197,675 1313,675 1313,611 1197,611 1088,611 983,611 872,615 765,615 660,615 551,615 441,619 332,615"/>
+        <Baseline points="330,660 443,664 551,660 660,660 765,660 874,660 983,656 1088,656 1197,656 1313,656"/>
+        <TextEquiv conf="0.993">
+          <Unicode>Besídka Tělocvičné jednoty Sokol v Sokolovně.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="857c27d2-59cf-439c-a3a0-10b889e6481a" index="6" custom="heights_v2:[44.1,17.9]">
+        <Coords points="1329,696 1329,695 1329,695 1198,691 1073,691 953,691 829,691 709,691 585,691 464,695 341,695 213,699 214,761 341,757 466,757 585,753 709,753 829,753 953,753 1073,753 1196,753 1327,757 1329,696"/>
+        <Baseline points="214,743 341,739 465,739 585,735 709,735 829,735 953,735 1073,735 1197,735 1328,739"/>
+        <TextEquiv conf="0.990">
+          <Unicode>Na programu čísla klavírní, zpěvní, rytmické hry,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="21790035-a088-470f-82b9-7a51279f91b4" index="7" custom="heights_v2:[44.5,18.8]">
+        <Coords points="225,820 228,833 353,829 476,829 600,829 720,829 844,829 968,829 1088,829 1212,829 1343,829 1343,766 1212,766 1088,766 968,766 844,766 720,766 600,766 476,766 353,766 224,769 225,820"/>
+        <Baseline points="225,814 353,810 476,810 600,810 720,810 844,810 968,810 1088,810 1212,810 1343,810"/>
+        <TextEquiv conf="0.992">
+          <Unicode>nářadí, bradla a kruhy, cvičení prostná mužů a žen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a80446e1-0cf9-4ace-80a4-8b0c6de270ef" index="8" custom="heights_v2:[45.3,18.6]">
+        <Coords points="368,840 368,904 476,904 578,904 683,904 784,904 889,904 990,904 1096,904 1197,900 1309,900 1309,836 1197,836 1094,840 990,840 889,840 784,840 683,840 578,840 476,840 368,840"/>
+        <Baseline points="368,885 476,885 578,885 683,885 784,885 889,885 990,885 1095,885 1197,882 1309,882"/>
+        <TextEquiv conf="0.968">
+          <Unicode>V denníku „Obzoru“ k šedesátému výročí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9bab2bb5-5da0-4974-a271-a9f49351bea1" index="9" custom="heights_v2:[45.8,19.0]">
+        <Coords points="244,918 244,919 244,983 368,983 485,983 600,979 716,979 833,979 950,979 1066,976 1182,972 1309,972 1309,907 1182,907 1064,911 948,915 833,915 716,915 600,915 482,918 368,918 244,918"/>
+        <Baseline points="244,964 368,964 484,964 600,960 716,960 833,960 949,960 1065,957 1182,953 1309,953"/>
+        <TextEquiv conf="0.995">
+          <Unicode>narozenin J. S. Machara píše dr. Josef Staněk:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7a99ea6f-4490-435e-b265-8c692b706a45" index="10" custom="heights_v2:[46.1,18.9]">
+        <Coords points="225,1000 225,1054 356,1054 484,1054 608,1054 735,1051 859,1051 987,1051 1110,1051 1238,1051 1373,1051 1373,985 1238,985 1110,985 987,985 859,985 735,985 606,989 484,989 356,989 225,989 225,1000"/>
+        <Baseline points="225,1035 356,1035 484,1035 608,1035 735,1032 859,1032 987,1032 1110,1032 1238,1032 1373,1032"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Česká reformace a protineformace v díle Macharově,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="14f54eda-7212-4548-82dc-3ac4e4924813" index="11" custom="heights_v2:[48.6,19.0]">
+        <Coords points="226,1066 226,1133 226,1133 353,1129 473,1129 596,1129 716,1129 841,1129 960,1126 1084,1126 1205,1126 1336,1122 1334,1054 1203,1058 1084,1058 960,1058 839,1062 716,1062 596,1062 473,1062 353,1062 226,1066"/>
+        <Baseline points="226,1114 353,1110 473,1110 596,1110 716,1110 840,1110 960,1107 1084,1107 1204,1107 1335,1103"/>
+        <TextEquiv conf="0.782">
+          <Unicode>U Jako báseň „J. S. Machar od J. F. Karasa, Polta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f5e31598-cd73-422e-ad4a-2c31d9d5d01d" index="12" custom="heights_v2:[52.0,19.7]">
+        <Coords points="236,1203 236,1205 449,1205 548,1201 649,1201 750,1201 851,1201 950,1205 1167,1205 1167,1133 1054,1133 953,1133 853,1130 750,1130 649,1130 548,1130 444,1133 343,1137 238,1133 236,1203"/>
+        <Baseline points="236,1185 345,1189 446,1185 548,1182 649,1182 750,1182 852,1182 953,1185 1054,1185 1167,1185"/>
+        <TextEquiv conf="0.939">
+          <Unicode>voják“ a od R. B. Mácha „Machar v knize".</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="17edbc37-5080-4fd7-bec3-32907f5b42a7">
+      <Coords points="1448,599 1377,599 1377,655 1448,655 1448,599"/>
+      <TextLine id="22fcc1fd-7248-4356-bd31-b9f69fbbafd4" index="0" custom="heights_v2:[42.6,13.6]">
+        <Coords points="1448,599 1377,599 1377,655 1448,655 1448,599"/>
+        <Baseline points="1377,641 1448,641"/>
+        <TextEquiv conf="0.986">
+          <Unicode>29.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="898a52c9-9bde-4a32-8d55-9cd31a22121a">
+      <Coords points="235,2099 228,2174 236,2310 229,2535 263,2621 263,2686 1275,2682 1418,2607 1561,2607 1561,2542 1527,2378 1525,2313 1489,2156 1489,2091 1400,1931 1377,1561 1380,1350 1003,1347 897,1256 601,1252 509,1354 259,1350 236,1718 263,1875 236,1950 235,2099"/>
+      <TextLine id="5210d0d8-598e-4773-a1c1-2fa0338877aa" index="0" custom="heights_v2:[64.6,23.8]">
+        <Coords points="897,1256 882,1256 840,1256 792,1256 746,1256 698,1256 649,1256 601,1252 595,1340 649,1344 698,1344 746,1344 792,1344 840,1344 897,1344 897,1256"/>
+        <Baseline points="596,1317 649,1320 698,1320 746,1320 792,1320 840,1320 897,1320"/>
+        <TextEquiv conf="0.981">
+          <Unicode>Březen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1606b28e-adf6-4a61-ac9d-9cb38c419754" index="1" custom="heights_v2:[48.7,20.5]">
+        <Coords points="1379,1420 1380,1350 1249,1350 1125,1350 1014,1347 1003,1347 1003,1347 876,1351 758,1350 634,1350 509,1354 491,1354 289,1350 259,1350 259,1353 259,1420 386,1420 511,1423 634,1420 758,1420 878,1420 1001,1416 1125,1420 1249,1420 1379,1420"/>
+        <Baseline points="259,1399 386,1399 510,1403 634,1399 758,1399 878,1399 1002,1395 1125,1399 1249,1399 1379,1399"/>
+        <TextEquiv conf="0.991">
+          <Unicode>Společnost Alferika sehrála v Městském domě Šaldovo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ddf61cd2-6c50-4d34-8b3e-d15a78ed0f01" index="2" custom="heights_v2:[48.3,19.1]">
+        <Coords points="263,1426 263,1493 338,1493 416,1493 416,1426 338,1426 263,1426"/>
+        <Baseline points="263,1474 338,1474 416,1474"/>
+        <TextEquiv conf="0.551">
+          <Unicode>Dítě.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0326db69-1388-4477-8638-11ffbf32ed70" index="3" custom="heights_v2:[47.9,19.2]">
+        <Coords points="254,1505 256,1572 383,1568 506,1568 630,1568 755,1568 874,1565 998,1565 1122,1561 1245,1561 1377,1561 1377,1494 1245,1494 1122,1494 996,1498 874,1498 752,1501 630,1501 506,1501 383,1501 254,1505"/>
+        <Baseline points="255,1553 383,1549 506,1549 630,1549 754,1549 874,1546 998,1546 1122,1542 1245,1542 1377,1542"/>
+        <TextEquiv conf="0.976">
+          <Unicode>Obzor s XV. č. 52 přinesl podobizem Bedřicha Smetany</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2372e796-fb05-4665-8bb5-ca0f2553ee5d" index="4" custom="heights_v2:[48.1,18.7]">
+        <Coords points="246,1580 248,1647 371,1643 488,1643 604,1639 720,1639 837,1639 953,1639 1069,1639 1185,1639 1309,1643 1311,1576 1187,1572 1069,1572 953,1572 837,1572 720,1572 604,1572 486,1576 371,1576 246,1580"/>
+        <Baseline points="248,1628 371,1624 488,1624 604,1621 720,1621 837,1621 953,1621 1069,1621 1185,1621 1309,1624"/>
+        <TextEquiv conf="0.985">
+          <Unicode>a pod čarou od prof. Břet. Šťastného „Význam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a0fbd436-10a3-4e2c-a188-46fca1dec1f4" index="5" custom="heights_v2:[46.5,18.4]">
+        <Coords points="240,1653 236,1713 236,1718 294,1718 341,1714 390,1714 439,1714 488,1714 536,1714 585,1714 635,1714 695,1710 691,1645 631,1649 585,1649 536,1649 488,1649 439,1649 390,1649 341,1649 289,1653 240,1653"/>
+        <Baseline points="237,1699 293,1699 341,1696 390,1696 439,1696 488,1696 536,1696 585,1696 634,1696 694,1692"/>
+        <TextEquiv conf="0.994">
+          <Unicode>Bedřicha Smetany.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d81029dc-9b41-409a-861d-654b885432fd" index="6" custom="heights_v2:[49.4,18.9]">
+        <Coords points="427,1714 423,1782 484,1786 540,1786 596,1786 649,1786 705,1786 761,1786 814,1786 870,1786 934,1786 934,1717 870,1717 814,1717 761,1717 705,1717 649,1717 596,1717 540,1717 484,1717 427,1714"/>
+        <Baseline points="424,1763 484,1767 540,1767 596,1767 649,1767 705,1767 761,1767 814,1767 870,1767 934,1767"/>
+        <TextEquiv conf="0.997">
+          <Unicode>V týdnu zemřelo 8 osob.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="44b758f6-8c29-45ee-9e3f-53416741e64c" index="7" custom="heights_v2:[45.9,18.0]">
+        <Coords points="280,1803 282,1867 409,1864 529,1864 653,1864 773,1864 897,1864 1017,1864 1140,1864 1261,1864 1392,1860 1390,1796 1259,1800 1140,1800 1017,1800 897,1800 773,1800 653,1800 529,1800 409,1800 280,1803"/>
+        <Baseline points="281,1849 409,1846 529,1846 653,1846 773,1846 897,1846 1017,1846 1140,1846 1260,1846 1392,1842"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Okresní osvětový sbor pod protektorátem městské</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e896fec1-6b55-4013-bfd1-ba771e49d4ac" index="8" custom="heights_v2:[45.7,17.7]">
+        <Coords points="1399,1922 1396,1868 1263,1871 1140,1871 1017,1871 893,1871 765,1871 641,1871 518,1871 392,1875 263,1875 263,1875 263,1876 263,1938 394,1938 518,1935 641,1935 765,1935 893,1935 1017,1935 1140,1935 1265,1935 1400,1931 1399,1922"/>
+        <Baseline points="263,1921 394,1921 518,1917 641,1917 765,1917 893,1917 1017,1917 1140,1917 1264,1917 1399,1913"/>
+        <TextEquiv conf="0.983">
+          <Unicode>rady pořádal oslavu stého výročí narozenin Bedř.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3baedac6-2e2c-4a15-af3c-513606ef6a5f" index="9" custom="heights_v2:[45.5,17.3]">
+        <Coords points="236,1950 236,2013 368,2013 495,2009 619,2009 746,2009 870,2009 998,2009 1122,2009 1249,2005 1384,2009 1385,1946 1250,1943 1120,1946 998,1946 870,1946 746,1946 619,1946 495,1946 366,1950 236,1950"/>
+        <Baseline points="236,1996 368,1996 495,1992 619,1992 746,1992 870,1992 998,1992 1122,1992 1249,1988 1384,1992"/>
+        <TextEquiv conf="0.966">
+          <Unicode>Smetany s následujícím programem: 1. R. Zamrzla:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fe3d03f3-9c9a-4133-8944-d6a733008380" index="10" custom="heights_v2:[44.6,16.9]">
+        <Coords points="240,2026 240,2088 376,2088 503,2084 631,2084 758,2080 889,2080 1017,2080 1145,2080 1271,2076 1410,2080 1412,2019 1273,2015 1143,2019 1017,2019 889,2019 758,2019 629,2022 503,2022 374,2026 240,2026"/>
+        <Baseline points="240,2071 375,2071 503,2067 630,2067 758,2063 889,2063 1017,2063 1144,2063 1272,2059 1410,2063"/>
+        <TextEquiv conf="0.988">
+          <Unicode>Velkému Čechu. Mužský sbor sdružených spolků pře-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="32d2def0-887c-446f-a862-36422cd2fe4e" index="11" custom="heights_v2:[46.9,17.8]">
+        <Coords points="1489,2156 1489,2156 1489,2091 1343,2091 1204,2091 1069,2091 932,2088 792,2088 656,2088 516,2091 378,2095 235,2099 237,2164 379,2160 518,2156 656,2152 792,2152 930,2152 1069,2156 1204,2156 1343,2156 1489,2156"/>
+        <Baseline points="236,2146 379,2142 518,2138 656,2134 792,2134 930,2134 1069,2138 1204,2138 1343,2138 1489,2138"/>
+        <TextEquiv conf="0.986">
+          <Unicode>rovských (Dir. K. Mařík) 2. Slavnostní řeč prof. Em. Ambrova</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d5352dff-bbf4-4bfa-9e1e-7fd8cce96a83" index="12" custom="heights_v2:[46.7,17.9]">
+        <Coords points="228,2174 232,2239 372,2235 507,2231 641,2227 777,2231 911,2231 1047,2235 1182,2235 1317,2231 1463,2231 1463,2167 1317,2167 1180,2170 1047,2170 913,2167 777,2167 643,2163 505,2167 370,2170 228,2174"/>
+        <Baseline points="231,2221 371,2217 506,2213 641,2209 777,2213 912,2213 1047,2217 1182,2217 1317,2213 1463,2213"/>
+        <TextEquiv conf="0.989">
+          <Unicode>3. Bedřich Smetana: „Věno. Mužský sbor sdružených spolků</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a557e2f9-e844-40d6-bdaa-f32f48027e78" index="13" custom="heights_v2:[46.3,18.4]">
+        <Coords points="236,2246 236,2310 326,2310 413,2310 499,2307 585,2307 668,2307 753,2307 840,2310 927,2310 1020,2310 1020,2246 927,2246 840,2246 756,2242 668,2242 585,2242 499,2242 411,2246 326,2246 236,2246"/>
+        <Baseline points="236,2292 326,2292 413,2292 499,2288 585,2288 668,2288 754,2288 840,2292 927,2292 1020,2292"/>
+        <TextEquiv conf="0.971">
+          <Unicode>přerovských (dir. prof. Bř. Šťastný).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c712167-339e-44a5-8f2d-f3fbcc74b440" index="14" custom="heights_v2:[47.0,18.4]">
+        <Coords points="1527,2378 1525,2313 1525,2313 1390,2316 1263,2320 1140,2320 1013,2320 885,2320 760,2324 635,2320 506,2320 376,2316 375,2382 506,2385 633,2385 762,2389 885,2385 1013,2385 1140,2385 1265,2385 1392,2382 1527,2378"/>
+        <Baseline points="375,2363 506,2367 634,2367 761,2371 885,2367 1013,2367 1140,2367 1264,2367 1392,2363 1526,2360"/>
+        <TextEquiv conf="0.997">
+          <Unicode>V městské radě navrženo, aby město zakoupilo 5.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e63df4dd-1c09-42fe-a9c4-72b02d08a9f5" index="15" custom="heights_v2:[44.6,17.6]">
+        <Coords points="233,2397 231,2460 376,2460 514,2456 653,2456 792,2456 935,2456 1072,2452 1212,2456 1350,2452 1500,2452 1500,2390 1350,2390 1210,2394 1074,2390 933,2394 792,2394 653,2394 514,2394 374,2397 233,2397"/>
+        <Baseline points="232,2442 375,2442 514,2438 653,2438 792,2438 934,2438 1073,2435 1212,2438 1350,2435 1500,2435"/>
+        <TextEquiv conf="0.999">
+          <Unicode>za 3 miliony státních lesů stavebních. Za každých 20 Kč</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ef9d39c2-0c34-459f-9544-22ba00b6e284" index="16" custom="heights_v2:[44.9,17.4]">
+        <Coords points="231,2472 229,2535 376,2535 514,2531 653,2531 792,2531 930,2531 1069,2531 1208,2531 1347,2531 1493,2531 1493,2468 1347,2468 1208,2468 1069,2468 930,2468 792,2468 653,2468 514,2468 374,2472 231,2472"/>
+        <Baseline points="230,2517 375,2517 514,2513 653,2513 792,2513 930,2513 1069,2513 1208,2513 1347,2513 1493,2513"/>
+        <TextEquiv conf="0.997">
+          <Unicode>měsíčně stane se dotyčný členem „Losové společnosti.“</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c2c082c-c9c6-4425-a780-89d96f8d66e8" index="17" custom="heights_v2:[46.1,18.3]">
+        <Coords points="359,2546 361,2610 499,2607 630,2603 761,2603 893,2607 1024,2603 1155,2603 1286,2603 1418,2607 1561,2607 1561,2542 1418,2542 1288,2539 1155,2539 1024,2539 891,2542 763,2539 630,2539 498,2542 359,2546"/>
+        <Baseline points="360,2592 499,2588 630,2585 761,2585 893,2588 1024,2585 1155,2585 1287,2585 1418,2588 1561,2588"/>
+        <TextEquiv conf="0.969">
+          <Unicode>Katoličtí železničáři pořádali „U Tiponů“ přednášku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="67810c9b-2ed9-4c51-b05f-b7e0b7a735ee" index="18" custom="heights_v2:[46.0,19.0]">
+        <Coords points="263,2621 263,2686 400,2685 491,2682 600,2682 713,2682 822,2682 934,2682 1043,2682 1155,2682 1175,2682 1275,2682 1275,2682 1275,2617 1155,2617 1043,2617 934,2617 822,2617 713,2617 600,2617 491,2617 377,2621 263,2621"/>
+        <Baseline points="263,2667 379,2667 491,2663 600,2663 713,2663 822,2663 934,2663 1043,2663 1155,2663 1275,2663"/>
+        <TextEquiv conf="0.987">
+          <Unicode>„O významu železnice“ se světelnými obrazy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="1204143d-830b-4ad3-b5bf-3c2de7a77b23">
+      <Coords points="1497,1342 1452,1342 1452,1415 1497,1415 1497,1342"/>
+      <TextLine id="190c596c-5645-4d5a-a984-1a4b8e217dbd" index="0" custom="heights_v2:[53.2,19.9]">
+        <Coords points="1452,1342 1452,1415 1497,1415 1497,1342 1452,1342"/>
+        <Baseline points="1452,1395 1497,1395"/>
+        <TextEquiv conf="0.990">
+          <Unicode>1.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

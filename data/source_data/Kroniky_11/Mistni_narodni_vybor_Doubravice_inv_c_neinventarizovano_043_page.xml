@@ -1,0 +1,197 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:19:57.739511</Created>
+    <LastChange>2023-01-19T00:19:57.739511</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Doubravice_inv_c_neinventarizovano_043.jpg" imageWidth="2064" imageHeight="2651">
+    <TextRegion id="b7fb03d5-44e9-470f-b396-ca3b8faa399b">
+      <Coords points="1042,123 962,127 965,199 1045,195 1042,123"/>
+      <TextLine id="b2985c41-142b-47c7-99c1-16501846a563" index="0" custom="heights_v2:[49.0,22.6]">
+        <Coords points="962,127 964,181 965,199 1045,195 1044,177 1042,123 962,127"/>
+        <Baseline points="964,176 1044,172"/>
+        <TextEquiv conf="1.000">
+          <Unicode>37</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="d3fea384-87ba-41b3-ae55-c4a895f251d6">
+      <Coords points="251,1253 247,1582 255,1757 267,1842 253,2029 251,2270 1640,2294 1676,2206 1680,2121 1704,2039 1700,1525 1712,1441 1717,1266 1712,954 1705,929 1703,860 1736,756 1720,522 1700,438 1720,331 1720,257 281,245 268,926 256,1007 251,1253"/>
+      <TextLine id="bd490366-1ce2-4b1f-ade9-9de36f0087a1" index="0" custom="heights_v2:[51.1,22.6]">
+        <Coords points="1720,331 1720,257 1703,257 1552,257 1392,257 1243,253 744,249 604,249 444,249 289,245 281,245 280,291 280,319 444,323 604,323 760,323 920,323 1075,323 1235,327 1392,331 1552,331 1720,331"/>
+        <Baseline points="280,296 444,300 604,300 760,300 920,300 1076,300 1236,304 1392,308 1552,308 1720,308"/>
+        <TextEquiv conf="1.000">
+          <Unicode>družstvo ku vzájemné podpoře v případě onemoc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b7b60ef7-0746-46d9-9f53-cf4dd10fc46c" index="1" custom="heights_v2:[49.7,21.9]">
+        <Coords points="279,330 278,402 435,402 588,406 743,406 895,410 1052,414 1203,414 1360,418 1512,418 1676,418 1676,346 1512,346 1360,346 1205,342 1052,342 897,338 745,334 588,334 437,330 279,330"/>
+        <Baseline points="278,380 436,380 588,384 744,384 896,388 1052,392 1204,392 1360,396 1512,396 1676,396"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nění neb nuceného poražení hovězího dobytka.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fa02108a-e569-4ad5-9b6e-f7d8b38fe1d7" index="2" custom="heights_v2:[46.1,20.7]">
+        <Coords points="277,430 276,481 440,489 595,489 751,493 907,497 1063,501 1220,505 1376,505 1532,505 1700,505 1700,438 1700,438 1532,438 1376,438 1220,438 1065,434 909,430 753,426 597,422 440,422 278,414 277,430"/>
+        <Baseline points="277,460 440,468 596,468 752,472 908,476 1064,480 1220,484 1376,484 1532,484 1700,484"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Členy družstva mohou se státi všichni majitelé</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fd83e74c-2c6c-45e0-be2d-77a6d27fbf90" index="3" custom="heights_v2:[46.5,20.7]">
+        <Coords points="1720,522 1720,522 1552,522 1393,518 1236,518 1077,514 916,514 761,510 600,510 441,506 277,502 275,569 439,573 600,577 759,577 916,581 1075,581 1236,585 1391,585 1552,589 1720,589 1720,522"/>
+        <Baseline points="276,548 440,552 600,556 760,556 916,560 1076,560 1236,564 1392,564 1552,568 1720,568"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hovězího dobytka z Doubravice a Mitrovic. Přistu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="170715ea-fe7d-40a2-9975-ae2d365e1c02" index="4" custom="heights_v2:[45.2,20.0]">
+        <Coords points="277,591 276,656 439,660 595,664 756,668 912,668 1067,668 1228,672 1383,672 1540,676 1708,676 1708,611 1540,611 1385,607 1228,607 1069,603 912,603 756,603 597,599 441,595 277,591"/>
+        <Baseline points="276,636 440,640 596,644 756,648 912,648 1068,648 1228,652 1384,652 1540,656 1708,656"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pující do družstva jest povinen platiti za kus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="12c0d603-f14f-4f40-a662-93bad4a3c03d" index="5" custom="heights_v2:[44.7,19.8]">
+        <Coords points="1736,756 1732,691 1564,691 1405,687 1245,683 1084,683 920,683 761,679 601,675 441,671 273,671 272,716 272,736 440,736 600,740 760,744 920,748 1084,748 1244,748 1404,752 1564,756 1736,756"/>
+        <Baseline points="272,716 440,716 600,720 760,724 920,728 1084,728 1244,728 1404,732 1564,736 1735,736"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ročně 40 h. Onemocnělému pojištěnému dobytku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5d82da97-d5cc-4a6a-a777-146129e16232" index="6" custom="heights_v2:[48.1,20.9]">
+        <Coords points="271,744 270,813 431,817 587,825 744,829 899,829 1060,833 1215,833 1371,837 1528,841 1696,837 1695,768 1527,772 1373,768 1217,764 1060,764 901,760 744,760 589,756 434,748 271,744"/>
+        <Baseline points="271,792 432,796 588,804 744,808 900,808 1060,812 1216,812 1372,816 1528,820 1696,816"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dostane se pomoci zvěrolékařské. Musí-li pak býti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1d5ffb67-5d76-4825-a414-09c520ad1347" index="7" custom="heights_v2:[48.0,21.3]">
+        <Coords points="270,844 269,897 431,905 587,909 747,913 904,917 1063,917 1219,925 1379,929 1537,933 1705,929 1703,860 1535,864 1381,860 1221,856 1066,848 904,848 749,844 589,840 433,836 270,828 270,844"/>
+        <Baseline points="269,876 432,884 588,888 748,892 904,896 1064,896 1220,904 1380,908 1536,912 1704,908"/>
+        <TextEquiv conf="1.000">
+          <Unicode>onemocnělý kus poražen, jest každý člen povinen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="30ce74a4-891f-452f-9a45-1cd26883c0c3" index="8" custom="heights_v2:[45.8,20.4]">
+        <Coords points="268,926 268,992 431,992 592,1000 751,1000 908,1004 1067,1004 1227,1008 1383,1016 1544,1020 1712,1020 1712,954 1544,954 1385,950 1230,942 1069,938 908,938 753,934 592,934 434,926 268,926"/>
+        <Baseline points="268,972 432,972 592,980 752,980 908,984 1068,984 1228,988 1384,996 1544,1000 1712,1000"/>
+        <TextEquiv conf="1.000">
+          <Unicode>odebrati připadající na něj část masa za předem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="da00eca7-3750-4f23-9f35-6cb3eb92dfd6" index="9" custom="heights_v2:[49.2,21.9]">
+        <Coords points="256,1007 256,1007 256,1078 419,1078 575,1082 735,1086 891,1090 1047,1094 1208,1102 1364,1102 1520,1102 1688,1102 1688,1031 1520,1031 1364,1031 1208,1031 1050,1023 893,1019 737,1015 577,1011 421,1007 256,1007"/>
+        <Baseline points="256,1056 420,1056 576,1060 736,1064 892,1068 1048,1072 1208,1080 1364,1080 1520,1080 1688,1080"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stanovenou cenu za kg. Výlohy s porážkou hradí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="65036d2b-c10c-42fa-b18c-01a81fc6cb53" index="10" custom="heights_v2:[46.3,20.3]">
+        <Coords points="256,1090 256,1156 308,1156 352,1156 400,1156 444,1156 486,1156 536,1160 580,1160 625,1160 681,1156 677,1090 621,1094 580,1094 536,1094 492,1090 444,1090 400,1090 352,1090 308,1090 256,1090"/>
+        <Baseline points="256,1136 308,1136 352,1136 400,1136 444,1136 488,1136 536,1140 580,1140 624,1140 680,1136"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pojištěnec sám.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6b08e190-b8b1-4d92-8716-aa9af7bfbbb8" index="11" custom="heights_v2:[50.1,22.3]">
+        <Coords points="408,1178 408,1250 555,1250 699,1254 843,1258 987,1262 1132,1266 1275,1266 1420,1270 1565,1270 1717,1266 1715,1194 1563,1198 1420,1198 1277,1194 1132,1194 989,1190 845,1186 701,1182 557,1178 408,1178"/>
+        <Baseline points="408,1228 556,1228 700,1232 844,1236 988,1240 1132,1244 1276,1244 1420,1248 1564,1248 1716,1244"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Při dobytku padlém odhadne výbor cenu jeho</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dfa881a3-8210-47a6-a703-01561a35acb1" index="12" custom="heights_v2:[50.6,22.3]">
+        <Coords points="251,1253 250,1326 404,1334 551,1334 703,1338 851,1342 1000,1346 1152,1346 1299,1346 1448,1350 1608,1350 1608,1277 1448,1277 1301,1273 1152,1273 1000,1273 853,1269 705,1265 553,1261 404,1261 251,1253"/>
+        <Baseline points="250,1304 404,1312 552,1312 704,1316 852,1320 1000,1324 1152,1324 1300,1324 1448,1328 1608,1328"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a ta rozvrhne se na pojištěnce podle počtu kusů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6c5fb7d6-218e-41df-bc75-683b94dfa3bf" index="13" custom="heights_v2:[48.3,20.9]">
+        <Coords points="397,1352 395,1421 548,1425 691,1425 835,1429 980,1433 1123,1433 1267,1437 1412,1441 1556,1441 1712,1441 1712,1372 1556,1372 1412,1372 1269,1368 1125,1364 980,1364 837,1360 693,1356 548,1356 397,1352"/>
+        <Baseline points="396,1400 548,1404 692,1404 836,1408 980,1412 1124,1412 1268,1416 1412,1420 1556,1420 1712,1420"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Správu družstva vede 5 volených důvěrníků,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="be3d8c4e-fedd-4716-a1e2-59603cb8e9bb" index="14" custom="heights_v2:[47.7,20.9]">
+        <Coords points="248,1460 248,1501 411,1505 572,1509 731,1509 892,1513 1052,1513 1211,1513 1371,1521 1532,1525 1700,1525 1700,1456 1532,1456 1373,1452 1214,1444 1052,1444 892,1444 733,1440 572,1440 413,1436 249,1432 248,1460"/>
+        <Baseline points="248,1480 412,1484 572,1488 732,1488 892,1492 1052,1492 1212,1492 1372,1500 1532,1504 1700,1504"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kteří ze sebe volí předsedu, jednatele, pokladníka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aed871d3-520f-4927-85e5-8d0e9e87ba37" index="15" custom="heights_v2:[51.9,22.3]">
+        <Coords points="249,1508 247,1582 411,1586 567,1590 723,1594 879,1598 1039,1602 1195,1606 1352,1614 1508,1614 1676,1614 1676,1540 1508,1540 1352,1540 1199,1532 1041,1528 881,1524 725,1520 569,1516 413,1512 249,1508"/>
+        <Baseline points="248,1560 412,1564 568,1568 724,1572 880,1576 1040,1580 1196,1584 1352,1592 1508,1592 1676,1592"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a 2 revisory. Volba platí 3 roky. Za první období</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8f71ff51-5b2a-49e2-bb14-1d24d7b334cf" index="16" custom="heights_v2:[47.9,21.1]">
+        <Coords points="251,1662 251,1665 306,1669 356,1673 404,1673 452,1673 500,1673 548,1673 596,1673 656,1673 656,1604 596,1604 548,1604 500,1604 452,1604 404,1604 356,1604 312,1600 255,1596 251,1662"/>
+        <Baseline points="252,1644 308,1648 356,1652 404,1652 452,1652 500,1652 548,1652 596,1652 656,1652"/>
+        <TextEquiv conf="1.000">
+          <Unicode>byli zvoleni:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4a4effb5-ec51-4d1b-83ad-53d38b69efa4" index="17" custom="heights_v2:[56.2,25.2]">
+        <Coords points="1702,1789 1701,1708 1537,1704 1377,1700 1216,1700 1057,1696 901,1692 743,1684 581,1680 420,1680 257,1676 255,1757 420,1761 579,1761 739,1765 899,1773 1055,1777 1216,1781 1375,1781 1535,1785 1702,1789"/>
+        <Baseline points="256,1732 420,1736 580,1736 740,1740 900,1748 1056,1752 1216,1756 1376,1756 1536,1760 1702,1764"/>
+        <TextEquiv conf="1.000">
+          <Unicode>předseda Karel Škrabal, pokladník Tomáš Havlíček,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="633dc196-a8eb-4ea4-a1e1-6f0ea40c5a58" index="18" custom="heights_v2:[50.8,22.4]">
+        <Coords points="269,1769 267,1842 428,1846 579,1846 731,1850 883,1858 1035,1862 1188,1870 1340,1870 1491,1870 1651,1874 1653,1801 1493,1797 1340,1797 1188,1797 1039,1789 885,1785 735,1777 581,1773 428,1773 269,1769"/>
+        <Baseline points="268,1820 428,1824 580,1824 732,1828 884,1836 1036,1840 1188,1848 1340,1848 1492,1848 1652,1852"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jednatel Frant. Jarolím čís. 35. a revisoři: Josef,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="70d4038b-3f4d-44ae-8bc5-60f559fbed21" index="19" custom="heights_v2:[24.8,12.9]">
+        <Coords points="272,1855 272,1893 324,1893 324,1855 272,1855"/>
+        <Baseline points="272,1880 324,1880"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1d9d5978-abf2-4211-bc14-86110735b962" index="20" custom="heights_v2:[50.4,22.5]">
+        <Coords points="267,1858 263,1930 340,1934 412,1934 484,1934 551,1934 623,1938 695,1942 764,1946 836,1946 916,1946 916,1874 836,1874 764,1874 699,1870 627,1866 555,1862 484,1862 412,1862 340,1862 267,1858"/>
+        <Baseline points="264,1908 340,1912 412,1912 484,1912 552,1912 624,1916 696,1920 764,1924 836,1924 916,1924"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Paták a Josef Pazdera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5568513b-cd43-41ef-83dc-12caf4a9099e" index="21" custom="heights_v2:[49.5,22.7]">
+        <Coords points="1704,2039 1703,1967 1552,1967 1408,1967 1264,1967 1121,1963 976,1963 833,1959 688,1959 545,1955 395,1947 391,2019 543,2027 688,2031 831,2031 976,2035 1119,2035 1264,2039 1408,2039 1552,2039 1704,2039"/>
+        <Baseline points="392,1996 544,2004 688,2008 832,2008 976,2012 1120,2012 1264,2016 1408,2016 1552,2016 1704,2016"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Činnost svou družstvo započalo dne 1. ledna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="12427c8b-8d6a-4480-82fd-6cb9a662d385" index="22" custom="heights_v2:[47.2,20.6]">
+        <Coords points="253,2038 252,2097 415,2101 571,2105 727,2109 884,2113 1043,2113 1200,2117 1355,2117 1512,2121 1680,2121 1680,2053 1512,2053 1357,2049 1200,2049 1045,2045 884,2045 729,2041 573,2037 417,2033 253,2029 253,2038"/>
+        <Baseline points="253,2076 416,2080 572,2084 728,2088 884,2092 1044,2092 1200,2096 1356,2096 1512,2100 1680,2100"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1897. Při založení přihlásilo se do družstva po-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b11ff290-ddc4-4ada-9f9d-962931130866" index="23" custom="heights_v2:[51.5,22.0]">
+        <Coords points="1676,2206 1676,2206 1676,2133 1512,2133 1356,2133 1201,2129 1044,2129 889,2125 732,2125 577,2121 421,2117 260,2117 260,2190 419,2190 575,2194 732,2198 887,2198 1044,2202 1199,2202 1356,2206 1512,2206 1676,2206"/>
+        <Baseline points="260,2168 420,2168 576,2172 732,2176 888,2176 1044,2180 1200,2180 1356,2184 1512,2184 1676,2184"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jišťovacího 21 hospodářů z Doubravice a 6 hospo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6c057a7b-300a-4cca-9252-d0aae392ad51" index="24" custom="heights_v2:[49.4,22.5]">
+        <Coords points="251,2270 509,2274 563,2274 589,2276 1640,2294 1640,2223 1476,2223 1325,2219 1173,2215 1020,2215 869,2211 716,2211 567,2203 412,2203 253,2199 251,2270"/>
+        <Baseline points="252,2248 412,2252 564,2252 716,2260 868,2260 1020,2264 1172,2264 1324,2268 1476,2272 1640,2272"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dářů z Mitrovic; družstvo tedy čítalo 27 členů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,305 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:18:56.581647</Created>
+    <LastChange>2023-01-19T00:18:56.581647</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_obce_Moravicany_inv_c_neinventarizovano_016.jpg" imageWidth="1767" imageHeight="2167">
+    <TextRegion id="23baeb1a-5a40-4d02-a5f7-04774a3a2b33">
+      <Coords points="77,174 85,479 516,498 1373,488 1501,443 1683,443 1683,393 1705,302 1726,261 1727,208 1663,62 1143,81 460,69 110,79 77,174"/>
+      <TextLine id="e921a74d-0d8b-4371-b37e-7852fb3755de" index="0" custom="heights_v2:[47.1,21.7]">
+        <Coords points="1663,63 1663,62 1646,63 1174,80 1143,81 1125,81 695,73 629,74 460,69 286,74 245,75 110,79 112,148 288,143 458,138 630,143 800,140 973,145 1145,150 1316,143 1487,136 1665,131 1663,63"/>
+        <Baseline points="112,126 287,121 458,116 629,121 800,119 974,123 1144,128 1315,121 1486,114 1664,109"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pohřben byl g. Štefaník s velikou slávou za obrovské účasti jako</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="85f72729-c6f9-4d27-afc3-ff68999882ba" index="1" custom="heights_v2:[39.8,18.0]">
+        <Coords points="121,131 121,189 296,189 468,196 639,196 809,196 980,203 1152,206 1323,201 1493,201 1669,203 1670,145 1494,143 1323,143 1151,148 981,145 811,138 639,138 468,138 298,131 121,131"/>
+        <Baseline points="121,171 297,171 468,178 639,178 810,178 981,185 1152,188 1323,183 1494,183 1669,185"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pravý hrdina národní ve skalní hrobce na temeni hory Bradla</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8f235e2c-b1b6-411a-8296-0b4e7292ed7e" index="2" custom="heights_v2:[37.1,16.5]">
+        <Coords points="77,174 78,228 260,233 444,242 627,244 809,247 990,252 1173,254 1356,256 1538,256 1726,261 1727,232 1727,208 1727,208 1540,203 1356,203 1173,200 991,198 811,193 627,191 445,189 263,179 77,174"/>
+        <Baseline points="78,211 261,216 444,226 627,228 810,230 990,235 1173,237 1356,240 1539,240 1726,245"/>
+        <TextEquiv conf="1.000">
+          <Unicode>u svého rodiště Košárisk nedaleko Brezové. Byl syn evangel. fará-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5b024874-8633-4656-891b-523cad427e7e" index="3" custom="heights_v2:[33.7,15.1]">
+        <Coords points="83,218 80,267 263,279 444,288 622,291 803,295 980,295 1161,300 1339,302 1520,302 1705,302 1705,254 1520,254 1339,254 1162,251 982,246 803,246 623,242 444,239 265,230 83,218"/>
+        <Baseline points="81,252 264,264 444,273 622,275 803,280 981,280 1161,285 1339,287 1520,287 1705,287"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vystudoval filosofii v Praze a oblíbil si hvězdářství. Dopracoval se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="69aed249-d2d7-471f-bb83-369c022769ef" index="4" custom="heights_v2:[36.0,15.6]">
+        <Coords points="84,275 83,327 263,329 441,331 617,334 795,341 971,341 1150,348 1325,343 1503,346 1686,343 1685,292 1503,294 1325,292 1148,296 973,289 795,289 619,282 442,280 264,277 84,275"/>
+        <Baseline points="83,311 264,313 442,316 617,318 795,325 971,325 1149,332 1325,328 1503,330 1686,328"/>
+        <TextEquiv conf="1.000">
+          <Unicode>úspěchů a slavného jména v hvězdářství. Postavil se s Masarykem a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cea10a51-bd8d-4a7d-9df8-438d9e3ddb0f" index="5" custom="heights_v2:[35.2,15.7]">
+        <Coords points="103,333 102,384 280,386 453,388 627,393 800,393 974,393 1147,393 1320,396 1494,400 1674,398 1674,347 1493,349 1321,345 1147,342 974,342 800,342 627,342 454,338 281,335 103,333"/>
+        <Baseline points="102,368 280,370 454,373 627,378 800,378 974,378 1147,378 1320,380 1494,385 1674,382"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Benešem v čele odboje. Z hvězdáře stal se vojákem a organisátorem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3fa3a75d-4c93-4d25-8386-2bdbd2fb124c" index="6" custom="heights_v2:[34.7,15.2]">
+        <Coords points="83,407 84,433 263,433 439,440 617,438 793,438 971,433 1147,438 1325,440 1501,443 1683,443 1683,393 1683,393 1501,393 1325,390 1147,388 972,383 792,388 617,388 439,390 265,383 83,383 83,407"/>
+        <Baseline points="83,418 264,418 439,425 617,423 793,423 971,418 1147,423 1325,425 1501,427 1683,427"/>
+        <TextEquiv conf="1.000">
+          <Unicode>naší armády v Rusku. Šínaně se zůčastnil bojů na Rusi, ve Francii</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d8704edb-193b-434a-8982-8c31657fc314" index="7" custom="heights_v2:[40.1,17.9]">
+        <Coords points="85,473 85,479 165,483 478,496 516,498 658,493 798,490 940,493 958,493 1373,488 1372,430 1225,432 1082,435 940,435 798,432 657,435 514,440 374,435 232,428 87,421 85,473"/>
+        <Baseline points="85,461 230,468 373,475 515,480 658,475 798,473 940,475 1083,475 1225,473 1372,470"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a na Balkáně. Dočkal se vítězství. Sláva jemu</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="67bc433f-a2cf-43e2-bd11-5ba8b745b96f">
+      <Coords points="108,492 48,494 51,555 110,553 108,492"/>
+      <TextLine id="ed365a00-4ce7-4cfa-83bd-ce2eef971bd3" index="0" custom="heights_v2:[42.3,18.4]">
+        <Coords points="108,492 106,492 48,494 49,511 51,555 110,553 108,492"/>
+        <Baseline points="50,537 109,534"/>
+        <TextEquiv conf="1.000">
+          <Unicode>24.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="aac7f267-9c9c-4ba5-9a2c-39847ac75f44">
+      <Coords points="57,1777 45,1830 45,1886 65,1974 173,1982 1009,1986 1164,1935 1531,1933 1721,1940 1724,1200 1711,948 1720,513 1647,510 1537,537 109,533 110,553 89,553 76,594 59,896 61,995 53,1039 57,1777"/>
+      <TextLine id="6c81cd24-33af-4fb0-8183-32408d28c262" index="0" custom="heights_v2:[33.3,16.1]">
+        <Coords points="1720,528 1720,513 1701,512 1647,510 1645,560 1719,562 1720,528"/>
+        <Baseline points="1645,544 1719,546"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ed7d8ffa-d4f1-4640-ba28-b2898e621a33" index="1" custom="heights_v2:[46.9,21.2]">
+        <Coords points="1718,610 1719,542 1537,537 1356,537 1325,536 514,534 458,535 277,537 116,533 109,533 110,553 96,553 94,601 278,605 459,603 638,601 817,603 998,603 1177,601 1356,605 1536,605 1718,610"/>
+        <Baseline points="95,579 278,584 458,582 639,579 817,582 997,582 1178,579 1356,584 1536,584 1718,589"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zesnulý nadučitel Krištof Lolek, narodil se r. 1871 ve Vojtěchově na Litovels</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="00a6fff8-bb13-4a7a-8915-aed7fcc6e8be" index="2" custom="heights_v2:[37.3,16.5]">
+        <Coords points="76,594 76,594 76,648 259,648 440,648 618,643 798,641 976,643 1156,643 1334,643 1514,643 1700,648 1701,594 1516,590 1334,590 1156,590 976,590 798,587 617,590 438,594 259,594 76,594"/>
+        <Baseline points="76,632 259,632 439,632 617,627 798,624 976,627 1156,627 1334,627 1515,627 1700,632"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Po absolvování učitelského ústavu v Příbramu učil v Cotkytli,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2f945cfa-8b33-4e5c-b573-a1feae54e94d" index="3" custom="heights_v2:[37.2,16.6]">
+        <Coords points="73,644 71,679 71,698 254,696 432,696 612,696 790,698 969,700 1149,700 1327,698 1505,698 1691,698 1691,644 1505,644 1327,644 1149,647 969,647 791,644 613,642 432,642 254,642 73,644"/>
+        <Baseline points="71,681 254,679 432,679 613,679 791,681 969,684 1149,684 1327,681 1505,681 1691,681"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ve Zborově, v Bohuslavicích, jako řídící učitel v Hněvkově, od 1.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3fe14465-9d18-49e7-b3fd-2913782bfd5e" index="4" custom="heights_v2:[37.8,16.6]">
+        <Coords points="75,694 76,748 261,746 441,746 622,748 803,746 985,746 1166,746 1346,743 1526,743 1714,750 1716,696 1528,689 1346,689 1165,691 985,691 803,691 622,694 442,691 261,691 75,694"/>
+        <Baseline points="76,731 261,729 442,729 622,731 803,729 985,729 1166,729 1346,727 1527,727 1714,734"/>
+        <TextEquiv conf="1.000">
+          <Unicode>března 1907 po nadučiteli Jos. Sedláčkovi, který odešel na odpočinek,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d585b0d7-f011-4c2d-9316-8ae996da4f42" index="5" custom="heights_v2:[38.4,17.4]">
+        <Coords points="1714,806 1715,750 1531,743 1346,743 1164,740 980,743 801,740 617,740 435,740 252,740 68,743 66,766 67,799 252,796 435,796 617,796 800,796 981,799 1163,796 1346,799 1528,799 1714,806"/>
+        <Baseline points="66,781 252,779 435,779 617,779 800,779 981,781 1163,779 1346,781 1529,781 1714,788"/>
+        <TextEquiv conf="1.000">
+          <Unicode>správcem školy v Moravičanech. Otec jeho Jakub Lolek byl lidový kra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c0d80723-649a-4438-93ae-e17292af19f7" index="6" custom="heights_v2:[37.1,16.3]">
+        <Coords points="67,792 66,845 242,847 413,845 584,845 755,845 926,847 1097,850 1268,850 1440,850 1616,840 1613,787 1437,796 1268,796 1097,796 927,794 756,792 584,792 413,792 242,794 67,792"/>
+        <Baseline points="66,829 242,831 413,829 584,829 755,829 926,831 1097,833 1268,833 1439,833 1615,824"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nikář, bratr Stanislav jest známý moravský malíř-krajinář</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fa068a66-aeaa-4f0c-a1d4-18ad8f8c91e2" index="7" custom="heights_v2:[37.3,16.4]">
+        <Coords points="62,841 62,895 230,897 397,897 561,897 726,895 890,897 1056,897 1220,900 1387,900 1558,897 1557,844 1386,846 1220,846 1057,844 890,844 727,841 560,844 397,844 230,844 62,841"/>
+        <Baseline points="62,879 230,881 397,881 560,881 727,879 890,881 1057,881 1220,883 1387,883 1558,881"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nadučitel K. Lolek rád se zabýval malířstvím a zvláště hudbou.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="476a25b3-dc10-4b13-91d2-9df81fd6defd" index="8" custom="heights_v2:[37.6,16.9]">
+        <Coords points="59,896 59,896 60,950 237,948 414,950 589,945 764,945 940,948 1116,950 1292,950 1467,948 1648,948 1648,893 1467,893 1291,896 1116,896 941,893 765,891 589,891 412,896 238,893 59,896"/>
+        <Baseline points="60,933 237,931 413,933 589,928 765,928 940,931 1116,933 1292,933 1467,931 1648,931"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V Moravičanech si vycvičil hudebníky zřídil hudební kapelu a kr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d15ba695-1f23-4008-8b0e-ade18f636f33" index="9" custom="heights_v2:[37.6,16.5]">
+        <Coords points="63,943 65,997 249,992 432,995 612,992 795,995 976,1000 1159,997 1339,997 1522,997 1709,1002 1711,948 1523,943 1339,943 1159,943 975,945 796,941 613,938 432,941 250,938 63,943"/>
+        <Baseline points="64,981 249,976 432,978 613,976 795,978 976,983 1159,981 1339,981 1522,981 1710,985"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Odb. N. J. hudební kroužek. Jeho přičiněním přeměnila se Občan. </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="53c54d78-f029-4ac9-b96c-1127a09b28e8" index="10" custom="heights_v2:[37.9,16.9]">
+        <Coords points="1715,1020 1713,995 1528,990 1344,988 1160,995 978,995 795,995 614,990 430,990 247,990 61,995 61,995 61,996 62,1050 247,1045 430,1045 612,1045 795,1050 978,1050 1162,1050 1344,1043 1526,1045 1714,1050 1715,1020"/>
+        <Baseline points="62,1033 247,1028 430,1028 613,1028 795,1033 978,1033 1161,1033 1344,1026 1527,1028 1714,1033"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v Odb. N. J. Velmi se zasloužil o electrické družstvo je muž vedl knihy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a62aec9-2edf-47fc-95d7-a21f3ec6291f" index="11" custom="heights_v2:[36.8,16.3]">
+        <Coords points="53,1039 53,1039 53,1092 235,1094 413,1094 594,1092 771,1092 952,1094 1130,1094 1311,1097 1489,1097 1674,1099 1674,1046 1489,1044 1311,1044 1131,1041 952,1041 772,1039 594,1039 413,1041 235,1041 53,1039"/>
+        <Baseline points="53,1076 235,1078 413,1078 594,1076 772,1076 952,1078 1130,1078 1311,1080 1489,1080 1674,1083"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a účty. Měl ještě mnoho plánů: chtěl zříditi v obci museum, chtěl roz-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="681a4384-9a5e-457d-b384-65b9381171a2" index="12" custom="heights_v2:[33.1,14.6]">
+        <Coords points="339,1062 343,1109 400,1104 396,1057 339,1062"/>
+        <Baseline points="342,1095 399,1090"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vnu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1ebecd5e-6a7d-4040-be67-fd4eeb4939d2" index="13" custom="heights_v2:[33.8,15.0]">
+        <Coords points="273,1066 273,1114 332,1114 332,1066 273,1066"/>
+        <Baseline points="273,1099 332,1099"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kniho</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="885ca8e1-da58-478f-8107-574af7c95870" index="14" custom="heights_v2:[36.7,15.7]">
+        <Coords points="62,1084 62,1136 245,1139 423,1136 601,1136 779,1134 957,1136 1134,1132 1313,1139 1491,1134 1674,1132 1674,1079 1491,1082 1312,1086 1136,1079 956,1084 779,1082 600,1084 423,1084 244,1086 62,1084"/>
+        <Baseline points="62,1121 245,1123 423,1121 601,1121 779,1118 957,1121 1135,1116 1313,1123 1491,1118 1674,1116"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hojniti a upraviti vypůjčení knih, a založiti jednotu sokolskou,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cd759e49-b00a-4d7e-97a4-3afdf619f7c0" index="15" custom="heights_v2:[37.6,16.8]">
+        <Coords points="57,1135 57,1190 245,1192 427,1192 610,1192 793,1192 978,1192 1161,1192 1344,1195 1526,1192 1716,1197 1718,1142 1528,1138 1343,1140 1162,1138 978,1138 793,1138 610,1138 427,1138 245,1138 57,1135"/>
+        <Baseline points="57,1173 245,1175 427,1175 610,1175 793,1175 978,1175 1161,1175 1344,1178 1527,1175 1717,1180"/>
+        <TextEquiv conf="1.000">
+          <Unicode>padlým vojínům pomník chtěl vystavěti a skvělé uvítání legionářů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="02cfc4cb-61ba-4a14-98bb-4a255ecc2a85" index="16" custom="heights_v2:[36.9,16.6]">
+        <Coords points="57,1184 57,1237 245,1239 427,1237 613,1239 795,1239 981,1242 1163,1239 1348,1239 1530,1242 1720,1254 1724,1200 1534,1188 1349,1186 1163,1186 980,1188 796,1186 613,1186 428,1184 244,1186 57,1184"/>
+        <Baseline points="57,1220 245,1223 427,1220 613,1223 795,1223 981,1225 1163,1223 1349,1223 1532,1225 1721,1237"/>
+        <TextEquiv conf="1.000">
+          <Unicode>při návratu do obce. Na jeho popud obec r 1915 založila pamětní kroniku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="927c9751-affa-4bce-b8e6-59a495bebd5d" index="17" custom="heights_v2:[36.0,16.2]">
+        <Coords points="55,1237 54,1289 242,1291 427,1291 610,1291 795,1291 979,1294 1163,1289 1346,1294 1531,1294 1721,1301 1723,1249 1533,1241 1346,1241 1164,1237 977,1241 796,1239 610,1239 427,1239 242,1239 55,1237"/>
+        <Baseline points="55,1273 242,1275 427,1275 610,1275 795,1275 978,1277 1163,1273 1346,1277 1532,1277 1721,1285"/>
+        <TextEquiv conf="1.000">
+          <Unicode>do níž on sám se starých listin obecních psal zajímavé záznamy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="302530b7-572e-4671-a1fe-7b0b22acacef" index="18" custom="heights_v2:[36.3,15.9]">
+        <Coords points="61,1279 59,1331 245,1341 425,1338 607,1338 788,1343 969,1343 1152,1338 1332,1338 1512,1343 1700,1348 1701,1296 1513,1291 1333,1286 1152,1286 968,1291 788,1291 609,1286 425,1286 244,1289 61,1279"/>
+        <Baseline points="59,1315 245,1325 425,1323 608,1323 788,1327 969,1327 1152,1323 1332,1323 1513,1327 1700,1332"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a zapsal několik zpráv z let válečných až do prohlášení če-sko-slov. státu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d232cb27-816b-428c-83d1-42343d23e48f" index="19" custom="heights_v2:[35.1,15.4]">
+        <Coords points="55,1360 55,1385 235,1388 413,1388 591,1388 769,1390 947,1390 1125,1390 1303,1390 1482,1395 1664,1395 1664,1344 1482,1344 1305,1340 1125,1340 947,1340 769,1340 592,1337 413,1337 235,1337 55,1335 55,1360"/>
+        <Baseline points="55,1370 235,1372 413,1372 591,1372 769,1375 947,1375 1125,1375 1304,1375 1482,1380 1664,1380"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Po jeho smrti zapisoval význačné události v obci a ve státě Vlastimil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b535c53-5d3c-440a-a6cd-48c9c33371c7" index="20" custom="heights_v2:[36.8,15.8]">
+        <Coords points="55,1374 55,1426 197,1431 337,1431 479,1433 620,1438 760,1436 903,1436 1042,1433 1182,1436 1330,1436 1330,1383 1182,1383 1043,1381 902,1383 760,1383 619,1386 481,1381 338,1378 197,1378 55,1374"/>
+        <Baseline points="55,1411 197,1415 337,1415 480,1418 620,1422 760,1420 902,1420 1042,1418 1182,1420 1330,1420"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ambrož prof. čes. gymn. v Olomouci rodilý z č. 4. v Moravičanech.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6008b627-ad70-4ecc-bd83-c3fa60abdcdc" index="21" custom="heights_v2:[38.9,17.4]">
+        <Coords points="55,1447 55,1475 232,1485 408,1487 582,1490 758,1490 930,1487 1106,1492 1280,1492 1456,1490 1636,1487 1635,1431 1455,1433 1279,1436 1106,1436 932,1431 757,1433 582,1433 409,1431 233,1429 57,1419 55,1447"/>
+        <Baseline points="55,1458 233,1467 408,1470 582,1472 757,1472 931,1470 1106,1475 1280,1475 1456,1472 1636,1470"/>
+        <TextEquiv conf="1.000">
+          <Unicode>20. května znenadání byl podniknut útok maďarsk. bolš. na Slovensko</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="adf88ee0-4ee4-4318-8f6c-07aeb378929c" index="22" custom="heights_v2:[38.1,16.6]">
+        <Coords points="55,1472 56,1527 239,1529 425,1534 611,1534 793,1529 978,1534 1163,1536 1346,1536 1531,1536 1721,1541 1722,1486 1532,1482 1346,1482 1163,1482 979,1479 794,1474 609,1479 425,1479 241,1474 55,1472"/>
+        <Baseline points="56,1510 240,1513 425,1517 610,1517 793,1513 978,1517 1163,1520 1346,1520 1532,1520 1721,1524"/>
+        <TextEquiv conf="1.000">
+          <Unicode>slabě vojensky obsazené. V krátké době zmocniti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6bc93201-47b7-4991-9387-a7c1d0f00658" index="23" custom="heights_v2:[37.0,16.5]">
+        <Coords points="56,1532 57,1586 239,1581 418,1586 598,1584 776,1588 955,1591 1135,1591 1313,1591 1491,1591 1676,1593 1677,1540 1492,1537 1313,1537 1135,1537 955,1537 777,1535 599,1530 417,1532 241,1528 56,1532"/>
+        <Baseline points="57,1570 240,1565 418,1570 598,1567 776,1572 955,1574 1135,1574 1313,1574 1491,1574 1676,1577"/>
+        <TextEquiv conf="1.000">
+          <Unicode>se Miškovce, Lučence, Košic, Prešova, Lesice Zlatých Moravců</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e51a13db-71fc-4eea-9de2-f0be9fd727eb" index="24" custom="heights_v2:[36.6,16.0]">
+        <Coords points="1722,1635 1722,1583 1534,1583 1349,1583 1166,1580 981,1578 798,1578 613,1576 429,1578 245,1576 56,1580 57,1633 244,1628 430,1631 612,1628 798,1631 980,1631 1166,1633 1349,1635 1534,1635 1722,1635"/>
+        <Baseline points="57,1617 245,1612 430,1615 613,1612 798,1615 981,1615 1166,1617 1349,1619 1534,1619 1722,1619"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nových Zámků. Madaři na obyvatelech a zajatých vojínech dopouštěti se suro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e358503e-42d9-4a2f-8d87-cd474cae72af" index="25" custom="heights_v2:[37.1,16.6]">
+        <Coords points="1722,1693 1722,1639 1537,1637 1351,1637 1168,1637 984,1632 800,1632 615,1632 432,1634 247,1632 60,1630 59,1683 247,1686 432,1688 615,1686 800,1686 983,1686 1168,1691 1351,1691 1536,1691 1722,1693"/>
+        <Baseline points="59,1667 247,1669 432,1672 615,1669 800,1669 983,1669 1168,1674 1351,1674 1536,1674 1722,1676"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vostí. Značnou vinu na této válce mělo vrchní velitelství na Slovens-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="34fa3f6b-5c2c-4697-8b82-d0fa77f3617e" index="26" custom="heights_v2:[36.4,16.1]">
+        <Coords points="67,1678 66,1730 252,1733 434,1730 617,1733 800,1735 980,1733 1163,1738 1347,1740 1529,1738 1717,1738 1717,1685 1529,1685 1346,1687 1164,1685 982,1680 800,1683 618,1680 435,1678 251,1680 67,1678"/>
+        <Baseline points="66,1714 252,1717 435,1714 617,1717 800,1719 981,1717 1163,1721 1346,1724 1529,1721 1717,1721"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ku, které bylo v rukou italských dustojníků. Na nátlak legionářů bylo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c239dfdc-3283-4d4e-92e4-eb14e27a8908" index="27" custom="heights_v2:[34.1,15.3]">
+        <Coords points="57,1735 57,1765 57,1784 237,1782 415,1782 593,1784 769,1787 947,1787 1125,1789 1301,1789 1479,1789 1662,1787 1662,1737 1479,1740 1301,1740 1125,1740 948,1737 769,1737 594,1735 416,1733 237,1733 57,1735"/>
+        <Baseline points="57,1769 237,1767 416,1767 594,1769 769,1771 947,1771 1125,1774 1301,1774 1479,1774 1662,1771"/>
+        <TextEquiv conf="1.000">
+          <Unicode>i s vrchním velitelem gen. Piccionem odvoláni a velitelství svěřeno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f331cce6-1f52-47be-a420-24dc7a2d60a8" index="28" custom="heights_v2:[37.3,16.3]">
+        <Coords points="57,1777 57,1779 57,1830 245,1828 427,1826 613,1830 795,1830 978,1830 1163,1833 1346,1833 1529,1840 1719,1845 1720,1791 1530,1786 1348,1779 1163,1779 979,1777 795,1777 613,1777 428,1772 244,1774 57,1777 57,1777"/>
+        <Baseline points="57,1814 245,1812 427,1809 613,1814 795,1814 978,1814 1163,1816 1346,1816 1529,1824 1719,1828"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dustoníkům francouzským s vrchním velitelem gen. Pellem. O posled-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6b19d4cc-094a-4195-a63a-cacfb50cfe72" index="29" custom="heights_v2:[39.1,17.4]">
+        <Coords points="45,1830 45,1830 45,1860 45,1886 225,1884 404,1886 579,1886 757,1886 933,1886 1111,1888 1287,1888 1465,1888 1648,1888 1648,1832 1465,1832 1287,1832 1111,1832 934,1830 757,1830 579,1830 404,1830 226,1827 45,1830"/>
+        <Baseline points="45,1869 226,1866 404,1869 579,1869 757,1869 933,1869 1111,1871 1287,1871 1465,1871 1648,1871"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ních dnech červnových Mírová konference v Verseilích rozkázala klid a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f86e0c63-f976-4efe-bc1a-64692b31dedf" index="30" custom="heights_v2:[38.5,16.7]">
+        <Coords points="1163,1935 1164,1935 1202,1935 1349,1933 1531,1933 1675,1938 1721,1940 1721,1936 1721,1885 1533,1878 1349,1878 1163,1880 981,1878 795,1878 613,1878 426,1882 246,1878 58,1873 57,1928 244,1933 428,1938 613,1933 795,1933 980,1933 1163,1935"/>
+        <Baseline points="57,1911 245,1916 427,1921 613,1916 795,1916 981,1916 1163,1919 1349,1916 1532,1916 1721,1923"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ústup Maďarům za hranice. Maďaři ustoupili vidouc před sebou silnou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6d2e3e5-3b2b-41ce-8271-762a22e08b33" index="31" custom="heights_v2:[40.6,17.9]">
+        <Coords points="65,1974 117,1978 173,1982 277,1982 329,1983 583,1984 589,1984 693,1984 795,1984 852,1985 1009,1986 1009,1986 1009,1928 900,1928 796,1925 693,1925 589,1925 484,1925 382,1925 279,1923 173,1923 69,1916 65,1974"/>
+        <Baseline points="66,1957 173,1964 278,1964 382,1966 484,1966 589,1966 693,1966 795,1966 900,1968 1009,1968"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a statečnou armádu česko-slovenskou.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

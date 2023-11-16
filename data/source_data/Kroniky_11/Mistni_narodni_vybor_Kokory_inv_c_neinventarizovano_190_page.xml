@@ -1,0 +1,329 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:20:33.813373</Created>
+    <LastChange>2023-01-19T00:20:33.813373</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Kokory_inv_c_neinventarizovano_190.jpg" imageWidth="1536" imageHeight="2048">
+    <TextRegion id="61e6941c-d1cd-4ee6-84ed-f992e882c243">
+      <Coords points="30,216 19,245 19,282 219,277 219,240 179,213 30,216"/>
+      <TextLine id="31deda1e-1753-4491-a4e0-0696c8969c45" index="0" custom="heights_v2:[29.9,13.1]">
+        <Coords points="30,216 30,216 30,259 48,259 64,259 80,259 98,259 111,258 129,257 144,256 160,256 179,256 179,213 179,213 173,213 134,214 125,215 111,214 94,216 80,216 64,216 48,216 38,216 30,216"/>
+        <Baseline points="30,246 48,246 64,246 80,246 96,246 111,244 128,244 144,243 160,243 179,243"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Z historie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3052649f-1c37-4b9e-b6a8-9ee427ed1c11" index="1" custom="heights_v2:[25.1,11.7]">
+        <Coords points="20,282 57,281 64,281 74,281 94,280 107,279 129,279 130,279 151,278 173,278 194,277 219,277 219,240 219,240 194,240 171,241 151,241 127,242 107,242 84,244 64,244 41,245 19,245 19,282 20,282"/>
+        <Baseline points="19,270 42,270 64,269 86,269 107,268 129,268 151,266 172,266 194,265 219,265"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Bitva u </Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="b67ec4bf-c4fd-4f49-b617-5a4853799f5f">
+      <Coords points="245,141 229,141 229,197 318,196 322,140 245,141"/>
+      <TextLine id="97989c0f-f60c-4d81-ad2e-9667fd155196" index="0" custom="heights_v2:[39.8,16.5]">
+        <Coords points="245,141 229,141 229,197 254,197 265,196 284,196 298,194 318,196 318,194 322,140 245,141"/>
+        <Baseline points="229,181 249,181 265,179 282,179 299,178 319,179"/>
+        <TextEquiv conf="1.000">
+          <Unicode>190 Kokor</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="7ad473c1-36de-4443-93a5-2018fd2d8302">
+      <Coords points="287,200 242,201 244,256 635,240 632,185 287,200"/>
+      <TextLine id="a9b30d72-f8f2-48fe-a029-a2bcf374c48f" index="0" custom="heights_v2:[39.4,15.5]">
+        <Coords points="287,200 242,201 244,256 257,255 611,241 635,240 634,213 632,185 614,186 586,187 542,190 501,191 457,194 416,196 371,198 331,198 318,199 287,200"/>
+        <Baseline points="243,240 288,239 331,238 373,238 417,235 459,234 502,231 545,229 588,227 634,224"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Bitva u Kokor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="edc2ca13-707f-4916-b386-57dcca66bccc">
+      <Coords points="191,1110 190,1408 199,1645 645,1655 764,1620 1185,1625 1469,1606 1478,1534 1499,1454 1501,1252 1492,1104 1481,1066 1473,915 1484,798 1473,690 1480,509 1454,407 1456,309 1443,239 1209,224 635,231 635,240 353,253 227,284 218,351 200,814 202,1001 191,1110"/>
+      <TextLine id="837b7c65-1425-4bf1-b48f-14a100bb3987" index="0" custom="heights_v2:[26.8,12.2]">
+        <Coords points="1416,237 1236,226 1209,224 1174,224 884,228 862,228 841,228 645,231 635,231 635,240 399,251 400,281 517,277 632,270 747,268 863,268 977,265 1092,263 1207,263 1322,269 1440,278 1443,239 1416,237"/>
+        <Baseline points="399,269 516,265 631,258 747,255 862,255 976,253 1092,251 1207,251 1323,257 1441,266"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Typem imperialistického vykořisťovatelského panovníka byl pruský</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c16dfcf6-7d24-4580-8e52-5c74dd8ea958" index="1" custom="heights_v2:[24.2,10.9]">
+        <Coords points="227,284 228,319 363,315 495,310 626,304 758,301 890,300 1021,297 1153,297 1284,299 1419,304 1420,269 1286,264 1153,262 1021,262 889,265 758,266 626,269 493,275 362,280 227,284"/>
+        <Baseline points="228,308 363,304 494,299 626,293 758,291 889,289 1021,287 1153,287 1285,288 1419,293"/>
+        <TextEquiv conf="1.000">
+          <Unicode>král Fridrich II. Vedl nespravedlivé výbojné války, jen aby zvětšil svou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="df69aee9-46c0-41b5-82da-32b2531a2b71" index="2" custom="heights_v2:[23.6,10.6]">
+        <Coords points="223,317 222,322 223,351 362,346 497,342 634,339 770,338 906,334 1043,332 1179,332 1314,335 1454,343 1456,309 1316,301 1179,298 1043,298 906,300 769,304 634,305 497,308 361,312 223,317"/>
+        <Baseline points="223,341 361,335 497,331 634,329 770,327 906,323 1043,322 1179,322 1315,325 1454,333"/>
+        <TextEquiv conf="1.000">
+          <Unicode>feudální říši. Tak využil stísněné situace rakouské císařovny Marie Terezie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a178c274-b951-43b6-b8d0-c3dc4258d7a2" index="3" custom="heights_v2:[23.5,10.6]">
+        <Coords points="218,351 218,355 219,385 357,380 495,377 630,373 768,370 903,366 1040,366 1176,366 1313,369 1453,373 1454,339 1314,335 1176,332 1040,332 903,332 767,336 630,339 494,343 357,346 218,351"/>
+        <Baseline points="219,375 357,369 494,367 630,363 767,360 903,356 1040,356 1176,356 1313,359 1453,363"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a vznesl bezprávné nároky na Slezsko. Válce s ním a jeho spojenci říkáme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5702bb38-de2b-4b81-b628-6ff37ec3f7eb" index="4" custom="heights_v2:[24.5,11.0]">
+        <Coords points="218,382 219,417 356,413 490,409 625,409 759,406 895,403 1029,402 1164,403 1298,403 1437,406 1437,371 1299,368 1164,368 1030,367 895,368 759,371 624,373 490,373 355,377 218,382"/>
+        <Baseline points="219,406 356,402 490,398 625,398 759,395 895,392 1029,391 1164,392 1298,392 1437,395"/>
+        <TextEquiv conf="1.000">
+          <Unicode>válka o dědictví rakouské. Skládá se ze dvou válek slezských (1740-1742)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5ffa2ac5-6e21-47bb-9b7a-632b8174d5f9" index="5" custom="heights_v2:[24.4,11.0]">
+        <Coords points="215,421 215,427 216,456 355,450 492,447 629,443 766,439 902,437 1039,437 1176,437 1313,439 1453,443 1454,407 1314,403 1176,402 1039,402 902,402 766,403 628,407 491,411 354,414 215,421"/>
+        <Baseline points="216,445 354,439 492,436 629,432 766,428 902,426 1039,426 1176,426 1313,428 1453,432"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a (1744—1745). Fridrich v nich získal na Marii Terezii Slezsko a Kladsko</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3515b2f9-0185-467c-992d-4a25462d4e82" index="6" custom="heights_v2:[25.3,11.4]">
+        <Coords points="214,457 214,463 215,493 351,487 485,483 618,479 753,476 885,472 1020,473 1153,472 1287,476 1424,480 1425,443 1288,439 1154,435 1020,436 886,435 752,439 617,442 484,446 350,450 214,457"/>
+        <Baseline points="215,482 350,475 485,471 618,467 752,464 885,460 1020,462 1153,460 1287,464 1425,469"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ta první válka slezská se dotkla i našeho kraje a došlo za ní k bitvě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3eca3472-7ab1-4d8c-a758-d08cf8402691" index="7" custom="heights_v2:[26.0,11.6]">
+        <Coords points="213,493 215,530 237,529 257,528 276,526 296,525 316,525 336,524 354,522 375,522 399,521 396,483 373,485 354,485 334,486 313,487 296,487 274,489 255,490 235,491 213,493"/>
+        <Baseline points="215,519 236,517 257,516 276,515 296,513 315,513 335,512 354,511 375,511 398,509"/>
+        <TextEquiv conf="1.000">
+          <Unicode>u Kokor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cc2eaff8-4611-44d4-be60-c9c9a4afc975" index="8" custom="heights_v2:[28.9,12.9]">
+        <Coords points="1479,530 1480,509 1480,509 1358,503 1237,505 1120,501 999,502 881,502 762,502 643,506 524,506 403,509 404,551 524,548 644,548 762,544 881,544 1000,544 1119,543 1237,547 1356,545 1478,551 1479,530"/>
+        <Baseline points="403,538 524,535 644,535 762,531 881,531 999,531 1119,530 1237,534 1357,532 1479,538"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Prušáci tehdy ustupovali z jižní Moravy k Olomouci. Velel jim</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4ebb654b-936d-47f8-95a1-dae1311da0e5" index="9" custom="heights_v2:[24.7,11.1]">
+        <Coords points="213,555 213,591 355,588 495,585 634,583 774,581 914,579 1054,577 1193,576 1333,579 1476,583 1477,547 1334,543 1194,540 1054,542 914,543 774,546 634,547 494,550 354,552 213,555"/>
+        <Baseline points="213,580 354,577 494,574 634,572 774,570 914,568 1054,566 1194,565 1334,568 1476,572"/>
+        <TextEquiv conf="1.000">
+          <Unicode>princ Dietrich. S částmi své armády dosáhl Olomouce, zatím co menší část</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ca9b67dc-cfc6-4422-8df9-af012a230b1f" index="10" custom="heights_v2:[24.8,11.3]">
+        <Coords points="209,594 211,630 350,622 489,621 628,618 766,616 903,614 1042,613 1180,611 1318,613 1460,616 1460,580 1319,577 1180,575 1041,577 903,578 766,580 627,582 488,585 350,586 209,594"/>
+        <Baseline points="210,619 350,611 489,610 627,607 766,604 903,603 1042,602 1180,600 1319,602 1460,604"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v síle asi jednoho praporu pěšího zůstala pod velením důstojníka Fouqué</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="74475852-b270-4fa2-b876-8ac8d2129136" index="11" custom="heights_v2:[14.9,7.0]">
+        <Coords points="357,615 357,637 369,637 369,615 357,615"/>
+        <Baseline points="357,630 369,630"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="916799df-c760-4d72-99be-166df2368693" index="12" custom="heights_v2:[25.3,11.5]">
+        <Coords points="1474,654 1475,646 1475,617 1331,614 1191,613 1051,614 911,613 771,614 631,616 491,621 352,621 208,629 210,666 352,658 492,658 632,652 771,651 911,650 1051,651 1191,650 1331,651 1474,654"/>
+        <Baseline points="209,655 352,646 492,646 631,641 771,640 911,638 1051,640 1191,638 1331,640 1475,642"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v Kroměříži. Zatím rakouské vojsko dále postupovalo od Brna a Uherského</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="19e0b8a9-4a32-42f8-b6a1-f11d801d8a78" index="13" custom="heights_v2:[25.3,11.6]">
+        <Coords points="209,663 209,700 349,697 488,692 625,689 763,689 900,689 1039,688 1176,688 1315,689 1456,689 1456,652 1315,652 1176,651 1039,651 900,652 763,652 625,652 487,655 348,660 209,663"/>
+        <Baseline points="209,688 349,686 488,680 625,678 763,678 900,678 1039,676 1176,676 1315,678 1456,678"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hradiště k severu, posílené asi 10 tisíci Uhry. Princ Dietrich se proto rozhodl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0ee5fbd7-4c8e-4b1e-82ec-2fdea026aaff" index="14" custom="heights_v2:[14.7,7.1]">
+        <Coords points="583,687 583,709 618,709 618,687 583,687"/>
+        <Baseline points="583,702 618,702"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="81824e7b-489a-4898-bf84-31242018b7b9" index="15" custom="heights_v2:[25.2,11.4]">
+        <Coords points="1473,694 1473,690 1331,690 1191,690 1051,690 911,692 771,693 632,692 491,695 351,697 208,701 209,738 352,734 492,731 631,728 771,730 911,728 1051,727 1191,727 1331,727 1473,727 1473,694"/>
+        <Baseline points="209,727 352,722 492,720 631,717 771,718 911,717 1051,716 1191,716 1331,716 1473,716"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vydati posádce v Kroměříži rozkaz k ústupu do Olomouce. Leč rozkaz se nepodaři-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="99edc049-5fdc-4cbb-9d5a-cb96cf7c5dd1" index="16" custom="heights_v2:[24.6,11.2]">
+        <Coords points="206,736 207,772 345,770 482,768 619,766 756,765 892,766 1030,765 1167,762 1304,762 1443,764 1444,728 1304,726 1167,726 1029,729 892,730 757,729 619,730 482,732 344,734 206,736"/>
+        <Baseline points="206,760 345,759 482,756 619,755 756,754 892,755 1029,754 1167,751 1304,751 1444,752"/>
+        <TextEquiv conf="1.000">
+          <Unicode>lo doručiti Fouquému, protože rakouští husaři obsadili celé okolí Kroměříže.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5421db42-ae49-44ae-a817-06f038a221b5" index="17" custom="heights_v2:[26.2,11.9]">
+        <Coords points="1484,798 1484,798 1480,760 1339,761 1197,763 1056,766 914,767 773,767 631,768 489,770 347,771 203,774 204,812 348,809 489,808 632,806 773,805 914,805 1057,804 1198,801 1339,799 1484,798"/>
+        <Baseline points="204,800 348,797 489,796 631,794 773,793 914,793 1057,792 1198,789 1339,788 1483,786"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Situace byla pro Fouquého stále hrozivější a proto se rozhodl k samostatnému</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dc42604a-31b1-441f-ace1-a79e609ed279" index="18" custom="heights_v2:[25.7,11.7]">
+        <Coords points="200,814 201,851 344,848 484,847 625,846 765,844 905,843 1046,841 1186,840 1325,837 1469,839 1470,801 1326,800 1185,803 1045,804 904,805 764,807 624,808 483,809 343,811 200,814"/>
+        <Baseline points="201,839 344,837 483,835 625,834 765,832 904,831 1046,830 1186,828 1325,826 1469,827"/>
+        <TextEquiv conf="1.000">
+          <Unicode>podniku. Dal rozkaz k pochodu do Olomouce dne 13. dubna 1742. Než opustil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3cbfc9dd-1802-4dbb-b2e8-7cb6b7287306" index="19" custom="heights_v2:[25.6,11.7]">
+        <Coords points="200,852 200,860 201,889 344,885 484,882 623,881 763,881 904,881 1045,881 1184,878 1324,877 1468,875 1468,838 1324,839 1184,841 1044,843 904,843 763,843 623,843 483,845 343,848 200,852"/>
+        <Baseline points="201,877 344,873 483,870 623,869 763,869 904,869 1044,869 1184,866 1324,865 1468,864"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kroměříž,dal strhnouti z opatrnosti všechny mosty přes Moravu. To ale neva-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="13fd3594-e366-4455-bef1-2acc5489094c" index="20" custom="heights_v2:[25.5,11.7]">
+        <Coords points="1473,915 1473,911 1473,878 1329,878 1188,879 1048,880 907,880 767,882 626,882 486,883 344,886 202,888 203,926 345,923 486,920 626,919 767,919 907,917 1048,917 1188,916 1329,915 1473,915"/>
+        <Baseline points="202,914 345,911 486,908 626,907 767,907 907,906 1048,906 1188,904 1329,903 1473,903"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dilo husarům, kteří se na koních přeplavili přes silně rozvodněnou Moravu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5509220a-27bd-476d-9a13-064fab727fe1" index="21" custom="heights_v2:[26.7,12.0]">
+        <Coords points="202,924 202,963 342,961 481,960 619,958 757,958 895,957 1033,954 1171,956 1309,953 1451,949 1450,910 1308,914 1170,917 1034,916 894,919 756,920 619,920 480,921 342,923 202,924"/>
+        <Baseline points="202,951 342,949 481,948 619,947 756,947 895,945 1033,942 1171,944 1309,941 1450,937"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a zle doráželi spolu s přispěchajícími sedláky na ustupující Prušáky. Ti se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c7928038-5166-420d-8713-063832eb9591" index="22" custom="heights_v2:[26.8,12.2]">
+        <Coords points="1477,990 1475,951 1333,952 1192,955 1051,955 910,955 768,956 627,956 486,959 344,962 202,962 202,1001 345,1001 486,998 627,995 769,995 910,994 1051,994 1193,994 1334,991 1477,990"/>
+        <Baseline points="202,989 345,989 486,986 627,983 769,983 910,982 1051,982 1192,982 1334,979 1476,978"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mstili sedlákům. Nejprve vyloupili a ohněm zničili Břesl Horní Moštěnici.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9fccb14e-8b9c-4396-993c-e00c1a3dd574" index="23" custom="heights_v2:[26.8,12.0]">
+        <Coords points="380,997 380,1036 503,1035 623,1033 744,1033 865,1032 986,1031 1107,1031 1228,1032 1349,1031 1472,1029 1472,990 1348,992 1227,993 1107,992 986,992 865,993 744,994 623,994 502,996 380,997"/>
+        <Baseline points="380,1024 502,1023 623,1021 744,1021 865,1020 986,1018 1107,1018 1228,1020 1348,1018 1472,1017"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pozdě večer dosáhl Fouqué Přerova, kde jeho vojsko zvlášť pustě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d0e21e29-cba2-4c1e-9e8f-0a37ff06a5fe" index="24" custom="heights_v2:[27.9,12.5]">
+        <Coords points="1480,1048 1479,1026 1334,1030 1193,1031 1051,1031 910,1031 767,1031 626,1033 483,1034 342,1034 199,1034 198,1038 198,1074 342,1074 484,1074 626,1073 767,1072 910,1072 1051,1072 1194,1072 1335,1070 1481,1066 1480,1048"/>
+        <Baseline points="198,1062 342,1062 483,1062 626,1061 767,1059 910,1059 1051,1059 1194,1059 1335,1058 1480,1054"/>
+        <TextEquiv conf="1.000">
+          <Unicode>řádilo. Časně ráno se dali Prušáci na další pochod k Olomouci. Pronásledo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4362dc29-12ae-4ff0-9e63-9a8319ddeec7" index="25" custom="heights_v2:[27.5,12.2]">
+        <Coords points="195,1072 194,1080 194,1112 335,1111 474,1112 614,1111 752,1111 891,1109 1031,1111 1169,1111 1308,1109 1450,1108 1450,1068 1307,1070 1169,1071 1031,1071 891,1070 752,1071 614,1071 474,1072 336,1071 195,1072"/>
+        <Baseline points="194,1100 335,1099 474,1100 614,1099 752,1099 891,1097 1031,1099 1169,1099 1308,1097 1450,1096"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vali je a velmi tísnili sedláci a husaři. Když opustili Prušáci Kokory,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b16b4f65-5b1d-4348-9d22-af4b417cc425" index="26" custom="heights_v2:[27.5,12.2]">
+        <Coords points="191,1110 191,1150 338,1150 482,1150 626,1152 770,1150 914,1149 1058,1152 1202,1149 1346,1147 1493,1143 1492,1104 1345,1108 1202,1109 1057,1112 914,1109 770,1110 626,1112 482,1110 338,1110 191,1110"/>
+        <Baseline points="191,1138 338,1138 482,1138 626,1139 770,1138 914,1137 1058,1139 1202,1137 1346,1135 1492,1131"/>
+        <TextEquiv conf="1.000">
+          <Unicode>poznali, že nemohou dále, protože sedláci obsadili cestu a znemožnili Fou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="26f1f56a-a0e2-490e-89e2-94f16b07900e" index="27" custom="heights_v2:[27.5,12.3]">
+        <Coords points="191,1150 191,1190 334,1187 478,1188 622,1188 764,1188 908,1190 1053,1190 1195,1188 1339,1187 1486,1181 1485,1142 1338,1147 1195,1149 1052,1150 908,1150 765,1149 622,1149 478,1149 334,1147 191,1150"/>
+        <Baseline points="191,1177 334,1175 478,1176 622,1176 765,1176 908,1177 1052,1177 1195,1176 1339,1175 1486,1169"/>
+        <TextEquiv conf="1.000">
+          <Unicode>quému další pochod k Olomouci. A tu došlo k pravidelné bitvě mezi Prušá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bce4699f-4fe6-4b47-8b40-57aeb91bb0c0" index="28" custom="heights_v2:[26.6,11.9]">
+        <Coords points="191,1186 191,1225 335,1222 478,1225 620,1223 763,1226 907,1226 1050,1229 1192,1226 1335,1226 1482,1222 1481,1183 1334,1187 1192,1187 1049,1190 908,1187 763,1187 621,1185 478,1186 336,1183 191,1186"/>
+        <Baseline points="191,1213 335,1210 478,1213 621,1211 763,1214 907,1214 1050,1217 1192,1214 1335,1214 1482,1210"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ky a sedláky. Fouqué byl donucen dorážejícími sedláky, ozbrojenými kosami,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3b0de030-a508-4b5e-82a5-f972b829fcb0" index="29" custom="heights_v2:[27.3,12.3]">
+        <Coords points="191,1222 190,1262 335,1262 481,1263 626,1264 771,1264 917,1266 1062,1266 1208,1264 1353,1260 1501,1252 1501,1252 1499,1213 1351,1221 1206,1225 1062,1226 917,1226 772,1225 626,1225 481,1223 336,1222 191,1222"/>
+        <Baseline points="191,1249 335,1249 481,1251 626,1252 771,1252 917,1253 1062,1253 1207,1252 1353,1248 1500,1240"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vidlemi, holemi, obušky, sekerami, také střelnými zbraněmi. Fouqué byl donucen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b0f22120-6f91-4d2f-93d1-9d02263438cb" index="30" custom="heights_v2:[29.4,12.8]">
+        <Coords points="191,1258 191,1300 338,1300 482,1302 627,1303 771,1304 917,1306 1061,1306 1206,1304 1351,1302 1499,1293 1496,1251 1348,1259 1205,1262 1060,1263 917,1263 772,1262 628,1261 482,1259 338,1258 191,1258"/>
+        <Baseline points="191,1287 338,1287 482,1289 627,1290 771,1291 917,1293 1061,1293 1206,1291 1350,1289 1498,1281"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vydati rozkaz k vytvoření obranných čtverců v oddílech a neustálými sal-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="52dc94ef-968d-4524-8c5c-8c5674cdc4ff" index="31" custom="heights_v2:[28.2,12.5]">
+        <Coords points="193,1293 193,1334 339,1337 483,1341 629,1343 773,1346 916,1343 1062,1346 1206,1343 1351,1338 1499,1328 1496,1288 1348,1297 1205,1303 1061,1305 917,1303 772,1305 629,1303 484,1300 340,1296 193,1293"/>
+        <Baseline points="193,1321 339,1324 483,1328 629,1331 773,1334 917,1331 1062,1334 1206,1331 1350,1325 1498,1316"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vami páliti na útočící sedláky, ba dokonce stříleti i z děl. Tak se Prušáci</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b90a8d44-45e3-455a-a4c7-100fe1b8de2b" index="32" custom="heights_v2:[29.7,13.4]">
+        <Coords points="1500,1370 1500,1347 1499,1327 1351,1335 1206,1340 1063,1342 919,1339 773,1339 629,1338 483,1338 339,1334 192,1330 191,1373 338,1377 483,1381 629,1381 773,1382 918,1382 1063,1385 1208,1384 1353,1378 1500,1370"/>
+        <Baseline points="191,1359 338,1363 483,1367 629,1367 773,1369 918,1369 1063,1372 1207,1370 1353,1365 1500,1357"/>
+        <TextEquiv conf="1.000">
+          <Unicode>prosekali k Olomouci, byvše pronásledováni a znepokojováni neustále od</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7560f985-fadc-49e5-b778-6a427c665659" index="33" custom="heights_v2:[27.1,12.2]">
+        <Coords points="190,1398 190,1408 190,1408 269,1411 346,1412 422,1414 500,1415 576,1415 653,1416 729,1418 806,1418 887,1419 887,1380 807,1378 729,1378 654,1377 576,1376 500,1376 423,1374 347,1373 269,1372 191,1369 190,1398"/>
+        <Baseline points="190,1396 269,1399 346,1400 422,1401 500,1403 576,1403 653,1404 729,1406 807,1406 887,1407"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sedláků a husarů až k Velké Bystřici.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="edcd911b-e78f-4c24-9ea3-9079f5fc323c" index="34" custom="heights_v2:[32.9,14.8]">
+        <Coords points="379,1408 377,1456 503,1460 627,1462 751,1464 874,1466 999,1468 1123,1469 1247,1468 1371,1462 1499,1454 1496,1407 1368,1415 1245,1420 1123,1421 1000,1420 875,1419 752,1416 628,1415 505,1412 379,1408"/>
+        <Baseline points="378,1441 504,1445 627,1448 751,1449 875,1452 999,1453 1123,1454 1247,1453 1370,1448 1498,1439"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nevíme dnes, kolik obětí si vyžádala tato malá bitva. Zajímavá</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a07b243c-c519-4c4c-8323-189281434427" index="35" custom="heights_v2:[28.5,12.5]">
+        <Coords points="196,1449 195,1490 339,1493 482,1495 624,1500 767,1502 908,1504 1051,1505 1194,1505 1337,1501 1482,1491 1480,1450 1334,1460 1193,1464 1051,1464 909,1463 768,1461 625,1459 483,1454 340,1452 196,1449"/>
+        <Baseline points="196,1477 339,1480 482,1483 625,1487 767,1490 908,1491 1051,1492 1194,1492 1336,1488 1482,1479"/>
+        <TextEquiv conf="1.000">
+          <Unicode>je tím, že v ní vystupují ozbrojení sedláci a bojují s regulérním vojskem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dc4b6e3a-72d8-4555-a785-af73cdc20d93" index="36" custom="heights_v2:[29.0,12.8]">
+        <Coords points="1478,1534 1478,1534 1476,1492 1331,1499 1190,1501 1048,1503 908,1500 765,1500 624,1497 481,1495 340,1491 196,1488 195,1530 339,1532 480,1536 623,1539 765,1542 907,1542 1048,1545 1191,1543 1333,1541 1478,1534"/>
+        <Baseline points="196,1517 339,1520 481,1524 623,1526 765,1529 907,1529 1048,1532 1191,1530 1332,1528 1477,1521"/>
+        <TextEquiv conf="1.000">
+          <Unicode>proti nepříteli, proti Prušákům, s nimiž měli smutné zkušenosti. Ukázali</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9cff946a-2cb4-4d94-999c-41f2dae5a745" index="37" custom="heights_v2:[28.8,12.6]">
+        <Coords points="199,1525 198,1566 319,1569 438,1573 558,1574 677,1577 796,1580 915,1580 1035,1582 1154,1582 1277,1582 1277,1541 1154,1541 1035,1541 916,1538 796,1538 678,1536 559,1533 439,1532 320,1527 199,1525"/>
+        <Baseline points="198,1554 319,1556 439,1560 558,1562 678,1564 796,1567 915,1567 1035,1570 1154,1570 1277,1570"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vlastenecké cítění a lásku k vlasti, již hájili proti vetřelci.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9e62e5c0-0d1a-4c1c-bd48-49cd229a20b5" index="38" custom="heights_v2:[33.9,14.9]">
+        <Coords points="764,1620 764,1620 792,1620 904,1621 918,1622 1185,1625 1469,1606 1466,1558 1322,1567 1182,1577 1044,1577 905,1573 765,1571 626,1566 486,1562 346,1559 203,1558 202,1606 345,1608 484,1611 624,1615 764,1620"/>
+        <Baseline points="202,1592 345,1593 485,1596 625,1600 765,1605 904,1606 1044,1611 1184,1611 1324,1601 1468,1592"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Volně zpracoval podle Östereichischer Abfolgkrieg, díl III., str. 479, učitel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dba7ec00-8283-4622-abc7-de15a6670b29" index="39" custom="heights_v2:[32.7,14.2]">
+        <Coords points="199,1645 264,1646 300,1646 349,1648 397,1649 446,1651 451,1651 627,1655 645,1655 645,1608 593,1608 545,1608 497,1605 448,1604 399,1602 350,1601 301,1600 251,1600 200,1598 199,1645"/>
+        <Baseline points="200,1631 251,1632 300,1632 349,1634 398,1635 447,1636 496,1638 545,1640 593,1640 645,1640"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Josef Dostál z Přerova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

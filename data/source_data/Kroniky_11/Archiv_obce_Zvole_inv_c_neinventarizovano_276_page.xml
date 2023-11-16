@@ -1,0 +1,160 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:19:37.145859</Created>
+    <LastChange>2023-01-19T00:19:37.145859</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_obce_Zvole_inv_c_neinventarizovano_276.jpg" imageWidth="4695" imageHeight="3461">
+    <TextRegion id="691baf5b-5473-42ef-873d-d2ed1ccb9237">
+      <Coords points="3856,197 3772,242 3772,347 4134,347 4322,355 4328,250 3956,242 3892,197 3856,197"/>
+      <TextLine id="405bfd04-18fc-40d6-956f-a479f08898d8" index="0" custom="heights_v2:[38.7,18.8]">
+        <Coords points="3856,197 3856,255 3892,255 3892,197 3856,197"/>
+        <Baseline points="3856,236 3892,236"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5a37fe37-0e08-4f33-9f78-0ab3b893a6b1" index="1" custom="heights_v2:[74.3,31.2]">
+        <Coords points="3773,242 3772,242 3772,347 4134,347 4233,351 4254,351 4311,355 4322,355 4328,250 3956,242 3956,242 3896,242 3836,242 3773,242"/>
+        <Baseline points="3772,316 3836,316 3896,316 3956,316 4016,316 4076,316 4136,316 4196,320 4256,320 4324,324"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nové číslo 46.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="79428323-b955-4360-8b3b-30fc0ad1bb76">
+      <Coords points="3012,345 2944,345 2944,419 3140,419 3140,345 3012,345"/>
+      <TextLine id="c1df8e50-d4e8-44e7-a25d-0edf044f9e49" index="0" custom="heights_v2:[50.7,23.2]">
+        <Coords points="2944,345 2944,419 3140,419 3140,345 3072,345 3012,345 2944,345"/>
+        <Baseline points="2944,396 3012,396 3072,396 3140,396"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Číslo 17.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="f5f735d4-0695-4e36-86f9-c77f7ca5dc5e">
+      <Coords points="1272,416 1212,416 1212,502 1440,498 1440,412 1272,416"/>
+      <TextLine id="e158a23e-e5cd-4e7a-87f5-b3cdef610712" index="0" custom="heights_v2:[59.8,25.7]">
+        <Coords points="1212,416 1212,502 1232,502 1352,500 1376,498 1440,498 1440,412 1433,412 1349,414 1319,416 1272,416 1212,416"/>
+        <Baseline points="1212,476 1272,476 1324,476 1376,472 1440,472"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Číslo 16:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="0a1f56af-5dcb-45d2-ba66-f051c34caf6e">
+      <Coords points="2160,428 2104,428 2104,502 2376,506 2376,432 2160,428"/>
+      <TextLine id="a96ce623-fafd-4a8c-bdb5-2cf6c8c95453" index="0" custom="heights_v2:[52.0,21.8]">
+        <Coords points="2160,428 2104,428 2104,502 2160,502 2210,502 2240,504 2364,506 2376,506 2376,432 2376,432 2316,432 2264,432 2230,429 2160,428"/>
+        <Baseline points="2104,480 2160,480 2212,480 2264,484 2316,484 2376,484"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nové číslo 16.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="bd415b0b-1f57-48b2-bde0-5543094b5138">
+      <Coords points="713,679 716,931 724,1014 748,1098 760,1189 1136,1193 1252,1098 2251,1118 2376,770 2377,695 2368,605 1737,597 948,601 713,679"/>
+      <TextLine id="e8afc8f0-8fea-4bbd-9813-61af1ecdab4d" index="0" custom="heights_v2:[47.4,20.5]">
+        <Coords points="2368,605 2336,605 2204,605 2076,601 2021,601 1892,601 1767,597 1737,597 1718,597 1579,601 1424,601 1268,601 1112,601 1028,601 948,601 948,669 1112,669 1268,669 1424,669 1581,669 1735,665 1892,669 2047,669 2204,673 2368,673 2368,605"/>
+        <Baseline points="948,648 1112,648 1268,648 1424,648 1580,648 1736,644 1892,648 2048,648 2204,652 2368,652"/>
+        <TextEquiv conf="1.000">
+          <Unicode>R. 1875 Serafina Vinklerova, r. 1884 Josef Janhuba, od něhož koupil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="898eae2d-9cf9-4706-80d5-dba2d799e895" index="1" custom="heights_v2:[53.3,22.3]">
+        <Coords points="713,683 714,754 900,758 1084,758 1268,758 1452,762 1632,758 1816,758 1999,758 2184,766 2376,770 2377,709 2377,695 2377,695 2185,691 2002,683 1816,683 1632,683 1451,687 1269,683 1084,683 900,683 714,679 713,679 713,683"/>
+        <Baseline points="714,732 900,736 1084,736 1268,736 1452,740 1632,736 1816,736 2000,736 2184,744 2376,748"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Frank Antonín a manželka Marie, roz. Vepřkova. Starý domek zbořili a postavili</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="850da248-a97e-4094-afe9-997745d92fdb" index="2" custom="heights_v2:[51.7,21.9]">
+        <Coords points="716,768 716,842 875,842 1028,846 1180,846 1332,846 1484,846 1636,846 1788,846 1939,846 2103,850 2105,776 1941,772 1788,772 1636,772 1484,772 1332,772 1180,772 1028,772 877,768 716,768"/>
+        <Baseline points="716,820 876,820 1028,824 1180,824 1332,824 1484,824 1636,824 1788,824 1940,824 2104,828"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nový. Frank sloužil v německé armádě jako šofér a byl ve Francii.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6d787c3f-257c-441b-912d-ed2ec53532df" index="3" custom="heights_v2:[56.1,23.3]">
+        <Coords points="716,931 716,931 900,931 1076,931 1253,931 1428,927 1603,927 1780,931 1956,931 2131,931 2315,935 2317,856 2133,852 1956,852 1780,852 1605,848 1428,848 1251,852 1076,852 900,852 716,852 716,931"/>
+        <Baseline points="716,908 900,908 1076,908 1252,908 1428,904 1604,904 1780,908 1956,908 2132,908 2316,912"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V roku 1953 převzal domek syn Antonín Tronk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="60c407dd-409d-4d42-8117-e4747ce05a74" index="4" custom="heights_v2:[47.6,21.5]">
+        <Coords points="724,944 724,1014 776,1014 826,1013 872,1010 920,1010 962,1009 1012,1014 1060,1014 1116,1014 1116,944 1060,944 1012,944 968,941 920,940 872,940 820,945 776,944 724,944"/>
+        <Baseline points="724,992 776,992 824,992 872,988 920,988 964,988 1012,992 1060,992 1116,992"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a manželka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a805b351-05e5-4e0e-8b94-8a12d143563f" index="5" custom="heights_v2:[64.2,26.2]">
+        <Coords points="748,1098 748,1098 921,1098 1083,1094 1252,1098 1252,1098 1260,1098 1415,1098 1579,1102 1747,1106 1911,1110 2075,1114 2199,1117 2251,1118 2251,1117 2253,1028 2077,1024 1914,1020 1750,1016 1582,1012 1418,1008 1252,1008 1086,1004 918,1008 748,1008 748,1098"/>
+        <Baseline points="748,1072 920,1072 1084,1068 1252,1072 1416,1072 1580,1076 1748,1080 1912,1084 2076,1088 2252,1092"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dům opravený vyhořel r. 1961 a opět opraven na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e00971a6-93ba-4e23-81b6-3108ab3302e0" index="6" custom="heights_v2:[58.1,25.0]">
+        <Coords points="760,1189 762,1189 812,1189 856,1189 898,1189 920,1191 1136,1193 1136,1110 1080,1110 1036,1110 992,1110 948,1110 905,1106 856,1106 812,1106 760,1106 760,1189"/>
+        <Baseline points="760,1164 812,1164 856,1164 900,1164 948,1168 992,1168 1036,1168 1080,1168 1136,1168"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dvoj domek.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="55841858-ab34-4e80-9476-298886547997">
+      <Coords points="3224,434 2536,434 2443,533 2460,863 2788,859 2872,790 4304,790 4372,676 4392,616 4396,513 3312,517 3224,434"/>
+      <TextLine id="e6851f1e-d98d-4884-8c92-c964d49553f2" index="0" custom="heights_v2:[41.9,19.3]">
+        <Coords points="2536,434 2536,495 2616,495 2692,495 2768,495 2840,495 2916,495 2992,495 3064,495 3140,495 3224,495 3224,434 3140,434 3064,434 2992,434 2916,434 2840,434 2768,434 2692,434 2616,434 2536,434"/>
+        <Baseline points="2536,476 2616,476 2692,476 2768,476 2840,476 2916,476 2992,476 3064,476 3140,476 3224,476"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Majitel Huška Florian. 1834.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6c67343d-cbd6-4042-acce-c10debac0137" index="1" custom="heights_v2:[34.7,16.2]">
+        <Coords points="2443,533 2446,584 2665,576 2880,568 3096,568 3312,568 3524,568 3740,568 3956,564 4172,564 4394,564 4396,513 4320,513 3865,515 3739,517 3524,517 3312,517 3096,517 2880,517 2663,525 2443,533"/>
+        <Baseline points="2445,568 2664,560 2880,552 3096,552 3312,552 3524,552 3740,552 3956,548 4172,548 4395,548"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V roce 1775 Jakub Uncajtyk. Po něm Florian Hošek ze Ptení. Jeho syn pojal za ženu dceru Mikyskovu z č. 22. Syn jejich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="02c1b2cc-2f39-4d61-954a-7668d1899638" index="2" custom="heights_v2:[33.1,15.5]">
+        <Coords points="4392,616 4392,611 4391,567 4167,571 3951,575 3740,575 3524,575 3311,579 3096,579 2885,575 2667,579 2446,591 2449,639 2668,628 2884,624 3096,628 3312,628 3524,624 3740,624 3952,624 4168,620 4392,616"/>
+        <Baseline points="2448,624 2668,612 2884,608 3096,612 3312,612 3524,608 3740,608 3952,608 4168,604 4392,600"/>
+        <TextEquiv conf="1.000">
+          <Unicode>oženil se s dcerou Poučnou z Rájce, ovdověvši provdala se za Františka Jindru. Dcera provdala se za Jana Landu, rozeného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e9bb96b1-4ce2-48ef-9865-210d19e988f3" index="3" custom="heights_v2:[33.3,15.6]">
+        <Coords points="2451,639 2453,688 2668,680 2880,680 3092,684 3304,684 3516,680 3728,676 3940,676 4152,676 4372,676 4372,627 4152,627 3940,627 3728,627 3515,631 3303,635 3092,635 2881,631 2668,631 2451,639"/>
+        <Baseline points="2452,672 2668,664 2880,664 3092,668 3304,668 3516,664 3728,660 3940,660 4152,660 4372,660"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na č. 7. Asi v. 1928 se sem přiženil Bohuš Žváček syn Jana Žváčka, z Bohuslavic,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c1234cb9-deda-4d49-bfbd-ebc6cf457b9b" index="4" custom="heights_v2:[35.7,16.7]">
+        <Coords points="4336,737 4336,736 4336,684 4120,684 3913,680 3703,684 3496,684 3293,680 3083,684 2877,680 2668,680 2453,696 2457,749 2668,733 2876,733 3084,737 3292,733 3496,737 3704,737 3912,733 4120,737 4336,737"/>
+        <Baseline points="2456,732 2668,716 2876,716 3084,720 3292,716 3496,720 3704,720 3912,716 4120,720 4336,720"/>
+        <TextEquiv conf="1.000">
+          <Unicode>majitele č. 111, který se sem přiženil. Manželé Žandovi měli syna Jana, který studoval.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="955b6e79-d9ab-4ec3-99f3-85310bc7b63a" index="5" custom="heights_v2:[36.5,17.7]">
+        <Coords points="2888,790 4288,790 4304,790 4304,789 4303,736 4091,740 3888,739 3684,739 3480,739 3280,739 3076,739 2873,736 2667,744 2458,756 2461,810 2669,798 2872,790 2888,790"/>
+        <Baseline points="2460,792 2668,780 2872,772 3076,776 3280,776 3480,776 3684,776 3888,776 4092,776 4304,772"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V první světové válce byl v Rusku jako legionář v hodnosti majora. Dcera Anna provdala se za</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1cbe7c5b-03d0-4794-bee1-c6908ce75b32" index="6" custom="heights_v2:[39.6,18.6]">
+        <Coords points="2495,863 2587,861 2624,859 2676,859 2728,859 2788,859 2788,800 2728,800 2676,800 2624,800 2569,804 2520,804 2460,804 2460,863 2495,863"/>
+        <Baseline points="2460,844 2520,844 2572,844 2624,840 2676,840 2728,840 2788,840"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Bohumila Žváčka.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

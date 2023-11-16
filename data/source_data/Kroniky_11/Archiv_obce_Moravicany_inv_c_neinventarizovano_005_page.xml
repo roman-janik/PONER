@@ -1,0 +1,169 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:18:45.418408</Created>
+    <LastChange>2023-01-19T00:18:45.418408</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_obce_Moravicany_inv_c_neinventarizovano_005.jpg" imageWidth="1757" imageHeight="2273">
+    <TextRegion id="4d806170-cb99-46f7-b806-ee9e5ad3d9cf">
+      <Coords points="1380,31 1260,31 1260,73 1380,73 1380,31"/>
+      <TextLine id="e93228b8-eb40-4960-90a3-f43e555b5752" index="0" custom="heights_v2:[28.9,13.0]">
+        <Coords points="1260,31 1260,73 1380,73 1380,31 1260,31"/>
+        <Baseline points="1260,60 1380,60"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="6d2c5bf3-d5f6-4f0d-a16c-45e68d4b2426">
+      <Coords points="227,155 49,163 61,476 61,677 77,880 70,1128 77,1316 89,1417 81,1625 57,1769 61,1854 80,1954 93,2176 1705,2140 1703,2061 1659,1956 1624,1810 1681,1589 1672,1205 1645,932 1664,832 1664,753 1623,637 1623,539 1653,410 1651,325 1613,207 1611,119 1087,131 981,72 853,80 743,143 227,155"/>
+      <TextLine id="d29ecc6a-dbfe-4d56-9988-5cde0c2f1b14" index="0" custom="heights_v2:[44.1,20.4]">
+        <Coords points="981,72 981,72 853,80 857,144 985,136 981,72"/>
+        <Baseline points="856,124 984,116"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1748</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="03dcf9ac-a7b3-480b-bcb2-11dbafd3739d" index="1" custom="heights_v2:[61.2,26.8]">
+        <Coords points="227,155 49,163 53,251 229,243 401,239 572,231 745,231 917,227 1089,219 1261,215 1433,211 1613,207 1611,119 1087,131 1087,131 1087,131 913,139 743,143 743,143 227,155"/>
+        <Baseline points="52,224 228,216 400,212 572,204 744,204 916,200 1088,192 1260,188 1432,184 1612,180"/>
+        <TextEquiv conf="1.000">
+          <Unicode>času jejich patentu vyšli kdo má jaké obda-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="140b63ad-b53f-41fa-b4c7-c593764a8679" index="2" custom="heights_v2:[57.5,25.3]">
+        <Coords points="69,279 73,361 249,353 421,345 589,337 761,333 928,325 1101,325 1269,321 1440,317 1620,317 1620,234 1440,234 1267,238 1099,242 928,242 757,251 587,254 417,263 245,271 69,279"/>
+        <Baseline points="72,336 248,328 420,320 588,312 760,308 928,300 1100,300 1268,296 1440,292 1620,292"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rovani a by se stim přihlasil, že se bude kon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c886b69b-a964-45ba-84f9-63203e4d39e1" index="3" custom="heights_v2:[59.3,25.7]">
+        <Coords points="59,373 61,458 241,454 417,450 593,446 769,438 941,434 1117,430 1293,422 1469,414 1653,410 1651,325 1467,329 1289,337 1113,345 939,349 767,353 589,361 415,365 239,369 59,373"/>
+        <Baseline points="60,432 240,428 416,424 592,420 768,412 940,408 1116,404 1292,396 1468,388 1652,384"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stiemirovati takové Privilegie od jeji jasnosti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="99d4fbbb-acce-4a51-81e0-5cc31277d9e2" index="4" custom="heights_v2:[59.9,26.6]">
+        <Coords points="61,491 61,563 241,567 412,563 585,563 757,555 929,547 1101,543 1273,539 1443,535 1623,539 1623,537 1625,452 1445,448 1271,452 1099,456 927,460 753,468 581,476 412,476 239,480 61,476 61,491"/>
+        <Baseline points="61,536 240,540 412,536 584,536 756,528 928,520 1100,516 1272,512 1444,508 1624,512"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tak jsme mi naše privilegie dali korstimo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="60055b9e-a33d-491e-99c0-377c784ed344" index="5" custom="heights_v2:[58.6,25.4]">
+        <Coords points="61,593 61,677 61,677 242,673 413,661 585,657 757,653 928,649 1101,649 1273,641 1443,633 1623,637 1623,637 1623,553 1445,549 1269,558 1097,566 928,565 755,569 583,573 411,577 236,590 61,593"/>
+        <Baseline points="61,652 240,648 412,636 584,632 756,628 928,624 1100,624 1272,616 1444,608 1623,612"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vati u Menoritu v Brun z našeho hlavního</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fa0d0681-0be0-479f-bdd7-d4f2e01b83ef" index="6" custom="heights_v2:[55.6,24.2]">
+        <Coords points="92,692 92,772 261,772 424,764 589,764 753,760 913,752 1077,744 1241,740 1405,732 1577,728 1575,648 1403,652 1237,660 1075,664 909,672 749,680 587,684 424,684 257,692 92,692"/>
+        <Baseline points="92,748 260,748 424,740 588,740 752,736 912,728 1076,720 1240,716 1404,708 1576,704"/>
+        <TextEquiv conf="1.000">
+          <Unicode>listu který jsme mněli ten čas v Unčově</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="03e9f2bc-02c5-4005-ab7f-eb194b386820" index="7" custom="heights_v2:[55.2,24.4]">
+        <Coords points="76,872 77,880 77,880 257,876 433,872 609,868 781,860 957,852 1133,844 1305,840 1480,832 1664,832 1664,832 1664,753 1664,753 1480,753 1301,761 1131,765 953,773 777,781 605,789 431,793 255,797 75,801 76,872"/>
+        <Baseline points="76,856 256,852 432,848 608,844 780,836 956,828 1132,820 1304,816 1480,808 1664,808"/>
+        <TextEquiv conf="1.000">
+          <Unicode>šovany a ten jsme zase dobře savali. Tenkra=</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b42572ce-d3de-4722-8d88-0a336b477253" index="8" custom="heights_v2:[55.7,24.5]">
+        <Coords points="76,900 75,933 77,980 257,976 429,972 601,968 773,960 945,956 1117,948 1289,944 1461,940 1645,932 1645,932 1645,932 1642,852 1458,860 1287,864 1115,868 941,876 771,880 597,888 427,892 255,896 76,900"/>
+        <Baseline points="76,956 256,952 428,948 600,944 772,936 944,932 1116,924 1288,920 1460,916 1644,908"/>
+        <TextEquiv conf="1.000">
+          <Unicode>te nám v tom Unčovský Sindikus dobře složil.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="afd65da5-948a-40a6-800d-14cfd626ac35" index="9" custom="heights_v2:[56.0,24.7]">
+        <Coords points="73,1012 72,1057 72,1093 248,1093 421,1093 593,1085 761,1077 933,1073 1105,1069 1273,1065 1445,1061 1625,1057 1623,976 1443,980 1271,984 1103,988 931,992 759,996 589,1004 417,1012 248,1012 73,1012"/>
+        <Baseline points="72,1068 248,1068 420,1068 592,1060 760,1052 932,1048 1104,1044 1272,1040 1444,1036 1624,1032"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Stala naš to od dekectirovani a pargamin a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f9c88a56-fcdf-4b6a-aecc-03f5417fcaf0" index="10" custom="heights_v2:[56.2,25.3]">
+        <Coords points="70,1128 70,1128 73,1196 73,1209 252,1201 428,1201 604,1201 781,1201 953,1197 1129,1193 1305,1189 1482,1181 1666,1169 1660,1088 1476,1100 1301,1108 1127,1112 951,1116 779,1120 604,1120 428,1120 252,1120 70,1128"/>
+        <Baseline points="72,1184 252,1176 428,1176 604,1176 780,1176 952,1172 1128,1168 1304,1164 1480,1156 1664,1144"/>
+        <TextEquiv conf="1.000">
+          <Unicode>za šneri co přišlo do císařského kanceláře 109</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="abf6f88f-5bd3-49b3-ac60-5202fd4f112b" index="11" custom="heights_v2:[55.3,24.5]">
+        <Coords points="76,1285 77,1316 77,1316 257,1312 433,1308 609,1304 785,1300 961,1292 1136,1288 1313,1288 1488,1284 1672,1284 1672,1205 1672,1205 1488,1205 1311,1209 1136,1209 959,1213 781,1221 607,1225 431,1229 255,1233 75,1237 76,1285"/>
+        <Baseline points="76,1292 256,1288 432,1284 608,1280 784,1276 960,1268 1136,1264 1312,1264 1488,1260 1672,1260"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Renskycha Jandovi Derkovi 30 K na to platil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5d99e081-9c85-42e9-a68b-f88a4f086e6f" index="12" custom="heights_v2:[56.4,24.9]">
+        <Coords points="88,1413 89,1417 257,1413 420,1409 583,1409 749,1413 909,1409 1073,1405 1236,1397 1400,1397 1572,1397 1572,1316 1400,1316 1236,1316 1069,1324 907,1328 747,1332 585,1328 420,1328 255,1332 87,1336 88,1413"/>
+        <Baseline points="88,1392 256,1388 420,1384 584,1384 748,1388 908,1384 1072,1380 1236,1372 1400,1372 1572,1372"/>
+        <TextEquiv conf="1.000">
+          <Unicode>3 Zahradníky za jednoho Sedlaka za před</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cb329e6c-5e45-4f83-bd84-e5d22ac4a682" index="13" custom="heights_v2:[55.8,25.3]">
+        <Coords points="95,1448 97,1529 265,1525 429,1521 593,1517 753,1513 917,1509 1081,1505 1241,1497 1405,1493 1577,1489 1575,1408 1403,1412 1239,1416 1077,1424 915,1428 751,1432 591,1436 427,1440 263,1444 95,1448"/>
+        <Baseline points="96,1504 264,1500 428,1496 592,1492 752,1488 916,1484 1080,1480 1240,1472 1404,1468 1576,1464"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Matěje Doležela rad Antonina Neklestila</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c09f61b3-e7bc-488f-bf5e-b698ee6d7238" index="14" custom="heights_v2:[57.1,24.9]">
+        <Coords points="84,1543 81,1625 265,1621 440,1617 617,1617 793,1613 969,1609 1145,1605 1321,1597 1497,1593 1681,1589 1679,1507 1495,1511 1319,1515 1141,1523 967,1527 791,1531 615,1535 440,1535 263,1539 84,1543"/>
+        <Baseline points="82,1600 264,1596 440,1592 616,1592 792,1588 968,1584 1144,1580 1320,1572 1496,1568 1680,1564"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a Jana Novotného a spolu přisedicich Jana</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bfd49199-09e7-472e-9139-0c92bfb7fb12" index="15" custom="heights_v2:[59.1,26.2]">
+        <Coords points="75,1661 73,1674 78,1746 256,1734 429,1734 601,1726 773,1722 949,1714 1121,1710 1293,1702 1464,1698 1648,1698 1648,1613 1464,1613 1291,1617 1117,1625 947,1629 769,1637 599,1641 425,1649 256,1649 75,1661"/>
+        <Baseline points="76,1720 256,1708 428,1708 600,1700 772,1696 948,1688 1120,1684 1292,1676 1464,1672 1648,1672"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Drlika Bartolom. Batala Jana Domluvila</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f0dc25c0-0432-48f7-a860-aa05622ea1e2" index="16" custom="heights_v2:[58.6,26.1]">
+        <Coords points="1624,1810 1624,1725 1444,1725 1271,1729 1099,1733 927,1737 755,1741 581,1749 409,1757 239,1761 57,1769 61,1854 241,1846 413,1842 585,1834 757,1826 929,1822 1101,1818 1273,1814 1444,1810 1624,1810 1624,1810"/>
+        <Baseline points="60,1828 240,1820 412,1816 584,1808 756,1800 928,1796 1100,1792 1272,1788 1444,1784 1624,1784"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Jana Wařeka Matěje Horsika a Matoušek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9966a2e6-62e8-42e1-a2b4-07eb2100c520" index="17" custom="heights_v2:[55.9,25.8]">
+        <Coords points="80,1872 80,1954 150,1954 213,1950 285,1946 281,1864 209,1868 145,1872 80,1872"/>
+        <Baseline points="80,1928 148,1928 212,1924 284,1920"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Krale</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1356740c-afbe-48b1-909e-b3a23f01a909" index="18" custom="heights_v2:[56.0,25.8]">
+        <Coords points="621,1872 626,1954 688,1950 750,1950 808,1946 870,1946 924,1942 986,1942 1046,1938 1102,1934 1170,1938 1175,1856 1107,1852 1040,1856 980,1860 924,1860 864,1864 808,1864 744,1868 688,1868 621,1872"/>
+        <Baseline points="624,1928 688,1924 748,1924 808,1920 868,1920 924,1916 984,1916 1044,1912 1104,1908 1172,1912"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V Roku 1748.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1c87c060-f62c-4923-96f3-bb43ff88b6e4" index="19" custom="heights_v2:[56.3,24.9]">
+        <Coords points="100,1992 100,2073 277,2073 449,2065 621,2057 792,2053 965,2053 1137,2049 1308,2041 1481,2041 1661,2037 1659,1956 1479,1960 1308,1960 1133,1968 963,1972 792,1972 619,1976 445,1984 273,1992 100,1992"/>
+        <Baseline points="100,2048 276,2048 448,2040 620,2032 792,2028 964,2028 1136,2024 1308,2016 1480,2016 1660,2012"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Tahli rusi na Francouze a to právě okolo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2db02bc5-db52-46fa-b347-7a80d4934df1" index="20" custom="heights_v2:[54.7,24.5]">
+        <Coords points="92,2163 93,2176 1705,2140 1703,2061 1515,2065 1339,2069 1163,2073 983,2077 807,2081 631,2085 451,2089 275,2093 91,2097 92,2163"/>
+        <Baseline points="92,2152 276,2148 452,2144 632,2140 808,2136 984,2132 1164,2128 1340,2124 1516,2120 1704,2116"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Jana Křtitele my moravičansti mněli jsme</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

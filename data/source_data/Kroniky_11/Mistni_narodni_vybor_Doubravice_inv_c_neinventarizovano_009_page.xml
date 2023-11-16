@@ -1,0 +1,239 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:19:55.676915</Created>
+    <LastChange>2023-01-19T00:19:55.676915</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Doubravice_inv_c_neinventarizovano_009.jpg" imageWidth="2431" imageHeight="3172">
+    <TextRegion id="02fd14f5-8c88-47e9-919f-fb087b9fb7d2">
+      <Coords points="2194,231 2086,235 2089,319 2197,315 2194,231"/>
+      <TextLine id="2b2626ae-64fb-48f0-8f68-858212b1cfd2" index="0" custom="heights_v2:[57.0,27.1]">
+        <Coords points="2086,235 2089,319 2089,319 2197,315 2197,315 2194,231 2086,235"/>
+        <Baseline points="2088,292 2196,288"/>
+        <TextEquiv conf="1.000">
+          <Unicode>-5-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="f121d699-4410-44e2-96ec-4c7783586f41">
+      <Coords points="261,2539 260,2772 2000,2776 2012,2703 2020,2479 2020,2098 2044,1793 2044,1712 2018,1572 2044,1482 2049,1331 2048,1112 2020,962 2028,812 2021,514 1821,510 1706,408 1542,412 610,396 292,400 276,883 283,1485 272,1942 276,2160 272,2390 261,2539"/>
+      <TextLine id="22e90573-2cab-499c-8a6d-16e15c1213b7" index="0" custom="heights_v2:[71.7,33.2]">
+        <Coords points="1505,411 1329,408 1232,408 1078,404 920,404 766,400 610,396 450,400 292,400 292,505 453,505 607,501 763,505 920,509 1075,509 1232,513 1387,513 1545,517 1709,513 1706,408 1542,412 1505,411"/>
+        <Baseline points="292,472 452,472 608,468 764,472 920,476 1076,476 1232,480 1388,480 1544,484 1708,480"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hodnocení soutěže Doubravice-Moravičany.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0375026b-c517-47bd-90a9-4374f844ee4a" index="1" custom="heights_v2:[49.9,22.5]">
+        <Coords points="288,506 287,540 289,578 484,570 676,570 868,570 1056,574 1248,578 1440,578 1628,578 1820,582 2020,586 2021,514 1821,510 1629,506 1440,506 1248,506 1057,502 869,498 676,498 484,498 288,506"/>
+        <Baseline points="288,556 484,548 676,548 868,548 1056,552 1248,556 1440,556 1628,556 1820,560 2020,564"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 1. července 1955 bylo na MNV v Moravičanech provedeno hodnoce-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="63ae321e-c298-4008-912b-10435d40fa5c" index="2" custom="heights_v2:[49.3,22.5]">
+        <Coords points="288,571 288,642 484,642 672,642 860,642 1048,646 1240,650 1428,654 1616,654 1804,654 2004,654 2004,583 1804,583 1616,583 1428,583 1241,579 1049,575 861,571 672,571 484,571 288,571"/>
+        <Baseline points="288,620 484,620 672,620 860,620 1048,624 1240,628 1428,632 1616,632 1804,632 2004,632"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ní soutěže, která probíhá od začátku tohoto roku mezi Doubr. a Morav.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="db3a578b-41dc-4824-8218-81b9a586c657" index="3" custom="heights_v2:[50.7,22.8]">
+        <Coords points="284,649 284,723 480,723 672,723 864,723 1056,727 1248,727 1440,731 1632,735 1824,739 2024,739 2024,665 1824,665 1633,661 1441,657 1249,653 1056,653 865,649 672,649 480,649 284,649"/>
+        <Baseline points="284,700 480,700 672,700 864,700 1056,704 1248,704 1440,708 1632,712 1824,716 2024,716"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hodnocení se zúčastnili za Moravičany: předs. MNV Josef Hrubý, za stálou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="082e5fbd-9894-4857-b584-2fe54e4e9e54" index="4" custom="heights_v2:[51.5,23.5]">
+        <Coords points="2028,812 2026,737 1828,737 1638,729 1444,729 1252,729 1061,725 869,721 676,721 484,721 283,725 284,800 484,796 676,796 868,796 1060,800 1252,804 1444,804 1635,803 1828,812 2028,812"/>
+        <Baseline points="284,776 484,772 676,772 868,772 1060,776 1252,780 1444,780 1636,780 1828,788 2027,788"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zeměd. komisi Miroslav Homolák, za MO KSČ Antonín Machálek za VŽ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c787a58b-4182-4bcb-b4f0-22480fe59ec4" index="5" custom="heights_v2:[51.2,23.4]">
+        <Coords points="283,805 284,879 480,875 672,879 864,879 1056,883 1244,883 1436,883 1627,887 1820,895 2020,899 2021,825 1821,821 1630,813 1437,809 1244,809 1056,809 865,805 672,805 481,801 283,805"/>
+        <Baseline points="284,856 480,852 672,856 864,856 1056,860 1244,860 1436,860 1628,864 1820,872 2020,876"/>
+        <TextEquiv conf="1.000">
+          <Unicode>při MNV Anežka Habermanová, za kultur. odbor MNV Růž. Tužilová.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="69a40348-439b-47db-98b5-7690058a427a" index="6" custom="heights_v2:[49.1,22.2]">
+        <Coords points="2020,962 2020,962 2020,956 2019,891 1819,895 1630,887 1436,887 1245,883 1051,887 860,887 669,883 476,883 276,883 276,883 277,954 476,954 668,954 860,958 1052,958 1244,954 1436,958 1627,958 1820,966 2020,962"/>
+        <Baseline points="277,932 476,932 668,932 860,936 1052,936 1244,932 1436,936 1628,936 1820,944 2020,940"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Za obec Doubravici byli přítomní předseda MNV O. Příkopa,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bf761c75-0724-4905-8b5e-671b66930ca2" index="7" custom="heights_v2:[49.2,22.2]">
+        <Coords points="280,955 280,1026 476,1026 664,1026 856,1026 1044,1026 1235,1026 1424,1034 1615,1030 1804,1038 2004,1034 2003,963 1803,967 1618,959 1423,963 1238,955 1044,955 856,955 664,955 476,955 280,955"/>
+        <Baseline points="280,1004 476,1004 664,1004 856,1004 1044,1004 1236,1004 1424,1012 1616,1008 1804,1016 2004,1012"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tajemník MNV Jan Kratochvil a za MO KSČ Antonín Kašpar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fd4f1a1d-03fd-4eba-94d5-74670ef7c9c5" index="8" custom="heights_v2:[49.8,22.6]">
+        <Coords points="284,1030 284,1103 476,1103 664,1099 852,1099 1040,1103 1224,1107 1412,1107 1600,1111 1788,1111 1984,1111 1984,1038 1788,1038 1600,1038 1413,1034 1224,1034 1041,1030 853,1026 664,1026 475,1030 284,1030"/>
+        <Baseline points="284,1080 476,1080 664,1076 852,1076 1040,1080 1224,1084 1412,1084 1600,1088 1788,1088 1984,1088"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Jako zástupce ONV byla přítomna Ludmila Vejmolová.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="45d4ebc2-9e41-499f-8330-ad94eed031c0" index="9" custom="heights_v2:[51.8,23.5]">
+        <Coords points="279,1108 279,1184 477,1183 672,1176 868,1176 1064,1179 1256,1184 1452,1184 1648,1188 1844,1188 2048,1188 2048,1112 1844,1112 1648,1112 1453,1108 1256,1108 1065,1104 869,1100 672,1100 474,1108 279,1108"/>
+        <Baseline points="279,1160 476,1160 672,1152 868,1152 1064,1156 1256,1160 1452,1160 1648,1164 1844,1164 2048,1164"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Schůzi zahájil předs. MNV v Moravičanech Josef Hruby přivítáním,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="753fc721-a8d7-4b44-8b5f-0e7c848fe7bc" index="10" custom="heights_v2:[51.3,23.0]">
+        <Coords points="280,1227 280,1255 480,1255 676,1259 872,1255 1064,1255 1260,1255 1456,1259 1648,1259 1844,1259 2048,1259 2048,1185 1844,1185 1648,1185 1456,1185 1261,1181 1064,1181 872,1181 675,1185 481,1181 280,1181 280,1227"/>
+        <Baseline points="280,1232 480,1232 676,1236 872,1232 1064,1232 1260,1232 1456,1236 1648,1236 1844,1236 2048,1236"/>
+        <TextEquiv conf="1.000">
+          <Unicode>přítomných, sdělením účelu schůze a požádáním, aby hodnocení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bfb25a49-7cde-4834-a792-785faa2429b8" index="11" custom="heights_v2:[51.2,23.1]">
+        <Coords points="283,1257 284,1331 484,1327 680,1331 872,1331 1068,1331 1260,1331 1456,1331 1648,1335 1845,1339 2049,1331 2046,1257 1842,1265 1649,1261 1457,1257 1260,1257 1068,1257 872,1257 680,1257 485,1253 283,1257"/>
+        <Baseline points="284,1308 484,1304 680,1308 872,1308 1068,1308 1260,1308 1456,1308 1648,1312 1844,1316 2048,1308"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bylo opravdu kritické a sebekritické a aby vedlo k dalšímu a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="829f4e6c-2051-4601-a8cc-7dc85afd662f" index="12" custom="heights_v2:[49.3,22.7]">
+        <Coords points="283,1339 284,1411 469,1407 647,1403 828,1407 1003,1407 1184,1411 1364,1411 1539,1411 1720,1415 1908,1419 1909,1347 1721,1343 1541,1339 1364,1339 1184,1339 1005,1335 828,1335 649,1331 467,1335 283,1339"/>
+        <Baseline points="284,1388 468,1384 648,1380 828,1384 1004,1384 1184,1388 1364,1388 1540,1388 1720,1392 1908,1396"/>
+        <TextEquiv conf="1.000">
+          <Unicode>uspěšnému a ušlechtilému zápolení obou sousedských obcí.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="959b4a1b-5f4c-49d1-9f49-a9c1ff227f3a" index="13" custom="heights_v2:[48.5,22.0]">
+        <Coords points="2044,1482 2044,1482 2044,1474 2043,1411 1839,1415 1648,1415 1453,1411 1261,1407 1064,1407 873,1403 676,1403 484,1403 282,1412 282,1415 285,1482 484,1474 676,1474 872,1474 1064,1478 1260,1478 1452,1482 1648,1486 1840,1486 2044,1482"/>
+        <Baseline points="284,1460 484,1452 676,1452 872,1452 1064,1456 1260,1456 1452,1460 1648,1464 1840,1464 2044,1460"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Po přečtení soutěžních závazků obou obcí byl po diskusi stanoven</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1c8aa7fb-b862-485f-acf0-5488b88bf7c4" index="14" custom="heights_v2:[51.4,23.2]">
+        <Coords points="283,1485 283,1485 283,1486 284,1559 480,1555 668,1555 856,1555 1044,1555 1232,1559 1420,1559 1608,1563 1796,1563 1992,1563 1992,1489 1796,1489 1608,1489 1421,1485 1232,1485 1045,1481 856,1481 668,1481 480,1481 283,1485"/>
+        <Baseline points="284,1536 480,1532 668,1532 856,1532 1044,1532 1232,1536 1420,1536 1608,1540 1796,1540 1992,1540"/>
+        <TextEquiv conf="1.000">
+          <Unicode>způsob hodnocení a to 1) zjištěním procenta plnění závazků a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a864206f-69b0-47ae-9e28-c3058b1e9160" index="15" custom="heights_v2:[52.0,23.3]">
+        <Coords points="2018,1572 2018,1572 1818,1564 1624,1564 1437,1560 1244,1560 1053,1556 864,1556 673,1552 480,1552 282,1560 285,1635 480,1627 672,1627 864,1631 1052,1631 1244,1635 1436,1635 1624,1639 1815,1639 2015,1647 2018,1572"/>
+        <Baseline points="284,1612 480,1604 672,1604 864,1608 1052,1608 1244,1612 1436,1612 1624,1616 1816,1616 2016,1624"/>
+        <TextEquiv conf="1.000">
+          <Unicode>2) provedením propočtu upsaných závazků na 1 ha zeměd. půdy v kg,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f0512a39-8a35-47dd-992e-ec23dd6568b5" index="16" custom="heights_v2:[51.1,23.5]">
+        <Coords points="279,1637 279,1663 281,1711 360,1707 436,1707 513,1707 583,1703 660,1707 735,1707 809,1711 884,1707 968,1707 968,1633 884,1633 805,1637 739,1633 660,1633 587,1629 509,1633 436,1633 360,1633 279,1637"/>
+        <Baseline points="280,1688 360,1684 436,1684 512,1684 584,1680 660,1684 736,1684 808,1688 884,1684 968,1684"/>
+        <TextEquiv conf="1.000">
+          <Unicode>litrech případně v kusech.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8d1822f5-fe52-41a0-bae7-eaaae505a8f9" index="17" custom="heights_v2:[56.0,25.1]">
+        <Coords points="2044,1793 2044,1793 2044,1712 2044,1712 1840,1712 1645,1708 1452,1708 1256,1708 1064,1708 869,1704 676,1704 481,1700 279,1704 281,1785 479,1781 676,1785 867,1785 1064,1789 1256,1789 1452,1789 1643,1789 1840,1793 2044,1793"/>
+        <Baseline points="280,1760 480,1756 676,1760 868,1760 1064,1764 1256,1764 1452,1764 1644,1764 1840,1768 2044,1768"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Masa vepřového bylo splněno v Moravičanech 70% při soutěžním závazku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1e92bc85-3a64-4814-a8ac-b8dfb30d5a2a" index="18" custom="heights_v2:[51.8,23.5]">
+        <Coords points="279,1788 280,1863 480,1859 672,1859 867,1859 1060,1867 1252,1867 1448,1867 1640,1867 1832,1871 2036,1875 2037,1800 1833,1796 1641,1792 1448,1792 1252,1792 1060,1792 870,1784 672,1784 480,1784 279,1788"/>
+        <Baseline points="280,1840 480,1836 672,1836 868,1836 1060,1844 1252,1844 1448,1844 1640,1844 1832,1848 2036,1852"/>
+        <TextEquiv conf="1.000">
+          <Unicode>9 kg na 1 ha zemědělské půdy katastru obce. Doubravice splnila 54,4%</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d943beec-d233-4288-8e04-eecb5cfad506" index="19" custom="heights_v2:[49.4,22.3]">
+        <Coords points="275,1879 276,1950 473,1946 664,1938 856,1938 1048,1938 1240,1942 1432,1942 1624,1942 1816,1946 2016,1946 2016,1875 1816,1875 1625,1871 1432,1871 1240,1871 1049,1867 856,1867 664,1867 470,1875 275,1879"/>
+        <Baseline points="276,1928 472,1924 664,1916 856,1916 1048,1916 1240,1920 1432,1920 1624,1920 1816,1924 2016,1924"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ale při soutěžním závazku 19 kg na 1 ha zeměd. půdy katast. obce.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6da879c3-adf9-4a4c-b2d4-ba1bfa19f7f2" index="20" custom="heights_v2:[50.0,22.7]">
+        <Coords points="2026,2023 2028,1996 2028,1950 1824,1950 1632,1950 1441,1946 1244,1946 1052,1946 861,1942 664,1942 472,1942 272,1942 273,2015 472,2015 664,2015 860,2015 1052,2019 1244,2019 1440,2019 1632,2023 1824,2023 2026,2023"/>
+        <Baseline points="273,1992 472,1992 664,1992 860,1992 1052,1996 1244,1996 1440,1996 1632,2000 1824,2000 2028,2000"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Maso hovězí v Moravičanech splněno na 16% v Doubravici na 90%, ale sou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="40687e87-09b9-473d-a7e7-b5c0cc03afc7" index="21" custom="heights_v2:[49.1,22.2]">
+        <Coords points="2020,2098 2020,2098 2020,2027 1816,2027 1624,2027 1433,2023 1241,2019 1048,2019 856,2019 665,2015 472,2015 273,2015 275,2086 472,2086 664,2086 856,2090 1048,2090 1240,2090 1432,2094 1624,2098 1816,2098 2020,2098"/>
+        <Baseline points="274,2064 472,2064 664,2064 856,2068 1048,2068 1240,2068 1432,2072 1624,2076 1816,2076 2020,2076"/>
+        <TextEquiv conf="1.000">
+          <Unicode>těžní závazek je rozdílný a činí v Moravičanech 9 kg, v Doubravici 1,1 kg</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f04964d6-6581-4dbb-84fc-4397d8c6892f" index="22" custom="heights_v2:[52.8,23.6]">
+        <Coords points="276,2083 276,2160 388,2160 496,2160 599,2160 707,2164 812,2168 920,2168 1024,2168 1132,2168 1248,2168 1248,2091 1132,2091 1024,2091 920,2091 812,2091 710,2087 602,2083 496,2083 388,2083 276,2083"/>
+        <Baseline points="276,2136 388,2136 496,2136 600,2136 708,2140 812,2144 920,2144 1024,2144 1132,2144 1248,2144"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na 1 ha zeměd. půdy katastru obce.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="300b8b20-bf55-4de7-b434-512376c03329" index="23" custom="heights_v2:[54.0,24.7]">
+        <Coords points="2020,2253 2020,2228 2019,2174 1819,2178 1628,2178 1437,2174 1243,2178 1053,2174 862,2166 668,2166 476,2166 277,2162 276,2241 476,2245 668,2245 859,2245 1051,2253 1245,2257 1435,2253 1628,2257 1820,2257 2020,2253"/>
+        <Baseline points="276,2216 476,2220 668,2220 860,2220 1052,2228 1244,2232 1436,2228 1628,2232 1820,2232 2020,2228"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Mléko v soutěži dodáno v Moravičanech na 96% v Doubravici na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="58f1c10d-70a0-4959-b42d-96da7e5f2dd5" index="24" custom="heights_v2:[49.6,22.5]">
+        <Coords points="274,2246 273,2318 468,2318 656,2318 848,2322 1036,2326 1228,2326 1416,2326 1608,2330 1796,2330 1996,2330 1996,2258 1796,2258 1608,2258 1417,2254 1228,2254 1036,2254 849,2250 657,2246 468,2246 274,2246"/>
+        <Baseline points="274,2296 468,2296 656,2296 848,2300 1036,2304 1228,2304 1416,2304 1608,2308 1796,2308 1996,2308"/>
+        <TextEquiv conf="1.000">
+          <Unicode>126% upsaných závazků. Propočet závazků na 1 ha zeměd. půdy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="efc23dca-a81f-43b6-b9ad-fb25b2816a68" index="25" custom="heights_v2:[49.2,22.4]">
+        <Coords points="273,2319 272,2390 272,2390 408,2390 539,2390 672,2394 804,2394 936,2394 1067,2394 1200,2398 1332,2398 1472,2398 1472,2327 1332,2327 1200,2327 1069,2323 936,2323 804,2323 672,2323 541,2319 408,2319 273,2319"/>
+        <Baseline points="272,2368 408,2368 540,2368 672,2372 804,2372 936,2372 1068,2372 1200,2376 1332,2376 1472,2376"/>
+        <TextEquiv conf="1.000">
+          <Unicode>činí v Moravič. 58 litrů, v Doubravici 72 litry.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1d154c2c-003a-4dbc-86b3-6a99c5a82577" index="26" custom="heights_v2:[48.7,22.7]">
+        <Coords points="2020,2479 2020,2456 2019,2407 1815,2411 1624,2411 1432,2411 1241,2407 1049,2403 857,2399 664,2399 473,2395 271,2399 271,2402 272,2471 472,2467 664,2471 856,2471 1048,2475 1240,2479 1432,2483 1624,2483 1816,2483 2020,2479"/>
+        <Baseline points="272,2448 472,2444 664,2448 856,2448 1048,2452 1240,2456 1432,2460 1624,2460 1816,2460 2020,2456"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Vejce byla splněna v Mor. na 103% v Doubravici na 225% a propo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="29d9f2a8-a0f4-4087-947b-9afc3f95b9c0" index="27" custom="heights_v2:[47.3,21.8]">
+        <Coords points="266,2473 264,2498 264,2542 444,2542 620,2546 796,2550 972,2546 1147,2546 1324,2554 1500,2554 1676,2554 1860,2558 1861,2489 1677,2485 1500,2485 1324,2485 1150,2477 972,2477 795,2481 621,2477 445,2473 266,2473"/>
+        <Baseline points="264,2520 444,2520 620,2524 796,2528 972,2524 1148,2524 1324,2532 1500,2532 1676,2532 1860,2536"/>
+        <TextEquiv conf="1.000">
+          <Unicode>čet závazků na 1 ha činí v Mor. 54 kusy, v Doubr. 26,5 kusů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c3caf2e2-5be0-41c9-bc9b-7e417151ad75" index="28" custom="heights_v2:[49.2,22.3]">
+        <Coords points="261,2543 261,2610 443,2614 620,2618 796,2618 972,2618 1152,2622 1327,2622 1504,2626 1680,2626 1868,2630 1869,2559 1681,2555 1504,2555 1329,2551 1152,2551 973,2547 796,2547 620,2547 445,2543 261,2539 261,2543"/>
+        <Baseline points="261,2588 444,2592 620,2596 796,2596 972,2596 1152,2600 1328,2600 1504,2604 1680,2604 1868,2608"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zeměd. půdy udávají Moravičany 553 ha, Doubravice 311 ha.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="17e9d389-2d87-4120-a871-6517a4edf7ba" index="29" custom="heights_v2:[51.3,23.5]">
+        <Coords points="261,2621 260,2696 456,2695 648,2699 844,2704 1036,2704 1228,2703 1424,2708 1616,2708 1808,2707 2012,2704 2012,2703 2012,2695 2011,2629 1807,2633 1616,2633 1424,2633 1229,2629 1036,2629 844,2629 649,2625 457,2621 261,2621"/>
+        <Baseline points="260,2672 456,2672 648,2676 844,2680 1036,2680 1228,2680 1424,2684 1616,2684 1808,2684 2012,2680"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Závazky rostlinné výroby se týkaly u obou obcí úzkořádkové</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="01c5b92e-74e3-42e5-a3a7-68163b1dd1c8" index="30" custom="heights_v2:[50.9,23.6]">
+        <Coords points="260,2697 260,2772 456,2772 504,2773 764,2773 840,2772 1032,2772 1151,2774 1455,2775 1608,2772 1799,2776 1812,2776 2000,2776 2000,2701 1800,2701 1609,2697 1415,2701 1224,2701 1033,2697 840,2697 647,2701 457,2697 260,2697"/>
+        <Baseline points="260,2748 456,2748 648,2752 840,2748 1032,2748 1224,2752 1416,2752 1608,2748 1800,2752 2000,2752"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ho setí obilí, hnízdové výsadby brambor, ošetření luk a past-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,170 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:12:15.986246+00:00</Created>
+    <LastChange>2023-02-07T20:12:15.986246+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-205-82" imageWidth="1988" imageHeight="1503">
+    <TextRegion id="r000">
+      <Coords points="50,2 8,7 12,42 55,36 50,2"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[27.1,6.9]">
+        <Coords points="8,7 50,1 54,35 12,41"/>
+        <Baseline points="11,34 54,28"/>
+        <TextEquiv conf="0.918">
+          <Unicode>214</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="192,320 195,453 219,563 313,602 673,605 719,568 868,568 885,488 910,453 905,308 586,308 192,320"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[38.3,14.9]">
+        <Coords points="193,320 271,320 352,314 430,314 506,311 586,308 665,308 741,308 820,308 905,308 905,362 820,362 741,362 665,362 586,362 508,364 432,367 352,367 274,373 193,373"/>
+        <Baseline points="193,358 273,358 352,352 431,352 507,349 586,347 665,347 741,347 820,347 905,347"/>
+        <TextEquiv conf="0.432">
+          <Unicode>Pres 1300 fl. m. cis pravim Prinoceit o latych</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="1" custom="heights_v2:[33.1,14.1]">
+        <Coords points="193,370 269,367 344,364 417,364 487,364 561,364 634,364 703,364 778,361 857,361 857,409 778,409 705,411 634,411 561,411 487,411 417,411 344,411 271,414 195,417"/>
+        <Baseline points="194,403 271,400 344,397 417,397 487,397 561,397 634,397 704,397 778,394 857,394"/>
+        <TextEquiv conf="0.492">
+          <Unicode>rak. čísla, které obce Hlavatecka do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="2" custom="heights_v2:[31.6,13.3]">
+        <Coords points="193,408 276,405 354,405 434,402 513,402 589,402 668,402 748,402 827,405 910,408 909,453 825,450 746,447 668,447 589,447 513,447 434,447 356,450 276,450 195,453"/>
+        <Baseline points="195,440 276,437 355,437 434,434 513,434 589,434 668,434 747,434 826,437 909,440"/>
+        <TextEquiv conf="0.662">
+          <Unicode>nadací pro kostel Sedlečky dnešního</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="3" custom="heights_v2:[35.1,14.7]">
+        <Coords points="209,444 286,444 361,441 434,441 507,441 582,441 657,438 730,438 803,438 885,438 885,488 803,488 730,488 657,488 584,491 507,491 434,491 361,491 288,494 209,494"/>
+        <Baseline points="209,479 287,479 361,476 434,476 507,476 583,476 657,473 730,473 803,473 885,473"/>
+        <TextEquiv conf="0.515">
+          <Unicode>di Libujičko kostelní kasy složila.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="4" custom="heights_v2:[40.2,16.1]">
+        <Coords points="221,506 296,509 366,509 437,509 507,509 579,509 648,512 719,512 789,512 868,512 868,568 789,568 719,568 648,568 577,566 507,566 437,566 366,566 296,566 219,563"/>
+        <Baseline points="220,547 296,549 366,549 437,549 507,549 578,549 648,552 719,552 789,552 868,552"/>
+        <TextEquiv conf="0.358">
+          <Unicode>Od počet sedavin kostelny Rasy dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="5" custom="heights_v2:[36.8,15.6]">
+        <Coords points="313,549 358,549 394,552 434,552 473,552 510,552 549,552 589,552 628,552 673,552 673,605 628,605 589,605 549,605 510,605 473,605 434,605 394,605 354,602 313,602"/>
+        <Baseline points="313,586 355,586 394,589 434,589 473,589 510,589 549,589 589,589 628,589 673,589"/>
+        <TextEquiv conf="0.656">
+          <Unicode>9h Kvetna 1877.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="376,175 341,175 341,248 521,242 521,169 376,175"/>
+      <TextLine id="r002-l003" index="0" custom="heights_v2:[52.5,20.5]">
+        <Coords points="341,176 376,176 414,173 444,173 482,170 521,170 521,243 482,243 450,246 414,246 382,249 341,249"/>
+        <Baseline points="341,228 380,228 414,225 448,225 482,223 521,223"/>
+        <TextEquiv conf="0.402">
+          <Unicode>Dotazeni</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="575,665 533,665 533,728 885,728 885,665 575,665"/>
+      <TextLine id="r003-l016" index="0" custom="heights_v2:[46.5,18.1]">
+        <Coords points="533,664 575,664 611,664 651,664 688,664 727,664 764,664 803,664 840,664 885,664 885,728 840,728 803,728 764,728 727,728 688,728 651,728 611,728 575,728 533,728"/>
+        <Baseline points="533,710 575,710 611,710 651,710 688,710 727,710 764,710 803,710 840,710 885,710"/>
+        <TextEquiv conf="0.691">
+          <Unicode>Karl Hulakowsky</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1010,718 1012,848 1849,845 1956,802 1959,681 1956,639 1868,594 1035,591 1017,639 1010,718"/>
+      <TextLine id="r004-l014" index="0" custom="heights_v2:[31.9,13.3]">
+        <Coords points="1035,591 1130,594 1220,594 1313,594 1403,594 1496,594 1587,594 1678,596 1770,594 1868,594 1868,639 1770,639 1680,642 1586,639 1496,639 1403,639 1313,639 1220,639 1130,639 1034,636"/>
+        <Baseline points="1034,623 1130,626 1220,626 1313,626 1403,626 1496,626 1586,626 1679,628 1770,626 1868,626"/>
+        <TextEquiv conf="0.433">
+          <Unicode>Dne 23 ho Ryna 1851 dostal Franc Petrželka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l015" index="1" custom="heights_v2:[28.6,12.0]">
+        <Coords points="1017,639 1125,639 1228,642 1330,639 1434,639 1536,639 1640,639 1741,639 1846,639 1956,639 1956,680 1846,680 1741,680 1640,680 1536,680 1434,680 1330,680 1229,683 1124,680 1017,680"/>
+        <Baseline points="1017,668 1124,668 1229,671 1330,668 1434,668 1536,668 1640,668 1741,668 1846,668 1956,668"/>
+        <TextEquiv conf="0.384">
+          <Unicode>povoleni na kercewsky Remeska protiwykozuskolni</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l017" index="2" custom="heights_v2:[28.4,11.7]">
+        <Coords points="1020,682 1127,682 1231,682 1333,682 1437,682 1538,682 1643,679 1744,679 1849,679 1959,682 1958,722 1848,719 1744,719 1643,719 1539,722 1437,722 1333,722 1231,722 1127,722 1020,722"/>
+        <Baseline points="1020,710 1127,710 1231,710 1333,710 1437,710 1539,710 1643,707 1744,707 1849,707 1958,710"/>
+        <TextEquiv conf="0.305">
+          <Unicode>so etestee dem 23h Lizne dostal hon son p ciolne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l018" index="3" custom="heights_v2:[28.5,11.8]">
+        <Coords points="1011,718 1113,721 1214,721 1316,721 1417,721 1519,721 1620,721 1722,721 1823,721 1930,721 1930,761 1823,761 1722,761 1620,761 1519,761 1417,761 1316,761 1214,761 1113,761 1010,759"/>
+        <Baseline points="1010,747 1113,750 1214,750 1316,750 1417,750 1519,750 1620,750 1722,750 1823,750 1930,750"/>
+        <TextEquiv conf="0.392">
+          <Unicode>na oburske uemeloproti wykazu Skolniho testu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l019" index="4" custom="heights_v2:[30.1,12.8]">
+        <Coords points="1011,759 1116,759 1221,759 1324,762 1429,762 1533,762 1636,762 1741,759 1846,759 1956,759 1956,802 1846,802 1741,802 1638,805 1533,805 1429,805 1324,805 1220,802 1116,802 1011,802"/>
+        <Baseline points="1011,789 1116,789 1220,789 1324,792 1429,792 1533,792 1637,792 1741,789 1846,789 1956,789"/>
+        <TextEquiv conf="0.333">
+          <Unicode>dne 20. Máje 1851 dostal Wenil Haudek powolenj na Kolarske remi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l020" index="5" custom="heights_v2:[30.9,14.3]">
+        <Coords points="1012,803 1107,803 1200,803 1291,803 1384,803 1474,803 1567,803 1657,803 1749,803 1848,800 1849,846 1750,848 1657,848 1567,848 1474,848 1384,848 1291,848 1200,848 1107,848 1012,848"/>
+        <Baseline points="1012,834 1107,834 1200,834 1291,834 1384,834 1474,834 1567,834 1657,834 1750,834 1849,831"/>
+        <TextEquiv conf="0.331">
+          <Unicode>flo proti wikazu skolniho Rtestu od obce Hlawatika</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1146,315 1047,318 1060,497 1145,497 1262,554 1561,543 1629,483 1798,477 1917,412 1904,298 1146,315"/>
+      <TextLine id="r005-l005" index="0" custom="heights_v2:[39.9,16.2]">
+        <Coords points="1049,318 1146,315 1239,312 1334,310 1427,307 1520,304 1617,301 1710,301 1802,301 1904,298 1905,354 1804,357 1710,357 1617,357 1522,360 1429,363 1336,366 1240,368 1147,371 1050,374"/>
+        <Baseline points="1050,358 1147,355 1240,352 1336,349 1429,347 1522,344 1617,341 1710,341 1803,341 1905,338"/>
+        <TextEquiv conf="0.615">
+          <Unicode>K zaznamenání daných mravných a ja</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l007" index="1" custom="heights_v2:[38.1,14.9]">
+        <Coords points="1057,385 1157,379 1250,376 1346,373 1440,371 1532,371 1628,368 1722,365 1813,365 1913,359 1916,412 1816,418 1722,418 1629,421 1533,423 1440,423 1347,426 1252,429 1159,432 1060,438"/>
+        <Baseline points="1060,423 1158,417 1251,414 1347,411 1440,409 1533,409 1629,406 1722,403 1815,403 1915,397"/>
+        <TextEquiv conf="0.544">
+          <Unicode>kýchkoliv vysvědčení, kteréhokoli dátum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l010" index="2" custom="heights_v2:[38.5,15.2]">
+        <Coords points="1060,443 1143,443 1223,441 1307,435 1385,435 1467,432 1550,429 1627,429 1709,426 1797,424 1798,477 1711,480 1629,483 1550,483 1469,486 1387,489 1307,489 1227,494 1145,497 1060,497"/>
+        <Baseline points="1060,482 1144,482 1226,479 1307,473 1386,473 1468,471 1550,468 1629,468 1710,465 1798,462"/>
+        <TextEquiv conf="0.584">
+          <Unicode>se vyhotovili, a komu se doručili</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l011" index="3" custom="heights_v2:[39.2,15.7]">
+        <Coords points="1262,499 1295,499 1330,496 1364,496 1391,496 1423,493 1460,491 1487,491 1522,488 1561,488 1561,543 1522,543 1492,545 1460,545 1427,548 1396,551 1364,551 1330,551 1300,554 1262,554"/>
+        <Baseline points="1262,538 1299,538 1330,535 1364,535 1395,535 1426,533 1460,530 1491,530 1522,527 1561,527"/>
+        <TextEquiv conf="0.907">
+          <Unicode>d roku 1850.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1327,167 1291,167 1291,245 1592,245 1592,167 1327,167"/>
+      <TextLine id="r006-l002" index="0" custom="heights_v2:[56.1,22.0]">
+        <Coords points="1291,167 1327,167 1358,167 1392,167 1423,167 1457,167 1488,167 1522,167 1553,167 1592,167 1592,245 1553,245 1522,245 1488,245 1457,245 1423,245 1392,245 1358,245 1327,245 1291,245"/>
+        <Baseline points="1291,223 1327,223 1358,223 1392,223 1423,223 1457,223 1488,223 1522,223 1553,223 1592,223"/>
+        <TextEquiv conf="0.586">
+          <Unicode>III. Tíha</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

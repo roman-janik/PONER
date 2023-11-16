@@ -1,0 +1,480 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:19:53.577865</Created>
+    <LastChange>2023-01-19T00:19:53.577865</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Dolni_Libina_inv_c_neinventarizovano_006.jpg" imageWidth="3440" imageHeight="4795">
+    <TextRegion id="8cf06eaa-97d8-4fe1-ba4c-6d13f92a60ce">
+      <Coords points="209,386 203,469 284,475 289,391 209,386"/>
+      <TextLine id="5b24a177-98ab-43dd-bd58-630fa236fd48" index="0" custom="heights_v2:[56.5,27.4]">
+        <Coords points="209,386 203,466 203,469 239,472 284,475 285,451 289,391 209,386"/>
+        <Baseline points="205,442 286,447"/>
+        <TextEquiv conf="1.000">
+          <Unicode>4)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="40dbb958-eb30-46f6-9206-981c5512024f">
+      <Coords points="194,2002 171,2124 178,2445 246,2684 187,2922 171,3142 173,3236 189,3350 193,3573 211,3696 216,3804 205,3924 200,4259 926,4248 1171,4259 1407,4248 2383,4243 2381,4138 2365,4027 2368,3919 2458,3680 2458,3579 2512,3448 2512,3349 2543,3225 2538,3004 2555,2881 2571,2552 2572,2336 2549,2208 2576,2095 2754,1873 2755,1776 2611,1555 2694,1312 2696,1219 2602,985 2529,761 2516,633 2519,524 2255,519 1491,530 216,524 185,653 190,754 177,879 190,1100 188,1193 221,1325 210,1436 210,1534 186,1765 182,1862 194,2002"/>
+      <TextLine id="75393635-683f-46f4-a59f-d4a586ab8131" index="0" custom="heights_v2:[73.8,35.0]">
+        <Coords points="2516,633 2516,633 2518,577 2519,524 2255,519 1998,524 1877,524 1491,530 1457,530 1240,530 986,530 854,527 309,524 216,524 216,526 216,633 480,633 732,633 986,639 1240,639 1494,639 1746,633 2000,633 2252,628 2516,633"/>
+        <Baseline points="216,598 480,598 733,598 986,604 1240,604 1493,604 1746,598 2000,598 2253,593 2517,598"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jiných vesnic v okolí, jež zřejmě vznikly z jejich koloní-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="40f05dab-ddde-41bd-b6a1-4c375351c02c" index="1" custom="heights_v2:[69.7,31.8]">
+        <Coords points="185,653 185,653 187,686 190,754 286,749 374,749 458,743 544,743 631,743 717,743 803,743 888,743 990,749 995,647 893,642 803,642 717,642 631,642 544,642 458,642 368,647 286,647 185,653"/>
+        <Baseline points="189,722 286,717 372,717 458,711 544,711 631,711 717,711 803,711 889,711 992,717"/>
+        <TextEquiv conf="1.000">
+          <Unicode>satorské činnosti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="63877a6d-88c9-49cd-a898-81fd659c892f" index="2" custom="heights_v2:[68.7,30.7]">
+        <Coords points="2529,762 2529,761 2276,756 2037,756 1799,761 1563,761 1321,761 1083,761 846,761 609,761 360,767 362,866 609,861 846,861 1083,861 1321,861 1563,861 1801,861 2037,855 2274,855 2527,861 2529,762"/>
+        <Baseline points="361,835 609,830 846,830 1083,830 1321,830 1563,830 1800,830 2037,825 2275,825 2528,830"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Šumvald i páni ze Šumvaldu se připomínají po prvé v na-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="45584dcd-bc28-448e-805b-5a349e5797b4" index="3" custom="heights_v2:[64.5,29.4]">
+        <Coords points="177,879 177,879 183,973 437,967 685,967 932,967 1180,967 1428,967 1676,967 1924,967 2172,967 2436,967 2436,873 2172,873 1924,873 1676,873 1428,873 1180,873 932,873 685,873 437,873 177,879"/>
+        <Baseline points="181,943 437,938 685,938 932,938 1180,938 1428,938 1676,938 1924,938 2172,938 2436,938"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ších listinách roku 1287. Prvním z těchto Šumvaldských byl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8953af37-378e-4cb9-a053-077461f97420" index="4" custom="heights_v2:[65.8,29.7]">
+        <Coords points="189,1077 189,1086 464,1086 728,1086 998,1086 1261,1081 1525,1081 1795,1081 2058,1081 2324,1086 2604,1081 2602,985 2322,991 2060,985 1795,985 1525,985 1261,985 996,991 728,991 464,991 189,991 189,1077"/>
+        <Baseline points="189,1056 464,1056 728,1056 997,1056 1261,1051 1525,1051 1795,1051 2059,1051 2323,1056 2603,1051"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Oneš ze Šumvaldu, který byl komořím zemského soudu olomouc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="864d11f2-76d1-46b3-bdfd-f34c90f9d333" index="5" custom="heights_v2:[64.5,28.6]">
+        <Coords points="190,1100 188,1193 432,1198 668,1193 906,1193 1143,1193 1374,1193 1612,1193 1849,1193 2087,1193 2334,1187 2332,1094 2085,1100 1849,1100 1612,1100 1374,1100 1143,1100 906,1100 668,1100 430,1105 190,1100"/>
+        <Baseline points="189,1164 431,1170 668,1164 906,1164 1143,1164 1374,1164 1612,1164 1849,1164 2086,1164 2334,1159"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kého, význačným zemským i zeměpanským hodnostářem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a43d65f5-156e-4037-b5c1-6df29c8b6ef6" index="6" custom="heights_v2:[64.3,28.7]">
+        <Coords points="2694,1312 2696,1219 2696,1218 2411,1213 2140,1213 1865,1213 1595,1213 1321,1213 1051,1213 776,1213 505,1219 226,1218 226,1312 507,1312 776,1306 1051,1306 1321,1306 1595,1306 1865,1306 2140,1306 2409,1306 2694,1312"/>
+        <Baseline points="226,1283 507,1283 776,1277 1051,1277 1321,1277 1595,1277 1865,1277 2140,1277 2409,1277 2695,1283"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Oneš (od r. 1287-1297) psal se jednak z Šumvaldu (de Schonenwalde),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e2759db3-9e4f-4e6d-998e-7afb7969de46" index="7" custom="heights_v2:[65.5,29.3]">
+        <Coords points="221,1325 221,1325 221,1420 490,1420 749,1420 1008,1420 1267,1420 1525,1420 1785,1425 2042,1420 2302,1425 2571,1425 2571,1331 2302,1331 2044,1325 1783,1331 1527,1325 1267,1325 1008,1325 749,1325 490,1325 221,1325"/>
+        <Baseline points="221,1391 490,1391 749,1391 1008,1391 1267,1391 1525,1391 1784,1396 2043,1391 2302,1396 2571,1396"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jednak Oneš z Čistého Slemene (de Czisté Zlemene), tak se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="066afa8c-30b6-4b7b-880f-1a3d51e1a3ad" index="8" custom="heights_v2:[67.8,29.9]">
+        <Coords points="210,1436 210,1534 377,1534 539,1534 701,1534 857,1534 1019,1534 1180,1534 1337,1534 1497,1534 1670,1539 1673,1441 1501,1436 1337,1436 1180,1436 1019,1436 857,1436 701,1436 539,1436 377,1436 210,1436"/>
+        <Baseline points="210,1504 377,1504 539,1504 701,1504 857,1504 1019,1504 1180,1504 1337,1504 1498,1504 1671,1509"/>
+        <TextEquiv conf="1.000">
+          <Unicode>totiž Šumvald původně jmenoval.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7d642b85-7943-4651-bedd-9cde8de9db42" index="9" custom="heights_v2:[67.5,31.1]">
+        <Coords points="2611,1556 2611,1555 2611,1555 2342,1544 2084,1550 1833,1550 1579,1550 1326,1550 1073,1550 819,1550 565,1555 303,1550 301,1648 567,1653 819,1648 1073,1648 1326,1648 1579,1648 1833,1648 2087,1648 2338,1643 2607,1653 2611,1556"/>
+        <Baseline points="302,1617 566,1622 819,1617 1073,1617 1326,1617 1579,1617 1833,1617 2086,1617 2339,1612 2609,1622"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Oneš z Čistého Slemene - Šumvaldu má na pečeti krásný,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="78b8fc78-5595-45ae-bd44-77c9235267b6" index="10" custom="heights_v2:[64.2,28.3]">
+        <Coords points="196,1671 193,1696 195,1764 458,1758 711,1758 970,1758 1224,1758 1482,1753 1736,1753 1994,1748 2247,1753 2517,1758 2518,1666 2249,1661 1996,1655 1734,1661 1482,1661 1222,1666 970,1666 711,1666 458,1666 196,1671"/>
+        <Baseline points="194,1736 458,1730 711,1730 970,1730 1224,1730 1482,1725 1736,1725 1994,1719 2248,1725 2517,1730"/>
+        <TextEquiv conf="1.000">
+          <Unicode>později žerotínský erb: lva sedícího na třech pahorcích,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="29006631-4267-401f-b705-8b444685f086" index="11" custom="heights_v2:[67.6,29.8]">
+        <Coords points="2754,1838 2755,1776 2755,1776 2459,1770 2172,1770 1893,1765 1606,1765 1323,1776 1042,1770 759,1776 474,1776 186,1765 184,1822 182,1862 474,1873 761,1873 1040,1868 1327,1873 1606,1862 1891,1862 2172,1868 2457,1868 2754,1873 2754,1838"/>
+        <Baseline points="183,1833 474,1843 760,1843 1040,1838 1326,1843 1606,1833 1892,1833 2172,1838 2458,1838 2754,1843"/>
+        <TextEquiv conf="1.000">
+          <Unicode>který rod Žerotínský nosil až do dnešních dob (do poč. 20 století).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c5d5dce8-4350-4a76-9e56-99e22e95492d" index="12" custom="heights_v2:[66.2,29.3]">
+        <Coords points="199,1890 199,1986 469,1986 733,1986 997,1986 1261,1986 1525,1986 1790,1986 2054,1981 2317,1980 2591,1991 2595,1896 2320,1885 2054,1885 1788,1890 1525,1890 1261,1890 997,1890 733,1890 469,1890 199,1890"/>
+        <Baseline points="199,1957 469,1957 733,1957 997,1957 1261,1957 1525,1957 1789,1957 2054,1951 2318,1951 2593,1962"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Soudíc podle Onše, byl jeho rod význačný. Oneš náležel k</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9c0f36c4-5805-4963-86d3-6dd22e861e96" index="13" custom="heights_v2:[68.0,30.4]">
+        <Coords points="2576,2095 2576,2095 2576,1996 2302,1996 2039,1991 1777,1996 1513,2002 1250,2002 992,2002 728,2002 464,2002 194,2002 194,2100 464,2100 728,2100 992,2100 1250,2100 1515,2100 1779,2095 2037,2089 2302,2095 2576,2095"/>
+        <Baseline points="194,2070 464,2070 728,2070 992,2070 1250,2070 1515,2070 1779,2064 2037,2059 2302,2064 2576,2064"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nejpřednějším hodnostářům v zemi, k význačným pan-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="168666d7-6f7e-4653-8ca2-4563e4b37859" index="14" custom="heights_v2:[69.7,30.9]">
+        <Coords points="172,2171 173,2225 443,2219 705,2214 965,2219 1229,2214 1488,2214 1752,2214 2010,2208 2275,2208 2549,2208 2549,2208 2549,2206 2549,2108 2275,2108 2010,2108 1750,2113 1488,2113 1229,2113 963,2119 708,2113 441,2119 171,2124 172,2171"/>
+        <Baseline points="173,2194 442,2188 706,2183 965,2188 1229,2183 1488,2183 1752,2183 2010,2178 2275,2178 2549,2178"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ským rodinám. V polovici 14 stol. náležely k šumvald-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b672803a-0945-4ff1-a10a-c76e9e5f5c65" index="15" custom="heights_v2:[66.9,30.0]">
+        <Coords points="173,2235 176,2332 437,2332 690,2326 949,2326 1202,2326 1461,2326 1714,2321 1973,2321 2226,2321 2496,2321 2496,2224 2226,2224 1973,2224 1714,2224 1459,2229 1202,2229 949,2229 690,2229 435,2235 173,2235"/>
+        <Baseline points="175,2302 437,2302 690,2296 949,2296 1202,2296 1461,2296 1714,2291 1973,2291 2226,2291 2496,2291"/>
+        <TextEquiv conf="1.000">
+          <Unicode>skému panství: vesnice Šumvald, část Mor. Libiny t. zv.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0a78b074-7508-4cb9-b453-7f232299d7fc" index="16" custom="heights_v2:[68.3,30.6]">
+        <Coords points="178,2439 178,2445 178,2445 448,2445 711,2440 976,2440 1240,2440 1504,2440 1769,2440 2032,2429 2296,2429 2570,2435 2572,2359 2572,2336 2572,2336 2297,2330 2032,2330 1765,2341 1504,2341 1240,2341 976,2341 711,2341 446,2346 178,2346 178,2439"/>
+        <Baseline points="178,2415 447,2415 711,2409 976,2409 1240,2409 1504,2409 1768,2409 2032,2399 2296,2399 2571,2404"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Stránka, Břevenec, Plínkot, Mirotinek, Tenčín a část Rudy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4219ef9b-6dbb-46da-badd-1a18d22167b9" index="17" custom="heights_v2:[66.6,29.9]">
+        <Coords points="2571,2552 2571,2552 2571,2551 2571,2456 2302,2456 2048,2456 1789,2456 1536,2456 1277,2456 1026,2451 764,2456 511,2461 249,2456 247,2552 513,2558 766,2552 1023,2547 1277,2552 1536,2552 1789,2552 2048,2552 2302,2552 2571,2552"/>
+        <Baseline points="248,2522 512,2528 765,2522 1024,2517 1277,2522 1536,2522 1789,2522 2048,2522 2302,2522 2571,2522"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Roku 1351 byl tu farní kostel, náležející k děkanátu úsovskému</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="04eca695-6d47-47a9-a832-c45ebdbf8f49" index="18" custom="heights_v2:[64.7,29.4]">
+        <Coords points="327,2576 329,2670 571,2665 808,2665 1045,2665 1278,2670 1515,2665 1752,2665 1984,2665 2221,2660 2469,2660 2469,2566 2221,2566 1982,2571 1752,2571 1515,2571 1276,2576 1047,2571 808,2571 571,2571 327,2576"/>
+        <Baseline points="329,2641 571,2636 808,2636 1046,2636 1277,2641 1515,2636 1752,2636 1984,2636 2221,2630 2469,2630"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Z dalších pánů ze Šumvaldu byl nejvýznačnější Beneš</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="78f4e443-5550-41a0-a22c-39602b21b38f" index="19" custom="heights_v2:[65.0,29.0]">
+        <Coords points="246,2684 249,2778 453,2773 651,2773 851,2778 1046,2783 1246,2778 1445,2773 1639,2773 1839,2773 2049,2767 2047,2673 1836,2679 1639,2678 1445,2678 1243,2684 1044,2689 853,2684 654,2679 453,2678 246,2684"/>
+        <Baseline points="248,2749 453,2743 652,2743 852,2749 1046,2754 1245,2749 1445,2743 1639,2743 1838,2743 2048,2738"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ze Šumvaldu (od r. 1355-75) a jeho syn Jan.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8c546d71-fd4c-40a8-bcd1-c3e4deed7db8" index="20" custom="heights_v2:[64.6,29.4]">
+        <Coords points="411,2797 409,2891 652,2897 889,2897 1126,2897 1364,2897 1596,2897 1833,2891 2070,2886 2307,2881 2555,2881 2555,2787 2307,2787 2068,2792 1831,2797 1594,2803 1364,2803 1126,2803 889,2803 652,2803 411,2797"/>
+        <Baseline points="410,2862 652,2867 889,2867 1126,2867 1364,2867 1595,2867 1833,2862 2070,2857 2307,2851 2555,2851"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Rodina se však velmi rozrostla, v tomtéž kraji žilo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f33f09c6-6924-4923-90b2-f820f5b29509" index="21" custom="heights_v2:[64.3,29.2]">
+        <Coords points="2538,3004 2538,3004 2538,3003 2540,2911 2270,2906 2010,2906 1752,2906 1493,2906 1233,2911 976,2911 717,2911 457,2916 187,2922 189,3015 459,3010 717,3004 976,3004 1235,3004 1493,2999 1752,2999 2010,2999 2269,2999 2538,3004"/>
+        <Baseline points="189,2986 458,2981 717,2975 976,2975 1234,2975 1493,2970 1752,2970 2010,2970 2269,2970 2539,2975"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mnoho jiných jejích členů a proto bylo rodinné panství brzy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="89be400f-e11c-48c2-9c2d-001dc68ecc10" index="22" custom="heights_v2:[64.1,28.8]">
+        <Coords points="183,3030 183,3123 443,3123 695,3117 943,3117 1197,3117 1445,3117 1698,3112 1946,3112 2199,3112 2463,3117 2465,3024 2200,3019 1946,3019 1698,3019 1443,3024 1197,3024 943,3024 695,3024 441,3030 183,3030"/>
+        <Baseline points="183,3094 442,3094 695,3088 943,3088 1197,3088 1445,3088 1698,3083 1946,3083 2199,3083 2463,3088"/>
+        <TextEquiv conf="1.000">
+          <Unicode>roztříštěno na mnoho dílů. Žádné z větví šumvaldských</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="53b52420-30f9-4946-91e3-9c2957dd6b1f" index="23" custom="heights_v2:[65.3,29.2]">
+        <Coords points="2543,3225 2543,3225 2541,3131 2270,3126 2010,3126 1745,3131 1488,3131 1224,3131 965,3131 701,3131 441,3136 171,3142 173,3236 443,3231 701,3225 965,3225 1224,3225 1488,3225 1747,3225 2010,3220 2269,3220 2543,3225"/>
+        <Baseline points="172,3207 442,3202 701,3196 965,3196 1224,3196 1488,3196 1746,3196 2010,3191 2269,3191 2542,3196"/>
+        <TextEquiv conf="1.000">
+          <Unicode>se nepodařilo získati velké jmění, a tak později se vlastní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2e36a323-a307-4ef7-bd9a-15280c2ce366" index="24" custom="heights_v2:[66.8,29.6]">
+        <Coords points="187,3253 189,3350 448,3344 695,3339 943,3339 1191,3339 1445,3339 1693,3339 1940,3334 2188,3334 2452,3339 2454,3243 2190,3237 1940,3237 1691,3243 1445,3243 1191,3243 943,3243 695,3243 446,3248 187,3253"/>
+        <Baseline points="189,3320 447,3315 695,3309 943,3309 1191,3309 1445,3309 1692,3309 1940,3304 2188,3304 2452,3309"/>
+        <TextEquiv conf="1.000">
+          <Unicode>páni ze Šumvaldu počítali jen k rodinám rytířským.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="df3f28fd-9ce0-4d06-8aa8-6d88ea0b5435" index="25" custom="heights_v2:[68.3,30.4]">
+        <Coords points="360,3360 362,3458 603,3453 841,3458 1078,3458 1315,3458 1552,3458 1790,3458 2027,3453 2264,3448 2512,3448 2512,3349 2264,3349 2025,3354 1788,3360 1552,3360 1315,3360 1078,3360 841,3360 605,3354 360,3360"/>
+        <Baseline points="361,3428 604,3423 841,3428 1078,3428 1315,3428 1552,3428 1789,3428 2027,3423 2264,3417 2512,3417"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ale rod pánů ze Šumvaldu získal již v první polo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="20c8073d-62da-415f-8ae9-c57be38502bf" index="26" custom="heights_v2:[70.2,31.5]">
+        <Coords points="195,3471 193,3573 453,3578 701,3578 949,3573 1196,3567 1450,3573 1699,3573 1946,3567 2194,3567 2458,3567 2458,3466 2194,3466 1946,3466 1696,3471 1450,3471 1198,3466 947,3471 699,3476 453,3476 195,3471"/>
+        <Baseline points="194,3541 453,3547 701,3547 949,3541 1197,3536 1450,3541 1698,3541 1946,3536 2194,3536 2458,3536"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vici 14 století také k jihu nepříliž vzdálený Žerotín a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="947f9b05-5985-4a7b-b026-6207e574fee5" index="27" custom="heights_v2:[69.9,31.0]">
+        <Coords points="211,3695 211,3696 211,3696 465,3691 711,3680 959,3680 1207,3680 1455,3680 1703,3680 1952,3685 2199,3680 2458,3680 2458,3579 2199,3579 1950,3585 1705,3579 1455,3579 1207,3579 959,3579 711,3579 460,3590 209,3595 211,3695"/>
+        <Baseline points="210,3665 464,3660 711,3649 959,3649 1207,3649 1455,3649 1703,3649 1951,3654 2199,3649 2458,3649"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ten dal pak jejich větvi jméno trvalé. Tak z nich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="66519a2c-75ef-4c4f-8c81-a03a17a108e3" index="28" custom="heights_v2:[68.3,30.6]">
+        <Coords points="216,3795 216,3804 432,3804 642,3798 852,3793 1062,3793 1266,3793 1478,3798 1687,3793 1897,3793 2118,3793 2118,3694 1897,3694 1687,3694 1475,3699 1268,3694 1062,3694 852,3694 640,3699 429,3705 216,3705 216,3795"/>
+        <Baseline points="216,3773 431,3773 641,3768 852,3762 1062,3762 1267,3762 1477,3768 1687,3762 1897,3762 2118,3762"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vznikla slavná rodina pánů z Žerotína</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b24d49aa-3617-4a92-8466-07c54bae3f09" index="29" custom="heights_v2:[71.6,31.6]">
+        <Coords points="428,3820 433,3923 642,3912 840,3907 1040,3912 1240,3912 1439,3912 1639,3912 1839,3912 2037,3907 2253,3907 2253,3804 2037,3804 1836,3809 1639,3809 1439,3809 1240,3809 1040,3809 843,3804 639,3809 428,3820"/>
+        <Baseline points="431,3892 641,3881 841,3875 1040,3881 1240,3881 1439,3881 1639,3881 1838,3881 2037,3875 2253,3875"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V 15 století přešlo panství šumvaldské a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4889547c-0841-4c82-afae-7e3b2f494ece" index="30" custom="heights_v2:[74.9,32.9]">
+        <Coords points="205,3924 205,3936 205,4032 453,4032 690,4032 928,4032 1164,4027 1402,4027 1638,4021 1876,4027 2112,4021 2365,4027 2367,3952 2368,3919 2114,3914 1874,3919 1640,3914 1400,3919 1164,3919 925,3924 690,3924 453,3924 205,3924"/>
+        <Baseline points="205,3999 453,3999 690,3999 927,3999 1164,3994 1401,3994 1639,3989 1876,3994 2113,3989 2366,3994"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zadní (Horní) Sukolom v majetek pánů Zvolských</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2d0a913a-684c-4e79-8421-13171bffee1c" index="31" custom="heights_v2:[71.0,30.9]">
+        <Coords points="217,4042 215,4143 459,4149 691,4143 922,4138 1153,4138 1386,4138 1617,4133 1849,4133 2079,4127 2322,4138 2326,4036 2084,4025 1847,4031 1617,4031 1384,4036 1153,4036 922,4036 688,4042 456,4047 217,4042"/>
+        <Baseline points="216,4113 458,4118 690,4113 922,4107 1153,4107 1385,4107 1617,4102 1849,4102 2081,4096 2323,4107"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ze Zvole, na to v majetek pánů z Lichtenberku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="46b7fc9a-ee1a-4309-b006-8a1a041c5c5f" index="32" custom="heights_v2:[71.4,33.0]">
+        <Coords points="202,4154 200,4255 200,4259 448,4253 690,4248 926,4248 1171,4259 1407,4248 1420,4248 2354,4243 2383,4243 2382,4212 2381,4138 2128,4144 1886,4144 1649,4144 1407,4144 1166,4154 930,4144 690,4144 446,4149 202,4154"/>
+        <Baseline points="200,4226 447,4220 690,4215 927,4215 1170,4226 1407,4215 1649,4215 1886,4215 2129,4215 2382,4210"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a potom na pány v Miličina (kolem r. 1460)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9872f1d6-e3f3-4ac9-92e7-5e92b9a2180a">
+      <Coords points="3282,639 3202,639 3207,1088 3219,1315 3444,1310 3442,752 3449,645 3282,639"/>
+      <TextLine id="25b07cb9-cfd9-41ed-af70-8b44fa1194a6" index="0" custom="heights_v2:[72.5,35.4]">
+        <Coords points="3202,639 3203,747 3282,747 3356,747 3442,752 3449,645 3282,639 3202,639"/>
+        <Baseline points="3203,711 3282,711 3358,711 3444,717"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4ff353da-3c78-4b44-938e-5f6fac9769a3" index="1" custom="heights_v2:[72.8,34.0]">
+        <Coords points="3442,859 3442,792 3440,752 3353,757 3288,757 3207,757 3207,864 3288,864 3360,864 3442,859"/>
+        <Baseline points="3207,830 3288,830 3358,830 3442,825"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8dc96bde-b633-4fc2-aa22-e77f55b1fdce" index="2" custom="heights_v2:[70.1,33.8]">
+        <Coords points="3443,977 3442,873 3331,873 3223,873 3223,977 3331,977 3443,977"/>
+        <Baseline points="3223,943 3331,943 3443,943"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b2611f3e-b5bc-4356-aecb-07d25b794f87" index="3" custom="heights_v2:[66.1,31.2]">
+        <Coords points="3443,1093 3443,996 3358,996 3293,991 3207,990 3207,1088 3285,1088 3358,1093 3443,1093"/>
+        <Baseline points="3207,1056 3288,1056 3358,1062 3443,1062"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bf4ae9f9-74b1-4335-8dd1-3befbfd1a31e" index="4" custom="heights_v2:[64.7,30.9]">
+        <Coords points="3444,1195 3443,1100 3363,1100 3293,1100 3208,1105 3214,1200 3293,1195 3363,1195 3444,1195"/>
+        <Baseline points="3212,1170 3293,1164 3363,1164 3443,1164"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c832d0f2-6207-4bff-ae09-ad79206368e1" index="5" custom="heights_v2:[67.0,32.3]">
+        <Coords points="3219,1315 3223,1315 3331,1310 3444,1310 3444,1210 3331,1210 3215,1216 3219,1315"/>
+        <Baseline points="3218,1283 3331,1277 3444,1277"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="daa7576a-40d4-4cbc-afa3-ce873ac98240">
+      <Coords points="3326,1315 3214,1320 3220,1433 3433,1427 3433,1315 3326,1315"/>
+      <TextLine id="f15f4d0d-fcf9-489f-8f91-93299db448f3" index="0" custom="heights_v2:[75.7,36.9]">
+        <Coords points="3326,1315 3294,1316 3214,1320 3220,1433 3326,1427 3416,1427 3433,1427 3433,1315 3326,1315"/>
+        <Baseline points="3218,1396 3326,1391 3433,1391"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="421a2198-813e-4a03-9cbc-c388ee8b7e03">
+      <Coords points="3218,1655 3207,1794 3207,1891 3223,1991 3218,2217 3444,2217 3433,2017 3448,1794 3444,1567 3218,1567 3218,1655"/>
+      <TextLine id="ce0c0d43-eb04-4c22-9cf0-6f35286dc24f" index="0" custom="heights_v2:[61.1,27.1]">
+        <Coords points="3444,1577 3444,1567 3218,1567 3218,1655 3331,1655 3444,1655 3444,1577"/>
+        <Baseline points="3218,1628 3331,1628 3444,1628"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6da89bea-4a02-4bfc-bbbe-8e4e72f258c0" index="1" custom="heights_v2:[45.2,21.9]">
+        <Coords points="3390,1696 3390,1763 3444,1763 3444,1696 3390,1696"/>
+        <Baseline points="3390,1741 3444,1741"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8a3b643d-7e18-4c98-b4f0-f6aa52815cdc" index="2" custom="heights_v2:[65.7,31.5]">
+        <Coords points="3441,1891 3448,1794 3448,1794 3362,1789 3283,1794 3207,1794 3207,1891 3290,1891 3356,1886 3441,1891"/>
+        <Baseline points="3207,1860 3288,1860 3358,1854 3444,1859"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e9ffb2bc-fc19-4e44-8dce-29a2eed70833" index="3" custom="heights_v2:[60.7,28.7]">
+        <Coords points="3435,1991 3439,1931 3439,1901 3331,1901 3223,1901 3223,1991 3331,1991 3435,1991"/>
+        <Baseline points="3223,1962 3331,1962 3437,1962"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f4f52dab-5302-42b5-95fc-e6ccfb82142f" index="4" custom="heights_v2:[63.2,30.7]">
+        <Coords points="3222,2017 3220,2111 3326,2111 3433,2111 3433,2024 3433,2017 3326,2017 3222,2017"/>
+        <Baseline points="3221,2081 3326,2081 3433,2081"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9c39a737-7e13-443b-86ce-7cc91003a62e" index="5" custom="heights_v2:[59.1,28.8]">
+        <Coords points="3220,2129 3218,2217 3444,2217 3439,2129 3331,2129 3220,2129"/>
+        <Baseline points="3219,2188 3331,2188 3442,2188"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="44c90b8c-6e70-4411-a301-62ed0a8f0fdd">
+      <Coords points="3222,2332 3225,2456 3444,2451 3447,2251 3226,2240 3222,2332"/>
+      <TextLine id="6a1d96e8-1077-4df9-b5f4-e12344509c34" index="0" custom="heights_v2:[61.2,30.3]">
+        <Coords points="3447,2254 3447,2251 3334,2246 3226,2240 3224,2281 3222,2332 3330,2337 3443,2343 3447,2254"/>
+        <Baseline points="3223,2302 3331,2307 3444,2312"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b0483905-aa70-48ff-82ce-864b9022cd39" index="1" custom="heights_v2:[63.2,30.7]">
+        <Coords points="3223,2362 3225,2456 3231,2456 3331,2451 3444,2451 3444,2439 3444,2357 3331,2357 3223,2362"/>
+        <Baseline points="3224,2425 3331,2420 3444,2420"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="81484253-c326-496d-b556-3b352ef61978">
+      <Coords points="3331,2579 3223,2579 3230,2791 3374,2899 3439,2899 3444,2579 3331,2579"/>
+      <TextLine id="ab445c07-02bd-43af-a3e1-41fbc4bd84d5" index="0" custom="heights_v2:[62.1,29.3]">
+        <Coords points="3331,2579 3223,2579 3223,2585 3226,2670 3331,2670 3443,2670 3444,2579 3331,2579"/>
+        <Baseline points="3225,2641 3331,2641 3443,2641"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bd001cd3-40b5-4c18-a2e5-b244e53fe20d" index="1" custom="heights_v2:[65.4,31.0]">
+        <Coords points="3227,2694 3230,2782 3230,2791 3336,2785 3441,2785 3442,2689 3336,2689 3227,2694"/>
+        <Baseline points="3229,2760 3336,2754 3441,2754"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c84e7b2-4b1d-4743-af44-4ece40082c07" index="2" custom="heights_v2:[56.8,26.2]">
+        <Coords points="3374,2899 3439,2899 3439,2816 3374,2816 3374,2899"/>
+        <Baseline points="3374,2873 3439,2873"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="59f3b977-a4fa-40e9-a077-471362c3a5a1">
+      <Coords points="3272,3348 3207,3482 3212,3931 3444,3926 3444,2921 3220,2926 3239,3117 3239,3242 3272,3348"/>
+      <TextLine id="4ef310c7-86c5-4bef-bebd-da8470a8c7b8" index="0" custom="heights_v2:[59.6,29.3]">
+        <Coords points="3444,3010 3444,2921 3444,2921 3238,2926 3220,2926 3220,2930 3229,3015 3331,3010 3444,3010"/>
+        <Baseline points="3226,2986 3331,2981 3444,2981"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2d1278a3-6340-481e-984d-57dbeca33fb3" index="1" custom="heights_v2:[57.2,28.4]">
+        <Coords points="3444,3117 3444,3031 3342,3031 3239,3031 3239,3117 3342,3117 3444,3117"/>
+        <Baseline points="3239,3088 3342,3088 3444,3088"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bce2e4c5-1fc3-4d48-82a4-7027e0a86974" index="2" custom="heights_v2:[61.1,29.1]">
+        <Coords points="3444,3242 3444,3151 3342,3151 3239,3151 3239,3242 3342,3242 3444,3242"/>
+        <Baseline points="3239,3212 3342,3212 3444,3212"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="da67dc58-9519-4b04-92af-eb899faeb701" index="3" custom="heights_v2:[56.7,28.0]">
+        <Coords points="3272,3348 3272,3348 3439,3348 3439,3263 3272,3263 3272,3347 3272,3348"/>
+        <Baseline points="3272,3320 3439,3320"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="413cf1f3-a79b-4d6b-b43f-f55ff31a130d" index="4" custom="heights_v2:[61.0,30.2]">
+        <Coords points="3444,3415 3444,3351 3345,3346 3340,3437 3443,3442 3444,3415"/>
+        <Baseline points="3342,3406 3444,3412"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a056becf-da06-45c6-9e58-e58d74d02f79" index="5" custom="heights_v2:[64.4,31.6]">
+        <Coords points="3207,3484 3208,3578 3290,3578 3358,3573 3444,3573 3444,3477 3358,3477 3283,3482 3207,3482 3207,3484"/>
+        <Baseline points="3208,3547 3288,3547 3358,3541 3444,3541"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ddbcd22a-9f9c-4c6d-ad34-3c402c830fd9" index="6" custom="heights_v2:[66.6,31.6]">
+        <Coords points="3444,3686 3444,3588 3363,3588 3293,3588 3212,3588 3212,3686 3293,3686 3363,3686 3444,3686"/>
+        <Baseline points="3212,3654 3293,3654 3363,3654 3444,3654"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="126479c4-646c-411e-93c9-9b63412a3452" index="7" custom="heights_v2:[64.1,30.2]">
+        <Coords points="3444,3809 3444,3714 3331,3714 3215,3720 3219,3814 3331,3809 3444,3809"/>
+        <Baseline points="3218,3784 3331,3778 3444,3778"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9564f89c-a3a6-4b1b-8863-0761476f7f12" index="8" custom="heights_v2:[72.2,34.1]">
+        <Coords points="3212,3931 3327,3929 3363,3926 3444,3926 3444,3819 3363,3819 3288,3825 3212,3825 3212,3931"/>
+        <Baseline points="3212,3897 3293,3897 3363,3892 3444,3892"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="1b963c04-b397-4bb2-b6d3-dcc9880151b0">
+      <Coords points="3444,3973 3390,3973 3390,4036 3444,4036 3444,3973"/>
+      <TextLine id="ea666e21-026c-4375-8b45-9e96d6d10c68" index="0" custom="heights_v2:[42.2,20.6]">
+        <Coords points="3390,4036 3444,4036 3444,3973 3390,3973 3390,4036"/>
+        <Baseline points="3390,4016 3444,4016"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="cd9a02d7-e161-4763-bb2a-da817f2c616e">
+      <Coords points="3442,4053 3270,4059 3272,4138 3445,4132 3442,4053"/>
+      <TextLine id="646e37cc-9065-4ac2-b2cb-ebb3eaf59b93" index="0" custom="heights_v2:[53.9,25.3]">
+        <Coords points="3366,4056 3270,4059 3272,4138 3309,4137 3445,4132 3445,4125 3442,4053 3366,4056"/>
+        <Baseline points="3272,4113 3444,4107"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

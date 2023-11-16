@@ -1,0 +1,320 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:12:05.603789+00:00</Created>
+    <LastChange>2023-02-07T20:12:05.603789+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-203-10" imageWidth="1360" imageHeight="2186">
+    <TextRegion id="r000">
+      <Coords points="186,1636 217,1742 217,1786 309,1901 507,1906 634,1835 735,1900 947,1900 952,1829 1094,1748 1113,1676 1108,1254 1093,1174 1107,1058 1108,980 1093,867 1096,495 1082,390 1083,347 271,330 223,373 213,416 211,784 192,1049 197,1166 186,1325 192,1365 183,1520 186,1636"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[34.0,9.6]">
+        <Coords points="271,329 365,329 455,332 541,335 632,335 720,338 809,341 897,341 987,344 1083,346 1082,390 986,387 896,384 809,384 718,382 631,379 541,379 453,376 363,373 271,373"/>
+        <Baseline points="271,364 364,364 454,366 541,369 631,369 719,372 809,375 896,375 986,378 1082,380"/>
+        <TextEquiv conf="0.621">
+          <Unicode>Na severu hraničí obec Čtyři Dvory s obcí České</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l002" index="1" custom="heights_v2:[30.1,8.7]">
+        <Coords points="223,373 321,376 414,376 507,376 601,376 694,378 786,381 881,381 973,387 1072,390 1071,429 972,426 879,420 786,420 693,417 600,414 507,414 414,414 321,414 222,412"/>
+        <Baseline points="223,403 321,406 414,406 507,406 600,406 693,409 786,411 879,411 972,417 1071,420"/>
+        <TextEquiv conf="0.494">
+          <Unicode>Vrbné. - Na straně západní s obcí Haklovy Dvory,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="2" custom="heights_v2:[28.8,8.4]">
+        <Coords points="213,416 293,414 366,414 442,414 516,414 592,414 665,414 742,414 814,416 896,416 896,454 814,454 741,451 665,451 592,451 516,451 442,451 366,451 293,451 214,454"/>
+        <Baseline points="214,445 293,442 366,442 442,442 516,442 592,442 665,442 741,442 814,445 896,445"/>
+        <TextEquiv conf="0.907">
+          <Unicode>a na straně jižní s Čes. Budějovicemi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="3" custom="heights_v2:[29.1,8.3]">
+        <Coords points="293,447 383,447 471,447 558,447 646,447 733,450 821,450 908,453 996,456 1089,458 1087,496 994,493 907,490 820,487 733,487 645,485 558,485 471,485 383,485 293,485"/>
+        <Baseline points="293,476 383,476 471,476 558,476 645,476 733,479 820,479 907,482 995,485 1088,487"/>
+        <TextEquiv conf="0.757">
+          <Unicode>Obec Čtyři Dvory tvoří jaksi předměstí města</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="4" custom="heights_v2:[29.8,8.9]">
+        <Coords points="220,483 321,483 417,483 513,483 610,483 704,486 801,486 898,489 992,494 1096,494 1096,533 992,533 896,527 800,525 704,525 608,522 513,522 417,522 321,522 220,522"/>
+        <Baseline points="220,513 321,513 417,513 513,513 609,513 704,516 800,516 896,518 992,524 1096,524"/>
+        <TextEquiv conf="0.585">
+          <Unicode>Čes. Budějovic a jest od ulice „Husova třída“, dří</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="5" custom="heights_v2:[30.2,8.9]">
+        <Coords points="213,516 313,519 409,519 508,519 603,522 700,522 797,525 894,525 990,528 1094,531 1093,570 989,567 893,564 797,564 699,561 603,561 507,558 409,558 313,558 212,556"/>
+        <Baseline points="212,547 313,549 409,549 507,549 603,552 699,552 797,555 893,555 989,558 1093,561"/>
+        <TextEquiv conf="0.476">
+          <Unicode>ve Říšská třída zvané, oddělena železným. Dlou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="6" custom="heights_v2:[30.7,9.3]">
+        <Coords points="213,553 305,555 394,558 487,558 579,558 668,561 761,561 852,561 941,564 1040,564 1040,604 941,604 851,601 761,601 668,601 577,598 487,598 394,598 304,595 212,593"/>
+        <Baseline points="212,583 304,586 394,589 487,589 578,589 668,592 761,592 851,592 941,595 1040,595"/>
+        <TextEquiv conf="0.541">
+          <Unicode>hým mostem“ vystaveným r. 1879, který jest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="7" custom="heights_v2:[29.3,8.5]">
+        <Coords points="214,591 251,593 292,594 327,596 366,596 403,596 445,596 479,599 518,599 564,599 564,637 518,637 479,637 442,634 403,634 366,634 327,634 290,631 251,631 212,629"/>
+        <Baseline points="212,620 251,623 290,623 327,626 366,626 403,626 442,626 479,628 518,628 564,628"/>
+        <TextEquiv conf="0.813">
+          <Unicode>99 metrů dlouhý.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l009" index="8" custom="heights_v2:[32.4,9.8]">
+        <Coords points="286,627 378,630 468,630 555,630 645,630 734,630 823,633 911,633 1001,635 1096,638 1094,680 1000,678 910,675 823,675 732,672 645,672 555,672 468,672 378,672 284,669"/>
+        <Baseline points="285,659 378,662 468,662 555,662 645,662 733,662 823,665 910,665 1000,668 1095,671"/>
+        <TextEquiv conf="0.504">
+          <Unicode>Západně od obce Čtyř Dvorů ve vzdálenosti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="9" custom="heights_v2:[29.7,9.0]">
+        <Coords points="214,669 313,669 409,669 504,669 601,669 696,672 792,672 888,672 984,675 1086,678 1085,716 983,713 887,711 792,711 696,711 600,708 504,708 409,708 313,708 214,708"/>
+        <Baseline points="214,699 313,699 409,699 504,699 600,699 696,702 792,702 888,702 983,704 1085,707"/>
+        <TextEquiv conf="0.726">
+          <Unicode>1/4 hodiny cesty rozprostírají se lesy patřící Českým</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l011" index="10" custom="heights_v2:[30.8,9.2]">
+        <Coords points="212,705 314,705 409,708 504,708 600,708 700,708 795,710 891,710 987,713 1091,716 1090,756 986,753 890,750 795,750 699,747 600,747 504,747 409,747 313,745 212,745"/>
+        <Baseline points="212,735 313,735 409,738 504,738 600,738 699,738 795,741 890,741 986,744 1091,747"/>
+        <TextEquiv conf="0.676">
+          <Unicode>Budějovicům, a východně ležící výběžek těchto le</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="11" custom="heights_v2:[29.1,8.9]">
+        <Coords points="211,746 279,746 344,746 409,746 471,746 535,746 600,746 663,746 727,749 797,749 797,787 727,787 662,784 600,784 535,784 471,784 409,784 344,784 279,784 211,784"/>
+        <Baseline points="211,775 279,775 344,775 409,775 471,775 535,775 600,775 662,775 727,778 797,778"/>
+        <TextEquiv conf="0.784">
+          <Unicode>sů patří místním rolníkům.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l013" index="12" custom="heights_v2:[31.9,9.8]">
+        <Coords points="282,780 375,780 463,780 552,782 640,782 730,782 817,782 908,782 995,785 1091,785 1091,827 995,827 907,824 817,824 730,824 640,824 552,824 462,821 375,821 282,821"/>
+        <Baseline points="282,812 375,812 462,812 552,814 640,814 730,814 817,814 907,814 995,817 1091,817"/>
+        <TextEquiv conf="0.853">
+          <Unicode>Nejbližší les nazvaný „Bor“, kde umístně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="13" custom="heights_v2:[31.3,9.9]">
+        <Coords points="206,820 306,820 407,817 502,820 600,822 696,822 795,822 890,822 990,822 1094,825 1093,866 989,864 890,864 795,864 696,864 600,864 501,861 405,858 307,861 206,861"/>
+        <Baseline points="206,851 307,851 406,848 502,851 600,854 696,854 795,854 890,854 989,854 1093,857"/>
+        <TextEquiv conf="0.577">
+          <Unicode>na jest vojenská střelnice a hostinec p. Hadta,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="14" custom="heights_v2:[32.0,10.3]">
+        <Coords points="205,856 299,858 392,858 482,858 575,858 666,858 758,861 848,861 941,861 1040,861 1040,904 941,904 848,904 758,904 665,901 575,901 482,901 392,901 299,901 203,898"/>
+        <Baseline points="204,888 299,890 392,890 482,890 575,890 665,890 758,893 848,893 941,893 1040,893"/>
+        <TextEquiv conf="0.646">
+          <Unicode>bývá v létě občanstvem z Budějovic velmi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l016" index="15" custom="heights_v2:[30.7,9.5]">
+        <Coords points="205,896 240,899 273,899 304,899 338,899 372,899 403,899 435,899 474,896 477,937 437,939 403,939 372,939 338,939 304,939 273,939 240,939 202,937"/>
+        <Baseline points="203,927 240,930 273,930 304,930 338,930 372,930 403,930 437,930 476,927"/>
+        <TextEquiv conf="0.981">
+          <Unicode>navštěvován.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="16" custom="heights_v2:[33.7,11.1]">
+        <Coords points="268,933 361,933 451,933 539,933 628,936 716,936 806,936 894,936 983,938 1079,938 1079,983 983,983 893,980 806,980 716,980 628,980 538,978 451,978 361,978 268,978"/>
+        <Baseline points="268,967 361,967 451,967 538,967 628,969 716,969 806,969 893,969 983,972 1079,972"/>
+        <TextEquiv conf="0.941">
+          <Unicode>Na západní straně viděti jest předhoří</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="17" custom="heights_v2:[31.4,10.3]">
+        <Coords points="198,972 302,975 400,975 502,975 600,975 703,975 800,977 902,977 1001,977 1108,980 1107,1022 1000,1019 902,1019 800,1019 701,1016 600,1016 502,1016 400,1016 302,1016 197,1013"/>
+        <Baseline points="197,1003 302,1006 400,1006 502,1006 600,1006 702,1006 800,1009 902,1009 1000,1009 1107,1012"/>
+        <TextEquiv conf="0.809">
+          <Unicode>Šumavy a Blanský les s horou Kletí 1060 m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="18" custom="heights_v2:[30.5,10.1]">
+        <Coords points="199,1009 302,1015 400,1015 502,1015 600,1015 703,1015 800,1018 902,1018 1000,1018 1107,1018 1107,1058 1000,1058 902,1058 800,1058 701,1056 600,1056 502,1056 400,1056 302,1056 197,1050"/>
+        <Baseline points="197,1040 302,1045 400,1045 502,1045 600,1045 702,1045 800,1048 902,1048 1000,1048 1107,1048"/>
+        <TextEquiv conf="0.607">
+          <Unicode>vysokou, odkud s věže 14 m vysoké za jasného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="19" custom="heights_v2:[33.0,10.7]">
+        <Coords points="193,1049 297,1049 394,1052 493,1052 592,1052 690,1052 789,1052 889,1052 986,1055 1091,1055 1091,1098 986,1098 887,1096 789,1096 690,1096 592,1096 493,1096 394,1096 296,1093 193,1093"/>
+        <Baseline points="193,1082 296,1082 394,1085 493,1085 592,1085 690,1085 789,1085 888,1085 986,1088 1091,1088"/>
+        <TextEquiv conf="0.374">
+          <Unicode>dne viděti jest Alpy, který jest cílem mno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l021" index="20" custom="heights_v2:[31.1,9.9]">
+        <Coords points="195,1088 228,1088 262,1088 290,1090 321,1090 352,1090 383,1090 414,1090 445,1090 482,1090 482,1131 445,1131 414,1131 383,1131 352,1131 321,1131 290,1131 258,1128 228,1129 195,1129"/>
+        <Baseline points="195,1119 228,1119 259,1119 290,1121 321,1121 352,1121 383,1121 414,1121 445,1121 482,1121"/>
+        <TextEquiv conf="0.887">
+          <Unicode>ha výletníků.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l022" index="21" custom="heights_v2:[33.9,10.4]">
+        <Coords points="252,1121 348,1124 440,1127 533,1127 626,1127 716,1127 810,1127 901,1130 996,1127 1094,1130 1093,1174 994,1171 902,1174 808,1171 716,1171 626,1171 533,1171 440,1171 346,1169 250,1166"/>
+        <Baseline points="251,1155 347,1158 440,1161 533,1161 626,1161 716,1161 809,1161 902,1164 995,1161 1093,1164"/>
+        <TextEquiv conf="0.557">
+          <Unicode>Severně, 7 km vzdálen jest zámek Hlubo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="22" custom="heights_v2:[31.8,9.7]">
+        <Coords points="197,1166 297,1166 390,1169 485,1171 578,1171 671,1171 766,1171 858,1171 952,1169 1054,1169 1054,1210 952,1210 860,1213 766,1213 671,1213 578,1213 485,1213 389,1210 296,1207 197,1207"/>
+        <Baseline points="197,1198 296,1198 389,1200 485,1203 578,1203 671,1203 766,1203 859,1203 952,1200 1054,1200"/>
+        <TextEquiv conf="0.958">
+          <Unicode>ká, nádherná to gotická stavba, jediná</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l024" index="23" custom="heights_v2:[31.3,9.7]">
+        <Coords points="195,1206 299,1209 397,1209 496,1209 595,1209 693,1211 792,1211 890,1211 989,1211 1096,1211 1096,1252 989,1252 890,1252 792,1252 693,1252 594,1250 496,1250 397,1250 299,1250 194,1247"/>
+        <Baseline points="194,1237 299,1240 397,1240 496,1240 595,1240 693,1243 792,1243 890,1243 989,1243 1096,1243"/>
+        <TextEquiv conf="0.811">
+          <Unicode>svého druhu ve střední Evropě proslulá jak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="24" custom="heights_v2:[30.9,9.4]">
+        <Coords points="190,1246 293,1248 394,1248 496,1248 598,1248 696,1251 797,1251 899,1251 1001,1251 1108,1254 1107,1294 1000,1292 899,1292 797,1292 696,1292 597,1289 496,1289 394,1289 293,1289 189,1286"/>
+        <Baseline points="189,1276 293,1279 394,1279 496,1279 597,1279 696,1282 797,1282 899,1282 1000,1282 1107,1285"/>
+        <TextEquiv conf="0.665">
+          <Unicode>svou stavbou tak památkami uvnitř nashro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l026" index="25" custom="heights_v2:[30.9,9.3]">
+        <Coords points="187,1285 287,1288 383,1288 479,1288 576,1288 673,1291 769,1291 865,1291 961,1291 1065,1291 1065,1331 961,1331 865,1331 769,1331 673,1331 575,1328 479,1328 383,1328 287,1328 186,1325"/>
+        <Baseline points="186,1316 287,1319 383,1319 479,1319 575,1319 673,1322 769,1322 865,1322 961,1322 1065,1322"/>
+        <TextEquiv conf="0.761">
+          <Unicode>mážděnými. Zámek jest majetkem býva</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="26" custom="heights_v2:[31.2,9.4]">
+        <Coords points="192,1324 268,1324 341,1324 413,1324 485,1327 555,1327 628,1327 699,1327 772,1327 851,1327 851,1368 772,1368 699,1368 628,1368 555,1368 485,1368 411,1365 341,1365 268,1365 192,1365"/>
+        <Baseline points="192,1355 268,1355 341,1355 411,1355 485,1358 555,1358 628,1358 699,1358 772,1358 851,1358"/>
+        <TextEquiv conf="0.622">
+          <Unicode>lého knížete Schwarzenberga.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l028" index="27" custom="heights_v2:[31.8,9.6]">
+        <Coords points="257,1360 355,1363 448,1363 541,1363 634,1363 730,1363 823,1363 916,1363 1009,1363 1110,1363 1110,1404 1009,1404 916,1404 823,1404 730,1404 634,1404 541,1404 448,1404 355,1404 256,1402"/>
+        <Baseline points="256,1392 355,1395 448,1395 541,1395 634,1395 730,1395 823,1395 916,1395 1009,1395 1110,1395"/>
+        <TextEquiv conf="0.659">
+          <Unicode>Obec Čtyři Dvory leží 365 m nad hladinou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="28" custom="heights_v2:[30.7,9.4]">
+        <Coords points="190,1401 293,1404 394,1404 496,1404 597,1404 699,1404 800,1404 902,1404 1004,1404 1111,1406 1110,1447 1003,1444 902,1444 800,1444 699,1444 597,1444 496,1444 394,1444 293,1444 189,1441"/>
+        <Baseline points="189,1431 293,1434 394,1434 496,1434 597,1434 699,1434 800,1434 902,1434 1003,1434 1110,1437"/>
+        <TextEquiv conf="0.551">
+          <Unicode>mořskou (dle gener. mapy Víděnského ústavu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l030" index="29" custom="heights_v2:[30.5,9.5]">
+        <Coords points="190,1438 294,1440 394,1443 496,1443 597,1443 698,1443 799,1440 903,1438 1003,1440 1110,1440 1110,1480 1003,1480 901,1478 801,1480 699,1483 597,1483 496,1483 394,1483 293,1480 189,1478"/>
+        <Baseline points="189,1468 293,1471 394,1474 496,1474 597,1474 699,1474 800,1471 902,1468 1003,1471 1110,1471"/>
+        <TextEquiv conf="0.774">
+          <Unicode>zeměpisného r. 1889) a jest o něco výše položena</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="30" custom="heights_v2:[30.9,9.8]">
+        <Coords points="184,1479 287,1482 390,1482 489,1485 592,1482 690,1482 791,1479 893,1477 995,1477 1102,1477 1102,1517 995,1517 893,1517 792,1520 691,1523 592,1523 491,1526 389,1523 287,1523 183,1520"/>
+        <Baseline points="183,1510 287,1513 389,1513 490,1516 592,1513 690,1513 792,1510 893,1508 995,1508 1102,1508"/>
+        <TextEquiv conf="0.518">
+          <Unicode>než Čes. Budějovice, takže při povodni r. 1888,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l032" index="31" custom="heights_v2:[31.1,10.0]">
+        <Coords points="190,1516 293,1519 394,1519 497,1519 597,1522 699,1522 799,1522 902,1519 1003,1519 1110,1519 1110,1560 1003,1560 902,1560 801,1563 699,1563 597,1563 496,1560 394,1560 293,1560 189,1557"/>
+        <Baseline points="189,1547 293,1550 394,1550 496,1550 597,1553 699,1553 800,1553 902,1550 1003,1550 1110,1550"/>
+        <TextEquiv conf="0.617">
+          <Unicode>kdy hlavní náměstí budějovické bylo zatope</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="32" custom="heights_v2:[31.3,10.0]">
+        <Coords points="189,1555 290,1555 389,1555 488,1555 587,1558 684,1561 783,1558 882,1558 981,1558 1085,1558 1085,1599 981,1599 882,1599 783,1599 685,1602 586,1599 487,1596 389,1596 290,1596 189,1596"/>
+        <Baseline points="189,1586 290,1586 389,1586 487,1586 586,1589 685,1592 783,1589 882,1589 981,1589 1085,1589"/>
+        <TextEquiv conf="0.672">
+          <Unicode>ní, byla obec Čtyři Dvory mimo část hlavní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l034" index="33" custom="heights_v2:[32.1,9.8]">
+        <Coords points="186,1594 288,1594 386,1597 485,1597 584,1597 678,1599 778,1597 876,1597 975,1597 1079,1597 1079,1639 975,1639 876,1639 778,1639 679,1641 583,1639 485,1639 386,1639 287,1636 186,1636"/>
+        <Baseline points="186,1626 287,1626 386,1629 485,1629 583,1629 679,1632 778,1629 876,1629 975,1629 1079,1629"/>
+        <TextEquiv conf="0.686">
+          <Unicode>silnice od „Dlouhého mostu“ až k zahradě u</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="34" custom="heights_v2:[34.1,10.6]">
+        <Coords points="195,1628 299,1631 400,1631 503,1631 603,1634 702,1634 802,1634 905,1631 1006,1631 1113,1631 1113,1676 1006,1676 905,1676 803,1679 702,1679 603,1679 501,1676 400,1676 299,1676 194,1673"/>
+        <Baseline points="194,1663 299,1665 400,1665 502,1665 603,1668 702,1668 803,1668 905,1665 1006,1665 1113,1665"/>
+        <TextEquiv conf="0.776">
+          <Unicode>továrny p. Sattlera od této pohromy ušetřena.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l036" index="35" custom="heights_v2:[40.1,11.9]">
+        <Coords points="291,1696 386,1699 471,1704 558,1704 645,1704 734,1704 822,1701 910,1699 996,1699 1092,1696 1094,1748 998,1750 910,1750 823,1753 736,1756 645,1756 558,1756 471,1756 382,1750 290,1748"/>
+        <Baseline points="290,1736 383,1739 471,1744 558,1744 645,1744 735,1744 823,1741 910,1739 998,1739 1093,1736"/>
+        <TextEquiv conf="0.627">
+          <Unicode>Celková rozloha katastru činí 624 ha 68 a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="36" custom="heights_v2:[33.3,10.6]">
+        <Coords points="217,1742 275,1742 326,1745 378,1748 428,1748 484,1748 533,1750 586,1750 637,1750 696,1750 696,1794 637,1794 586,1794 533,1794 481,1791 428,1791 378,1791 323,1789 273,1786 217,1786"/>
+        <Baseline points="217,1775 273,1775 324,1778 378,1781 428,1781 482,1781 533,1784 586,1784 637,1784 696,1784"/>
+        <TextEquiv conf="0.984">
+          <Unicode>a připadá celkem na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l038" index="37" custom="heights_v2:[31.2,9.7]">
+        <Coords points="310,1786 347,1786 380,1786 414,1786 451,1786 484,1789 516,1792 555,1792 555,1833 516,1833 481,1830 447,1827 414,1827 380,1827 347,1827 310,1827"/>
+        <Baseline points="310,1818 347,1818 380,1818 414,1818 448,1818 482,1820 516,1823 555,1823"/>
+        <TextEquiv conf="0.547">
+          <Unicode>louky - </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l039" index="38" custom="heights_v2:[39.1,11.7]">
+        <Coords points="707,1781 743,1779 781,1776 814,1776 845,1776 882,1776 913,1778 952,1778 952,1829 913,1829 878,1826 845,1826 814,1826 781,1826 748,1829 711,1832"/>
+        <Baseline points="710,1820 747,1818 781,1815 814,1815 845,1815 879,1815 913,1818 952,1818"/>
+        <TextEquiv conf="0.691">
+          <Unicode>186 ha o6 a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l040" index="39" custom="heights_v2:[35.5,8.7]">
+        <Coords points="632,1790 691,1788 694,1832 634,1835"/>
+        <Baseline points="634,1826 693,1823"/>
+        <TextEquiv conf="0.794">
+          <Unicode>..</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l041" index="40" custom="heights_v2:[33.4,9.2]">
+        <Coords points="733,1821 783,1818 831,1818 831,1861 783,1861 736,1863"/>
+        <Baseline points="735,1854 783,1851 831,1851"/>
+        <TextEquiv conf="1.000">
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l042" index="41" custom="heights_v2:[32.7,9.6]">
+        <Coords points="313,1821 352,1822 383,1824 417,1824 448,1827 479,1827 518,1827 518,1869 479,1869 448,1869 413,1866 383,1867 349,1864 313,1864"/>
+        <Baseline points="313,1854 349,1854 383,1857 414,1857 448,1860 479,1860 518,1860"/>
+        <TextEquiv conf="0.964">
+          <Unicode>zahrady.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l043" index="42" custom="heights_v2:[42.6,11.8]">
+        <Coords points="735,1845 772,1845 806,1845 840,1845 874,1845 907,1845 947,1845 947,1900 907,1900 874,1900 840,1900 806,1900 772,1900 735,1900"/>
+        <Baseline points="735,1888 772,1888 806,1888 840,1888 874,1888 907,1888 947,1888"/>
+        <TextEquiv conf="0.520">
+          <Unicode>13 " 96 a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l044" index="43" custom="heights_v2:[34.1,9.4]">
+        <Coords points="312,1857 352,1859 391,1860 425,1862 462,1862 507,1862 507,1906 462,1906 425,1906 388,1903 352,1903 309,1900"/>
+        <Baseline points="310,1891 352,1894 389,1894 425,1896 462,1896 507,1896"/>
+        <TextEquiv conf="0.744">
+          <Unicode>pastvinty.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

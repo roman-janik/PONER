@@ -1,0 +1,293 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:36.969232</Created>
+    <LastChange>2023-03-26T21:22:36.969232</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_052.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="5a183a78-932b-43df-9f00-8a48f6e534c3">
+      <Coords points="1772,52 1770,113 1854,117 1857,56 1772,52"/>
+      <TextLine id="96e23cf8-9577-450a-9ea0-d99f3824151a" index="0" custom="heights_v2:[47.0,13.7]">
+        <Coords points="1771,73 1770,113 1775,113 1854,117 1856,82 1857,56 1772,52 1771,73"/>
+        <Baseline points="1770,99 1855,103"/>
+        <TextEquiv conf="0.997">
+          <Unicode>51</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="e6c51579-cdb0-41fa-b13f-0d84059ff00f">
+      <Coords points="861,146 806,146 806,212 964,212 964,146 861,146"/>
+      <TextLine id="091ccff4-e7c1-4b25-852e-d2985cef9280" index="0" custom="heights_v2:[49.0,16.7]">
+        <Coords points="806,146 806,212 861,212 909,212 964,212 964,146 909,146 861,146 806,146"/>
+        <Baseline points="806,195 861,195 909,195 964,195"/>
+        <TextEquiv conf="0.624">
+          <Unicode>1922</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="fe5eace3-f94d-41bb-a8b0-c8e035334a99">
+      <Coords points="177,898 173,1041 181,1192 199,1347 203,1500 217,1641 213,1931 225,2152 217,2285 224,2534 220,2668 479,2672 1236,2657 1372,2661 1495,2579 1539,2502 1536,2438 1550,2352 1547,2287 1472,2154 1460,2003 1425,1913 1450,1700 1457,1482 1457,1418 1432,1255 1454,1181 1454,1118 1483,950 1475,664 1369,503 1348,223 1089,220 205,238 201,391 190,460 191,669 177,756 177,898"/>
+      <TextLine id="92d77615-e7f1-4198-9168-5f74511a2ca3" index="0" custom="heights_v2:[45.3,18.7]">
+        <Coords points="1348,225 1348,223 1327,223 1089,220 1050,221 963,223 838,227 745,227 643,229 587,231 462,234 383,234 213,238 205,238 205,241 207,302 339,298 464,298 589,295 714,291 840,291 965,287 1089,284 1214,284 1346,287 1348,225"/>
+        <Baseline points="206,283 339,280 464,280 589,276 714,272 839,272 964,269 1089,265 1214,265 1347,269"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Sbor českobratrské církve evang. konal volbu zastupitelstva.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="15d7b717-c8e8-47db-9fc1-06d74cdd61d7" index="1" custom="heights_v2:[42.9,16.8]">
+        <Coords points="1358,359 1354,299 1243,303 1141,303 1038,303 935,303 827,307 725,307 620,310 519,310 407,314 409,374 519,370 623,370 725,366 829,366 935,363 1038,363 1141,363 1244,363 1358,359"/>
+        <Baseline points="408,357 519,353 622,353 725,350 828,350 935,346 1038,346 1141,346 1244,346 1357,342"/>
+        <TextEquiv conf="0.994">
+          <Unicode>Ohlas 75. výročí narozenin Th. H. Edisona pro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a775e35d-c979-482f-9ab9-33e18cb9218c" index="2" custom="heights_v2:[43.1,16.8]">
+        <Coords points="201,391 203,451 332,447 456,444 582,444 707,440 828,436 954,436 1078,433 1203,433 1336,433 1336,373 1203,373 1078,373 952,376 828,376 705,380 580,384 456,384 330,388 201,391"/>
+        <Baseline points="202,434 331,431 456,427 581,427 707,423 828,420 953,420 1078,416 1203,416 1336,416"/>
+        <TextEquiv conf="0.996">
+          <Unicode>jeven článkem Edgara Th. Havránka Praha, Tomáš Alva</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="836754a3-f790-4990-98f8-3f2adcff5f40" index="3" custom="heights_v2:[44.3,17.3]">
+        <Coords points="1369,503 1369,503 1364,442 1228,445 1100,445 970,449 843,449 713,453 585,453 455,456 328,456 190,460 192,521 328,518 457,518 585,514 714,514 843,510 972,510 1100,507 1230,507 1369,503"/>
+        <Baseline points="191,504 328,501 456,501 585,497 714,497 843,493 972,493 1100,489 1229,489 1368,486"/>
+        <TextEquiv conf="0.995">
+          <Unicode>Edison ve světle objektivní kritiky. (K jeho sobotním 75. na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="341e9704-32a9-470e-b53f-be748ae07929" index="4" custom="heights_v2:[45.4,17.7]">
+        <Coords points="190,536 190,547 192,599 324,596 449,592 578,592 703,592 828,588 957,588 1082,588 1207,584 1343,584 1343,521 1207,521 1081,525 957,525 828,525 702,529 578,529 449,529 323,532 190,536"/>
+        <Baseline points="191,581 324,578 449,574 578,574 703,574 828,570 957,570 1082,570 1207,567 1343,567"/>
+        <TextEquiv conf="0.986">
+          <Unicode>rozeninám) V Obzoru roč. XIII. č. 36 ze dne 14./2. 1922 a č. 37 ze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0577f240-13c7-4a09-a1fe-25ec846b9e91" index="5" custom="heights_v2:[45.7,17.6]">
+        <Coords points="191,606 191,669 243,669 291,669 340,669 386,665 434,665 489,665 489,602 434,602 386,602 335,606 291,606 243,606 191,606"/>
+        <Baseline points="191,651 243,651 291,651 339,651 386,648 434,648 489,648"/>
+        <TextEquiv conf="0.993">
+          <Unicode>dne 15./II. 1922.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="76cf6cff-5a15-47c1-8fc9-132119404dac" index="6" custom="heights_v2:[45.9,17.7]">
+        <Coords points="294,679 294,743 431,743 560,743 688,739 817,739 949,739 1079,739 1208,735 1336,732 1476,728 1475,664 1335,668 1206,672 1077,675 949,675 817,675 688,675 558,679 431,679 294,679"/>
+        <Baseline points="294,725 431,725 559,725 688,721 817,721 949,721 1078,721 1207,718 1336,714 1476,710"/>
+        <TextEquiv conf="0.931">
+          <Unicode>Na Bečvě pod ledem chycen morčák mergus, kte- 16.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="16a66e18-0c1f-4963-a845-cea3a4b1e693" index="7" custom="heights_v2:[46.2,18.5]">
+        <Coords points="177,756 177,821 317,821 453,817 586,817 721,813 854,813 990,813 1123,813 1259,810 1402,810 1402,745 1259,745 1121,749 990,749 854,749 721,749 584,752 453,752 315,756 177,756"/>
+        <Baseline points="177,802 316,802 453,799 585,799 721,795 854,795 990,795 1122,795 1259,791 1402,791"/>
+        <TextEquiv conf="0.999">
+          <Unicode>rý pochází ze severovýchodního Ruska a Sibiře. Byl dán do škol-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="69bd5848-92cc-4495-8f2d-a0bed29a6def" index="8" custom="heights_v2:[45.8,18.5]">
+        <Coords points="177,898 177,898 232,898 281,898 333,894 379,891 438,891 438,826 379,826 328,830 276,834 232,834 177,834 177,898"/>
+        <Baseline points="177,880 232,880 280,880 331,876 379,872 438,872"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ní sbírky.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="28b3ad69-afda-48d6-93b5-4937f721c9e4" index="9" custom="heights_v2:[46.6,19.2]">
+        <Coords points="1483,950 1483,950 1481,884 1340,884 1202,888 1066,892 931,892 794,896 659,896 523,896 385,899 245,903 247,969 387,965 523,961 659,961 795,961 931,958 1068,958 1204,954 1340,950 1483,950"/>
+        <Baseline points="247,949 386,946 523,942 659,942 795,942 931,938 1067,938 1203,935 1340,931 1482,931"/>
+        <TextEquiv conf="0.931">
+          <Unicode>Olomoucké divadlo sehrálo komedii A. Savoira Osmá 19</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c222eb79-1ef2-4c11-a7f0-0812acc8da8b" index="10" custom="heights_v2:[43.3,17.7]">
+        <Coords points="175,980 173,1041 232,1041 283,1041 339,1041 390,1041 443,1041 497,1037 548,1037 601,1037 663,1033 660,973 597,976 548,976 497,976 439,980 390,980 339,980 283,980 232,980 175,980"/>
+        <Baseline points="174,1023 232,1023 283,1023 339,1023 390,1023 442,1023 497,1019 548,1019 600,1019 662,1016"/>
+        <TextEquiv conf="0.987">
+          <Unicode>žena Modrovousova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="02201d31-1c61-468f-a6d2-6f2bd53b4bfc" index="11" custom="heights_v2:[47.2,18.3]">
+        <Coords points="324,1049 324,1115 450,1115 567,1111 685,1111 803,1111 920,1108 1038,1108 1156,1108 1273,1104 1402,1104 1402,1038 1273,1038 1154,1042 1038,1042 920,1042 801,1046 685,1046 567,1046 448,1049 324,1049"/>
+        <Baseline points="324,1097 449,1097 567,1093 685,1093 802,1093 920,1089 1038,1089 1156,1089 1273,1086 1402,1086"/>
+        <TextEquiv conf="0.993">
+          <Unicode>J. Lacina (Jarka Durdík) sepsal satirický popěvek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b8b1fbf0-04fd-4bdb-8ff7-d9858b6d461d" index="12" custom="heights_v2:[45.1,17.7]">
+        <Coords points="181,1184 181,1192 328,1188 467,1184 607,1184 748,1184 887,1181 1027,1181 1167,1181 1306,1181 1454,1181 1454,1118 1306,1118 1167,1118 1027,1118 887,1118 746,1122 607,1122 467,1122 326,1125 179,1129 181,1184"/>
+        <Baseline points="180,1174 328,1170 467,1167 607,1167 747,1167 887,1163 1027,1163 1167,1163 1306,1163 1454,1163"/>
+        <TextEquiv conf="0.934">
+          <Unicode>na baeramiádu v posl. sněmovně, hudbu složil L. Srovnal,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4f2060eb-fb04-4262-9b9f-21f32c51b578" index="13" custom="heights_v2:[47.4,18.4]">
+        <Coords points="188,1250 190,1266 332,1266 467,1262 604,1262 740,1259 876,1259 1012,1259 1149,1259 1284,1255 1432,1255 1432,1189 1284,1189 1147,1193 1012,1193 876,1193 740,1193 602,1196 467,1196 330,1200 188,1200 188,1250"/>
+        <Baseline points="188,1248 331,1248 467,1244 604,1244 740,1240 876,1240 1012,1240 1148,1240 1284,1237 1432,1237"/>
+        <TextEquiv conf="0.984">
+          <Unicode>člen hudebního kroužku „Rund“. — Vyšlo nákladem A. Zelinky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3254435b-69b5-41f5-b041-c72b7b60d79f" index="14" custom="heights_v2:[47.8,18.0]">
+        <Coords points="199,1345 199,1347 248,1346 287,1343 331,1343 373,1343 412,1339 456,1339 498,1339 550,1335 545,1270 493,1274 456,1273 412,1273 367,1277 331,1277 287,1277 242,1281 199,1281 199,1345"/>
+        <Baseline points="199,1329 247,1329 287,1325 331,1325 372,1325 412,1321 456,1321 497,1321 548,1318"/>
+        <TextEquiv conf="0.992">
+          <Unicode>v Mar. Horách.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f6f63eb9-0166-436f-8535-7650a8895acf" index="15" custom="heights_v2:[48.0,18.4]">
+        <Coords points="335,1347 335,1413 457,1413 574,1410 692,1413 807,1413 924,1410 1041,1410 1156,1410 1273,1410 1398,1410 1398,1343 1273,1343 1156,1343 1041,1343 924,1343 804,1347 692,1347 576,1343 455,1347 335,1347"/>
+        <Baseline points="335,1395 456,1395 574,1391 692,1395 806,1395 924,1391 1041,1391 1156,1391 1273,1391 1398,1391"/>
+        <TextEquiv conf="0.967">
+          <Unicode>Olomoucká opera sehrála G. Pucciniho „Tosca“.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b135b43-527d-4e65-adae-d0c84ac20111" index="16" custom="heights_v2:[46.3,17.7]">
+        <Coords points="202,1477 203,1486 346,1486 482,1482 622,1482 758,1482 898,1482 1034,1482 1174,1482 1310,1482 1457,1482 1457,1482 1457,1418 1310,1418 1174,1418 1034,1418 898,1418 758,1418 622,1418 482,1418 345,1422 202,1422 202,1477"/>
+        <Baseline points="202,1468 346,1468 482,1465 622,1465 758,1465 898,1465 1034,1465 1174,1465 1310,1465 1457,1465"/>
+        <TextEquiv conf="0.984">
+          <Unicode>Text napsali V. Sardon a S. Giacosa, dirigent Karel Nedbal,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aed1f002-3009-43c0-a8c6-d6d4f423b7fa" index="17" custom="heights_v2:[45.4,17.2]">
+        <Coords points="203,1500 209,1563 258,1559 307,1559 350,1555 399,1555 442,1552 489,1552 545,1552 545,1489 489,1489 442,1489 394,1493 350,1493 302,1497 258,1497 203,1500"/>
+        <Baseline points="208,1546 258,1542 305,1542 350,1538 397,1538 442,1535 489,1535 545,1535"/>
+        <TextEquiv conf="0.991">
+          <Unicode>režie B. Vilím</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8a427d96-4017-4443-8cc4-613ccd49abb7" index="18" custom="heights_v2:[46.0,18.1]">
+        <Coords points="342,1559 342,1623 464,1623 582,1623 699,1619 817,1619 931,1619 1048,1619 1167,1623 1284,1623 1410,1623 1410,1559 1284,1559 1167,1559 1050,1555 931,1555 817,1555 699,1555 580,1559 464,1559 342,1559"/>
+        <Baseline points="342,1605 464,1605 581,1605 699,1601 817,1601 931,1601 1049,1601 1167,1605 1284,1605 1410,1605"/>
+        <TextEquiv conf="0.996">
+          <Unicode>V Lučenci na Slovensku zemřel Dr. Jan Kahovec,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2381a2ff-c1ab-47d0-b5d5-b4a77b34af72" index="19" custom="heights_v2:[44.3,17.7]">
+        <Coords points="217,1641 217,1703 358,1703 493,1696 629,1696 765,1696 897,1696 1034,1700 1170,1700 1306,1700 1450,1700 1450,1638 1306,1638 1170,1638 1034,1638 899,1634 765,1634 629,1634 493,1634 355,1641 217,1641"/>
+        <Baseline points="217,1686 357,1686 493,1678 629,1678 765,1678 898,1678 1034,1682 1170,1682 1306,1682 1450,1682"/>
+        <TextEquiv conf="0.991">
+          <Unicode>bývalý prof. zem. hosp. školy v Přerově. Rodilý ze Záluží,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d8ce1459-f672-433e-b143-7104e8b0510b" index="20" custom="heights_v2:[43.8,17.4]">
+        <Coords points="216,1719 215,1780 354,1777 489,1773 626,1773 758,1773 894,1773 1031,1773 1163,1769 1300,1769 1442,1766 1443,1760 1442,1704 1298,1708 1163,1708 1029,1712 894,1712 758,1712 626,1712 489,1712 352,1715 216,1719"/>
+        <Baseline points="215,1763 353,1759 489,1755 626,1755 758,1755 894,1755 1030,1755 1163,1752 1299,1752 1443,1748"/>
+        <TextEquiv conf="1.000">
+          <Unicode>věnoval se středoškolskému učitelství, působil jako profesor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6d3e86fe-03fe-4d65-a51a-83b4b2ff62e7" index="21" custom="heights_v2:[43.5,17.6]">
+        <Coords points="1433,1843 1435,1826 1435,1782 1292,1782 1158,1786 1028,1782 889,1786 757,1789 626,1789 488,1793 356,1797 217,1797 217,1858 357,1858 490,1854 626,1850 759,1850 891,1847 1026,1843 1160,1847 1292,1843 1433,1843"/>
+        <Baseline points="217,1840 357,1840 489,1836 626,1833 758,1833 891,1829 1027,1825 1159,1829 1292,1825 1435,1825"/>
+        <TextEquiv conf="0.998">
+          <Unicode>při českém gymnasiu v Brně. Od r. 1870, když byla zřízena</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0673804c-800c-474b-a846-663a23a740b8" index="22" custom="heights_v2:[43.8,17.3]">
+        <Coords points="214,1870 213,1898 213,1931 354,1931 486,1927 619,1927 751,1924 884,1924 1016,1920 1148,1916 1281,1916 1425,1913 1423,1852 1280,1855 1148,1855 1015,1859 882,1863 751,1863 617,1866 486,1866 352,1870 214,1870"/>
+        <Baseline points="213,1914 353,1914 486,1910 618,1910 751,1906 883,1906 1016,1903 1148,1899 1281,1899 1424,1895"/>
+        <TextEquiv conf="0.999">
+          <Unicode>v Přerově hospodářská škola, působil na této škole</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="144db3b1-1720-4700-9042-70c50516b232" index="23" custom="heights_v2:[44.0,17.4]">
+        <Coords points="217,1943 217,2005 354,2005 483,2001 611,1997 740,1997 869,1997 997,1994 1126,1994 1255,1994 1391,1994 1391,1932 1255,1932 1126,1932 997,1932 867,1936 740,1936 611,1936 481,1940 352,1943 217,1943"/>
+        <Baseline points="217,1987 353,1987 482,1984 611,1980 740,1980 869,1980 997,1976 1126,1976 1255,1976 1391,1976"/>
+        <TextEquiv conf="0.999">
+          <Unicode>přes 30 let. Mimo školu byl veřejně činný. Výborný</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b276e390-98ff-4395-af80-e2b1149da761" index="24" custom="heights_v2:[43.4,17.4]">
+        <Coords points="221,2014 221,2075 365,2075 501,2071 637,2067 773,2067 909,2067 1045,2067 1181,2067 1318,2067 1461,2064 1460,2003 1316,2007 1181,2006 1045,2006 909,2006 773,2006 637,2006 499,2010 363,2014 221,2014"/>
+        <Baseline points="221,2057 364,2057 501,2054 637,2050 773,2050 909,2050 1045,2050 1181,2050 1318,2050 1461,2046"/>
+        <TextEquiv conf="0.999">
+          <Unicode>zpěvák vystupoval při koncertech, mnoho let byl předse-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e7b7a707-be2d-481e-8551-0c3798a06f0f" index="25" custom="heights_v2:[44.1,17.7]">
+        <Coords points="225,2151 225,2152 225,2152 361,2149 494,2145 622,2141 754,2141 883,2141 1016,2141 1145,2141 1277,2141 1417,2138 1416,2076 1276,2079 1145,2079 1016,2079 883,2079 754,2079 622,2079 492,2083 359,2087 223,2090 225,2151"/>
+        <Baseline points="224,2134 361,2131 493,2127 622,2123 754,2123 883,2123 1016,2123 1145,2123 1277,2123 1417,2120"/>
+        <TextEquiv conf="0.984">
+          <Unicode>dou Čtenářského spolku, sbormistrem „Vlasty“ jsa v pensi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9a4003c3-2c8c-4607-a8ad-269d754d3d77" index="26" custom="heights_v2:[43.3,17.5]">
+        <Coords points="225,2157 224,2160 224,2218 368,2218 504,2215 640,2215 777,2215 916,2215 1053,2218 1189,2218 1325,2215 1472,2215 1472,2154 1472,2154 1472,2154 1325,2154 1188,2157 1053,2157 918,2154 777,2154 640,2154 504,2154 367,2157 225,2157"/>
+        <Baseline points="224,2201 368,2201 504,2197 640,2197 777,2197 916,2197 1053,2201 1189,2201 1325,2197 1472,2197"/>
+        <TextEquiv conf="0.999">
+          <Unicode>působil jako přednosta kanceláře v městské spořitelně.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a7bc67b7-d67b-4cb1-b131-5684e3f5a925" index="27" custom="heights_v2:[45.1,18.2]">
+        <Coords points="221,2222 217,2285 217,2285 350,2289 475,2289 600,2289 725,2289 850,2289 975,2293 1100,2293 1226,2293 1358,2289 1357,2226 1224,2229 1100,2229 975,2229 851,2226 725,2226 600,2226 475,2226 350,2226 221,2222"/>
+        <Baseline points="218,2267 350,2271 475,2271 600,2271 725,2271 850,2271 975,2274 1100,2274 1225,2274 1358,2271"/>
+        <TextEquiv conf="0.993">
+          <Unicode>Do Lučence se přestěhoval před 2 lety; dožil se 76 let.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="05014f06-6bf5-4599-9ec6-fcabd5917b01" index="28" custom="heights_v2:[46.5,18.7]">
+        <Coords points="1550,2352 1547,2291 1547,2287 1547,2287 1403,2294 1268,2298 1133,2298 997,2298 864,2301 729,2301 593,2301 456,2301 316,2301 316,2367 456,2367 593,2367 729,2367 865,2367 997,2363 1133,2363 1270,2363 1407,2359 1550,2352"/>
+        <Baseline points="316,2348 456,2348 593,2348 729,2348 865,2348 997,2344 1133,2344 1270,2344 1406,2341 1549,2333"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Československá církev konala přednášku prof. Hrdličky 23.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9668e701-7efa-4f52-ae69-f0aca4e25efd" index="29" custom="heights_v2:[47.6,18.4]">
+        <Coords points="221,2421 222,2451 269,2451 313,2451 357,2451 401,2451 447,2451 498,2447 493,2381 442,2385 401,2385 357,2385 313,2385 269,2385 221,2385 221,2421"/>
+        <Baseline points="221,2433 269,2433 313,2433 357,2433 401,2433 445,2433 497,2429"/>
+        <TextEquiv conf="0.996">
+          <Unicode>z Olomouce.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="44aea247-de94-4ee5-abc5-deb79e77b3d7" index="30" custom="heights_v2:[46.6,18.1]">
+        <Coords points="1539,2502 1539,2502 1537,2458 1536,2438 1396,2445 1265,2449 1133,2449 1000,2452 869,2452 735,2456 604,2456 471,2456 335,2456 335,2521 471,2521 604,2521 737,2521 869,2517 1002,2517 1133,2513 1266,2513 1399,2509 1539,2502"/>
+        <Baseline points="335,2503 471,2503 604,2503 736,2503 869,2499 1001,2499 1133,2495 1266,2495 1398,2491 1538,2484"/>
+        <TextEquiv conf="0.988">
+          <Unicode>Intimní scéna sehrála v Městském domě veselohru 26</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="64cac651-e35f-4fe4-a3db-d44337054133" index="31" custom="heights_v2:[45.6,18.0]">
+        <Coords points="1494,2579 1495,2579 1493,2516 1346,2519 1207,2519 1066,2523 927,2523 786,2527 647,2530 507,2534 368,2534 224,2534 224,2598 368,2598 508,2598 648,2594 788,2590 927,2587 1068,2587 1207,2583 1347,2583 1494,2579"/>
+        <Baseline points="224,2580 368,2580 508,2580 648,2576 788,2572 927,2569 1067,2569 1207,2565 1347,2565 1494,2561"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Molierovu „Lakomec“ ve prospěch Ústředního sboru sociální</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a802c82e-6046-4db0-ae8b-300dd34c4905" index="32" custom="heights_v2:[47.3,18.2]">
+        <Coords points="226,2668 454,2672 479,2672 608,2668 732,2664 858,2664 986,2661 1055,2661 1225,2657 1236,2657 1372,2661 1374,2595 1238,2591 1110,2595 986,2595 856,2599 732,2599 606,2602 477,2606 353,2606 222,2602 220,2668 226,2668"/>
+        <Baseline points="221,2650 353,2653 478,2653 607,2650 732,2646 857,2646 986,2642 1111,2642 1237,2639 1373,2642"/>
+        <TextEquiv conf="0.983">
+          <Unicode>péče. Režii V. Vlček; hlavní úlohu hrál taj. J. Durdík.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="628231d3-6c22-4a28-b17b-5a3a8cc9842a">
+      <Coords points="1538,1257 1457,1257 1457,1314 1538,1314 1538,1257"/>
+      <TextLine id="c210034d-4467-4c3e-82c1-daa820957850" index="0" custom="heights_v2:[42.1,14.6]">
+        <Coords points="1538,1257 1457,1257 1457,1314 1538,1314 1538,1257"/>
+        <Baseline points="1457,1299 1538,1299"/>
+        <TextEquiv conf="0.994">
+          <Unicode>22.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="afd4c81e-d363-4ce8-81a9-e81a04e8b30f">
+      <Coords points="1509,233 1443,233 1443,287 1509,287 1509,233"/>
+      <TextLine id="dd2b8f45-566c-4f3b-ae4a-8fd8e829bc57" index="0" custom="heights_v2:[39.7,14.4]">
+        <Coords points="1509,233 1443,233 1443,287 1509,287 1509,233"/>
+        <Baseline points="1443,272 1509,272"/>
+        <TextEquiv conf="0.994">
+          <Unicode>12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="693a9a0f-6caa-4da4-bde4-05abf17f6846">
+      <Coords points="1490,296 1428,296 1428,349 1490,349 1490,296"/>
+      <TextLine id="7a8a3108-d570-452d-80e7-99c09d126a27" index="0" custom="heights_v2:[38.7,13.8]">
+        <Coords points="1428,296 1428,349 1490,349 1490,296 1428,296"/>
+        <Baseline points="1428,335 1490,335"/>
+        <TextEquiv conf="0.995">
+          <Unicode>14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

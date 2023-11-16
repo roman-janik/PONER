@@ -1,0 +1,106 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:05.145121</Created>
+    <LastChange>2023-03-26T21:22:05.145121</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_003.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="947f5155-5196-4224-b2c0-d3f099dd6eff">
+      <Coords points="1863,26 1818,29 1822,83 1867,80 1863,26"/>
+      <TextLine id="f1111538-524c-474c-9d5d-477d4b02eb16" index="0" custom="heights_v2:[40.1,13.6]">
+        <Coords points="1821,74 1822,83 1867,80 1866,71 1863,26 1818,29 1821,74"/>
+        <Baseline points="1821,69 1866,66"/>
+        <TextEquiv conf="0.205">
+          <Unicode>1.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="ff23f288-bf98-4656-835b-255cf6d754d8">
+      <Coords points="185,877 175,949 186,1239 710,1233 912,1151 1497,1148 1497,1079 1479,1006 1512,843 1512,779 1503,704 1476,628 1468,400 1436,333 397,336 191,421 207,635 185,877"/>
+      <TextLine id="f2297600-6ad3-4b6c-b4c6-3599c8240d01" index="0" custom="heights_v2:[44.7,18.9]">
+        <Coords points="1212,334 1057,334 971,336 858,336 743,339 630,339 516,339 397,336 396,400 516,403 630,403 744,403 858,400 972,400 1086,397 1200,397 1314,400 1437,397 1436,333 1313,336 1212,334"/>
+        <Baseline points="396,381 516,384 630,384 744,384 858,381 972,381 1086,378 1200,378 1314,381 1437,378"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Usnesením městské rady dne 6. června 1922</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="53163457-d113-49ee-ac9c-09a59393bc73" index="1" custom="heights_v2:[43.7,18.8]">
+        <Coords points="1470,463 1468,400 1321,406 1182,406 1041,406 899,409 758,412 617,415 476,418 336,418 191,421 191,423 196,484 336,481 477,481 618,478 759,475 900,472 1041,469 1182,469 1324,469 1470,463"/>
+        <Baseline points="194,465 336,462 477,462 618,459 759,456 900,453 1041,450 1182,450 1323,450 1470,444"/>
+        <TextEquiv conf="0.997">
+          <Unicode>byl jsem já, Ph. dr. Edvard Kvasnička, městský knihovník</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f2f5cdfc-c93f-4768-8c40-fb5bb139aaa0" index="2" custom="heights_v2:[44.6,19.9]">
+        <Coords points="1473,537 1471,483 1327,480 1185,480 1044,480 902,483 765,483 624,483 482,486 341,489 197,492 197,506 201,557 342,554 483,551 624,548 765,548 903,548 1044,545 1185,545 1326,545 1473,548 1473,537"/>
+        <Baseline points="200,537 342,534 483,531 624,528 765,528 903,528 1044,525 1185,525 1326,525 1472,528"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Masarykovy městské knihovny v Přerově, ustanoven kroni-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="897c9253-84a8-4d3e-acde-61cee113223f" index="3" custom="heights_v2:[44.6,20.1]">
+        <Coords points="207,635 207,635 276,635 339,635 406,635 469,632 531,629 598,629 660,626 723,626 795,626 795,561 723,561 660,561 595,564 531,564 466,567 403,570 339,570 276,570 207,570 207,635"/>
+        <Baseline points="207,615 276,615 339,615 405,615 468,612 531,609 597,609 660,606 723,606 795,606"/>
+        <TextEquiv conf="0.998">
+          <Unicode>kářem města Přerova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9a098174-19b9-4a8b-8fe7-75534b1276e2" index="4" custom="heights_v2:[44.3,20.2]">
+        <Coords points="1476,628 1476,628 1350,628 1232,631 1116,631 998,634 883,631 764,634 648,634 530,637 407,640 408,704 532,701 648,698 766,698 881,695 1000,698 1116,695 1234,695 1350,692 1476,692 1476,628"/>
+        <Baseline points="408,684 531,681 648,678 765,678 882,675 999,678 1116,675 1233,675 1350,672 1476,672"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Členy letopisecké komise tvoří starosta a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3284025b-14a6-4a6a-94dc-b7156ad85122" index="5" custom="heights_v2:[43.2,20.4]">
+        <Coords points="1503,704 1503,704 1353,704 1208,707 1065,707 920,710 776,713 632,716 488,719 344,722 199,722 198,734 198,785 345,785 489,782 633,779 777,776 921,773 1065,770 1209,770 1353,767 1503,767 1503,704"/>
+        <Baseline points="198,765 345,765 489,762 633,759 777,756 921,753 1065,750 1209,750 1353,747 1503,747"/>
+        <TextEquiv conf="0.999">
+          <Unicode>dva občané, jmenovaní obecním zastupitelstvem. Za</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a03865e-fb39-4a22-b8d5-fa8f84ec7d28" index="6" custom="heights_v2:[43.2,20.7]">
+        <Coords points="1512,843 1512,779 1512,779 1359,779 1211,782 1068,782 920,785 777,785 630,785 484,791 337,797 192,797 189,833 189,861 340,861 487,855 630,849 777,849 921,849 1068,846 1212,846 1359,843 1512,843"/>
+        <Baseline points="189,840 339,840 486,834 630,828 777,828 921,828 1068,825 1212,825 1359,822 1512,822"/>
+        <TextEquiv conf="0.999">
+          <Unicode>její členy byli jmenováni obecním zastupitelstvem ve schůz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="41eb80af-a889-4417-abbb-c864a329dcd1" index="7" custom="heights_v2:[44.1,21.3]">
+        <Coords points="1497,918 1500,902 1499,853 1346,856 1203,856 1058,859 914,862 768,862 623,865 479,868 334,874 185,877 186,942 337,939 480,933 624,930 768,927 915,927 1059,924 1203,921 1347,921 1497,918"/>
+        <Baseline points="186,921 336,918 480,912 624,909 768,906 915,906 1059,903 1203,900 1347,900 1500,897"/>
+        <TextEquiv conf="0.993">
+          <Unicode>zi dne 1. července 1922 pp. PhMr Vítězslav Nečas, lékár-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="62f3aac0-b9df-4a90-989f-169e149d0e47" index="8" custom="heights_v2:[44.0,21.4]">
+        <Coords points="175,949 178,1014 321,1008 459,1005 597,1002 735,999 873,999 1011,999 1149,1002 1287,999 1431,999 1431,934 1287,934 1148,937 1012,934 873,934 735,934 596,937 458,940 320,943 175,949"/>
+        <Baseline points="177,993 321,987 459,984 597,981 735,978 873,978 1011,978 1149,981 1287,978 1431,978"/>
+        <TextEquiv conf="0.998">
+          <Unicode>ník, a Rudolf Vanýsek, odborný učitel, předsedou je</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="344dce1d-84b6-4f96-a620-0ae0328ac82e" index="9" custom="heights_v2:[44.3,22.2]">
+        <Coords points="1479,1006 1479,1006 1329,1006 1184,1009 1045,1006 900,1006 759,1006 615,1006 473,1009 327,1018 182,1021 183,1087 331,1084 474,1075 615,1072 759,1072 900,1072 1044,1072 1185,1075 1329,1072 1479,1072 1479,1006"/>
+        <Baseline points="183,1065 330,1062 474,1053 615,1050 759,1050 900,1050 1044,1050 1185,1053 1329,1050 1479,1050"/>
+        <TextEquiv conf="0.997">
+          <Unicode>starosta inž. Josef Vdolek. Od roku 1923 po svém zvolení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7dfe29fd-17cd-4d26-9f3b-b45fd706b1e3" index="10" custom="heights_v2:[46.0,23.5]">
+        <Coords points="911,1151 912,1151 1133,1150 1200,1148 1344,1148 1404,1148 1497,1148 1497,1079 1497,1079 1344,1079 1200,1079 1055,1082 912,1082 765,1082 620,1085 476,1088 331,1094 182,1097 183,1166 334,1163 477,1157 621,1154 765,1151 911,1151"/>
+        <Baseline points="183,1143 333,1140 477,1134 621,1131 765,1128 912,1128 1056,1128 1200,1125 1344,1125 1497,1125"/>
+        <TextEquiv conf="0.994">
+          <Unicode>za starostu Phdr. Karel Bořecký, profesor vyššího reálného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e2083763-d797-4ca8-a0d3-79a3c4b25782" index="11" custom="heights_v2:[43.6,21.4]">
+        <Coords points="186,1239 276,1238 306,1236 364,1236 420,1233 478,1233 534,1230 591,1230 647,1230 704,1233 710,1233 713,1168 650,1165 591,1165 534,1165 475,1168 420,1168 361,1171 306,1171 247,1174 186,1174 186,1239"/>
+        <Baseline points="186,1218 249,1218 306,1215 363,1215 420,1212 477,1212 534,1209 591,1209 648,1209 711,1212"/>
+        <TextEquiv conf="0.991">
+          <Unicode>gymnasia v Přerově.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

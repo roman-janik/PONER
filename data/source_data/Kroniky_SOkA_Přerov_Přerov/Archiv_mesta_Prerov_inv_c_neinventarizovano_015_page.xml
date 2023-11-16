@@ -1,0 +1,253 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:15.245240</Created>
+    <LastChange>2023-03-26T21:22:15.245240</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_015.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="a91c42c3-860d-4780-b0a1-cc6b53c99347">
+      <Coords points="1870,52 1774,52 1774,113 1870,113 1870,52"/>
+      <TextLine id="04161d59-e18c-4fb5-8dcb-0d6d7d1f293f" index="0" custom="heights_v2:[47.7,14.1]">
+        <Coords points="1870,52 1774,52 1774,113 1870,113 1870,52"/>
+        <Baseline points="1774,99 1870,99"/>
+        <TextEquiv conf="0.985">
+          <Unicode>13</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="bd5b0b95-bd2b-425d-87a1-07567146feca">
+      <Coords points="375,275 222,282 243,927 234,1536 247,1907 230,2352 236,2711 1550,2682 1556,2473 1590,2380 1572,2092 1583,2026 1580,1899 1553,1798 1561,1643 1556,1510 1561,1272 1552,997 1519,921 1511,844 1542,760 1535,465 1553,392 1548,267 375,275"/>
+      <TextLine id="72dc0374-bb9b-4eb6-aad8-cd692c6b1bcd" index="0" custom="heights_v2:[41.8,16.4]">
+        <Coords points="375,275 277,279 222,282 225,340 375,333 523,333 666,329 813,329 957,329 1104,329 1248,329 1395,329 1550,326 1549,288 1548,267 1394,271 1248,271 1104,271 957,271 956,271 561,274 522,275 416,275 375,275"/>
+        <Baseline points="224,324 375,316 523,316 666,313 813,313 957,313 1104,313 1248,313 1395,313 1549,309"/>
+        <TextEquiv conf="0.998">
+          <Unicode>funkci skončila r. 1920. Své jmění, z něhož nejcennější byl vel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e1ec8f51-8bb7-4e15-af26-f572373f5d03" index="1" custom="heights_v2:[42.2,16.5]">
+        <Coords points="225,363 227,421 376,418 523,410 670,407 813,403 961,403 1108,403 1252,399 1399,396 1553,392 1551,333 1397,337 1250,341 1107,344 961,344 813,344 669,348 522,352 373,359 225,363"/>
+        <Baseline points="226,405 375,401 523,394 670,390 813,386 961,386 1108,386 1251,383 1398,379 1552,375"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ký klavír, odevzdala Čtenářskému spolku. V r. 1919 založen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="71400d74-604c-4168-a721-caf78e3f5061" index="2" custom="heights_v2:[42.6,16.3]">
+        <Coords points="227,432 228,481 229,491 379,484 523,484 667,476 810,473 953,473 1097,473 1241,473 1384,469 1535,465 1535,465 1535,465 1534,406 1383,410 1239,414 1097,414 953,414 810,414 665,417 520,425 379,425 227,432"/>
+        <Baseline points="228,475 379,467 523,467 666,460 810,456 953,456 1097,456 1240,456 1384,453 1535,449"/>
+        <TextEquiv conf="0.998">
+          <Unicode>ním obecní knihovny pozbyl svého bývalého významu; svou spolu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6487df2c-43af-450c-90de-f855643ff58a" index="3" custom="heights_v2:[44.3,16.8]">
+        <Coords points="232,497 232,558 376,558 512,554 652,554 788,550 924,550 1064,550 1200,550 1336,550 1484,547 1482,486 1335,489 1200,489 1064,489 924,489 788,489 650,493 512,493 374,497 232,497"/>
+        <Baseline points="232,541 375,541 512,537 651,537 788,534 924,534 1064,534 1200,534 1336,534 1483,530"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kovou knihovnu a veřejnou knihovnu odevzdal Masarykově</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a95fb65b-cf15-4ae0-b54b-6d4e553fed0f" index="4" custom="heights_v2:[45.5,17.4]">
+        <Coords points="232,577 237,639 283,636 325,636 368,632 410,632 453,628 493,628 539,628 578,625 629,625 629,562 578,562 533,566 493,565 453,565 405,569 368,569 320,573 283,573 232,577"/>
+        <Baseline points="236,622 283,618 324,618 368,615 408,615 453,611 493,611 537,611 578,607 629,607"/>
+        <TextEquiv conf="0.999">
+          <Unicode>městské knihovně.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f05b61b0-d4b4-46e7-a93e-0e25f5397489" index="5" custom="heights_v2:[44.9,18.7]">
+        <Coords points="436,636 439,700 515,696 584,696 656,700 724,696 795,700 865,700 935,700 1005,700 1082,700 1082,636 1005,636 935,636 865,636 795,636 727,632 653,636 588,632 515,632 436,636"/>
+        <Baseline points="438,681 515,677 585,677 655,681 725,677 795,681 865,681 935,681 1005,681 1082,681"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Státní reálné gymnasium.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="08997918-05f7-4fba-af37-695651cd7464" index="6" custom="heights_v2:[42.9,16.7]">
+        <Coords points="1542,760 1542,760 1542,760 1541,700 1413,700 1290,704 1170,704 1048,708 926,712 806,712 683,715 564,712 434,712 434,771 563,771 685,775 806,771 928,771 1049,767 1170,764 1292,764 1413,760 1542,760"/>
+        <Baseline points="434,754 563,754 685,758 806,754 927,754 1049,751 1170,747 1292,747 1413,743 1542,743"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Pokus o založení české střední školy byl učiněn již</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1a9bfb24-f531-4631-b5b7-cc6a2edc71cc" index="7" custom="heights_v2:[42.9,17.7]">
+        <Coords points="239,792 241,853 383,849 524,849 662,842 803,842 942,838 1082,842 1222,842 1362,838 1513,835 1512,774 1361,778 1221,781 1082,781 943,778 801,781 662,781 520,789 383,789 239,792"/>
+        <Baseline points="240,835 383,832 523,832 662,824 802,824 942,821 1082,824 1222,824 1362,821 1513,817"/>
+        <TextEquiv conf="0.999">
+          <Unicode>r. 1866 za starostenství Františka Kramáře, ale vyzněl na-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e3583c5d-c926-4467-bdff-3b54bf2b08e4" index="8" custom="heights_v2:[43.1,17.6]">
+        <Coords points="243,924 243,927 387,927 527,923 666,919 806,919 946,916 1086,916 1226,912 1366,908 1513,904 1512,850 1511,844 1511,844 1364,848 1224,851 1085,855 946,855 805,859 666,859 525,862 385,866 243,866 243,924"/>
+        <Baseline points="243,909 386,909 526,905 666,902 806,902 946,898 1086,898 1225,894 1365,891 1513,887"/>
+        <TextEquiv conf="0.999">
+          <Unicode>prázdno. Teprve na počátku r. 1870 P. Ignác Wurm</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="51a9f39e-f5f3-4058-b0aa-ec4bb0fdbc6a" index="9" custom="heights_v2:[43.7,18.6]">
+        <Coords points="243,935 243,997 391,997 530,994 670,990 810,990 950,990 1089,986 1229,986 1369,986 1520,983 1519,921 1368,924 1229,924 1089,924 948,928 810,928 670,928 529,932 389,935 243,935"/>
+        <Baseline points="243,979 390,979 530,975 670,972 810,972 949,972 1089,968 1229,968 1369,968 1520,964"/>
+        <TextEquiv conf="0.998">
+          <Unicode>a Jakub Škoda, profesor v Olomouci, probudili v roz-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="41932830-d8ad-4620-a039-9812e53b6dd0" index="10" custom="heights_v2:[44.1,18.2]">
+        <Coords points="242,1016 243,1078 394,1074 537,1071 681,1071 824,1067 968,1067 1111,1067 1255,1067 1399,1063 1553,1060 1552,997 1397,1001 1254,1005 1111,1005 968,1005 824,1005 680,1008 537,1008 393,1012 242,1016"/>
+        <Baseline points="243,1060 394,1056 537,1053 681,1053 824,1049 968,1049 1111,1049 1255,1049 1398,1045 1553,1041"/>
+        <TextEquiv conf="0.999">
+          <Unicode>hodujících činiteléch přerovských, v P. Vychodilovi, faráři,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fbdc5e6d-4f15-4b52-a1fe-f88ca37fc1f6" index="11" custom="heights_v2:[43.2,17.7]">
+        <Coords points="241,1090 240,1151 383,1147 519,1144 655,1144 792,1144 928,1140 1064,1136 1200,1136 1336,1136 1483,1136 1483,1076 1336,1076 1200,1076 1064,1076 926,1079 790,1083 655,1083 519,1083 382,1087 241,1090"/>
+        <Baseline points="240,1133 383,1130 519,1126 655,1126 791,1126 927,1122 1064,1119 1200,1119 1336,1119 1483,1119"/>
+        <TextEquiv conf="0.995">
+          <Unicode>z P. Ouředníčkovi, kaplanu, a v starostovi Dostalovi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1ccbecc7-ef69-4be1-88d0-0e7bfd9ddf0c" index="12" custom="heights_v2:[43.8,17.2]">
+        <Coords points="246,1163 247,1224 398,1221 541,1213 685,1210 828,1210 972,1210 1115,1206 1259,1206 1403,1206 1553,1202 1552,1141 1401,1145 1259,1145 1115,1145 970,1149 828,1149 685,1149 540,1152 395,1160 246,1163"/>
+        <Baseline points="247,1207 397,1203 541,1196 685,1192 828,1192 972,1192 1115,1189 1259,1189 1402,1189 1553,1185"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zájem o zřízení české střední školy. Vypracovanou žá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aed0992f-f70b-4c00-bdd0-90b1d95a0543" index="13" custom="heights_v2:[44.0,17.5]">
+        <Coords points="238,1237 238,1244 240,1298 391,1295 534,1291 681,1287 824,1284 972,1284 1116,1283 1262,1280 1407,1280 1561,1272 1561,1272 1561,1258 1558,1211 1404,1218 1262,1218 1114,1222 972,1222 824,1222 680,1226 533,1229 389,1233 238,1237"/>
+        <Baseline points="239,1281 390,1277 534,1273 681,1270 824,1266 972,1266 1115,1266 1262,1262 1406,1262 1560,1255"/>
+        <TextEquiv conf="0.996">
+          <Unicode>dost podal P. Ignác Wurm ministerstvu kultu a vyučo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="583c7ec4-3d31-4f6a-8e9e-9f07d4a66c74" index="14" custom="heights_v2:[44.2,17.2]">
+        <Coords points="243,1306 243,1368 394,1368 537,1364 681,1364 825,1364 972,1361 1116,1361 1259,1357 1403,1357 1557,1353 1556,1292 1401,1295 1259,1295 1114,1299 972,1299 823,1303 681,1303 537,1303 393,1306 243,1306"/>
+        <Baseline points="243,1351 394,1351 537,1347 681,1347 824,1347 972,1343 1115,1343 1259,1340 1402,1340 1557,1336"/>
+        <TextEquiv conf="0.999">
+          <Unicode>vání ve Vídni a vymohl, že za několik dní minister-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="63da507a-3c7e-49b3-bf22-35f5110d62ad" index="15" custom="heights_v2:[43.9,16.9]">
+        <Coords points="236,1380 236,1432 236,1441 383,1441 523,1437 663,1437 802,1434 946,1434 1086,1430 1226,1430 1365,1426 1516,1426 1516,1366 1365,1366 1224,1369 1086,1369 945,1373 802,1373 661,1377 523,1377 382,1380 236,1380"/>
+        <Baseline points="236,1424 383,1424 523,1421 662,1421 802,1417 946,1417 1086,1413 1225,1413 1365,1410 1516,1410"/>
+        <TextEquiv conf="0.999">
+          <Unicode>stvo dalo svolení ke zřízení českého nižšího reálného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="91d9a078-724f-40e0-9598-912a4bbd0c89" index="16" custom="heights_v2:[43.2,16.7]">
+        <Coords points="239,1458 239,1518 387,1518 526,1515 670,1515 810,1511 949,1507 1093,1507 1233,1504 1373,1503 1524,1500 1523,1440 1372,1444 1233,1444 1092,1447 949,1447 808,1451 669,1455 526,1455 385,1458 239,1458"/>
+        <Baseline points="239,1502 386,1502 526,1498 670,1498 810,1494 949,1490 1093,1490 1233,1487 1373,1487 1524,1483"/>
+        <TextEquiv conf="0.992">
+          <Unicode>gymnasia počátkem školního roku 1870-71. Gymna-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="32a9ecf4-47be-4122-9774-95c96d93ac03" index="17" custom="heights_v2:[43.0,16.8]">
+        <Coords points="236,1582 236,1596 387,1592 530,1588 678,1585 821,1581 968,1581 1112,1581 1259,1577 1403,1574 1557,1570 1556,1510 1401,1514 1258,1517 1110,1521 968,1521 821,1521 676,1525 529,1528 385,1532 234,1536 236,1582"/>
+        <Baseline points="236,1579 386,1575 530,1571 677,1568 821,1564 968,1564 1111,1564 1259,1560 1402,1557 1557,1553"/>
+        <TextEquiv conf="0.999">
+          <Unicode>sium zřídila obec svým nákladem; prvním jeho ře-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8b653eb9-aa72-429e-8257-d4a72da34d29" index="18" custom="heights_v2:[43.7,16.5]">
+        <Coords points="1560,1627 1559,1583 1405,1587 1261,1590 1115,1590 972,1590 824,1590 680,1594 533,1598 389,1601 237,1609 240,1669 391,1662 534,1658 681,1654 824,1651 972,1651 1115,1651 1263,1651 1406,1647 1561,1643 1560,1627"/>
+        <Baseline points="239,1652 390,1645 534,1641 681,1638 824,1634 972,1634 1115,1634 1262,1634 1406,1630 1560,1627"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ditelem byl Jakub Škoda, dotavadní profesor při</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8c60a8e0-a417-430a-a88e-1ac0bae244d3" index="19" custom="heights_v2:[43.9,16.9]">
+        <Coords points="242,1678 243,1739 394,1736 538,1732 681,1728 824,1728 968,1728 1111,1724 1255,1724 1398,1721 1553,1721 1553,1660 1398,1660 1254,1664 1111,1664 967,1667 824,1667 681,1667 536,1671 393,1675 242,1678"/>
+        <Baseline points="243,1722 394,1719 537,1715 681,1711 824,1711 968,1711 1111,1708 1255,1708 1398,1704 1553,1704"/>
+        <TextEquiv conf="0.999">
+          <Unicode>slovanském gymnasiu v Olomouci. V květnu roku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="dd87be61-d8cf-4d54-92e5-bac67a83aae0" index="20" custom="heights_v2:[43.7,17.1]">
+        <Coords points="243,1790 244,1817 394,1817 538,1813 681,1809 824,1806 968,1806 1111,1806 1255,1806 1399,1802 1553,1798 1553,1798 1553,1792 1552,1737 1397,1741 1254,1745 1111,1745 968,1745 824,1745 680,1749 536,1752 393,1756 243,1756 243,1790"/>
+        <Baseline points="243,1800 394,1800 537,1796 681,1792 824,1789 968,1789 1111,1789 1255,1789 1398,1785 1553,1781"/>
+        <TextEquiv conf="1.000">
+          <Unicode>následujícího bylo gymnasium vzato do státní správy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9ee07f07-5803-41ac-8152-1dd92c7a72db" index="21" custom="heights_v2:[44.0,17.1]">
+        <Coords points="244,1829 246,1890 387,1890 526,1887 666,1887 806,1887 946,1887 1086,1883 1226,1879 1366,1876 1513,1872 1511,1811 1364,1814 1224,1818 1084,1822 945,1826 806,1826 666,1826 526,1826 385,1829 244,1829"/>
+        <Baseline points="246,1873 386,1873 526,1870 666,1870 806,1870 946,1870 1086,1866 1225,1862 1365,1858 1513,1855"/>
+        <TextEquiv conf="0.998">
+          <Unicode>V červnu 1876 po dlouhých průtazích bylo povoleno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a8e8414-7544-4dc4-a133-6bce37581a86" index="22" custom="heights_v2:[43.7,17.1]">
+        <Coords points="247,1907 247,1907 247,1918 247,1968 398,1968 545,1964 692,1964 840,1960 983,1957 1130,1957 1277,1957 1424,1957 1578,1960 1580,1899 1425,1896 1277,1896 1130,1896 983,1896 838,1899 691,1903 545,1903 396,1907 247,1907"/>
+        <Baseline points="247,1950 397,1950 545,1947 692,1947 839,1943 983,1939 1130,1939 1277,1939 1424,1939 1579,1943"/>
+        <TextEquiv conf="0.996">
+          <Unicode>vyšší gymnasium a reálka. Na obec dolehla sta-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eedaa44d-3a8d-4d73-80a7-fcb163324234" index="23" custom="heights_v2:[43.6,16.7]">
+        <Coords points="244,1988 243,2024 244,2048 397,2041 545,2041 692,2037 839,2037 987,2033 1133,2030 1281,2030 1428,2030 1583,2026 1581,1966 1427,1969 1281,1969 1133,1969 985,1973 838,1977 692,1977 544,1981 397,1981 244,1988"/>
+        <Baseline points="243,2031 397,2024 545,2024 692,2020 839,2020 986,2017 1133,2013 1281,2013 1428,2013 1582,2009"/>
+        <TextEquiv conf="0.999">
+          <Unicode>rost o vhodnou budovu pro ústav. Vypracováním</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f4f98fcc-0d3c-4eb0-87aa-daf3daac6f67" index="24" custom="heights_v2:[42.9,16.8]">
+        <Coords points="1572,2092 1572,2092 1572,2091 1569,2033 1415,2040 1270,2040 1126,2040 978,2044 831,2047 688,2047 540,2051 393,2055 242,2058 243,2118 394,2115 541,2111 688,2107 832,2107 979,2103 1126,2100 1270,2100 1418,2100 1572,2092"/>
+        <Baseline points="243,2101 394,2098 541,2094 688,2090 832,2090 979,2087 1126,2083 1270,2083 1417,2083 1571,2076"/>
+        <TextEquiv conf="1.000">
+          <Unicode>plánů byl pověřen architekt Antonín Gruška ve Víd-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3fdac9df-5ca3-4859-b638-e7a657941b1b" index="25" custom="heights_v2:[43.2,17.1]">
+        <Coords points="238,2132 236,2192 383,2188 527,2185 671,2181 813,2174 957,2174 1100,2170 1244,2170 1388,2166 1539,2163 1537,2102 1386,2106 1243,2110 1100,2110 956,2113 813,2113 668,2121 525,2124 382,2128 238,2132"/>
+        <Baseline points="237,2175 383,2171 526,2168 670,2164 813,2157 957,2157 1100,2153 1244,2153 1387,2149 1538,2146"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ni, pocházející z Valašského Meziříčí. Stavbu budovy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ae4dcf45-4a49-476e-97f2-d7bc9243970f" index="26" custom="heights_v2:[43.6,17.5]">
+        <Coords points="1581,2240 1577,2179 1423,2183 1277,2183 1130,2183 982,2187 834,2190 687,2194 541,2194 394,2194 238,2198 240,2259 394,2255 541,2255 689,2255 836,2251 983,2248 1130,2244 1277,2244 1425,2244 1581,2240"/>
+        <Baseline points="239,2241 394,2238 541,2238 688,2238 835,2234 983,2230 1130,2227 1277,2227 1424,2227 1580,2223"/>
+        <TextEquiv conf="0.998">
+          <Unicode>prováděli stavitelé Ondřej Ginter a Vilém Žák a do-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b56a17c8-3d71-4753-8944-7bc2499c5526" index="27" custom="heights_v2:[43.8,17.1]">
+        <Coords points="233,2278 232,2304 232,2339 387,2339 534,2336 681,2328 829,2325 979,2317 1126,2317 1274,2317 1421,2314 1579,2310 1578,2249 1420,2253 1272,2256 1126,2256 979,2256 826,2264 680,2267 531,2275 385,2278 233,2278"/>
+        <Baseline points="232,2322 386,2322 534,2319 681,2311 828,2307 979,2300 1126,2300 1273,2300 1421,2296 1579,2293"/>
+        <TextEquiv conf="0.999">
+          <Unicode>končili ji v listopadu 1877. Náklad na stavbu či-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="41040c02-3f0a-479e-b0e2-89e303ab146e" index="28" custom="heights_v2:[43.7,17.5]">
+        <Coords points="230,2352 230,2360 233,2413 387,2406 538,2402 685,2395 835,2388 983,2388 1134,2388 1281,2384 1432,2384 1590,2380 1590,2380 1586,2319 1431,2323 1281,2323 1132,2326 983,2326 835,2326 682,2334 535,2341 385,2345 230,2352"/>
+        <Baseline points="232,2396 386,2388 537,2385 685,2377 835,2370 983,2370 1133,2370 1281,2366 1432,2366 1589,2363"/>
+        <TextEquiv conf="0.994">
+          <Unicode>nil 125.000 zl. r. č. Tímto zabezpečením byl zaru-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6b2897fe-16a6-403a-bb8a-60bade9bdc49" index="29" custom="heights_v2:[44.3,17.5]">
+        <Coords points="238,2421 240,2483 386,2480 530,2480 674,2480 817,2476 957,2476 1100,2472 1244,2472 1388,2468 1539,2461 1536,2399 1385,2407 1243,2410 1100,2410 956,2414 817,2414 672,2418 530,2418 386,2418 238,2421"/>
+        <Baseline points="239,2466 386,2462 530,2462 673,2462 817,2458 957,2458 1100,2455 1244,2455 1387,2451 1538,2444"/>
+        <TextEquiv conf="0.998">
+          <Unicode>čen významnému ústavu střední Moravy klidný</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7bfbacb3-3d01-4c16-83ce-ecc00819453d" index="30" custom="heights_v2:[43.8,17.7]">
+        <Coords points="1554,2535 1556,2480 1556,2473 1401,2477 1257,2481 1110,2484 967,2488 821,2488 675,2496 530,2496 386,2496 234,2499 236,2561 386,2557 530,2557 678,2557 821,2550 968,2550 1112,2546 1259,2542 1403,2539 1554,2535"/>
+        <Baseline points="236,2543 386,2539 530,2539 677,2539 821,2532 968,2532 1111,2528 1259,2525 1402,2521 1555,2517"/>
+        <TextEquiv conf="0.999">
+          <Unicode>rozvoj v budoucích letech. Na pařížské výstavě světové</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c100f54d-1197-4a66-843f-b751d8e28b03" index="31" custom="heights_v2:[43.3,17.5]">
+        <Coords points="234,2577 236,2638 383,2634 527,2630 670,2627 814,2627 953,2623 1097,2623 1241,2619 1384,2616 1535,2612 1534,2551 1383,2555 1239,2559 1096,2562 953,2562 812,2566 670,2566 525,2570 382,2573 234,2577"/>
+        <Baseline points="236,2620 383,2617 526,2613 670,2609 813,2609 953,2606 1097,2606 1240,2602 1384,2598 1535,2595"/>
+        <TextEquiv conf="0.998">
+          <Unicode>r. 1878 byly plány budovy gymnasijní poctěny di-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="624fe191-b407-41e2-9690-62d8d4bc8676" index="32" custom="heights_v2:[43.7,17.6]">
+        <Coords points="235,2650 236,2711 427,2707 530,2704 674,2700 817,2697 965,2693 1108,2689 1251,2686 1381,2686 1550,2682 1548,2621 1394,2624 1251,2624 1107,2628 963,2632 816,2635 672,2639 529,2643 385,2646 235,2650"/>
+        <Baseline points="236,2694 386,2690 530,2687 673,2683 817,2679 964,2675 1108,2672 1251,2668 1395,2668 1549,2664"/>
+        <TextEquiv conf="0.998">
+          <Unicode>plomem zlaté medaile. Po Škodovi spravoval ústav</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

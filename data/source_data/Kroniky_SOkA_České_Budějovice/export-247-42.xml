@@ -1,0 +1,248 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:12:18.803265+00:00</Created>
+    <LastChange>2023-02-07T20:12:18.803265+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-247-42" imageWidth="1913" imageHeight="1585">
+    <TextRegion id="r000">
+      <Coords points="35,92 32,169 63,207 159,198 190,158 182,81 35,92"/>
+      <TextLine id="r000-l004" index="0" custom="heights_v2:[25.8,11.4]">
+        <Coords points="35,93 84,90 131,84 182,81 184,118 133,121 89,127 37,130"/>
+        <Baseline points="37,118 87,116 132,110 183,107"/>
+        <TextEquiv conf="0.866">
+          <Unicode>Besignaro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="1" custom="heights_v2:[26.5,11.7]">
+        <Coords points="31,131 71,129 108,126 145,123 187,120 189,158 147,161 111,164 74,167 33,169"/>
+        <Baseline points="32,158 73,155 110,152 147,149 188,147"/>
+        <TextEquiv conf="0.257">
+          <Unicode>promistra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="2" custom="heights_v2:[26.0,12.1]">
+        <Coords points="60,168 107,166 155,160 159,198 111,204 63,206"/>
+        <Baseline points="62,194 110,192 158,186"/>
+        <TextEquiv conf="0.690">
+          <Unicode>Warky</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="71,247 32,250 34,392 161,389 187,353 186,241 71,247"/>
+      <TextLine id="r001-l012" index="0" custom="heights_v2:[29.6,13.3]">
+        <Coords points="32,249 71,247 107,244 144,241 186,241 186,284 144,284 111,287 74,289 35,292"/>
+        <Baseline points="34,279 73,276 110,273 144,271 186,271"/>
+        <TextEquiv conf="0.255">
+          <Unicode>R. Wache</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="1" custom="heights_v2:[24.9,11.1]">
+        <Coords points="32,294 83,291 134,288 136,324 85,327 34,330"/>
+        <Baseline points="34,318 85,316 135,313"/>
+        <TextEquiv conf="0.597">
+          <Unicode>cesty</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="2" custom="heights_v2:[25.0,11.6]">
+        <Coords points="44,322 93,319 134,319 185,316 187,353 136,355 93,355 46,358"/>
+        <Baseline points="45,347 93,344 135,344 186,341"/>
+        <TextEquiv conf="0.464">
+          <Unicode>městu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="3" custom="heights_v2:[25.9,11.3]">
+        <Coords points="34,355 74,355 116,352 161,352 161,389 116,389 77,392 34,392"/>
+        <Baseline points="34,380 76,380 116,378 161,378"/>
+        <TextEquiv conf="0.412">
+          <Unicode>11/3 1819</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="82,689 194,689 194,579 45,582 41,687 82,689"/>
+      <TextLine id="r002-l027" index="0" custom="heights_v2:[28.1,12.0]">
+        <Coords points="45,583 85,583 116,583 152,581 194,581 194,621 152,621 119,623 85,623 45,623"/>
+        <Baseline points="45,611 85,611 118,611 152,609 194,609"/>
+        <TextEquiv conf="0.335">
+          <Unicode>Purkmistr m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l029" index="1" custom="heights_v2:[25.3,11.9]">
+        <Coords points="45,614 101,614 158,614 158,652 101,652 45,652"/>
+        <Baseline points="45,640 101,640 158,640"/>
+        <TextEquiv conf="0.934">
+          <Unicode>zvolený</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l030" index="2" custom="heights_v2:[29.4,13.1]">
+        <Coords points="44,644 82,647 118,647 152,647 194,647 194,689 152,689 118,689 82,689 41,687"/>
+        <Baseline points="42,673 82,676 118,676 152,676 194,676"/>
+        <TextEquiv conf="0.520">
+          <Unicode>Jos. Schehl</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="118,35 67,41 72,82 176,71 172,29 118,35"/>
+      <TextLine id="r003-l002" index="0" custom="heights_v2:[29.1,11.7]">
+        <Coords points="67,41 118,36 172,30 176,71 122,76 72,82"/>
+        <Baseline points="70,70 121,65 175,59"/>
+        <TextEquiv conf="0.340">
+          <Unicode>1896.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="198,508 206,720 510,714 583,671 891,662 910,598 910,560 943,456 946,418 927,381 925,30 527,25 208,36 198,508"/>
+      <TextLine id="r004-l001" index="0" custom="heights_v2:[28.3,11.8]">
+        <Coords points="208,36 289,34 368,31 447,28 527,25 603,25 682,25 762,25 841,28 925,31 924,71 839,68 760,65 682,65 603,65 527,65 448,68 370,71 291,74 209,77"/>
+        <Baseline points="209,65 290,62 369,59 448,56 527,54 603,54 682,54 761,54 840,56 924,59"/>
+        <TextEquiv conf="0.503">
+          <Unicode>Na žádost pana Rudolfa Kacky zahradního</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l003" index="1" custom="heights_v2:[27.0,11.3]">
+        <Coords points="204,77 286,72 364,69 445,63 521,63 600,63 679,63 755,63 834,63 919,63 919,101 834,101 755,101 679,101 600,101 521,101 445,101 367,107 288,110 207,116"/>
+        <Baseline points="206,104 287,99 366,96 445,90 521,90 600,90 679,90 755,90 834,90 919,90"/>
+        <TextEquiv conf="0.611">
+          <Unicode>inspektora byl ten samý dán do výslužby, a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l005" index="2" custom="heights_v2:[26.8,11.3]">
+        <Coords points="204,114 286,108 365,106 444,103 521,100 600,100 678,100 755,97 834,97 919,97 919,135 834,135 755,135 680,138 600,138 521,138 446,141 367,144 288,147 206,152"/>
+        <Baseline points="206,141 287,135 366,132 445,130 521,127 600,127 679,127 755,124 834,124 919,124"/>
+        <TextEquiv conf="0.526">
+          <Unicode>tím zároveň vzal se dne 30. září 1894</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l007" index="3" custom="heights_v2:[27.0,11.5]">
+        <Coords points="205,145 289,142 368,139 447,136 527,134 606,134 684,134 765,131 843,134 926,134 926,172 843,172 763,169 685,172 606,172 527,172 448,175 370,178 291,181 206,183"/>
+        <Baseline points="206,172 290,169 369,166 448,163 527,161 606,161 685,161 764,158 843,161 926,161"/>
+        <TextEquiv conf="0.463">
+          <Unicode>dalšího působení po 18ti letech co sta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l009" index="4" custom="heights_v2:[26.4,11.1]">
+        <Coords points="597,177 645,177 686,177 734,174 736,211 688,214 645,214 597,214"/>
+        <Baseline points="597,203 645,203 688,203 735,200"/>
+        <TextEquiv conf="0.948">
+          <Unicode>služky a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l010" index="5" custom="heights_v2:[27.7,11.9]">
+        <Coords points="204,184 243,181 279,178 310,178 347,175 379,175 421,172 423,212 381,215 347,215 314,218 279,218 246,220 207,223"/>
+        <Baseline points="206,211 245,209 279,206 313,206 347,203 380,203 423,200"/>
+        <TextEquiv conf="0.545">
+          <Unicode>roste úbor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l011" index="6" custom="heights_v2:[27.0,11.6]">
+        <Coords points="205,221 289,218 368,215 448,212 526,213 605,210 684,207 764,204 843,204 926,204 926,243 843,243 764,243 685,245 606,248 527,251 448,251 370,254 291,257 206,260"/>
+        <Baseline points="206,248 290,245 369,242 448,240 527,240 606,237 685,234 764,231 843,231 926,231"/>
+        <TextEquiv conf="0.478">
+          <Unicode>Uznávajíce mnoholeté zásluhy kteráž sobě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l013" index="7" custom="heights_v2:[26.1,10.9]">
+        <Coords points="208,259 288,256 368,250 448,247 525,247 602,242 681,239 761,236 840,236 924,236 924,273 840,273 761,273 682,276 603,279 528,284 448,284 370,287 291,293 209,296"/>
+        <Baseline points="209,285 290,282 369,276 448,273 527,273 603,268 682,265 761,262 840,262 924,262"/>
+        <TextEquiv conf="0.586">
+          <Unicode>odstupující jsou nastavosta pro blaho obce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l015" index="8" custom="heights_v2:[26.4,11.0]">
+        <Coords points="204,295 286,289 364,286 441,281 521,278 596,278 675,272 751,270 831,267 916,267 916,304 831,304 753,307 677,310 598,315 521,315 443,318 367,324 288,327 206,332"/>
+        <Baseline points="206,321 287,316 366,313 442,307 521,304 597,304 676,299 752,296 831,293 916,293"/>
+        <TextEquiv conf="0.548">
+          <Unicode>získal, byl ten samý p. Rudolf Warha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l017" index="9" custom="heights_v2:[26.9,11.1]">
+        <Coords points="202,328 283,325 360,320 435,317 512,311 588,308 664,306 740,303 817,300 902,300 902,338 817,338 742,341 665,344 589,346 513,349 438,355 361,358 285,363 203,366"/>
+        <Baseline points="203,355 285,352 361,347 437,344 513,338 589,335 665,333 741,330 817,327 902,327"/>
+        <TextEquiv conf="0.592">
+          <Unicode>v zasedání obecního výboru dne 31. září</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l019" index="10" custom="heights_v2:[27.6,11.5]">
+        <Coords points="202,364 285,361 365,356 444,353 523,350 601,347 682,342 761,342 840,342 927,342 927,381 840,381 761,381 682,381 604,386 525,389 446,392 367,395 288,400 203,403"/>
+        <Baseline points="203,392 287,389 366,383 445,380 524,378 603,375 682,369 761,369 840,369 927,369"/>
+        <TextEquiv conf="0.528">
+          <Unicode>191 za čestného městana obce Hlubok</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l020" index="11" custom="heights_v2:[27.3,11.5]">
+        <Coords points="202,401 281,398 354,395 427,393 501,390 577,387 650,384 723,381 797,378 879,378 879,417 797,417 725,420 651,423 578,426 502,428 429,431 355,434 282,437 203,440"/>
+        <Baseline points="203,428 282,425 355,423 428,420 502,417 578,414 651,411 724,409 797,406 879,406"/>
+        <TextEquiv conf="0.475">
+          <Unicode>zvolený. Dne 30. října 1895 byl jme</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l021" index="12" custom="heights_v2:[21.8,9.0]">
+        <Coords points="526,409 608,407 609,437 527,440"/>
+        <Baseline points="527,431 609,428"/>
+        <TextEquiv conf="0.173">
+          <Unicode>dober</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l022" index="13" custom="heights_v2:[26.8,11.4]">
+        <Coords points="201,438 286,432 368,430 451,427 531,427 611,421 692,418 774,416 858,413 946,418 943,457 856,451 775,454 694,457 612,459 533,465 451,465 370,468 288,471 204,476"/>
+        <Baseline points="203,465 287,459 369,456 451,454 533,454 611,448 693,445 775,442 857,440 944,445"/>
+        <TextEquiv conf="0.348">
+          <Unicode>v přítomnosti paně od firmy Farsky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l023" index="14" custom="heights_v2:[27.2,12.1]">
+        <Coords points="202,472 282,469 354,469 426,466 499,460 574,455 647,452 721,449 794,449 875,446 877,486 795,488 721,488 649,491 575,494 503,500 429,505 356,508 282,508 203,511"/>
+        <Baseline points="203,499 282,496 355,496 428,493 502,487 575,482 648,479 721,476 795,476 876,473"/>
+        <TextEquiv conf="0.575">
+          <Unicode>vyhotovený. Diplom čestného mostanství</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l024" index="15" custom="heights_v2:[26.0,12.4]">
+        <Coords points="198,509 240,507 271,507 307,504 349,504 349,542 307,542 274,545 240,545 201,548"/>
+        <Baseline points="200,535 240,533 273,533 307,530 349,530"/>
+        <TextEquiv conf="0.971">
+          <Unicode>dodany.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l025" index="16" custom="heights_v2:[27.9,11.9]">
+        <Coords points="202,547 284,544 360,541 436,539 512,536 588,533 664,530 740,527 817,524 902,524 902,564 817,564 742,567 665,570 589,573 513,575 437,578 361,581 285,584 203,587"/>
+        <Baseline points="203,575 285,572 361,569 437,566 513,564 589,561 665,558 741,555 817,552 902,552"/>
+        <TextEquiv conf="0.638">
+          <Unicode>Dne 14. října 1896 předevzala doplňovací</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l026" index="17" custom="heights_v2:[26.0,11.4]">
+        <Coords points="203,580 284,580 360,577 439,574 516,571 593,571 670,566 749,563 826,560 910,560 910,598 826,598 750,600 671,603 595,609 516,609 440,612 361,614 285,617 203,617"/>
+        <Baseline points="203,606 285,606 361,603 440,600 516,597 595,597 671,592 750,589 826,586 910,586"/>
+        <TextEquiv conf="0.405">
+          <Unicode>volba nového předanstva na místo odstoup</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l028" index="18" custom="heights_v2:[24.8,11.0]">
+        <Coords points="202,615 281,612 357,609 433,606 510,604 585,604 661,601 737,598 814,595 895,592 896,628 815,631 739,634 663,637 587,639 510,639 434,642 358,645 282,648 203,651"/>
+        <Baseline points="203,640 282,637 358,634 434,631 510,628 586,628 662,626 738,623 814,620 896,617"/>
+        <TextEquiv conf="0.348">
+          <Unicode>lého R. Kavky, a zvolen jednohlasně ze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l031" index="19" custom="heights_v2:[25.6,11.5]">
+        <Coords points="202,648 281,642 357,639 434,637 506,637 583,634 658,634 732,631 808,628 890,625 891,662 809,665 733,668 660,671 583,671 508,674 434,674 358,676 282,679 205,685"/>
+        <Baseline points="204,673 282,668 358,665 434,662 507,662 583,659 659,659 733,657 809,654 890,651"/>
+        <TextEquiv conf="0.301">
+          <Unicode>purkmister p. Josef Schenkl spraven</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l032" index="20" custom="heights_v2:[27.6,12.3]">
+        <Coords points="206,680 240,680 276,677 307,677 338,677 372,674 406,674 437,674 471,674 510,674 510,714 471,714 437,714 406,714 372,714 342,717 307,717 276,717 243,720 206,720"/>
+        <Baseline points="206,707 242,707 276,704 307,704 341,704 372,702 406,702 437,702 471,702 510,702"/>
+        <TextEquiv conf="0.661">
+          <Unicode>kniženího zámků.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

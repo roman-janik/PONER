@@ -1,0 +1,403 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:15:14.434798+00:00</Created>
+    <LastChange>2023-02-07T20:15:14.434798+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-538-103" imageWidth="2171" imageHeight="1561">
+    <TextRegion id="r000">
+      <Coords points="74,1421 43,1522 43,1555 99,1555 179,1533 804,1550 1021,1539 1026,1381 1015,1091 1017,975 1029,922 1018,754 1028,584 1019,523 1017,402 1026,125 614,120 102,134 68,193 75,300 68,416 68,913 75,1211 68,1364 74,1421"/>
+      <TextLine id="r000-l001" index="0" custom="heights_v2:[27.6,15.5]">
+        <Coords points="102,134 207,132 310,129 410,129 511,123 614,120 716,120 816,120 918,123 1026,126 1025,169 917,166 815,163 716,163 614,163 512,166 413,172 310,172 208,175 103,177"/>
+        <Baseline points="102,162 207,159 310,156 412,156 511,151 614,148 716,148 815,148 918,151 1025,153"/>
+        <TextEquiv conf="0.463">
+          <Unicode>V roce 1943 byly místní / obvodní a újezdní / školní rady resp. výbory</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="1" custom="heights_v2:[28.0,15.1]">
+        <Coords points="70,194 177,194 283,188 388,182 494,179 599,177 705,174 810,174 915,177 1024,177 1024,220 915,220 809,217 705,217 600,220 495,223 390,225 285,231 180,237 70,237"/>
+        <Baseline points="70,222 179,222 284,216 389,210 494,207 599,205 705,202 810,202 915,205 1024,205"/>
+        <TextEquiv conf="0.645">
+          <Unicode>zrušeny a jejich úkoly přešly na starosty obce, jež byla sídlem šk. rady.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="2" custom="heights_v2:[28.8,15.2]">
+        <Coords points="99,247 205,244 306,244 408,241 511,238 610,235 713,233 815,233 917,233 1021,230 1022,274 918,277 815,277 713,277 611,279 512,282 409,285 307,288 205,288 100,291"/>
+        <Baseline points="99,276 205,273 307,273 409,270 511,267 611,264 713,261 815,261 918,261 1022,259"/>
+        <TextEquiv conf="0.716">
+          <Unicode>Jako u ostatních veřej. zaměstnanců, tak i učitelé měli o hlavních</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="3" custom="heights_v2:[29.1,15.7]">
+        <Coords points="75,300 181,303 286,300 391,298 494,295 599,292 705,289 807,289 911,289 1019,286 1020,331 912,334 807,334 705,334 600,337 495,340 392,342 287,345 182,348 73,345"/>
+        <Baseline points="74,330 182,332 287,330 392,327 494,324 599,321 705,318 807,318 912,318 1020,315"/>
+        <TextEquiv conf="0.778">
+          <Unicode>prázdninách 14 denní dovolenou. Pro ostatní volný čas byla jim naří-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="4" custom="heights_v2:[28.9,15.2]">
+        <Coords points="74,357 179,357 278,357 381,355 478,355 582,349 682,346 784,346 883,346 991,346 991,390 883,390 784,390 682,390 583,393 481,399 381,399 279,402 179,402 74,402"/>
+        <Baseline points="74,386 179,386 278,386 381,384 480,384 582,378 682,375 784,375 883,375 991,375"/>
+        <TextEquiv conf="0.744">
+          <Unicode>zena pracovní povinnost na obec. úřadech, na žních a pod. Na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l011" index="5" custom="heights_v2:[29.6,15.8]">
+        <Coords points="68,416 176,416 280,416 386,414 488,411 593,408 698,405 801,402 906,402 1017,402 1017,448 906,448 801,448 699,450 594,453 489,456 387,459 282,462 176,462 68,462"/>
+        <Baseline points="68,446 176,446 281,446 386,443 489,440 594,437 699,435 801,432 906,432 1017,432"/>
+        <TextEquiv conf="0.663">
+          <Unicode>zákl. vydaného zákona byli počátkem šk. roku 1944/45 totálně zasa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l013" index="6" custom="heights_v2:[29.4,16.0]">
+        <Coords points="70,473 179,471 280,471 383,468 486,465 587,465 690,462 793,462 895,462 1006,462 1006,507 895,507 793,507 690,507 588,510 486,510 384,513 282,516 179,516 71,519"/>
+        <Baseline points="71,503 179,500 281,500 384,497 486,494 588,494 690,491 793,491 895,491 1006,491"/>
+        <TextEquiv conf="0.760">
+          <Unicode>zeni do váleč. podniků tito zdejší učitelé jako nekvalifikovaní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="7" custom="heights_v2:[30.3,15.9]">
+        <Coords points="68,529 176,529 280,529 386,527 491,527 594,527 698,527 805,524 908,527 1019,524 1020,570 909,573 804,570 699,573 594,573 491,573 386,573 282,576 176,576 68,576"/>
+        <Baseline points="68,560 176,560 281,560 386,557 491,557 594,557 699,557 804,554 909,557 1020,554"/>
+        <TextEquiv conf="0.575">
+          <Unicode>pomocní dělníci: Václav Bezděka, Josef Brož, Jan Hejný, Jaro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="8" custom="heights_v2:[30.2,16.1]">
+        <Coords points="71,586 181,586 287,583 392,583 498,583 601,586 707,583 812,583 918,583 1027,583 1027,630 918,630 812,630 707,630 603,633 497,630 392,630 287,630 182,633 71,633"/>
+        <Baseline points="71,616 182,616 287,614 392,614 497,614 602,616 707,614 812,614 918,614 1027,614"/>
+        <TextEquiv conf="0.553">
+          <Unicode>slav Herda, Václav Novotný, Leopold Švácha a Frant. Zegermacher.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="9" custom="heights_v2:[29.7,15.7]">
+        <Coords points="94,644 200,644 297,646 401,644 500,644 601,644 702,641 804,641 903,641 1011,641 1011,686 903,686 804,686 702,686 603,689 500,689 401,689 299,692 198,689 94,689"/>
+        <Baseline points="94,673 199,673 298,676 401,673 500,673 602,673 702,670 804,670 903,670 1011,670"/>
+        <TextEquiv conf="0.606">
+          <Unicode>Místní odbor péče o mládež organisoval a vedl v obci ve všech zim-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l022" index="10" custom="heights_v2:[29.9,16.7]">
+        <Coords points="72,697 178,700 285,697 389,700 491,700 597,700 702,700 804,700 908,700 1019,697 1020,744 909,747 804,747 702,747 597,747 491,747 389,747 284,744 179,747 71,744"/>
+        <Baseline points="71,727 179,730 284,727 389,730 491,730 597,730 702,730 804,730 909,730 1020,727"/>
+        <TextEquiv conf="0.955">
+          <Unicode>ních obdobích za okupace stravovací a ošacovací akce pro děti a pře-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l024" index="11" custom="heights_v2:[29.6,16.0]">
+        <Coords points="72,755 179,757 285,757 389,760 491,760 597,760 702,760 804,760 908,760 1018,755 1021,800 910,806 804,806 702,806 597,806 491,806 389,806 284,803 179,803 71,800"/>
+        <Baseline points="71,784 179,787 284,787 389,790 491,790 597,790 702,790 804,790 909,790 1020,784"/>
+        <TextEquiv conf="0.852">
+          <Unicode>stárlé chudé, jimž poskytoval též peněžité podpory za přispění stát-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l026" index="12" custom="heights_v2:[29.4,16.3]">
+        <Coords points="71,811 179,811 282,812 386,814 489,814 595,814 695,817 801,814 903,814 1014,814 1014,860 903,860 801,860 696,863 593,860 489,860 386,860 281,857 179,857 71,857"/>
+        <Baseline points="71,841 179,841 281,841 386,844 489,844 594,844 696,847 801,844 903,844 1014,844"/>
+        <TextEquiv conf="0.610">
+          <Unicode>ního příspěvku, ze sbírek, darů včetně darů v naturáliích. Všechny</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l028" index="13" custom="heights_v2:[28.7,15.5]">
+        <Coords points="69,869 179,872 285,872 389,875 495,875 599,878 705,878 810,878 914,880 1027,878 1028,922 915,925 809,922 705,922 599,922 494,919 389,919 284,916 179,916 68,913"/>
+        <Baseline points="68,898 179,901 284,901 389,903 494,903 599,906 705,906 810,906 915,909 1028,906"/>
+        <TextEquiv conf="0.550">
+          <Unicode>tyto akce při průměrném denním vydávání 150 porcí polévky pro děti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="14" custom="heights_v2:[28.6,15.2]">
+        <Coords points="72,926 179,929 285,929 387,932 491,934 594,934 699,934 801,934 905,934 1016,932 1017,975 907,978 801,978 699,978 594,978 491,978 386,975 284,973 179,973 71,970"/>
+        <Baseline points="71,955 179,957 284,957 386,960 491,963 594,963 699,963 801,963 906,963 1017,960"/>
+        <TextEquiv conf="0.555">
+          <Unicode>a 15 pro sestárlé si vyžádaly nákladu na 150 tisíc korun. - Zavedení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="15" custom="heights_v2:[27.5,15.2]">
+        <Coords points="72,984 180,987 285,990 386,992 492,992 594,995 699,995 801,995 906,995 1016,992 1017,1035 907,1038 801,1038 699,1038 594,1038 491,1035 386,1035 284,1032 179,1029 71,1027"/>
+        <Baseline points="71,1011 179,1014 284,1017 386,1020 491,1020 594,1023 699,1023 801,1023 906,1023 1016,1020"/>
+        <TextEquiv conf="0.568">
+          <Unicode>školní střádanky vykázaly za touž dobu úhrnně na obecné škole</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="16" custom="heights_v2:[27.6,15.1]">
+        <Coords points="72,1038 180,1041 282,1043 387,1046 489,1049 594,1049 696,1052 801,1052 903,1052 1013,1049 1015,1092 904,1095 801,1095 696,1095 593,1092 489,1092 386,1089 281,1086 179,1083 71,1080"/>
+        <Baseline points="71,1065 179,1068 281,1071 386,1074 489,1077 594,1077 696,1080 801,1080 903,1080 1014,1077"/>
+        <TextEquiv conf="0.722">
+          <Unicode>134.536.20 K, na měšťanské 37.126.10 Kč, celkem 171.662.30 K. úspor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="17" custom="heights_v2:[28.2,15.4]">
+        <Coords points="92,1097 197,1100 299,1102 401,1105 504,1105 606,1108 707,1111 810,1111 910,1111 1015,1105 1017,1149 913,1155 810,1155 707,1155 605,1152 502,1149 401,1149 298,1146 196,1143 90,1140"/>
+        <Baseline points="91,1125 196,1128 298,1131 401,1133 503,1133 605,1136 707,1139 810,1139 912,1139 1016,1134"/>
+        <TextEquiv conf="0.484">
+          <Unicode>Koncem okupace měla obecná škola 6 tříd s 1 pobočkou, 227 dítek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l040" index="18" custom="heights_v2:[27.3,14.3]">
+        <Coords points="75,1152 180,1154 283,1157 387,1163 489,1166 594,1166 697,1169 801,1172 903,1172 1013,1169 1015,1210 904,1213 801,1213 696,1210 593,1207 489,1207 386,1205 280,1199 179,1196 74,1193"/>
+        <Baseline points="74,1179 179,1182 281,1185 386,1190 489,1193 594,1193 696,1196 801,1199 903,1199 1014,1196"/>
+        <TextEquiv conf="0.251">
+          <Unicode>196 hochů, 131 dívek, 7 učitelů vč. správce školy, 3 učitelky mimo síly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l042" index="19" custom="heights_v2:[27.5,14.4]">
+        <Coords points="75,1211 171,1214 262,1217 353,1220 443,1222 538,1222 629,1225 720,1228 809,1231 908,1228 909,1270 810,1273 718,1270 627,1267 536,1264 443,1264 352,1261 261,1259 170,1256 73,1253"/>
+        <Baseline points="74,1239 170,1241 261,1244 352,1247 443,1250 537,1250 628,1253 719,1256 810,1258 909,1256"/>
+        <TextEquiv conf="0.589">
+          <Unicode>vedlejší, jichž počet se oproti počátku okupace nezměnil.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l044" index="20" custom="heights_v2:[27.7,14.2]">
+        <Coords points="97,1265 202,1268 306,1271 407,1276 509,1279 609,1282 710,1285 812,1285 914,1285 1022,1282 1023,1324 915,1327 812,1327 710,1327 608,1324 508,1321 406,1318 303,1312 201,1310 96,1307"/>
+        <Baseline points="97,1293 202,1295 304,1298 406,1304 509,1307 608,1310 710,1312 812,1312 915,1312 1023,1310"/>
+        <TextEquiv conf="0.473">
+          <Unicode>Měšťanská škola: 4 třídy, 4 pobočky, dětí 200 /: 87 hochů, 113 dívek a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l046" index="21" custom="heights_v2:[28.1,15.0]">
+        <Coords points="69,1321 180,1324 285,1327 390,1330 495,1333 600,1335 705,1338 810,1341 913,1344 1024,1338 1026,1381 916,1387 809,1384 704,1381 599,1379 494,1376 389,1373 284,1370 179,1367 68,1364"/>
+        <Baseline points="68,1349 179,1352 284,1355 389,1358 494,1361 599,1364 705,1366 810,1369 915,1372 1026,1366"/>
+        <TextEquiv conf="0.593">
+          <Unicode>7 odborných učitelů vč. ředitele a 3 odbor. učitelky. Vedlejší síly tytéž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l049" index="22" custom="heights_v2:[27.9,15.1]">
+        <Coords points="74,1378 114,1378 150,1378 182,1381 216,1381 250,1381 290,1381 290,1424 250,1424 216,1424 182,1424 146,1421 114,1421 74,1421"/>
+        <Baseline points="74,1406 114,1406 148,1406 182,1409 216,1409 250,1409 290,1409"/>
+        <TextEquiv conf="0.915">
+          <Unicode>jako v r. 1939.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l051" index="23" custom="heights_v2:[28.8,16.1]">
+        <Coords points="95,1434 200,1437 301,1440 405,1440 506,1446 609,1448 711,1451 812,1454 914,1451 1022,1448 1023,1493 915,1496 813,1499 710,1496 607,1493 505,1491 402,1485 301,1485 198,1482 93,1479"/>
+        <Baseline points="94,1463 199,1466 301,1469 403,1469 506,1474 608,1477 710,1480 812,1483 915,1480 1023,1477"/>
+        <TextEquiv conf="0.498">
+          <Unicode>Za zmínku stojí vážný incident, přihodivší se ve IV. B měšťanské</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l053" index="24" custom="heights_v2:[27.4,13.9]">
+        <Coords points="72,1487 180,1492 285,1495 390,1498 493,1501 597,1507 702,1507 803,1510 907,1507 1018,1498 1021,1539 910,1548 804,1551 701,1548 597,1548 491,1542 389,1539 284,1537 179,1534 70,1528"/>
+        <Baseline points="71,1514 179,1520 284,1523 389,1526 491,1528 597,1534 702,1534 804,1537 909,1534 1020,1526"/>
+        <TextEquiv conf="0.541">
+          <Unicode>školy 11. 5. 92! /: Třída byla umístěna t. č. v Mikešově statku čp. 4. Toho dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l055" index="25" custom="heights_v2:[23.8,9.3]">
+        <Coords points="43,1522 99,1522 99,1555 43,1555"/>
+        <Baseline points="43,1545 99,1545"/>
+        <TextEquiv conf="0.999">
+          <Unicode>220</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1176,1197 1173,1550 2028,1550 2091,1503 2084,1282 2099,1236 2105,1054 2099,740 2111,289 1199,272 1182,318 1176,1197"/>
+      <TextLine id="r001-l005" index="0" custom="heights_v2:[26.3,14.8]">
+        <Coords points="1199,272 1304,272 1404,272 1504,275 1603,278 1705,281 1805,283 1904,286 2003,289 2110,289 2110,330 2003,330 1903,327 1803,324 1704,322 1602,319 1502,316 1403,313 1304,313 1199,313"/>
+        <Baseline points="1199,298 1304,298 1403,298 1503,301 1602,304 1704,307 1804,310 1903,312 2003,315 2110,315"/>
+        <TextEquiv conf="0.816">
+          <Unicode>Strůjcem i původcem druhé světové války byl fašismus a jeho nej-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="1" custom="heights_v2:[25.2,14.6]">
+        <Coords points="1182,319 1288,319 1390,321 1492,324 1591,327 1694,327 1795,330 1896,330 1998,333 2106,338 2104,378 1996,373 1894,370 1795,370 1693,367 1591,367 1491,364 1389,361 1286,358 1182,358"/>
+        <Baseline points="1182,344 1287,344 1389,347 1491,349 1591,352 1693,352 1795,355 1895,355 1997,358 2105,364"/>
+        <TextEquiv conf="0.509">
+          <Unicode>horší zrůda - německý fašismus nacistický. Po jeho rozdrcení byly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="2" custom="heights_v2:[25.8,15.0]">
+        <Coords points="1185,363 1290,363 1393,366 1491,369 1594,369 1693,372 1796,372 1896,375 1998,378 2106,380 2105,421 1997,418 1894,416 1795,413 1693,413 1593,410 1491,410 1392,407 1289,404 1185,404"/>
+        <Baseline points="1185,389 1290,389 1392,392 1491,395 1594,395 1693,398 1795,398 1895,401 1997,403 2105,406"/>
+        <TextEquiv conf="0.609">
+          <Unicode>v čele států a národů celého světa postaveny síly, které v osudových</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="3" custom="heights_v2:[26.3,14.5]">
+        <Coords points="1185,408 1290,411 1392,414 1495,414 1594,417 1697,417 1799,420 1898,423 2000,425 2107,425 2107,466 2000,466 1897,463 1798,461 1696,458 1594,458 1494,455 1392,455 1289,452 1184,449"/>
+        <Baseline points="1185,435 1290,437 1392,440 1494,440 1594,443 1696,443 1798,446 1898,449 2000,452 2107,452"/>
+        <TextEquiv conf="0.760">
+          <Unicode>válečných zkouškách obstály nejčestněji, daly osvobozenskému boji</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="4" custom="heights_v2:[27.0,15.0]">
+        <Coords points="1182,456 1288,456 1390,459 1489,462 1592,462 1690,464 1793,464 1893,464 1994,467 2102,467 2102,509 1994,509 1892,506 1793,506 1690,506 1590,504 1489,504 1389,501 1286,498 1182,498"/>
+        <Baseline points="1182,483 1287,483 1389,486 1489,489 1591,489 1690,491 1793,491 1892,491 1994,494 2102,494"/>
+        <TextEquiv conf="0.708">
+          <Unicode>proti Němcům jasný cíl, nejúčinnější formy i prostředky, a dovedly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="5" custom="heights_v2:[27.5,15.0]">
+        <Coords points="1182,504 1287,504 1390,504 1489,507 1592,507 1690,509 1793,509 1892,512 1995,512 2103,515 2102,558 1994,555 1892,555 1792,552 1690,552 1590,549 1489,549 1389,546 1287,546 1182,546"/>
+        <Baseline points="1182,531 1287,531 1389,531 1489,534 1591,534 1690,537 1793,537 1892,540 1994,540 2102,543"/>
+        <TextEquiv conf="0.438">
+          <Unicode>jich statečně a obětavě využít. Z pře těžkých těchto zkoušek vyšel i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="6" custom="heights_v2:[27.1,14.6]">
+        <Coords points="1182,552 1287,552 1389,552 1489,552 1592,552 1690,555 1793,555 1893,558 1994,561 2102,561 2102,603 1994,603 1892,600 1792,597 1690,597 1590,594 1489,594 1389,594 1287,594 1182,594"/>
+        <Baseline points="1182,580 1287,580 1389,580 1489,580 1591,580 1690,582 1793,582 1892,585 1994,588 2102,588"/>
+        <TextEquiv conf="0.723">
+          <Unicode>náš stát a Češi se Slováky vítězně. Každá z našich obětí pečetila</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="7" custom="heights_v2:[26.4,14.3]">
+        <Coords points="1185,599 1290,599 1392,599 1491,599 1594,599 1694,599 1795,601 1896,601 1998,604 2103,607 2102,648 1997,645 1894,642 1795,642 1693,639 1594,639 1491,639 1392,639 1290,639 1185,639"/>
+        <Baseline points="1185,625 1290,625 1392,625 1491,625 1594,625 1693,625 1795,628 1895,628 1997,631 2102,633"/>
+        <TextEquiv conf="0.604">
+          <Unicode>společné závazky, utvrzovala vzájemné společenství a pronikala</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="8" custom="heights_v2:[26.1,14.0]">
+        <Coords points="1185,641 1290,644 1390,644 1491,647 1591,647 1693,647 1793,647 1896,647 1994,650 2101,650 2101,690 1994,690 1894,687 1793,687 1693,687 1591,687 1491,687 1389,684 1290,684 1184,682"/>
+        <Baseline points="1185,668 1290,670 1389,670 1491,673 1591,673 1693,673 1793,673 1895,673 1994,676 2101,676"/>
+        <TextEquiv conf="0.663">
+          <Unicode>srdcem i rozumem nás všech. S tichými a trvalými vzpomínkami</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="9" custom="heights_v2:[26.5,14.2]">
+        <Coords points="1182,689 1288,689 1386,692 1489,692 1588,692 1690,692 1790,692 1893,692 1992,695 2100,698 2099,739 1991,736 1892,733 1790,733 1690,733 1588,733 1489,733 1386,733 1286,730 1182,730"/>
+        <Baseline points="1182,716 1287,716 1386,719 1489,719 1588,719 1690,719 1790,719 1892,719 1991,722 2099,724"/>
+        <TextEquiv conf="0.606">
+          <Unicode>na všechny oběti spojujeme neskonalé díky a nehynoucí vděčnost</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="10" custom="heights_v2:[26.6,14.5]">
+        <Coords points="1185,738 1289,738 1390,735 1491,738 1591,738 1690,738 1793,738 1893,738 1991,740 2099,740 2099,782 1991,782 1892,779 1793,779 1690,779 1591,779 1491,779 1389,776 1290,779 1185,779"/>
+        <Baseline points="1185,764 1290,764 1389,761 1491,764 1591,764 1690,764 1793,764 1892,764 1991,767 2099,767"/>
+        <TextEquiv conf="0.553">
+          <Unicode>všem padlým i živým bojovníkům všech spojeneckých armád, domá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l025" index="11" custom="heights_v2:[27.0,14.7]">
+        <Coords points="1182,783 1287,783 1387,783 1486,786 1585,786 1687,786 1787,786 1886,786 1986,786 2094,786 2094,827 1986,827 1886,827 1787,827 1687,827 1585,827 1486,827 1386,824 1287,824 1182,824"/>
+        <Baseline points="1182,810 1287,810 1386,810 1486,812 1585,812 1687,812 1787,812 1886,812 1986,812 2094,812"/>
+        <TextEquiv conf="0.613">
+          <Unicode>cího i zahraničního odboje, partyzánů, parašutistů, barikádníků,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l027" index="12" custom="heights_v2:[27.0,14.3]">
+        <Coords points="1179,828 1285,828 1386,831 1489,831 1591,831 1690,831 1793,831 1895,831 1998,831 2102,834 2101,875 1997,872 1895,872 1793,872 1690,872 1591,872 1489,872 1386,872 1284,869 1179,869"/>
+        <Baseline points="1179,855 1284,855 1386,858 1489,858 1591,858 1690,858 1793,858 1895,858 1997,858 2102,861"/>
+        <TextEquiv conf="0.629">
+          <Unicode>revolučních gard a příslušníkům všech vrstev národa, měst i venkova,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l029" index="13" custom="heights_v2:[26.9,14.0]">
+        <Coords points="1179,876 1281,876 1381,876 1477,876 1577,876 1673,876 1773,876 1869,876 1969,876 2074,876 2074,917 1969,917 1869,917 1773,917 1673,917 1577,917 1477,917 1381,917 1281,917 1179,917"/>
+        <Baseline points="1179,903 1281,903 1381,903 1477,903 1577,903 1673,903 1773,903 1869,903 1969,903 2074,903"/>
+        <TextEquiv conf="0.753">
+          <Unicode>jako státníkům a všem národům spřátelených států - s jejichž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="14" custom="heights_v2:[26.3,13.4]">
+        <Coords points="1179,923 1284,923 1383,923 1483,923 1582,923 1682,923 1781,923 1881,923 1979,923 2084,920 2086,959 1980,962 1881,962 1781,962 1682,962 1582,962 1483,962 1383,962 1284,962 1179,962"/>
+        <Baseline points="1179,949 1284,949 1383,949 1483,949 1582,949 1682,949 1781,949 1881,949 1980,949 2085,946"/>
+        <TextEquiv conf="0.572">
+          <Unicode>pomocí i obětmi byla naše republika znovuobnovena a národní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="15" custom="heights_v2:[26.4,13.5]">
+        <Coords points="1177,971 1281,968 1383,968 1486,968 1585,968 1687,968 1789,968 1890,965 1991,968 2099,965 2100,1005 1992,1008 1889,1005 1790,1008 1687,1008 1585,1008 1486,1008 1383,1008 1281,1008 1178,1011"/>
+        <Baseline points="1177,997 1281,994 1383,994 1486,994 1585,994 1687,994 1790,994 1889,991 1991,994 2099,991"/>
+        <TextEquiv conf="0.372">
+          <Unicode>svoboda znovuzískána. Svobodná domovina i národ vrací se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="16" custom="heights_v2:[26.4,14.0]">
+        <Coords points="1177,1013 1281,1013 1383,1013 1486,1013 1588,1013 1690,1013 1793,1013 1895,1013 1997,1013 2105,1013 2105,1054 1997,1054 1895,1054 1793,1054 1690,1054 1588,1054 1486,1054 1383,1054 1281,1054 1177,1054"/>
+        <Baseline points="1177,1040 1281,1040 1383,1040 1486,1040 1588,1040 1690,1040 1793,1040 1895,1040 1997,1040 2105,1040"/>
+        <TextEquiv conf="0.541">
+          <Unicode>zvolna k normálním poměrům a k budování státu podle nových ide</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l036" index="17" custom="heights_v2:[26.7,14.2]">
+        <Coords points="1177,1061 1280,1061 1383,1058 1486,1058 1585,1058 1687,1058 1790,1058 1889,1058 1991,1058 2099,1058 2099,1099 1991,1099 1889,1099 1790,1099 1687,1099 1585,1099 1486,1099 1383,1099 1282,1102 1177,1102"/>
+        <Baseline points="1177,1088 1281,1088 1383,1085 1486,1085 1585,1085 1687,1085 1790,1085 1889,1085 1991,1085 2099,1085"/>
+        <TextEquiv conf="0.878">
+          <Unicode>spočívajících na mravních zásadách, na povinnostech a odpovědné</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l038" index="18" custom="heights_v2:[26.9,14.6]">
+        <Coords points="1177,1107 1278,1107 1374,1107 1474,1104 1571,1104 1668,1104 1767,1104 1864,1104 1960,1104 2065,1104 2065,1145 1960,1145 1864,1145 1767,1145 1668,1145 1571,1145 1474,1145 1375,1148 1278,1148 1177,1148"/>
+        <Baseline points="1177,1133 1278,1133 1375,1133 1474,1131 1571,1131 1668,1131 1767,1131 1864,1131 1960,1131 2065,1131"/>
+        <TextEquiv conf="0.674">
+          <Unicode>práci. Současný vývoj lidské společnosti nás sice rozděluje na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l039" index="19" custom="heights_v2:[26.8,14.8]">
+        <Coords points="1176,1152 1280,1152 1383,1149 1487,1149 1584,1152 1687,1149 1789,1149 1890,1146 1991,1149 2099,1146 2100,1188 1992,1191 1889,1188 1790,1191 1687,1191 1586,1194 1485,1191 1383,1191 1282,1194 1176,1194"/>
+        <Baseline points="1176,1179 1281,1179 1383,1176 1486,1176 1585,1179 1687,1176 1790,1176 1889,1173 1991,1176 2099,1173"/>
+        <TextEquiv conf="0.901">
+          <Unicode>více stran či táborů, zbudovaných na různých stanoviscích myšlén-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l041" index="20" custom="heights_v2:[26.7,14.8]">
+        <Coords points="1176,1198 1281,1198 1383,1198 1486,1198 1584,1198 1687,1195 1790,1195 1889,1195 1991,1195 2099,1195 2099,1236 1991,1236 1889,1236 1790,1236 1687,1236 1586,1239 1486,1239 1383,1239 1281,1239 1176,1239"/>
+        <Baseline points="1176,1224 1281,1224 1383,1224 1486,1224 1585,1224 1687,1222 1790,1222 1889,1222 1991,1222 2099,1222"/>
+        <TextEquiv conf="0.591">
+          <Unicode>kových i zájmových, ale nevylučuje při tom existenci společných ideí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l043" index="21" custom="heights_v2:[26.7,14.7]">
+        <Coords points="1176,1243 1278,1243 1378,1243 1477,1243 1576,1243 1676,1240 1775,1240 1875,1240 1974,1240 2082,1240 2082,1282 1974,1282 1875,1282 1775,1282 1676,1282 1577,1285 1477,1285 1378,1285 1278,1285 1176,1285"/>
+        <Baseline points="1176,1270 1278,1270 1378,1270 1477,1270 1577,1270 1676,1267 1775,1267 1875,1267 1974,1267 2082,1267"/>
+        <TextEquiv conf="0.894">
+          <Unicode>jednotících. Jednou z vůdčích, která nás může všechny spojovat, je</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l045" index="22" custom="heights_v2:[26.8,14.8]">
+        <Coords points="1175,1286 1279,1286 1378,1288 1476,1288 1577,1286 1679,1286 1778,1286 1878,1286 1976,1286 2084,1283 2086,1324 1978,1327 1878,1327 1778,1327 1679,1327 1577,1327 1478,1330 1378,1330 1278,1327 1175,1327"/>
+        <Baseline points="1175,1312 1278,1312 1378,1315 1477,1315 1577,1312 1679,1312 1778,1312 1878,1312 1977,1312 2085,1310"/>
+        <TextEquiv conf="0.508">
+          <Unicode>idea pravého demokratismu Masarykova a Benešova, hlásaného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l047" index="23" custom="heights_v2:[26.9,14.9]">
+        <Coords points="1177,1331 1281,1334 1381,1334 1479,1334 1579,1331 1679,1331 1778,1331 1878,1331 1976,1331 2084,1328 2086,1370 1978,1373 1878,1373 1778,1373 1679,1373 1579,1373 1480,1376 1381,1376 1281,1376 1176,1373"/>
+        <Baseline points="1176,1358 1281,1361 1381,1361 1480,1361 1579,1358 1679,1358 1778,1358 1878,1358 1977,1358 2085,1355"/>
+        <TextEquiv conf="0.740">
+          <Unicode>v duchu našich národních velikánů a dějin, a ve shodě s přiroze-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l048" index="24" custom="heights_v2:[27.0,15.0]">
+        <Coords points="1176,1376 1281,1376 1381,1376 1480,1376 1579,1376 1679,1376 1778,1376 1878,1374 1977,1374 2085,1374 2085,1416 1977,1416 1878,1416 1779,1418 1679,1418 1579,1418 1480,1418 1381,1418 1281,1418 1176,1418"/>
+        <Baseline points="1176,1403 1281,1403 1381,1403 1480,1403 1579,1403 1679,1403 1778,1403 1878,1401 1977,1401 2085,1401"/>
+        <TextEquiv conf="0.620">
+          <Unicode>nými vlastnostmi lidské duše a skutečné svobody člověka.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l050" index="25" custom="heights_v2:[26.9,15.1]">
+        <Coords points="1185,1422 1290,1422 1389,1422 1489,1422 1587,1422 1687,1419 1787,1419 1886,1419 1985,1419 2088,1416 2089,1458 1986,1461 1886,1461 1787,1461 1687,1461 1588,1464 1489,1464 1389,1464 1290,1464 1185,1464"/>
+        <Baseline points="1185,1449 1290,1449 1389,1449 1489,1449 1588,1449 1687,1446 1787,1446 1886,1446 1986,1446 2089,1443"/>
+        <TextEquiv conf="0.442">
+          <Unicode>Nemůže být světějšího, lepšího a vroucnějšího přání, než abychom</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l052" index="26" custom="heights_v2:[26.8,14.9]">
+        <Coords points="1174,1465 1279,1465 1377,1467 1480,1465 1579,1465 1681,1465 1781,1462 1883,1462 1983,1462 2090,1462 2090,1503 1983,1503 1883,1503 1781,1503 1682,1506 1579,1506 1480,1506 1378,1509 1278,1506 1174,1506"/>
+        <Baseline points="1174,1491 1278,1491 1378,1494 1480,1491 1579,1491 1682,1491 1781,1489 1883,1489 1983,1489 2090,1489"/>
+        <TextEquiv conf="0.416">
+          <Unicode>se všichni k sobě opravdu česky přibližovali a neopouštěli ani je-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l054" index="27" custom="heights_v2:[26.0,13.1]">
+        <Coords points="1173,1511 1273,1511 1366,1511 1460,1508 1554,1508 1648,1508 1741,1508 1835,1508 1930,1508 2029,1511 2028,1550 1929,1547 1835,1547 1741,1547 1648,1547 1554,1547 1460,1547 1367,1550 1273,1550 1173,1550"/>
+        <Baseline points="1173,1537 1273,1537 1366,1537 1460,1534 1554,1534 1648,1534 1741,1534 1835,1534 1929,1534 2028,1537"/>
+        <TextEquiv conf="0.712">
+          <Unicode>diné cesty i cestičky, jež vede k národní i občanské svorno</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1602,159 1557,159 1557,215 1699,212 1699,156 1602,159"/>
+      <TextLine id="r002-l002" index="0" custom="heights_v2:[39.6,16.6]">
+        <Coords points="1557,159 1602,159 1648,156 1699,156 1699,213 1648,213 1606,215 1557,215"/>
+        <Baseline points="1557,199 1605,199 1648,196 1699,196"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Závěr</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

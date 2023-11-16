@@ -1,0 +1,566 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:23:04.600470</Created>
+    <LastChange>2023-01-19T00:23:04.600470</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Milenov_inv_c_neinventarizovano_007.jpg" imageWidth="4280" imageHeight="3230">
+    <TextRegion id="568a1f68-2957-4bfe-b66c-5493817fab31">
+      <Coords points="3984,167 3936,167 3936,225 3984,225 3984,167"/>
+      <TextLine id="5fbf4808-9ff8-40cb-9292-9d0bfa50cacc" index="0" custom="heights_v2:[38.8,19.5]">
+        <Coords points="3984,167 3936,167 3936,225 3984,225 3984,167"/>
+        <Baseline points="3936,205 3984,205"/>
+        <TextEquiv>
+          <Unicode>7</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="917e174f-6470-45b2-9932-8a078c70d7f7">
+      <Coords points="403,2819 388,2915 416,2915 416,2939 387,2939 387,2975 891,2967 1899,2975 2016,2898 2084,2731 2040,2369 2041,2316 2083,2217 2083,2164 2055,2086 2050,1997 2013,1883 2017,1744 2003,1606 2003,1553 2046,1348 2042,1194 2048,1040 2030,920 2059,837 2065,669 2054,525 2030,408 2029,357 1964,277 482,298 399,386 388,476 398,869 412,977 400,1194 414,1298 414,1444 452,1551 440,1770 420,1889 413,2118 405,2156 403,2283 415,2433 418,2613 403,2819"/>
+      <TextLine id="b6d61783-52e7-4f3d-bfdc-6b4a7c7e9206" index="0" custom="heights_v2:[35.1,15.9]">
+        <Coords points="1965,278 1964,277 1964,277 1794,282 1632,282 1469,285 1304,288 1141,290 978,293 913,292 499,298 482,298 482,298 483,349 651,344 813,341 979,344 1142,341 1304,339 1470,336 1632,333 1795,333 1966,328 1965,278"/>
+        <Baseline points="483,333 651,328 813,325 979,328 1141,325 1304,323 1470,320 1632,317 1795,317 1966,312"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Naše vláda československá když viděla že jest opuštěná a zrazená od</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d7482a0f-5ab3-4310-a7d2-ab2c21517cb9" index="1" custom="heights_v2:[35.3,15.8]">
+        <Coords points="2030,408 2030,403 2029,357 1842,362 1664,365 1483,365 1304,367 1122,373 944,373 762,375 583,381 399,386 401,437 585,432 763,426 944,424 1123,424 1304,418 1483,416 1664,416 1843,413 2030,408"/>
+        <Baseline points="400,421 584,416 763,411 944,408 1123,408 1304,403 1483,400 1664,400 1843,397 2030,392"/>
+        <TextEquiv conf="1.000">
+          <Unicode>francie a Anglie, od nichž v podobných případech měla pomoc slíbenou v měsíci</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="90a08b39-c6b1-432f-a3db-3be1f43964ad" index="2" custom="heights_v2:[35.7,15.6]">
+        <Coords points="388,476 388,486 390,528 574,520 755,514 937,506 1115,501 1296,501 1478,498 1657,498 1838,493 2025,485 2023,434 1836,442 1655,447 1478,447 1296,450 1115,450 935,455 753,463 572,468 388,476"/>
+        <Baseline points="389,512 573,504 755,499 936,491 1115,485 1296,485 1478,483 1656,483 1838,477 2024,469"/>
+        <TextEquiv conf="1.000">
+          <Unicode>srpnu odstoupila i spředsedou Milanem Hodžou. Byla sestavená vláda nová</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6e3dc3db-92dc-4a40-9930-daf4049c9243" index="3" custom="heights_v2:[35.5,15.6]">
+        <Coords points="2055,539 2054,525 2054,525 1865,535 1683,535 1499,535 1315,535 1133,535 949,538 763,549 580,554 394,559 395,610 582,605 766,600 950,589 1133,586 1315,586 1499,586 1683,586 1868,586 2057,576 2055,539"/>
+        <Baseline points="395,595 581,589 765,584 949,573 1133,571 1315,571 1499,571 1683,571 1867,571 2056,560"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v čele spředsedou jenerálem J: Syrovým. Tento když viděl že sudetčtí měmci propa=</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b9b8ac59-894f-4210-8f38-9e14fc375cfb" index="4" custom="heights_v2:[34.6,15.5]">
+        <Coords points="2065,663 2061,619 1871,624 1689,621 1504,624 1320,627 1136,629 952,632 767,637 583,643 395,640 394,690 585,693 769,688 952,682 1136,680 1320,677 1504,674 1688,672 1873,674 2065,669 2065,663"/>
+        <Baseline points="395,675 584,677 768,672 952,667 1136,664 1320,661 1504,659 1688,656 1872,659 2064,653"/>
+        <TextEquiv conf="1.000">
+          <Unicode>gatoři německa v pohraničí z nepokojují naše pohraniční stráže, přepadají naše</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8b1b9b81-a1be-4204-b88a-282dde9c1ce3" index="5" custom="heights_v2:[35.6,16.0]">
+        <Coords points="395,733 396,784 581,781 764,781 947,771 1128,765 1310,768 1494,765 1675,760 1856,757 2046,757 2046,706 1856,706 1674,709 1492,714 1309,717 1129,714 946,719 761,730 581,730 395,733"/>
+        <Baseline points="395,768 581,765 763,765 947,755 1128,749 1309,752 1494,749 1675,744 1856,741 2046,741"/>
+        <TextEquiv conf="1.000">
+          <Unicode>celnice a z nepokojují české obyvatelstvo střelbou spušek i kulometou které jiní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6ba3041-0c56-4cb9-978c-e05af9d3e0ee" index="6" custom="heights_v2:[33.8,15.5]">
+        <Coords points="2059,837 2059,831 2058,788 1869,793 1685,796 1501,798 1317,801 1135,806 952,809 767,814 584,817 397,820 397,834 398,869 584,866 769,864 952,858 1137,856 1318,850 1502,848 1686,845 1870,842 2059,837"/>
+        <Baseline points="398,853 584,851 768,848 952,843 1136,840 1317,835 1502,832 1686,829 1870,827 2059,821"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dodává německo. V začátku září byli zase povoláni záložníci ku svým plukum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9de4ddc1-5433-4a40-b03a-2d55a67e299c" index="7" custom="heights_v2:[36.0,16.1]">
+        <Coords points="2030,920 2030,920 2030,919 2028,868 1847,876 1672,876 1496,876 1320,879 1146,881 970,887 794,889 618,892 439,897 441,950 619,944 795,942 971,939 1147,934 1320,931 1496,928 1672,928 1849,928 2030,920"/>
+        <Baseline points="440,933 619,928 795,925 971,923 1147,917 1320,915 1496,912 1672,912 1848,912 2030,904"/>
+        <TextEquiv conf="1.000">
+          <Unicode>20 záři hlasilo rádio, že nepokoje v pohraničí stále se zvětšují, a němu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3847d730-39d1-4e1f-9dff-9a30c3b6b5b0" index="8" custom="heights_v2:[36.1,16.3]">
+        <Coords points="412,977 414,1030 595,1024 771,1024 950,1022 1126,1019 1302,1016 1480,1014 1657,1011 1832,1006 2016,1003 2016,951 1832,953 1655,959 1480,961 1301,964 1125,967 949,969 770,972 595,972 412,977"/>
+        <Baseline points="413,1013 595,1008 771,1008 949,1005 1125,1003 1301,1000 1480,997 1656,995 1832,989 2016,987"/>
+        <TextEquiv conf="1.000">
+          <Unicode>chtějí byt přidělení k německu, bylo tam vysláno četnictvo, strana němcu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c6a0730e-3278-4e3a-b9bf-184f129f053b" index="9" custom="heights_v2:[37.4,16.5]">
+        <Coords points="2046,1094 2048,1040 1862,1040 1680,1040 1499,1040 1316,1045 1137,1043 953,1051 773,1053 592,1053 408,1056 408,1058 408,1110 592,1107 774,1107 956,1105 1136,1097 1318,1099 1499,1094 1680,1094 1862,1094 2046,1094"/>
+        <Baseline points="408,1093 592,1091 773,1091 955,1088 1136,1080 1317,1083 1499,1077 1680,1077 1862,1077 2047,1077"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zvaná Sudettenpartaj (Hakenkraucleři) byla vladou rozpuštěná, prohlášeno tam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0515b372-b093-4e41-9e92-0815f564f309" index="10" custom="heights_v2:[34.7,15.5]">
+        <Coords points="403,1144 400,1194 400,1194 523,1197 643,1192 763,1189 883,1189 1003,1189 1123,1184 1243,1181 1363,1178 1489,1173 1487,1123 1361,1128 1242,1131 1122,1133 1001,1139 883,1139 763,1139 642,1141 521,1147 403,1144"/>
+        <Baseline points="401,1179 523,1181 643,1176 763,1173 883,1173 1003,1173 1123,1168 1243,1165 1363,1163 1488,1157"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stanné právo, a byla nařízená vojenská pohotovosť.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a0741ec-fb35-408c-912a-8283991b7a6f" index="11" custom="heights_v2:[35.3,15.9]">
+        <Coords points="2043,1245 2043,1229 2042,1194 1861,1200 1688,1202 1512,1202 1338,1208 1162,1213 988,1221 813,1221 640,1221 461,1224 462,1275 640,1272 813,1272 990,1272 1163,1264 1339,1259 1512,1253 1688,1253 1862,1251 2043,1245"/>
+        <Baseline points="461,1259 640,1256 813,1256 989,1256 1163,1248 1339,1243 1512,1237 1688,1237 1862,1235 2043,1229"/>
+        <TextEquiv conf="1.000">
+          <Unicode>21. září časně ráno přijel ku starostovi poddustojník a byly odebraný koně,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3d93634a-58c0-43ca-a99a-0f81af9e28b1" index="12" custom="heights_v2:[38.0,17.1]">
+        <Coords points="2046,1332 2045,1293 1859,1293 1677,1295 1499,1295 1317,1295 1138,1298 957,1298 779,1298 597,1301 414,1298 414,1353 598,1356 779,1353 957,1353 1139,1353 1317,1351 1499,1351 1678,1351 1859,1348 2046,1348 2046,1332"/>
+        <Baseline points="414,1336 597,1339 779,1336 957,1336 1139,1336 1317,1334 1499,1334 1678,1334 1859,1331 2046,1331"/>
+        <TextEquiv conf="1.000">
+          <Unicode>které byly při klasifikaci zapsány a podělený evidenčními listy z naší obce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b424a60f-7058-406a-a954-754410c3ece6" index="13" custom="heights_v2:[37.8,16.9]">
+        <Coords points="414,1389 414,1444 578,1441 742,1444 904,1441 1067,1441 1229,1438 1392,1441 1555,1438 1718,1441 1886,1438 1885,1384 1717,1386 1555,1384 1392,1386 1230,1384 1066,1386 904,1386 741,1389 579,1386 414,1389"/>
+        <Baseline points="414,1427 579,1424 741,1427 904,1424 1067,1424 1229,1422 1392,1424 1555,1422 1718,1424 1886,1422"/>
+        <TextEquiv conf="1.000">
+          <Unicode>celkem 9 koní, odvedeno v dělostřeleckých kasárnách v Hranicích.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1086a2fd-2cc8-4c81-bcb5-7734b98d13cb" index="14" custom="heights_v2:[36.3,15.8]">
+        <Coords points="449,1473 451,1525 608,1520 760,1520 915,1523 1067,1525 1219,1528 1374,1528 1525,1528 1678,1531 1838,1531 1838,1479 1678,1479 1526,1476 1374,1476 1219,1476 1067,1473 915,1471 761,1468 608,1468 449,1473"/>
+        <Baseline points="451,1510 608,1504 760,1504 915,1507 1067,1510 1219,1512 1374,1512 1526,1512 1678,1515 1838,1515"/>
+        <TextEquiv conf="1.000">
+          <Unicode>23 září o 11 hodině večer prohlášená všeobecná mobilisace.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e415b120-a414-4658-a2cc-73485cf4ddaf" index="15" custom="heights_v2:[36.2,16.2]">
+        <Coords points="452,1551 452,1551 452,1559 450,1603 626,1608 798,1614 968,1611 1139,1611 1312,1611 1483,1611 1654,1614 1824,1606 2003,1606 2003,1553 1824,1553 1652,1561 1483,1559 1312,1559 1139,1559 968,1559 797,1561 628,1556 452,1551"/>
+        <Baseline points="451,1587 627,1592 797,1598 968,1595 1139,1595 1312,1595 1483,1595 1654,1598 1824,1590 2003,1590"/>
+        <TextEquiv conf="1.000">
+          <Unicode>24 září musili nastoupiti k vojsku záložníci vojáci až 40 letí.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c62fd261-8cd0-4834-afe7-8edd6bc5a8ca" index="16" custom="heights_v2:[38.3,17.2]">
+        <Coords points="462,1642 465,1697 581,1692 693,1692 805,1692 917,1695 1029,1697 1141,1697 1253,1697 1365,1700 1485,1703 1486,1647 1366,1645 1254,1642 1141,1642 1029,1642 918,1639 806,1637 693,1637 581,1637 462,1642"/>
+        <Baseline points="464,1680 581,1675 693,1675 805,1675 917,1678 1029,1680 1141,1680 1253,1680 1366,1683 1486,1686"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Z obce Milenova odešlo celkem asi 60 mužů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="60f19b0a-7e36-41b8-aee4-0af5aca5b564" index="17" custom="heights_v2:[15.0,6.9]">
+        <Coords points="1979,1724 1979,1746 2003,1746 2003,1724 1979,1724"/>
+        <Baseline points="1979,1739 2003,1739"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="44d51cf4-9a07-4a97-ba6a-e84139d7766f" index="18" custom="heights_v2:[35.4,15.6]">
+        <Coords points="2016,1794 2017,1761 2017,1744 1835,1741 1662,1738 1488,1738 1316,1730 1139,1730 966,1728 792,1728 619,1725 443,1720 440,1770 440,1770 619,1776 792,1778 965,1778 1139,1781 1314,1781 1488,1789 1661,1789 1835,1792 2016,1794"/>
+        <Baseline points="441,1755 619,1760 792,1763 965,1763 1139,1766 1315,1766 1488,1774 1662,1774 1835,1776 2016,1779"/>
+        <TextEquiv conf="1.000">
+          <Unicode>26 září bylo z naší obce 5 pár koni i z povozy dáno na připrež.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a3495b4-b32d-41d9-9d3e-fede6db34a7b" index="19" custom="heights_v2:[36.8,16.4]">
+        <Coords points="2013,1883 2013,1883 2014,1858 2014,1830 1838,1827 1667,1825 1497,1819 1326,1817 1157,1817 987,1814 816,1814 646,1811 473,1806 472,1859 645,1865 816,1867 987,1867 1157,1870 1325,1870 1496,1873 1667,1878 1837,1881 2013,1883"/>
+        <Baseline points="472,1843 645,1848 816,1851 987,1851 1157,1854 1325,1854 1496,1856 1667,1862 1838,1864 2013,1867"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Všechno vojsko pěší, jízda i dělostřelectvo a náboje se odváželo a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8cd30bbb-fb8e-4f35-9016-51fb6c3619ee" index="20" custom="heights_v2:[39.1,17.5]">
+        <Coords points="419,1912 418,1946 493,1948 565,1948 634,1948 707,1951 775,1948 847,1951 917,1954 989,1954 1067,1954 1067,1897 989,1897 917,1897 850,1895 778,1892 705,1895 636,1892 565,1892 493,1892 420,1889 419,1912"/>
+        <Baseline points="419,1928 493,1931 565,1931 635,1931 707,1934 776,1931 848,1934 917,1936 989,1936 1067,1936"/>
+        <TextEquiv conf="1.000">
+          <Unicode>táhlo do Sudet a do Čech.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="73c92bfb-dfa1-40d8-b991-409835267752" index="21" custom="heights_v2:[14.3,7.3]">
+        <Coords points="661,1970 661,1992 704,1992 704,1970 661,1970"/>
+        <Baseline points="661,1984 704,1984"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="06fbe500-94cb-4a48-9b88-e05555ad95c7" index="22" custom="heights_v2:[37.5,16.6]">
+        <Coords points="473,1979 472,2033 650,2036 824,2038 997,2038 1171,2038 1347,2038 1520,2041 1694,2044 1866,2044 2048,2052 2050,1997 1869,1989 1694,1989 1521,1987 1347,1984 1171,1984 997,1984 824,1984 651,1981 473,1979"/>
+        <Baseline points="472,2016 651,2019 824,2022 997,2022 1171,2022 1347,2022 1520,2024 1694,2027 1867,2027 2048,2035"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 1. října podal německý vůdce kancleř Adolf Hitler naši</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="68b88658-62c4-4bb4-b2c1-555b28c6dee8" index="23" custom="heights_v2:[36.8,16.5]">
+        <Coords points="2055,2086 2055,2086 1868,2078 1687,2070 1504,2070 1323,2070 1141,2073 961,2070 779,2068 597,2068 415,2065 413,2109 413,2118 597,2121 779,2121 960,2123 1142,2126 1323,2123 1504,2123 1685,2123 1866,2131 2053,2139 2055,2086"/>
+        <Baseline points="414,2102 597,2104 779,2104 960,2107 1141,2110 1323,2107 1504,2107 1686,2107 1867,2115 2054,2123"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vladě notu, že na schuzi v Mnichově zástupci Francie, Anglie a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f441a2ce-b933-4d64-a9cd-410891e3727f" index="24" custom="heights_v2:[36.2,16.4]">
+        <Coords points="2083,2195 2083,2164 1891,2161 1708,2156 1520,2156 1336,2156 1149,2156 966,2153 779,2153 595,2153 405,2156 405,2160 406,2209 595,2206 779,2206 965,2206 1149,2209 1336,2209 1520,2209 1706,2209 1891,2214 2083,2217 2083,2195"/>
+        <Baseline points="405,2192 595,2190 779,2190 965,2190 1149,2192 1336,2192 1520,2192 1707,2192 1891,2198 2083,2200"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Itálie rozhodli a ujednali, ze německo zabere Sudety a pohranični</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="314ca5b1-8463-418c-98ca-a121850131dc" index="25" custom="heights_v2:[35.7,16.1]">
+        <Coords points="404,2231 403,2283 403,2283 587,2283 765,2286 947,2286 1125,2283 1304,2283 1486,2286 1664,2286 1842,2288 2029,2294 2031,2242 1844,2237 1665,2234 1486,2234 1305,2231 1125,2231 946,2234 765,2234 587,2231 404,2231"/>
+        <Baseline points="403,2267 587,2267 765,2270 947,2270 1125,2267 1304,2267 1486,2270 1664,2270 1843,2272 2030,2278"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obce a okresy kde je 60 % cent němci dle sčítání lidu v roku 1910,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a65161f5-5c93-493a-9b75-c82a068c8e27" index="26" custom="heights_v2:[20.0,9.9]">
+        <Coords points="411,2298 411,2327 440,2327 440,2298 411,2298"/>
+        <Baseline points="411,2318 440,2318"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a26fd50c-3472-4459-bdb8-7d02f7cfc777" index="27" custom="heights_v2:[36.5,16.5]">
+        <Coords points="2040,2369 2040,2365 2041,2316 1854,2313 1676,2308 1494,2308 1315,2308 1133,2308 955,2308 775,2302 594,2305 411,2305 411,2358 595,2358 773,2355 955,2361 1133,2361 1315,2361 1494,2361 1674,2361 1853,2366 2040,2369"/>
+        <Baseline points="411,2342 595,2342 773,2339 955,2344 1133,2344 1315,2344 1494,2344 1675,2344 1854,2350 2040,2352"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Polsko že sobě zabere Těšínsko, Maďaři že sobě zaberou část Slovenska</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c3645c6-e8ed-4310-aff6-5fb800139bed" index="28" custom="heights_v2:[35.8,16.4]">
+        <Coords points="418,2381 415,2433 477,2435 536,2435 595,2435 653,2435 710,2435 768,2433 827,2433 885,2433 949,2433 949,2381 885,2381 827,2381 768,2381 708,2383 653,2383 595,2383 536,2383 477,2383 418,2381"/>
+        <Baseline points="416,2416 477,2419 536,2419 595,2419 653,2419 709,2419 768,2416 827,2416 885,2416 949,2416"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a Podkarpatskou Rus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="08140035-2df4-4568-b7c2-af0e09ccde13" index="29" custom="heights_v2:[34.4,15.6]">
+        <Coords points="469,2465 470,2515 645,2512 816,2512 987,2512 1157,2512 1328,2515 1499,2520 1670,2523 1840,2517 2019,2520 2019,2470 1841,2467 1668,2473 1499,2470 1329,2465 1158,2462 987,2462 816,2462 645,2462 469,2465"/>
+        <Baseline points="469,2499 645,2496 816,2496 987,2496 1157,2496 1328,2499 1499,2504 1670,2507 1840,2502 2019,2504"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Toto ujednání podáno naší vládě aby se do 24 hodin o tom</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="782a43ac-f72b-42e5-aa2e-ec0cf45bbc6b" index="30" custom="heights_v2:[34.6,15.4]">
+        <Coords points="2067,2592 2061,2542 1876,2550 1697,2547 1516,2542 1331,2539 1149,2539 969,2534 784,2534 603,2534 417,2534 418,2584 603,2584 784,2584 968,2584 1149,2589 1331,2589 1514,2592 1696,2597 1878,2600 2067,2592"/>
+        <Baseline points="417,2568 603,2568 784,2568 968,2568 1149,2574 1331,2574 1515,2576 1696,2582 1878,2584 2065,2576"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vyjádřila. Naše vláda viděla že když to neschválí a na to nepřistoupí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="859aa98d-3e4d-42ec-bc85-1be774e1e32c" index="31" custom="heights_v2:[16.5,8.1]">
+        <Coords points="437,2595 437,2619 461,2619 461,2595 437,2595"/>
+        <Baseline points="437,2611 461,2611"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6bdcc124-8204-4704-8385-7499f98aa34c" index="32" custom="heights_v2:[34.9,15.5]">
+        <Coords points="418,2613 419,2664 600,2661 776,2664 955,2661 1131,2664 1307,2666 1485,2669 1661,2674 1838,2677 2022,2672 2021,2621 1837,2627 1662,2624 1487,2619 1307,2616 1131,2613 955,2611 776,2613 601,2611 418,2613"/>
+        <Baseline points="419,2648 600,2646 776,2648 955,2646 1131,2648 1307,2651 1486,2654 1662,2659 1838,2662 2022,2656"/>
+        <TextEquiv conf="1.000">
+          <Unicode>že nám západní státy nepomohou a německo nás válkou zničí, a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7c54e9ec-6b90-4e30-996a-ed153840bb0e" index="33" custom="heights_v2:[36.3,16.2]">
+        <Coords points="2084,2731 2084,2731 2078,2679 1888,2695 1707,2692 1523,2692 1339,2692 1154,2684 968,2684 784,2684 600,2684 412,2689 410,2717 411,2742 600,2737 784,2737 968,2737 1151,2737 1339,2745 1523,2745 1707,2745 1892,2747 2084,2731"/>
+        <Baseline points="411,2726 600,2720 784,2720 968,2720 1152,2720 1339,2728 1523,2728 1707,2728 1891,2731 2082,2715"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nežli by jsme se nechali vyhubiť se rozhodla, na ujednání přistoupiti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="df87b2a5-c72a-4b1a-b2c2-a68038ce926d" index="34" custom="heights_v2:[34.9,15.5]">
+        <Coords points="407,2768 403,2819 547,2819 688,2819 827,2821 968,2819 1107,2819 1248,2816 1387,2816 1528,2819 1675,2819 1675,2768 1528,2768 1387,2765 1248,2765 1106,2768 968,2768 826,2771 689,2768 547,2768 407,2768"/>
+        <Baseline points="404,2803 547,2803 688,2803 827,2806 968,2803 1107,2803 1248,2800 1387,2800 1528,2803 1675,2803"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a naši armadu ze Sudet a pohraničního úzení odvolala.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8d9324ee-28b3-45bc-b859-952c5be667ee" index="35" custom="heights_v2:[17.9,8.9]">
+        <Coords points="452,2849 454,2876 481,2873 478,2846 452,2849"/>
+        <Baseline points="453,2867 480,2864"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="124ab2d9-23fd-4011-b441-4d0393351f9c" index="36" custom="heights_v2:[33.2,14.9]">
+        <Coords points="453,2855 454,2903 629,2901 803,2901 976,2895 1147,2901 1320,2898 1494,2898 1664,2895 1837,2895 2016,2898 2017,2850 1838,2847 1664,2847 1493,2850 1320,2850 1146,2853 977,2847 802,2853 629,2853 453,2855"/>
+        <Baseline points="453,2888 629,2886 803,2886 976,2880 1147,2886 1320,2883 1494,2883 1664,2880 1838,2880 2016,2883"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Připomíná se že v roku 1917 ve světové válce když němci dobývali Paříž, 50.000</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8fa5d3be-04b1-4485-b41e-8436aeac4118" index="37" custom="heights_v2:[19.4,9.2]">
+        <Coords points="1311,2909 1313,2938 1366,2935 1365,2906 1311,2909"/>
+        <Baseline points="1312,2928 1366,2926"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="064a4dc8-bd47-482b-88da-07bcb8a6e6f6" index="38" custom="heights_v2:[34.0,14.9]">
+        <Coords points="416,2926 416,2939 387,2939 387,2975 653,2971 725,2967 871,2967 891,2967 1899,2975 1899,2926 1726,2926 1558,2926 1392,2926 1225,2921 1059,2921 891,2918 725,2918 556,2926 416,2926"/>
+        <Baseline points="387,2960 557,2960 725,2952 891,2952 1059,2955 1224,2955 1392,2960 1558,2960 1726,2960 1899,2960"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Padesát tisíc našich legionářů tam padlo a Paříž proti němcům zahránili.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="81e67d4d-c4f2-4f1f-a2a4-cf7210c50c40">
+      <Coords points="2179,1211 2152,1211 2152,1227 2179,1227 2179,1211"/>
+      <TextLine id="3f287cd0-c552-457a-b291-35eff8de2fe8" index="0" custom="heights_v2:[10.9,5.7]">
+        <Coords points="2179,1211 2152,1211 2152,1227 2179,1227 2179,1211"/>
+        <Baseline points="2152,1221 2179,1221"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="635a30e8-2d6b-4f95-aa07-f7e8a1761508">
+      <Coords points="2336,823 2336,1220 2353,1459 2344,1571 2350,2333 2398,2406 2409,2499 2341,2683 2350,2978 2885,2973 3955,2978 3968,2890 3968,2834 3953,2728 3979,2345 3970,2196 3944,2081 3972,1995 3960,1764 3982,1684 3977,1523 4001,1441 4000,1388 3950,1204 3958,972 3948,804 3979,723 3997,439 3950,324 3949,278 3264,286 2410,281 2348,368 2339,546 2336,823"/>
+      <TextLine id="d0629d50-704d-4ebb-b87e-92a32948412e" index="0" custom="heights_v2:[31.3,14.4]">
+        <Coords points="3950,324 3949,278 3773,281 3711,281 3293,286 3264,286 3094,286 2926,286 2844,284 2410,281 2411,326 2584,324 2755,326 2926,332 3094,332 3265,332 3435,329 3603,326 3774,326 3950,324"/>
+        <Baseline points="2411,312 2584,309 2755,312 2926,317 3094,317 3264,317 3435,315 3603,312 3774,312 3950,309"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Náš president československého státu Edvard Beneš se úřadu svého vzdal a odjel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cd066fd1-1151-4ea8-8fa3-22d1122aa34b" index="1" custom="heights_v2:[32.5,14.6]">
+        <Coords points="2348,368 2350,415 2502,409 2648,409 2795,412 2941,412 3088,415 3236,415 3382,409 3529,407 3681,401 3679,354 3527,360 3381,362 3234,368 3088,368 2942,365 2795,365 2649,362 2502,362 2348,368"/>
+        <Baseline points="2350,400 2502,395 2648,395 2795,397 2942,397 3088,400 3235,400 3382,395 3528,392 3680,387"/>
+        <TextEquiv conf="1.000">
+          <Unicode>z Prahy do ciziny. Snád Holandska neb Ameriky a náš stát zustal osiřelý.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d0c796ac-db21-4db3-97b7-5e38dbcdc256" index="2" custom="heights_v2:[30.2,14.2]">
+        <Coords points="3994,484 3997,439 3813,442 3635,444 3456,450 3277,452 3098,458 2921,453 2741,458 2563,458 2379,460 2379,505 2563,502 2742,502 2920,497 3099,502 3278,497 3457,494 3635,489 3814,486 3994,484"/>
+        <Baseline points="2379,491 2563,488 2742,488 2920,483 3099,488 3278,483 3456,480 3635,475 3814,472 3995,469"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Naše vojsko ustupovalo od hranic v Čechách a na Moravě a německé vojsko zabíralo celé</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="64ba383d-d745-4cd5-965e-c5df997dc624" index="3" custom="heights_v2:[30.3,13.6]">
+        <Coords points="3989,560 3992,517 3992,516 3803,519 3621,522 3437,527 3256,527 3072,530 2890,535 2706,540 2525,543 2339,546 2339,546 2339,565 2339,590 2526,587 2707,584 2891,579 3073,574 3256,571 3438,571 3622,566 3803,563 3989,560"/>
+        <Baseline points="2339,576 2526,573 2707,571 2891,565 3072,560 3256,557 3438,557 3622,552 3803,549 3990,547"/>
+        <TextEquiv conf="1.000">
+          <Unicode>okresy a obce i kde bylo většina českeho obyvatelstva a ku vyrovnání hranic i celé české obce.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="abd3e3a1-f3c8-4978-ae1c-218bc8c34f99" index="4" custom="heights_v2:[31.0,14.2]">
+        <Coords points="2376,622 2377,668 2553,665 2726,660 2899,660 3072,660 3246,660 3420,657 3592,652 3766,654 3945,649 3944,604 3765,609 3593,606 3418,612 3245,614 3072,614 2899,614 2726,614 2551,620 2376,622"/>
+        <Baseline points="2376,653 2552,651 2726,645 2899,645 3072,645 3246,645 3419,643 3592,637 3766,640 3944,635"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Před německým vojskem šly ozbrojené tlupy německych nevojáku (ordneru) kteři česke</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="37187e83-ad43-427e-91bd-5b70babe6593" index="5" custom="heights_v2:[30.9,14.1]">
+        <Coords points="3979,723 3979,723 3979,718 3979,679 3792,681 3610,687 3429,689 3247,695 3068,687 2886,687 2703,692 2522,700 2339,700 2339,745 2524,745 2705,737 2886,731 3066,731 3249,739 3430,734 3612,731 3793,726 3979,723"/>
+        <Baseline points="2339,731 2523,731 2704,723 2886,717 3067,717 3248,725 3430,720 3611,717 3792,712 3979,709"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obyvatelstvo vyháněli z jejich příbytku a zle s ními nakládali a mnohým ani jejich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="41287a95-6112-47ff-8f49-58807674baf7" index="6" custom="heights_v2:[33.0,14.8]">
+        <Coords points="2337,775 2336,796 2336,823 2518,823 2696,820 2875,820 3051,820 3230,818 3409,815 3585,812 3764,810 3948,804 3946,756 3762,762 3584,764 3408,767 3229,770 3051,772 2875,772 2696,772 2517,775 2337,775"/>
+        <Baseline points="2336,808 2518,808 2696,805 2875,805 3051,805 3230,803 3408,800 3584,797 3763,795 3947,789"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nejnutnější věci nenechali sobě vzíť. Až za ními přišlo vojsko to bylo slušné a čechy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="80463c98-a106-42df-a086-98394be737c4" index="7" custom="heights_v2:[32.5,14.7]">
+        <Coords points="2336,853 2336,900 2513,897 2686,895 2859,895 3032,895 3206,895 3379,892 3553,889 3726,887 3907,884 3907,837 3725,840 3552,842 3379,845 3205,848 3032,848 2859,848 2686,848 2512,850 2336,853"/>
+        <Baseline points="2336,885 2512,883 2686,880 2859,880 3032,880 3206,880 3379,877 3552,875 3726,872 3907,869"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nevyháněli. Ještě surověji se při zabíraní k českým obyvatelum byli Poláci a Madaři.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="83f0ce9e-453d-4a3c-923d-e92cca601df6" index="8" custom="heights_v2:[30.9,14.2]">
+        <Coords points="3958,972 3955,927 3773,932 3595,935 3419,937 3240,940 3065,937 2886,937 2710,937 2531,935 2348,943 2350,988 2531,980 2710,982 2886,982 3064,982 3241,985 3419,982 3595,980 3774,977 3958,972"/>
+        <Baseline points="2350,973 2531,965 2710,968 2886,968 3064,968 3240,971 3419,968 3595,965 3774,963 3957,957"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Čechové kteří ze zabraných obcí a měst byli nucení se vystěhovať, přišli do vnitř</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="28b95366-341b-4993-9afc-41bb9a8fffc3" index="9" custom="heights_v2:[30.1,13.8]">
+        <Coords points="2336,1021 2336,1065 2515,1062 2691,1059 2869,1059 3046,1062 3225,1059 3401,1057 3579,1054 3756,1051 3940,1046 3938,1002 3754,1007 3579,1010 3400,1013 3224,1015 3045,1018 2870,1015 2691,1015 2515,1018 2336,1021"/>
+        <Baseline points="2336,1051 2515,1048 2691,1045 2870,1045 3046,1048 3224,1045 3400,1043 3579,1040 3755,1037 3939,1032"/>
+        <TextEquiv conf="1.000">
+          <Unicode>republiky do měst a dědin ku svým rodinám a známým neb byli do obce příslušní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="68a5d698-4938-4d91-b33b-9e38b61b84f7" index="10" custom="heights_v2:[31.0,14.0]">
+        <Coords points="3953,1129 3954,1084 3773,1089 3598,1086 3424,1086 3247,1092 3072,1094 2899,1094 2723,1094 2547,1094 2368,1097 2369,1142 2547,1139 2723,1139 2899,1139 3073,1139 3249,1137 3424,1131 3598,1131 3774,1134 3953,1129"/>
+        <Baseline points="2368,1128 2547,1125 2723,1125 2899,1125 3072,1125 3248,1123 3424,1117 3598,1117 3774,1120 3953,1115"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Do obce naši Milenova přivezli autem sem přislušného Aloise Šroma ze ženou a třema</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="77a19450-8cdc-4614-92ff-a45e97b5c21b" index="11" custom="heights_v2:[33.8,15.0]">
+        <Coords points="3950,1204 3950,1204 3950,1203 3949,1156 3765,1158 3587,1158 3407,1164 3229,1166 3054,1166 2875,1166 2696,1169 2517,1172 2336,1172 2336,1220 2518,1220 2697,1218 2875,1215 3054,1215 3230,1215 3409,1212 3587,1207 3766,1207 3950,1204 3950,1204"/>
+        <Baseline points="2336,1205 2518,1205 2696,1203 2875,1200 3054,1200 3230,1200 3408,1197 3587,1192 3766,1192 3950,1189"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dětni, uprchl z Dobešova. František Šrom se synem uprchl z Padesáti Lánu. Ferdinand</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="665a34aa-d5d7-4fa4-93d5-8058bf477899" index="12" custom="heights_v2:[35.5,16.1]">
+        <Coords points="2339,1256 2342,1299 2507,1296 2670,1296 2835,1294 2997,1291 3161,1294 3326,1291 3489,1291 3651,1286 3822,1283 3821,1231 3651,1234 3487,1239 3326,1239 3160,1242 2998,1239 2834,1242 2669,1245 2507,1245 2338,1247 2339,1256"/>
+        <Baseline points="2340,1283 2507,1280 2670,1280 2835,1277 2998,1275 3160,1277 3326,1275 3488,1275 3651,1269 3822,1267"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kroča ze ženou a šesti dětmi ubytoval se u rodiny v čísle 16, uprchl z Jaktáře.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="73e47671-7401-4bd7-b470-599fe9652c97" index="13" custom="heights_v2:[35.3,15.8]">
+        <Coords points="2368,1325 2368,1376 2545,1376 2715,1373 2888,1371 3059,1371 3230,1368 3403,1365 3574,1368 3745,1363 3923,1360 3923,1309 3744,1312 3573,1317 3404,1314 3229,1317 3058,1320 2888,1320 2714,1322 2544,1325 2368,1325"/>
+        <Baseline points="2368,1360 2544,1360 2715,1358 2888,1355 3059,1355 3230,1352 3403,1350 3574,1352 3744,1347 3923,1344"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Řidicí učitelka Františka Strosová roz. Matějíčkova v čísle 37, z manželem a 2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="19d4e8e9-6052-430f-afba-3e861dafd256" index="14" custom="heights_v2:[36.0,16.5]">
+        <Coords points="2352,1451 2353,1459 2353,1459 2539,1457 2721,1457 2902,1454 3083,1451 3267,1449 3449,1451 3630,1446 3811,1443 4001,1441 4000,1388 3811,1391 3629,1394 3447,1399 3268,1396 3083,1399 2901,1402 2720,1404 2539,1404 2352,1407 2352,1451"/>
+        <Baseline points="2352,1443 2539,1440 2720,1440 2902,1438 3083,1435 3267,1432 3448,1435 3630,1430 3811,1427 4001,1424"/>
+        <TextEquiv conf="1.000">
+          <Unicode>syny uprchla z Orlové u Mor. Ostravy, ubytováná ve škole kde byl t.č. byt prázdný.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b78d652-92cd-4e84-a2a9-70bcadaaac8b" index="15" custom="heights_v2:[35.0,15.9]">
+        <Coords points="2394,1488 2395,1539 2574,1536 2747,1536 2923,1536 3096,1533 3273,1533 3446,1531 3622,1531 3796,1528 3977,1523 3975,1472 3794,1477 3621,1480 3446,1480 3272,1482 3096,1482 2922,1485 2747,1485 2574,1485 2394,1488"/>
+        <Baseline points="2395,1523 2574,1520 2747,1520 2923,1520 3096,1518 3272,1518 3446,1515 3622,1515 3795,1512 3976,1507"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Všech uprchlíku ze zabraného území republiky kteří byli nucení se vystěhovat,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d2164ad4-bed6-45e5-a1ea-5163f2086ed3" index="16" custom="heights_v2:[34.4,15.3]">
+        <Coords points="2344,1571 2344,1604 2345,1621 2470,1618 2593,1616 2715,1613 2838,1613 2960,1613 3083,1613 3206,1610 3329,1610 3457,1605 3455,1555 3327,1560 3206,1560 3082,1563 2960,1563 2838,1563 2715,1563 2592,1566 2469,1568 2344,1571"/>
+        <Baseline points="2344,1606 2470,1603 2592,1600 2715,1598 2838,1598 2960,1598 3083,1598 3206,1595 3328,1595 3456,1590"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bylo v měsíci prosinci napočteno přes sto tisíc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a48f8ffc-41f0-4671-a1b1-248fd476ce82" index="17" custom="heights_v2:[36.5,16.6]">
+        <Coords points="3982,1679 3980,1630 3798,1630 3621,1636 3445,1638 3267,1641 3091,1641 2914,1644 2736,1646 2560,1649 2378,1654 2379,1708 2561,1702 2737,1700 2915,1697 3091,1694 3267,1694 3446,1692 3622,1689 3798,1684 3982,1684 3982,1679"/>
+        <Baseline points="2379,1691 2560,1686 2736,1683 2915,1680 3091,1678 3267,1678 3446,1675 3622,1672 3798,1667 3981,1667"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V politickém okresi hranickém bylo zabrano německem 22 obcí. Nová státní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ce3e1b37-61aa-4315-9fee-26a56a628244" index="18" custom="heights_v2:[36.4,16.7]">
+        <Coords points="2345,1732 2346,1785 2526,1782 2705,1780 2884,1777 3062,1772 3241,1772 3419,1769 3598,1769 3776,1764 3960,1764 3960,1762 3960,1711 3776,1711 3597,1716 3419,1716 3240,1719 3062,1719 2882,1724 2704,1727 2525,1729 2345,1732"/>
+        <Baseline points="2346,1768 2526,1766 2704,1763 2883,1760 3062,1755 3240,1755 3419,1752 3598,1752 3776,1747 3960,1747"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hranice jest od Slavkova přes hory Peklo pod Středolesím, Ponkovem, Kiliřo=</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0f7d77ff-23de-43a2-9023-0806aabac60c" index="19" custom="heights_v2:[35.9,16.6]">
+        <Coords points="2346,1807 2346,1859 2521,1857 2691,1851 2862,1851 3033,1849 3203,1846 3374,1846 3544,1841 3715,1841 3891,1838 3891,1786 3715,1788 3544,1788 3373,1794 3203,1794 3032,1796 2861,1799 2691,1799 2519,1804 2346,1807"/>
+        <Baseline points="2346,1843 2520,1840 2691,1835 2862,1835 3032,1832 3203,1830 3374,1830 3544,1824 3715,1824 3891,1822"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vem, Dobešovem, Nýdekem, Bělotínem a Hranicemi zabíra Kunčice a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="501376e3-90e5-48fa-a851-aa9e95597e52" index="20" custom="heights_v2:[34.9,15.9]">
+        <Coords points="2347,1891 2347,1915 2347,1941 2459,1939 2566,1936 2672,1936 2779,1936 2889,1933 2995,1931 3102,1931 3208,1928 3323,1928 3323,1877 3208,1877 3101,1880 2995,1880 2887,1883 2778,1885 2672,1885 2566,1885 2458,1888 2347,1891"/>
+        <Baseline points="2347,1926 2459,1923 2566,1920 2672,1920 2779,1920 2888,1918 2995,1915 3102,1915 3208,1912 3323,1912"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Heřmanice a přejde na okres Nový Jičín.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a7f73ccb-91fe-4aa7-a7ea-14a2701315a3" index="21" custom="heights_v2:[35.7,16.1]">
+        <Coords points="3971,1979 3969,1943 3788,1951 3614,1951 3439,1957 3264,1959 3088,1962 2914,1965 2739,1965 2563,1965 2383,1973 2385,2024 2563,2016 2739,2016 2915,2016 3089,2014 3265,2011 3441,2008 3614,2003 3791,2003 3972,1995 3971,1979"/>
+        <Baseline points="2384,2008 2563,2000 2739,2000 2915,2000 3088,1998 3264,1995 3440,1992 3614,1987 3790,1987 3971,1979"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V Čechách zabráno německem 33% pudy, na Moravě 31% i z obyvatelstvem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8b38609c-8cea-4772-86cf-d0b6c6a4ccd6" index="22" custom="heights_v2:[36.6,16.7]">
+        <Coords points="3944,2081 3944,2079 3944,2028 3766,2028 3595,2030 3424,2033 3253,2036 3083,2036 2912,2038 2742,2038 2570,2041 2394,2046 2395,2100 2571,2094 2742,2092 2913,2092 3083,2089 3254,2089 3425,2086 3595,2084 3766,2081 3944,2081"/>
+        <Baseline points="2395,2083 2571,2078 2742,2075 2912,2075 3083,2072 3254,2072 3424,2070 3595,2067 3766,2064 3944,2064"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Podkarpatskou Rus zabralo Maďarsko i část Slovenska. Zbylé Slovensko se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e54b11af-7249-434a-9c77-76402f037b98" index="23" custom="heights_v2:[34.9,16.0]">
+        <Coords points="2348,2128 2349,2179 2497,2179 2640,2176 2785,2179 2928,2176 3075,2176 3219,2176 3363,2174 3507,2174 3659,2171 3659,2120 3506,2123 3363,2123 3218,2125 3075,2125 2928,2125 2784,2128 2641,2125 2496,2128 2348,2128"/>
+        <Baseline points="2349,2163 2496,2163 2640,2160 2784,2163 2928,2160 3075,2160 3219,2160 3363,2158 3507,2158 3659,2155"/>
+        <TextEquiv conf="1.000">
+          <Unicode>osamostatnilo a Těšínsko až po Mor. Ostravu zabralo Polsko.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="00846554-571f-4a7a-83d0-51118f39aff0" index="24" custom="heights_v2:[33.3,15.2]">
+        <Coords points="3970,2201 3970,2196 3791,2202 3620,2199 3448,2199 3274,2204 3104,2204 2932,2202 2760,2204 2586,2207 2410,2210 2411,2258 2587,2255 2761,2253 2931,2250 3104,2253 3276,2253 3448,2247 3619,2247 3793,2250 3972,2245 3970,2201"/>
+        <Baseline points="2411,2243 2587,2240 2760,2238 2931,2235 3104,2238 3275,2238 3448,2232 3619,2232 3792,2235 3971,2230"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Naše malá republika sestává se zbylého území Čech a Moravy a tak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8bbeef0d-ff8e-4bc9-9b94-9598677e97fb" index="25" custom="heights_v2:[34.9,15.8]">
+        <Coords points="2350,2283 2350,2333 2350,2333 2491,2331 2627,2331 2766,2328 2902,2325 3041,2325 3176,2323 3315,2325 3451,2328 3595,2325 3594,2275 3450,2277 3316,2275 3177,2272 3040,2275 2902,2275 2765,2277 2626,2280 2491,2280 2350,2283"/>
+        <Baseline points="2350,2318 2491,2315 2627,2315 2766,2312 2902,2310 3040,2310 3176,2307 3315,2310 3451,2312 3595,2310"/>
+        <TextEquiv conf="1.000">
+          <Unicode>se musí znova zařizovati a očekávať jak bude dále.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bdcab3b5-c6fc-4e41-8bd8-fce55eb2f6db" index="26" custom="heights_v2:[36.4,16.8]">
+        <Coords points="2398,2406 2398,2406 2398,2406 2577,2404 2749,2398 2926,2404 3099,2401 3275,2401 3448,2401 3625,2401 3798,2398 3975,2398 3979,2345 3798,2345 3624,2348 3448,2348 3275,2348 3099,2348 2925,2351 2751,2345 2575,2351 2397,2353 2398,2406"/>
+        <Baseline points="2398,2390 2576,2387 2750,2382 2926,2387 3099,2384 3275,2384 3448,2384 3624,2384 3798,2382 3977,2382"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Vojáci záložníci kteří nastoupili vojenskou službu vráceli se domu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4fee3dca-9706-41e9-8b80-709c9cdc868b" index="27" custom="heights_v2:[40.8,18.8]">
+        <Coords points="2409,2495 2409,2499 2409,2499 2566,2496 2720,2491 2875,2496 3027,2496 3182,2494 3337,2494 3488,2488 3643,2491 3803,2488 3802,2429 3642,2432 3489,2429 3335,2434 3182,2434 3026,2437 2875,2437 2722,2432 2564,2437 2408,2440 2409,2495"/>
+        <Baseline points="2408,2480 2566,2478 2720,2472 2875,2478 3027,2478 3182,2475 3336,2475 3488,2470 3643,2472 3803,2470"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Odebrané koně byly také do polovice listopádu vrácené</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6923d47c-635d-4ed4-a33b-64ceefbf25d9" index="28" custom="heights_v2:[41.1,19.1]">
+        <Coords points="2476,2517 2478,2577 2643,2571 2803,2571 2966,2571 3126,2569 3286,2569 3448,2566 3609,2566 3768,2563 3936,2563 3936,2503 3768,2503 3608,2506 3448,2506 3285,2509 3126,2509 2965,2511 2803,2511 2643,2511 2476,2517"/>
+        <Baseline points="2478,2558 2643,2552 2803,2552 2966,2552 3126,2550 3286,2550 3448,2547 3608,2547 3768,2544 3936,2544"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Počasí, povaha roku, polní práce a úroda na poli.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4261ead5-0a83-45e3-86e8-a9fc61c41a05" index="29" custom="heights_v2:[40.1,18.2]">
+        <Coords points="3959,2645 3960,2621 3959,2587 3786,2592 3619,2592 3451,2592 3283,2592 3118,2592 2949,2595 2782,2595 2613,2598 2442,2600 2443,2658 2614,2656 2782,2653 2950,2653 3118,2651 3283,2651 3451,2651 3619,2651 3788,2650 3959,2645"/>
+        <Baseline points="2443,2640 2614,2638 2782,2635 2950,2635 3118,2632 3283,2632 3451,2632 3619,2632 3787,2632 3960,2627"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zima začala ku konci minulého roku, a potrvala až do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9115900f-d4bd-45ad-9db6-7309ec45ca50" index="30" custom="heights_v2:[39.6,18.4]">
+        <Coords points="2341,2685 2343,2741 2523,2739 2702,2739 2880,2733 3056,2733 3235,2733 3414,2733 3590,2731 3769,2731 3953,2728 3952,2670 3768,2673 3590,2673 3413,2675 3235,2675 3056,2675 2880,2675 2700,2681 2523,2681 2341,2683 2341,2685"/>
+        <Baseline points="2342,2723 2523,2720 2702,2720 2880,2715 3056,2715 3235,2715 3414,2715 3590,2712 3768,2712 3952,2710"/>
+        <TextEquiv conf="1.000">
+          <Unicode>15 ledna, pak nastala obleva a nebyla žádná zima. Únor byl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1042b9f3-2be2-4959-aa1e-384cc7df37a4" index="31" custom="heights_v2:[37.2,16.9]">
+        <Coords points="2349,2768 2350,2823 2528,2817 2705,2817 2878,2812 3054,2812 3227,2812 3403,2812 3576,2809 3753,2809 3934,2807 3933,2752 3752,2755 3576,2755 3403,2758 3227,2758 3054,2758 2878,2758 2703,2763 2528,2763 2349,2768"/>
+        <Baseline points="2350,2806 2528,2800 2704,2800 2878,2795 3054,2795 3227,2795 3403,2795 3576,2792 3752,2792 3934,2790"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bez zimy, jen malé noční mrázy a občas napadal snich ale</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0d15789b-e29a-49ce-9e57-2487feeefe0c" index="32" custom="heights_v2:[38.8,17.3]">
+        <Coords points="3968,2890 3968,2834 3968,2834 3784,2834 3606,2834 3427,2834 3248,2836 3070,2836 2891,2836 2712,2836 2533,2839 2353,2836 2352,2892 2534,2895 2712,2892 2891,2892 3070,2892 3249,2892 3427,2890 3606,2890 3784,2890 3968,2890"/>
+        <Baseline points="2352,2875 2534,2878 2712,2875 2891,2875 3070,2875 3248,2875 3427,2872 3606,2872 3784,2872 3968,2872"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hned zase stál. Březen byl suchý bez déšťu a 15 března se selo, a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="113485dd-3510-4f4a-96b7-0ea9328e72ae" index="33" custom="heights_v2:[40.0,17.9]">
+        <Coords points="2350,2978 2363,2978 2531,2973 2707,2973 2885,2973 2892,2973 3955,2978 3955,2977 3955,2920 3771,2920 3595,2923 3418,2918 3240,2918 3062,2918 2886,2915 2707,2915 2531,2915 2348,2920 2350,2978"/>
+        <Baseline points="2350,2960 2531,2955 2707,2955 2886,2955 3062,2958 3240,2958 3416,2958 3595,2963 3771,2960 3955,2960"/>
+        <TextEquiv conf="1.000">
+          <Unicode>25 března bylo poseto. Duben byl studený a suchý. Vítr severní stále</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="36fa2595-32e2-4f4d-b75d-48f296e4158f">
+      <Coords points="388,2915 381,2915 381,2939 416,2939 416,2915 388,2915"/>
+      <TextLine id="4a716f8f-0798-4dfb-a73f-c1ede442e83b" index="0" custom="heights_v2:[15.9,7.9]">
+        <Coords points="416,2939 416,2915 381,2915 381,2939 416,2939"/>
+        <Baseline points="381,2931 416,2931"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="3e0d70d6-4348-4c55-8451-268597ded407">
+      <Coords points="3400,3024 3368,3024 3368,3066 3400,3066 3400,3024"/>
+      <TextLine id="b4d0ba55-c2ce-48e1-8295-87b700dae975" index="0" custom="heights_v2:[29.6,12.4]">
+        <Coords points="3368,3066 3400,3066 3400,3024 3368,3024 3368,3066"/>
+        <Baseline points="3368,3054 3400,3054"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

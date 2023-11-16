@@ -1,0 +1,470 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:12:29.815577+00:00</Created>
+    <LastChange>2023-02-07T20:12:29.815577+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-257-45" imageWidth="1973" imageHeight="1559">
+    <TextRegion id="r000">
+      <Coords points="22,831 25,913 155,918 173,874 170,834 22,831"/>
+      <TextLine id="r000-l036" index="0" custom="heights_v2:[29.0,11.2]">
+        <Coords points="25,831 59,833 98,833 128,836 170,833 173,873 130,876 95,873 59,873 22,871"/>
+        <Baseline points="23,860 59,862 96,862 130,865 172,862"/>
+        <TextEquiv conf="0.785">
+          <Unicode>Letopisecká</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l039" index="1" custom="heights_v2:[28.0,10.8]">
+        <Coords points="27,874 72,877 110,879 155,879 155,918 110,918 70,915 25,912"/>
+        <Baseline points="25,902 70,905 110,907 155,907"/>
+        <TextEquiv conf="0.985">
+          <Unicode>komise.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="62,1148 211,1153 211,1109 25,1101 22,1145 62,1148"/>
+      <TextLine id="r001-l051" index="0" custom="heights_v2:[32.0,12.0]">
+        <Coords points="25,1101 62,1104 101,1104 135,1106 169,1109 211,1109 211,1153 169,1153 132,1150 98,1148 62,1148 22,1145"/>
+        <Baseline points="23,1133 62,1136 99,1136 132,1138 169,1141 211,1141"/>
+        <TextEquiv conf="0.670">
+          <Unicode>Knihovní rada</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="34,504 178,597 186,735 188,1056 202,1109 211,1109 211,1153 201,1153 197,1236 208,1411 752,1437 913,1437 913,1398 882,1296 913,1203 913,1164 853,1023 855,981 919,834 913,696 919,604 947,506 948,468 930,361 933,142 759,139 166,153 155,378 35,465 34,504"/>
+      <TextLine id="r002-l004" index="0" custom="heights_v2:[29.8,11.6]">
+        <Coords points="166,153 253,153 337,151 422,148 507,145 588,145 672,142 759,139 843,142 932,142 932,184 843,184 758,181 674,184 589,186 507,186 423,189 339,192 254,195 166,195"/>
+        <Baseline points="166,183 254,183 338,180 423,178 507,175 589,175 673,172 758,169 843,172 932,172"/>
+        <TextEquiv conf="0.549">
+          <Unicode>Hanzalíková M. za ženy a Filous Jan ml. za mládež.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="1" custom="heights_v2:[29.3,11.2]">
+        <Coords points="205,205 287,202 362,202 441,199 517,196 596,193 672,190 752,188 828,188 913,188 913,228 828,228 752,228 674,231 598,234 519,237 443,239 364,242 287,242 206,245"/>
+        <Baseline points="206,234 287,231 364,231 442,228 518,225 597,223 673,220 752,217 828,217 913,217"/>
+        <TextEquiv conf="0.972">
+          <Unicode>30. května 1948 konaly se volby do Národního</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="2" custom="heights_v2:[29.2,11.3]">
+        <Coords points="159,255 247,253 332,250 416,247 501,244 585,241 670,239 755,236 839,236 930,233 932,273 840,276 755,276 671,279 586,282 502,285 417,287 333,290 248,293 160,296"/>
+        <Baseline points="160,285 248,282 333,279 417,276 502,273 586,271 671,268 755,265 840,265 931,262"/>
+        <TextEquiv conf="0.920">
+          <Unicode>shromáždění. Byla jedna jednotná kandidátka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="3" custom="heights_v2:[28.9,11.6]">
+        <Coords points="158,295 240,295 320,295 402,292 481,289 563,287 644,284 723,281 805,278 892,275 894,316 806,319 725,322 646,324 564,327 482,330 403,333 322,336 240,336 158,336"/>
+        <Baseline points="158,324 240,324 321,324 403,321 482,318 564,316 645,313 724,310 806,307 893,304"/>
+        <TextEquiv conf="0.930">
+          <Unicode>a bílý lístek. V obci Krasejovka dopadly volby</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="4" custom="heights_v2:[29.2,11.4]">
+        <Coords points="156,337 246,337 330,340 413,340 498,337 583,334 666,334 750,329 836,323 929,320 930,361 837,364 753,369 669,375 583,375 499,378 415,381 330,381 245,378 156,378"/>
+        <Baseline points="156,366 245,366 330,369 414,369 499,366 583,364 668,364 752,358 837,352 930,349"/>
+        <TextEquiv conf="0.871">
+          <Unicode>takto: celkem zapsaných voličů 198, pro ná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l015" index="5" custom="heights_v2:[29.0,11.2]">
+        <Coords points="155,385 240,385 321,385 402,385 484,382 565,380 648,377 729,377 812,374 899,374 899,414 812,414 730,417 648,417 567,420 485,423 403,425 321,425 240,425 155,425"/>
+        <Baseline points="155,414 240,414 321,414 403,414 485,411 566,409 648,406 730,406 812,403 899,403"/>
+        <TextEquiv conf="0.803">
+          <Unicode>rodní frontu se vyslovilo 154, bílých lístků 6</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l017" index="6" custom="heights_v2:[28.4,10.7]">
+        <Coords points="158,431 247,431 333,428 420,428 503,428 588,425 676,422 760,423 846,420 939,422 938,462 845,459 761,462 676,462 589,464 505,467 420,467 333,467 248,470 158,470"/>
+        <Baseline points="158,459 248,459 333,456 420,456 504,456 589,454 676,451 761,451 845,448 938,451"/>
+        <TextEquiv conf="0.696">
+          <Unicode>neplatných 3 a prázdných obálek 11 celkem 174 voličů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l019" index="7" custom="heights_v2:[27.8,10.5]">
+        <Coords points="35,465 138,468 240,468 338,468 440,468 538,468 639,468 738,465 840,465 948,468 947,506 839,504 738,504 640,506 538,506 440,506 338,506 240,506 138,506 34,504"/>
+        <Baseline points="34,493 138,496 240,496 338,496 440,496 538,496 640,496 738,493 840,493 947,496"/>
+        <TextEquiv conf="0.259">
+          <Unicode>Osvětová rada. 22. dubna 1948 v hostinci u Satchů v Milíkovicích</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l021" index="8" custom="heights_v2:[28.5,10.8]">
+        <Coords points="175,515 259,515 337,515 417,512 496,512 577,513 657,510 735,510 813,510 901,507 902,546 815,549 735,549 657,549 578,552 496,552 417,552 339,555 259,555 175,555"/>
+        <Baseline points="175,544 259,544 338,544 417,541 496,541 578,541 657,538 735,538 814,538 902,535"/>
+        <TextEquiv conf="0.751">
+          <Unicode>byla volba místní rady osvětové. Zvoleni byli:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l023" index="9" custom="heights_v2:[29.1,11.2]">
+        <Coords points="178,557 262,557 345,557 425,560 507,560 588,560 671,557 751,557 833,554 920,551 922,592 834,594 753,597 671,597 589,600 507,600 425,600 343,597 262,597 178,597"/>
+        <Baseline points="178,586 262,586 344,586 425,589 507,589 589,589 671,586 752,586 834,583 921,580"/>
+        <TextEquiv conf="0.651">
+          <Unicode>předsedou (kulturní referent) Šmíd Václav Milí-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l025" index="10" custom="heights_v2:[29.5,11.5]">
+        <Coords points="181,602 263,604 344,607 425,607 507,607 586,607 667,607 750,604 831,604 917,604 917,645 831,645 750,645 668,648 586,648 507,648 425,648 344,648 262,645 179,643"/>
+        <Baseline points="180,631 262,634 344,637 425,637 507,637 586,637 668,637 750,634 831,634 917,634"/>
+        <TextEquiv conf="0.704">
+          <Unicode>kovice č. 26, jednatel Snížek Jan Milíkovice 23,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l027" index="11" custom="heights_v2:[29.8,11.4]">
+        <Coords points="183,646 269,647 348,649 428,652 507,652 586,652 669,652 747,655 826,655 913,655 913,696 826,696 747,696 667,693 586,693 507,693 428,693 346,690 267,688 183,688"/>
+        <Baseline points="183,676 268,676 347,679 428,682 507,682 586,682 668,682 747,685 826,685 913,685"/>
+        <TextEquiv conf="0.861">
+          <Unicode>1. člen JSČZ Žáček Jaroslav, Dolní Svince č. 2,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l029" index="12" custom="heights_v2:[29.6,11.2]">
+        <Coords points="186,695 262,695 334,695 404,697 473,700 547,700 617,700 688,700 758,700 837,700 837,741 758,741 688,741 617,741 547,741 473,741 403,738 332,735 262,735 186,735"/>
+        <Baseline points="186,724 262,724 333,724 403,727 473,730 547,730 617,730 688,730 758,730 837,730"/>
+        <TextEquiv conf="0.720">
+          <Unicode>2. člen Lahodný Jan Krasejovka č. 24</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l032" index="13" custom="heights_v2:[30.2,11.4]">
+        <Coords points="187,739 256,742 323,742 386,745 451,745 516,745 580,745 647,745 710,747 781,747 781,789 710,789 645,786 580,786 516,786 451,786 386,786 321,784 256,784 186,781"/>
+        <Baseline points="186,769 256,772 321,772 386,775 451,775 516,775 580,775 645,775 710,778 781,778"/>
+        <TextEquiv conf="0.633">
+          <Unicode>3. člen Holá Zdeňka Milíkovice č. 9</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l034" index="14" custom="heights_v2:[30.0,11.1]">
+        <Coords points="188,787 271,790 350,790 431,793 510,793 592,793 671,793 752,793 831,793 918,793 918,834 831,834 752,834 671,834 592,834 510,834 431,834 349,831 271,831 186,828"/>
+        <Baseline points="187,817 271,820 349,820 431,823 510,823 592,823 671,823 752,823 831,823 918,823"/>
+        <TextEquiv conf="0.582">
+          <Unicode>náhradník: Pateková Vlasta Milíkovice č. 3</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l037" index="15" custom="heights_v2:[29.8,11.3]">
+        <Coords points="231,832 276,832 318,833 355,835 397,835 434,838 476,838 513,841 552,841 600,841 600,882 552,882 513,882 473,879 434,879 394,876 355,876 315,874 276,874 231,874"/>
+        <Baseline points="231,862 276,862 316,862 355,865 394,865 434,868 473,868 513,871 552,871 600,871"/>
+        <TextEquiv conf="0.932">
+          <Unicode>Letopisecká komise:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l040" index="16" custom="heights_v2:[30.1,11.4]">
+        <Coords points="189,877 237,880 282,880 332,880 375,883 420,883 468,883 513,883 558,883 611,883 611,924 558,924 513,924 468,924 420,924 375,924 329,922 282,922 237,922 187,919"/>
+        <Baseline points="187,907 237,910 282,910 330,910 375,913 420,913 468,913 513,913 558,913 611,913"/>
+        <TextEquiv conf="0.661">
+          <Unicode>Předseda: Šlindl Jakub</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l042" index="17" custom="heights_v2:[30.8,11.4]">
+        <Coords points="192,924 258,924 318,927 378,927 440,927 499,927 561,927 620,927 682,927 750,927 750,969 682,969 620,969 561,969 499,969 440,969 378,969 318,969 256,967 192,967"/>
+        <Baseline points="192,955 256,955 318,958 378,958 440,958 499,958 561,958 620,958 682,958 750,958"/>
+        <TextEquiv conf="0.924">
+          <Unicode>1. člen Tichý Václav (Rytíř Frant.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l044" index="18" custom="heights_v2:[30.2,11.2]">
+        <Coords points="189,973 262,976 335,976 409,976 482,976 556,976 628,979 702,979 776,979 855,981 853,1023 775,1020 702,1020 628,1020 555,1017 482,1017 409,1017 335,1017 262,1017 187,1014"/>
+        <Baseline points="188,1003 262,1006 335,1006 409,1006 482,1006 555,1006 628,1009 702,1009 775,1009 854,1012"/>
+        <TextEquiv conf="0.554">
+          <Unicode>2. člen Talířová Marie (Šmídová Zdenka)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l047" index="19" custom="heights_v2:[29.5,11.0]">
+        <Coords points="190,1016 245,1019 299,1019 354,1019 406,1022 459,1022 513,1022 568,1022 620,1024 679,1024 679,1065 620,1065 566,1062 513,1062 459,1062 406,1062 352,1059 299,1059 245,1059 188,1056"/>
+        <Baseline points="189,1045 245,1048 299,1048 352,1048 406,1051 459,1051 513,1051 566,1051 620,1054 679,1054"/>
+        <TextEquiv conf="0.714">
+          <Unicode>3. člen Lahodný František ml.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l049" index="20" custom="heights_v2:[30.1,11.3]">
+        <Coords points="205,1055 272,1060 338,1063 400,1069 465,1069 530,1069 596,1069 659,1072 723,1072 793,1069 795,1110 725,1113 659,1113 594,1110 530,1110 465,1110 400,1110 334,1105 270,1102 202,1096"/>
+        <Baseline points="203,1085 271,1091 335,1093 400,1099 465,1099 530,1099 595,1099 659,1102 724,1102 795,1099"/>
+        <TextEquiv conf="0.917">
+          <Unicode>kronikář: Filous Jan Krasejovka č. 5</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l052" index="21" custom="heights_v2:[29.5,10.7]">
+        <Coords points="255,1109 306,1112 352,1114 402,1115 450,1117 495,1120 541,1123 589,1123 637,1123 690,1123 690,1163 637,1163 589,1163 541,1163 492,1160 447,1158 400,1155 352,1155 304,1152 253,1149"/>
+        <Baseline points="254,1138 304,1141 352,1144 400,1144 448,1147 493,1150 541,1152 589,1152 637,1152 690,1152"/>
+        <TextEquiv conf="0.963">
+          <Unicode>Místní knihovní rada:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l054" index="22" custom="heights_v2:[28.4,10.6]">
+        <Coords points="201,1155 282,1158 362,1158 441,1161 516,1164 596,1164 673,1166 749,1166 828,1164 913,1164 913,1203 828,1203 750,1205 673,1205 594,1203 516,1203 439,1200 360,1197 282,1197 200,1194"/>
+        <Baseline points="200,1183 282,1186 361,1186 440,1189 516,1192 595,1192 673,1195 750,1195 828,1192 913,1192"/>
+        <TextEquiv conf="0.718">
+          <Unicode>Předseda: Kocmichová Jarmila, Milíkovice 11</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l056" index="23" custom="heights_v2:[28.1,10.7]">
+        <Coords points="199,1198 266,1200 327,1203 392,1203 455,1203 520,1206 580,1209 647,1209 707,1212 778,1212 778,1251 707,1251 645,1248 580,1248 518,1245 453,1242 392,1242 327,1242 264,1239 197,1236"/>
+        <Baseline points="197,1226 265,1229 327,1231 392,1231 454,1231 518,1234 580,1237 645,1237 707,1240 778,1240"/>
+        <TextEquiv conf="0.536">
+          <Unicode>jednatel: Komín Václav Milíkovice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l058" index="24" custom="heights_v2:[28.1,10.9]">
+        <Coords points="202,1240 280,1246 352,1248 429,1248 503,1251 578,1254 652,1254 727,1257 800,1257 882,1257 882,1296 800,1296 727,1296 651,1293 578,1293 501,1290 428,1287 352,1287 279,1285 199,1279"/>
+        <Baseline points="200,1268 279,1274 352,1276 428,1276 502,1279 578,1282 651,1282 727,1285 800,1285 882,1285"/>
+        <TextEquiv conf="0.869">
+          <Unicode>pokladník: Šmídová Zděnka Milíkovice 26</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l060" index="25" custom="heights_v2:[28.0,11.0]">
+        <Coords points="204,1288 272,1291 337,1294 401,1296 465,1299 528,1299 592,1302 658,1302 721,1305 792,1305 792,1344 721,1344 656,1341 592,1341 526,1338 465,1338 400,1335 335,1333 270,1330 202,1327"/>
+        <Baseline points="203,1316 271,1319 335,1322 400,1324 465,1327 527,1327 592,1330 657,1330 721,1333 792,1333"/>
+        <TextEquiv conf="0.581">
+          <Unicode>člen: Štindl Jakub Milíkovice č. 12</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l061" index="26" custom="heights_v2:[27.2,11.0]">
+        <Coords points="211,1331 286,1337 356,1340 428,1342 500,1342 572,1345 644,1345 717,1348 786,1351 865,1351 865,1389 786,1389 715,1386 642,1383 572,1383 498,1380 428,1380 355,1378 284,1375 208,1369"/>
+        <Baseline points="209,1358 285,1364 355,1367 428,1369 499,1369 572,1372 642,1372 716,1375 786,1378 865,1378"/>
+        <TextEquiv conf="0.526">
+          <Unicode>knihovník: Patrhová Vlasta Milkovice č. 3</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l062" index="27" custom="heights_v2:[27.8,10.6]">
+        <Coords points="210,1373 292,1378 367,1384 446,1387 522,1390 598,1392 677,1395 752,1398 828,1398 913,1398 913,1436 828,1436 752,1436 676,1434 597,1431 521,1428 445,1425 366,1422 289,1417 208,1411"/>
+        <Baseline points="209,1400 290,1406 366,1412 445,1415 521,1417 597,1420 676,1423 752,1426 828,1426 913,1426"/>
+        <TextEquiv conf="0.388">
+          <Unicode>Volby vedl předseda MNV Štindl Jakub Bukovec 18.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="115,215 44,218 45,247 116,244 115,215"/>
+      <TextLine id="r003-l007" index="0" custom="heights_v2:[21.6,7.2]">
+        <Coords points="44,218 115,215 116,244 45,247"/>
+        <Baseline points="45,240 116,237"/>
+        <TextEquiv conf="0.895">
+          <Unicode>Volly</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="525,20 488,23 491,56 528,53 525,20"/>
+      <TextLine id="r004-l002" index="0" custom="heights_v2:[24.1,7.2]">
+        <Coords points="488,24 525,21 527,52 491,55"/>
+        <Baseline points="490,48 527,45"/>
+        <TextEquiv conf="0.975">
+          <Unicode>80</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="969,730 944,730 944,767 969,767 969,730"/>
+      <TextLine id="r005-l031" index="0" custom="heights_v2:[27.2,8.1]">
+        <Coords points="944,731 969,731 969,766 944,766"/>
+        <Baseline points="944,758 969,758"/>
+        <TextEquiv conf="0.622">
+          <Unicode>o</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1036,529 1044,715 1043,890 1052,983 1048,1112 1060,1300 1471,1300 1528,1257 1764,1248 1804,1206 1802,1116 1888,1020 1930,1020 1953,975 1953,935 1851,935 1787,835 1913,705 1914,662 1792,552 1776,420 1783,241 1764,192 1764,151 1254,145 1104,151 1047,209 1053,340 1039,440 1036,529"/>
+      <TextLine id="r006-l003" index="0" custom="heights_v2:[29.4,11.6]">
+        <Coords points="1104,151 1180,148 1254,145 1326,145 1398,148 1469,148 1541,151 1612,151 1685,151 1764,151 1764,192 1685,192 1612,192 1541,192 1468,189 1398,189 1324,186 1254,186 1181,189 1105,192"/>
+        <Baseline points="1105,180 1181,178 1254,175 1324,175 1398,178 1468,178 1541,180 1612,180 1685,180 1764,180"/>
+        <TextEquiv conf="0.567">
+          <Unicode>Dne 1. července 1948 tragicky zahynul dorost</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l006" index="1" custom="heights_v2:[27.9,11.1]">
+        <Coords points="1048,209 1129,206 1205,203 1285,200 1361,200 1437,200 1516,200 1592,200 1667,200 1752,197 1753,237 1669,239 1592,239 1516,239 1437,239 1361,239 1285,239 1206,242 1130,245 1049,248"/>
+        <Baseline points="1048,237 1130,234 1206,231 1285,228 1361,228 1437,228 1516,228 1592,228 1668,228 1753,225"/>
+        <TextEquiv conf="0.477">
+          <Unicode>Jan, státní cestař z Krasovky č. 28. Byl přejet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l008" index="2" custom="heights_v2:[26.4,10.4]">
+        <Coords points="1049,258 1135,253 1214,250 1296,250 1374,250 1457,247 1535,247 1617,244 1695,244 1781,241 1782,278 1697,281 1617,281 1536,284 1457,284 1375,287 1296,287 1214,287 1136,289 1052,295"/>
+        <Baseline points="1051,285 1136,279 1214,276 1296,276 1375,276 1457,273 1536,273 1617,271 1696,271 1782,268"/>
+        <TextEquiv conf="0.790">
+          <Unicode>st. autobusem na silnici mezi Kosovem a Rájovem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l011" index="3" custom="heights_v2:[26.8,10.9]">
+        <Coords points="1106,289 1186,286 1260,286 1333,286 1406,286 1482,286 1555,286 1629,286 1701,286 1779,283 1780,321 1702,324 1629,324 1555,324 1482,324 1406,324 1333,324 1260,324 1186,324 1108,326"/>
+        <Baseline points="1107,316 1186,313 1260,313 1333,313 1406,313 1482,313 1555,313 1629,313 1702,313 1780,310"/>
+        <TextEquiv conf="0.623">
+          <Unicode>V pátek 3. září v 18 hodin 10 min. zemřel ve věku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l014" index="4" custom="heights_v2:[28.9,11.8]">
+        <Coords points="1053,340 1138,337 1216,337 1296,335 1375,335 1455,335 1533,337 1611,337 1689,335 1776,329 1779,370 1691,375 1612,378 1533,378 1454,375 1375,375 1296,375 1218,378 1138,378 1054,381"/>
+        <Baseline points="1054,369 1138,366 1217,366 1296,364 1375,364 1454,364 1533,366 1612,366 1691,364 1778,358"/>
+        <TextEquiv conf="0.894">
+          <Unicode>64 let druhý president československé republiky Dr</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l016" index="5" custom="heights_v2:[28.2,11.4]">
+        <Coords points="1045,386 1130,386 1209,386 1291,386 1369,386 1448,386 1530,386 1608,386 1687,383 1774,380 1776,420 1688,423 1609,426 1530,426 1448,426 1369,426 1291,426 1209,426 1130,426 1045,426"/>
+        <Baseline points="1045,414 1130,414 1209,414 1291,414 1369,414 1448,414 1530,414 1609,414 1688,411 1775,409"/>
+        <TextEquiv conf="0.992">
+          <Unicode>Edvard Beneš. Smutek zavládl nad naší zemí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l018" index="6" custom="heights_v2:[27.9,11.0]">
+        <Coords points="1039,440 1123,437 1202,434 1282,431 1361,431 1440,431 1519,431 1597,431 1675,429 1759,423 1762,462 1677,467 1598,470 1519,470 1440,470 1361,470 1282,470 1204,473 1125,476 1040,479"/>
+        <Baseline points="1040,468 1124,465 1203,462 1282,459 1361,459 1440,459 1519,459 1598,459 1677,456 1761,451"/>
+        <TextEquiv conf="0.621">
+          <Unicode>nad ztrátou tohoto významného a nám tak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l020" index="7" custom="heights_v2:[27.9,11.2]">
+        <Coords points="1042,485 1126,482 1208,479 1290,477 1372,474 1454,474 1537,474 1616,477 1697,474 1784,468 1786,507 1700,513 1618,516 1535,513 1454,513 1372,513 1291,516 1209,518 1128,521 1043,524"/>
+        <Baseline points="1043,513 1127,510 1209,507 1291,504 1372,502 1454,502 1536,502 1617,504 1699,502 1785,496"/>
+        <TextEquiv conf="0.809">
+          <Unicode>drahého muže. Státní pohřeb vypraven ve středu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l022" index="8" custom="heights_v2:[28.4,11.4]">
+        <Coords points="1036,530 1123,527 1205,524 1291,521 1372,521 1454,521 1538,521 1619,518 1701,516 1790,513 1791,552 1702,555 1621,558 1539,561 1454,561 1372,561 1291,561 1206,564 1125,566 1038,569"/>
+        <Baseline points="1037,558 1124,555 1206,552 1291,549 1372,549 1454,549 1539,549 1620,547 1702,544 1791,541"/>
+        <TextEquiv conf="0.673">
+          <Unicode>8. září v 16 hodin. Pohřben byl v pátek 10. září</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l024" index="9" custom="heights_v2:[28.9,11.6]">
+        <Coords points="1039,574 1123,571 1203,568 1281,569 1361,566 1440,566 1518,566 1597,563 1676,560 1763,557 1764,598 1677,601 1598,603 1519,606 1440,606 1361,606 1283,609 1203,609 1125,612 1040,615"/>
+        <Baseline points="1040,603 1124,600 1203,597 1282,597 1361,595 1440,595 1519,595 1598,592 1677,589 1764,586"/>
+        <TextEquiv conf="0.629">
+          <Unicode>v zahradě jeho vily v Sezimově Ústí. Čest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l026" index="10" custom="heights_v2:[29.8,12.0]">
+        <Coords points="1041,621 1091,618 1133,618 1176,618 1220,615 1262,615 1307,615 1350,615 1390,615 1441,613 1443,654 1393,657 1350,657 1307,657 1262,657 1220,657 1179,660 1133,660 1091,660 1043,663"/>
+        <Baseline points="1043,651 1091,648 1133,648 1178,648 1220,645 1262,645 1307,645 1350,645 1392,645 1443,642"/>
+        <TextEquiv conf="0.979">
+          <Unicode>jeho světlé památce.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l028" index="11" custom="heights_v2:[30.5,12.4]">
+        <Coords points="1099,666 1191,666 1282,663 1369,663 1459,663 1547,660 1637,660 1725,660 1818,660 1914,663 1913,706 1817,703 1725,703 1637,703 1547,703 1460,706 1369,706 1282,706 1192,708 1099,708"/>
+        <Baseline points="1099,696 1192,696 1282,693 1369,693 1460,693 1547,690 1637,690 1725,690 1818,690 1913,693"/>
+        <TextEquiv conf="0.641">
+          <Unicode>Dne 12. září konána byla tryzna za zeno Tryzna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l030" index="12" custom="heights_v2:[28.9,11.4]">
+        <Coords points="1044,715 1131,712 1208,715 1291,712 1369,712 1451,712 1529,712 1612,709 1690,709 1777,707 1778,747 1691,750 1612,750 1530,752 1451,752 1369,752 1291,752 1209,755 1130,752 1046,755"/>
+        <Baseline points="1045,744 1130,741 1209,744 1291,741 1369,741 1451,741 1530,741 1612,738 1691,738 1778,735"/>
+        <TextEquiv conf="0.543">
+          <Unicode>lého presidenta Dr. Edvarda Beneše. Tryznu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l033" index="13" custom="heights_v2:[28.1,10.5]">
+        <Coords points="1044,761 1123,761 1202,758 1282,755 1361,755 1440,755 1518,755 1598,752 1676,752 1760,750 1761,788 1677,791 1598,791 1519,794 1440,794 1361,794 1282,794 1204,797 1125,800 1044,800"/>
+        <Baseline points="1044,789 1124,789 1203,786 1282,783 1361,783 1440,783 1519,783 1598,781 1677,781 1761,778"/>
+        <TextEquiv conf="0.636">
+          <Unicode>pořádala Místní osvětová rada v Krasejovce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l035" index="14" custom="heights_v2:[28.8,10.9]">
+        <Coords points="1043,811 1126,805 1205,803 1285,800 1364,800 1442,800 1522,797 1600,797 1678,794 1763,791 1764,831 1680,834 1601,836 1522,837 1443,839 1364,839 1285,839 1206,842 1128,845 1046,851"/>
+        <Baseline points="1045,840 1127,834 1206,831 1285,828 1364,828 1443,828 1522,826 1601,826 1679,823 1764,820"/>
+        <TextEquiv conf="0.576">
+          <Unicode>u Pateků v Milíkovicích. Recitovali: Šmíd</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l038" index="15" custom="heights_v2:[29.2,11.3]">
+        <Coords points="1043,850 1126,850 1209,847 1291,847 1372,847 1453,847 1535,844 1615,842 1699,836 1787,836 1787,876 1699,876 1618,882 1536,885 1454,888 1372,888 1291,888 1209,888 1128,890 1043,890"/>
+        <Baseline points="1043,879 1127,879 1209,876 1291,876 1372,876 1454,876 1536,874 1617,871 1699,865 1787,865"/>
+        <TextEquiv conf="0.560">
+          <Unicode>Václav, Kormichová Jarmila, Holá Zdeňka,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l041" index="16" custom="heights_v2:[29.2,10.8]">
+        <Coords points="1046,898 1091,898 1130,898 1172,898 1212,898 1254,898 1293,898 1334,898 1375,895 1423,895 1423,935 1375,935 1336,938 1293,938 1254,938 1212,938 1172,938 1130,938 1091,938 1046,938"/>
+        <Baseline points="1046,927 1091,927 1130,927 1172,927 1212,927 1254,927 1293,927 1336,927 1375,924 1423,924"/>
+        <TextEquiv conf="0.992">
+          <Unicode>Snížek Jan a další.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l043" index="17" custom="heights_v2:[28.9,10.8]">
+        <Coords points="1102,940 1201,940 1293,943 1386,943 1479,943 1571,943 1664,940 1758,935 1851,935 1953,935 1953,975 1851,975 1758,975 1666,980 1573,983 1479,983 1386,983 1293,983 1200,980 1102,980"/>
+        <Baseline points="1102,969 1200,969 1293,972 1386,972 1479,972 1572,972 1665,969 1758,964 1851,964 1953,964"/>
+        <TextEquiv conf="0.707">
+          <Unicode>20. prosince 1948 založili zemědělci z Dolní. Založení JZD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l045" index="18" custom="heights_v2:[29.0,11.1]">
+        <Coords points="1776,983 1818,980 1854,980 1888,980 1930,980 1930,1020 1888,1020 1854,1020 1818,1020 1779,1023"/>
+        <Baseline points="1778,1012 1818,1009 1854,1009 1888,1009 1930,1009"/>
+        <TextEquiv conf="0.823">
+          <Unicode>v D. Svinci</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l046" index="19" custom="heights_v2:[28.1,10.8]">
+        <Coords points="1052,984 1136,986 1215,986 1293,989 1372,989 1451,989 1529,989 1609,986 1687,986 1774,984 1776,1022 1688,1025 1609,1025 1530,1028 1451,1028 1372,1028 1293,1028 1214,1025 1136,1025 1051,1022"/>
+        <Baseline points="1051,1012 1136,1014 1214,1014 1293,1017 1372,1017 1451,1017 1530,1017 1609,1014 1688,1014 1775,1012"/>
+        <TextEquiv conf="0.463">
+          <Unicode>Svinci Jednotné zemědělské družstvo do něhož</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l048" index="20" custom="heights_v2:[27.8,10.5]">
+        <Coords points="1051,1032 1128,1032 1198,1034 1272,1035 1340,1037 1412,1034 1484,1035 1555,1032 1626,1032 1705,1032 1705,1070 1626,1070 1555,1070 1485,1073 1412,1073 1342,1076 1270,1073 1198,1073 1127,1070 1051,1070"/>
+        <Baseline points="1051,1060 1127,1060 1198,1062 1271,1062 1341,1065 1412,1062 1485,1062 1555,1060 1626,1060 1705,1060"/>
+        <TextEquiv conf="0.542">
+          <Unicode>všichni vstoupili mimo čísel 2, 11, 14,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l050" index="21" custom="heights_v2:[27.8,11.0]">
+        <Coords points="1049,1074 1106,1074 1155,1077 1206,1077 1257,1077 1307,1077 1358,1077 1409,1077 1458,1077 1517,1074 1519,1113 1460,1116 1409,1116 1358,1116 1307,1116 1257,1116 1206,1116 1155,1116 1104,1113 1049,1113"/>
+        <Baseline points="1049,1102 1105,1102 1155,1105 1206,1105 1257,1105 1307,1105 1358,1105 1409,1105 1460,1105 1519,1102"/>
+        <TextEquiv conf="0.975">
+          <Unicode>Schváleno bylo 4. března 1949</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l053" index="22" custom="heights_v2:[28.3,10.7]">
+        <Coords points="1093,1124 1175,1124 1254,1124 1330,1124 1408,1124 1485,1121 1563,1121 1640,1119 1718,1119 1802,1116 1803,1155 1719,1158 1640,1158 1564,1160 1485,1160 1409,1163 1330,1163 1254,1163 1175,1163 1093,1163"/>
+        <Baseline points="1093,1152 1175,1152 1254,1152 1330,1152 1409,1152 1485,1150 1564,1150 1640,1147 1719,1147 1803,1144"/>
+        <TextEquiv conf="0.565">
+          <Unicode>Dne 3. května 1948 osvojili si manželé Bürgerovi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l055" index="23" custom="heights_v2:[28.1,10.9]">
+        <Coords points="1056,1175 1144,1172 1226,1172 1307,1172 1389,1172 1470,1172 1553,1169 1634,1169 1715,1170 1803,1167 1804,1206 1716,1208 1634,1208 1553,1208 1471,1211 1389,1211 1307,1211 1226,1211 1144,1211 1057,1214"/>
+        <Baseline points="1057,1203 1144,1200 1226,1200 1307,1200 1389,1200 1471,1200 1553,1198 1634,1198 1716,1198 1803,1195"/>
+        <TextEquiv conf="0.532">
+          <Unicode>z Dolní Svince č. 2 Jaroslava Žáčka, synovce nar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l057" index="24" custom="heights_v2:[28.2,11.2]">
+        <Coords points="1062,1217 1144,1217 1220,1217 1296,1217 1372,1217 1451,1217 1526,1217 1602,1214 1678,1212 1763,1209 1764,1248 1680,1251 1604,1254 1528,1257 1451,1257 1372,1257 1296,1257 1220,1257 1144,1257 1062,1257"/>
+        <Baseline points="1062,1245 1144,1245 1220,1245 1296,1245 1372,1245 1451,1245 1527,1245 1603,1243 1679,1240 1764,1237"/>
+        <TextEquiv conf="0.863">
+          <Unicode>6. prosince 1927. Jaroslav Žáček nese nadále</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l059" index="25" custom="heights_v2:[29.1,11.4]">
+        <Coords points="1060,1259 1107,1259 1152,1259 1198,1259 1243,1259 1285,1259 1330,1259 1375,1259 1420,1259 1471,1259 1471,1299 1420,1299 1375,1299 1330,1299 1285,1299 1243,1299 1198,1299 1152,1299 1107,1299 1060,1299"/>
+        <Baseline points="1060,1288 1107,1288 1152,1288 1198,1288 1243,1288 1285,1288 1330,1288 1375,1288 1420,1288 1471,1288"/>
+        <TextEquiv conf="0.994">
+          <Unicode>jméno Jaroslav Bürger.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="1463,0 1421,3 1424,40 1466,37 1463,0"/>
+      <TextLine id="r007-l001" index="0" custom="heights_v2:[27.9,8.6]">
+        <Coords points="1421,3 1463,0 1466,37 1424,40"/>
+        <Baseline points="1423,31 1465,28"/>
+        <TextEquiv conf="0.994">
+          <Unicode>81</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="1829,283 1789,283 1789,320 1972,320 1972,283 1829,283"/>
+      <TextLine id="r008-l010" index="0" custom="heights_v2:[26.0,9.8]">
+        <Coords points="1789,284 1829,284 1863,284 1896,284 1930,284 1972,284 1972,320 1930,320 1896,320 1863,320 1829,320 1789,320"/>
+        <Baseline points="1789,310 1829,310 1863,310 1896,310 1930,310 1972,310"/>
+        <TextEquiv conf="0.662">
+          <Unicode>Úmrtí presidenta</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

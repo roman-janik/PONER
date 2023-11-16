@@ -1,0 +1,622 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:23:13.444931</Created>
+    <LastChange>2023-01-19T00:23:13.444931</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Mladonov_inv_c_neinventarizovano_008.jpg" imageWidth="5000" imageHeight="3060">
+    <TextRegion id="324ba35a-a1a0-4051-9236-beeff53cc15f">
+      <Coords points="681,637 680,1514 405,1727 399,1841 684,2046 682,2242 648,2267 648,2306 596,2306 388,2458 387,2509 691,2651 977,2645 1973,2662 2135,2595 2316,2599 2317,2549 2352,2394 2342,1873 2347,1745 2474,1567 2475,1518 2344,1168 2360,1034 2361,913 2343,768 2358,689 2352,552 2361,368 1243,354 682,364 681,637"/>
+      <TextLine id="4f4dd9f3-1c62-4dd9-90fa-f316e5a8b34d" index="0" custom="heights_v2:[35.7,16.9]">
+        <Coords points="2358,420 2361,373 2361,368 1858,362 1798,362 1614,360 1497,357 1243,354 682,364 682,380 683,416 871,412 1056,408 1242,406 1427,408 1613,412 1798,414 1985,414 2169,416 2358,420"/>
+        <Baseline points="682,399 871,395 1056,391 1242,389 1427,391 1614,395 1798,397 1985,397 2169,399 2359,403"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Šumperku, chodili pěšky na hrabišinskou zastávku a pak vlakem do Šumperka. Kolik nama-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cf0dda78-6206-4fac-991c-39f8c41dfd00" index="1" custom="heights_v2:[34.7,16.2]">
+        <Coords points="686,433 687,484 873,480 1056,478 1240,476 1423,478 1607,478 1790,482 1974,482 2158,486 2346,482 2345,431 2157,435 1976,431 1790,431 1608,427 1423,427 1241,425 1055,427 873,429 686,433"/>
+        <Baseline points="686,468 873,464 1056,462 1240,460 1423,462 1608,462 1790,466 1975,466 2157,470 2346,466"/>
+        <TextEquiv conf="1.000">
+          <Unicode>havé chůze, zejména v zimním počasí, vykonal takový dělník, pochopí jen ten, kdo po léta</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aca13de3-87ff-413e-b78a-3ae0cc125bc2" index="2" custom="heights_v2:[35.0,16.4]">
+        <Coords points="683,501 685,552 871,546 1055,542 1240,544 1425,544 1610,546 1794,544 1979,548 2163,550 2352,552 2352,501 2164,499 1979,497 1795,493 1609,495 1425,493 1240,493 1056,491 870,495 683,501"/>
+        <Baseline points="684,536 871,530 1056,526 1240,528 1425,528 1610,530 1794,528 1979,532 2163,534 2352,536"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tuto cestu vykonával. V naší obci žije občan František Gabriel, stolářský dělník na odpočin-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="840b0c40-3cdb-4603-979b-9268458da943" index="3" custom="heights_v2:[34.3,15.9]">
+        <Coords points="683,572 685,622 872,612 1054,606 1238,604 1421,608 1605,608 1788,610 1972,612 2155,616 2344,618 2344,568 2156,566 1974,562 1789,560 1606,558 1421,558 1239,554 1053,556 870,562 683,572"/>
+        <Baseline points="684,606 871,596 1054,590 1238,588 1421,592 1606,592 1788,594 1973,596 2155,600 2344,602"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ku, který chodil pěšky na hrabišinskou zastávku 35 roků a odtud vlakem do Šumperka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3f671f8e-1656-4405-a7c5-8498d2c68118" index="4" custom="heights_v2:[35.5,16.7]">
+        <Coords points="2358,685 2356,637 2168,633 1983,631 1799,629 1612,627 1427,625 1243,623 1055,627 870,631 681,637 683,689 871,683 1056,679 1242,675 1427,677 1611,679 1798,681 1983,683 2167,685 2358,689 2358,685"/>
+        <Baseline points="682,672 871,666 1056,662 1242,658 1427,660 1612,662 1798,664 1983,666 2167,668 2357,672"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kde byl zaměstnán jako stolářský dělník. Dnes když sedí v autobusu a jede do Šumperka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="562c642e-84f4-4461-8492-bf4d62c1f457" index="5" custom="heights_v2:[34.5,16.3]">
+        <Coords points="683,706 685,757 803,751 917,747 1032,745 1146,745 1260,747 1375,747 1489,745 1604,743 1722,743 1722,692 1604,692 1489,694 1374,696 1260,696 1147,694 1032,694 917,696 802,700 683,706"/>
+        <Baseline points="684,741 803,735 917,731 1032,729 1146,729 1260,731 1375,731 1489,729 1604,726 1722,726"/>
+        <TextEquiv conf="1.000">
+          <Unicode>- jak cestovával dříve a jak se cestuje dnes -.... vzpomíná.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="08244523-9b4f-4bac-a70c-047daf15caa7" index="6" custom="heights_v2:[34.3,16.4]">
+        <Coords points="2343,771 2343,768 2167,772 1998,768 1827,766 1656,766 1483,766 1312,768 1142,766 972,764 797,762 797,813 971,815 1142,817 1313,819 1483,817 1656,817 1826,817 1996,819 2168,823 2344,819 2343,771"/>
+        <Baseline points="797,797 971,799 1142,801 1313,803 1483,801 1656,801 1826,801 1997,803 2167,807 2344,803"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Obec Mladoňov se rozprostírá od silniční křižovatky Mladoňov, Třemešek, Nový-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b318d4e1-ecb4-451a-9d91-fef9e60bc32c" index="7" custom="heights_v2:[33.9,15.9]">
+        <Coords points="681,843 681,893 867,885 1052,883 1236,883 1421,883 1607,881 1792,885 1977,887 2161,889 2352,893 2353,846 2352,843 2162,839 1977,837 1793,835 1608,831 1421,833 1236,833 1052,833 867,835 681,843"/>
+        <Baseline points="681,877 867,869 1052,867 1236,867 1421,867 1608,865 1792,869 1977,871 2161,873 2352,877"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Malin na spodní konec úžlabinou, svažující se přikře na jihozápad až k potoku mydlo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="39cba080-a5ca-4a02-a342-71cf36b26753" index="8" custom="heights_v2:[33.8,15.7]">
+        <Coords points="682,907 683,957 871,955 1056,953 1242,953 1427,953 1613,955 1798,957 1985,959 2169,959 2360,963 2361,913 2170,909 1985,909 1799,907 1614,905 1427,903 1242,903 1056,903 871,905 682,907"/>
+        <Baseline points="682,941 871,939 1056,937 1242,937 1427,937 1614,939 1798,941 1985,943 2169,943 2360,947"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vému. První domek na horním konci má popisné číslo 109 a poslední na spodním kon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1c8a1cae-6071-4e35-a0af-c9a84d1e71ab" index="9" custom="heights_v2:[35.2,16.7]">
+        <Coords points="681,976 681,1022 681,1028 869,1024 1056,1020 1240,1020 1427,1020 1611,1022 1798,1024 1982,1026 2169,1032 2360,1034 2360,1003 2360,982 2170,980 1984,974 1799,972 1612,970 1427,968 1240,968 1056,968 868,972 681,976"/>
+        <Baseline points="681,1011 869,1007 1056,1003 1240,1003 1427,1003 1612,1005 1798,1007 1983,1009 2169,1015 2360,1017"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ci u samého mydlového potoka má číslo popisné 77. Dále se nachází v místech kde</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6ef7adb3-fcfc-4337-b594-bb1d87026a8c" index="10" custom="heights_v2:[34.1,16.1]">
+        <Coords points="684,1042 685,1092 867,1088 1048,1090 1228,1090 1409,1090 1589,1090 1770,1090 1951,1090 2131,1092 2316,1094 2316,1044 2132,1042 1951,1040 1770,1040 1589,1040 1409,1040 1228,1040 1048,1040 867,1038 684,1042"/>
+        <Baseline points="684,1076 867,1072 1048,1074 1228,1074 1409,1074 1589,1074 1770,1074 1951,1074 2131,1076 2316,1078"/>
+        <TextEquiv conf="1.000">
+          <Unicode>přetíná silnice vedoucí z Mladeňova do Nového Malína již jmenovaný mydlový potok</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a2d1d7e4-3e6e-4b13-b037-1e1b928ac3a2" index="11" custom="heights_v2:[33.8,15.7]">
+        <Coords points="684,1106 685,1156 871,1154 1053,1152 1238,1156 1421,1156 1606,1156 1788,1156 1972,1158 2155,1162 2344,1168 2345,1118 2156,1112 1974,1108 1789,1106 1606,1106 1421,1106 1238,1106 1054,1102 871,1104 684,1106"/>
+        <Baseline points="684,1140 871,1138 1054,1136 1238,1140 1421,1140 1606,1140 1788,1140 1973,1142 2155,1146 2344,1152"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tři domy. Jsou to čísla: 103, 104 a 110. Od těchto domů na jih, podél potoka vzdá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eb4ebac8-b578-44c6-b557-0b64c2dbde32" index="12" custom="heights_v2:[31.8,15.1]">
+        <Coords points="682,1178 683,1225 771,1223 855,1221 941,1221 1025,1221 1110,1223 1196,1223 1280,1223 1364,1223 1455,1225 1456,1178 1365,1176 1280,1176 1196,1176 1110,1176 1026,1174 941,1174 855,1174 770,1176 682,1178"/>
+        <Baseline points="682,1210 771,1208 855,1206 941,1206 1026,1206 1110,1208 1196,1208 1280,1208 1365,1208 1455,1210"/>
+        <TextEquiv conf="1.000">
+          <Unicode>len asi 500 metrů, nachází se dům č. p. 81.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2445321c-5dad-44cc-adaa-64d98abaef1c" index="13" custom="heights_v2:[32.7,15.2]">
+        <Coords points="768,1242 769,1290 939,1288 1106,1290 1274,1292 1441,1294 1607,1294 1776,1296 1942,1296 2109,1300 2281,1304 2283,1256 2110,1252 1943,1248 1776,1248 1608,1246 1441,1246 1275,1244 1106,1242 940,1240 768,1242"/>
+        <Baseline points="769,1274 939,1272 1106,1274 1274,1276 1441,1278 1608,1278 1776,1280 1943,1280 2109,1284 2282,1288"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Katast obce měří Ha: 768, 11.30. Z toho orné půdy Ha 338.-, louky Ha 44.80,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a2d466d7-08ba-491f-bf6e-eedbe6425f95" index="14" custom="heights_v2:[33.8,15.8]">
+        <Coords points="683,1319 685,1368 865,1362 1042,1362 1218,1362 1395,1360 1571,1362 1748,1362 1925,1366 2101,1364 2282,1366 2282,1317 2102,1315 1924,1317 1749,1313 1571,1313 1395,1311 1218,1313 1042,1313 865,1313 683,1319"/>
+        <Baseline points="684,1353 865,1347 1042,1347 1218,1347 1395,1345 1571,1347 1748,1347 1925,1351 2101,1349 2282,1351"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pastviny Ha 118.90, neplodné půdy Ha 4.70, lesy Ha 222.50, zastavěné půdy na 5.-,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e644c0ee-0fb2-4aa8-aee3-d4a3e9abb0e0" index="15" custom="heights_v2:[34.9,16.0]">
+        <Coords points="684,1378 684,1429 829,1429 969,1429 1112,1429 1252,1429 1393,1431 1535,1429 1675,1429 1816,1433 1963,1435 1963,1384 1817,1382 1677,1378 1535,1378 1392,1380 1253,1378 1112,1378 969,1378 829,1378 684,1378"/>
+        <Baseline points="684,1413 829,1413 969,1413 1112,1413 1252,1413 1393,1415 1535,1413 1676,1413 1816,1417 1963,1419"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zahrad Ha 3.17, vodní plochy Ha 0.30 ostatní plochy Ha 30, 74. 30.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8d56902f-4b8a-4015-8558-9abc08f3c459" index="16" custom="heights_v2:[34.2,15.6]">
+        <Coords points="750,1449 751,1499 931,1495 1107,1495 1286,1499 1463,1499 1641,1499 1818,1501 1997,1505 2173,1509 2356,1513 2357,1463 2174,1459 1998,1455 1819,1451 1642,1449 1463,1449 1286,1449 1109,1445 931,1445 750,1449"/>
+        <Baseline points="751,1483 931,1479 1108,1479 1286,1483 1463,1483 1642,1483 1818,1485 1997,1489 2173,1493 2356,1497"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pomístné názvy částí obce, polí, potoků a lesů jsou označeny na mapce ve svazků</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="beeb11bc-27b9-4e57-9dc8-cab23f1e904e" index="17" custom="heights_v2:[33.1,15.7]">
+        <Coords points="2474,1567 2474,1567 2475,1535 2475,1518 2272,1516 2073,1516 1874,1516 1676,1514 1477,1514 1279,1512 1079,1514 881,1514 680,1514 680,1563 881,1563 1080,1563 1278,1561 1477,1563 1676,1563 1874,1565 2073,1565 2272,1565 2474,1567"/>
+        <Baseline points="680,1547 881,1547 1080,1547 1278,1545 1477,1547 1676,1547 1874,1549 2073,1549 2272,1549 2474,1551"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dokladů a listin. Nadmořská výška katastru: Václavov asi 400 m., dolní část a Mladoň. 450 a okolí Nat. muže až 900 m.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fd930b7a-84c6-4bfc-9a71-fdacd2a46cc2" index="18" custom="heights_v2:[33.9,15.9]">
+        <Coords points="745,1584 745,1633 925,1633 1104,1633 1282,1635 1461,1637 1637,1639 1816,1642 1995,1646 2173,1648 2356,1652 2357,1602 2174,1598 1995,1596 1817,1592 1638,1590 1461,1588 1283,1586 1104,1584 925,1584 745,1584"/>
+        <Baseline points="745,1618 925,1618 1104,1618 1282,1620 1461,1622 1638,1624 1816,1626 1995,1630 2173,1632 2356,1636"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Když vcházíme do Mladoňova z horního konce, spatříme po levé straně silni-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5d2ce4d2-48b2-4cbb-8cd8-46f999176855" index="19" custom="heights_v2:[36.0,16.8]">
+        <Coords points="678,1654 679,1707 867,1703 1052,1707 1236,1707 1421,1707 1606,1709 1790,1709 1974,1711 2159,1717 2348,1721 2349,1668 2160,1664 1976,1658 1791,1656 1606,1656 1421,1654 1236,1654 1052,1654 868,1650 678,1654"/>
+        <Baseline points="678,1690 867,1686 1052,1690 1236,1690 1421,1690 1606,1692 1790,1692 1975,1694 2159,1700 2348,1704"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ce u domu čís. pop. 85 lípu která je stará 600 let, jak uvádí zápis v malinské farní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="003bd643-283d-4a51-98d1-8d5e3817ce47" index="20" custom="heights_v2:[33.4,15.6]">
+        <Coords points="405,1727 405,1727 405,1730 406,1776 624,1772 839,1772 1053,1772 1268,1776 1483,1776 1697,1778 1912,1784 2127,1786 2345,1794 2347,1745 2347,1745 2129,1737 1913,1735 1699,1729 1483,1727 1268,1727 1054,1723 839,1723 624,1723 405,1727"/>
+        <Baseline points="405,1760 624,1756 839,1756 1054,1756 1268,1760 1483,1760 1698,1762 1913,1768 2127,1770 2346,1778"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Fot.dok.SV.1. foto č. 18 kronice. Lípa je nazývána ve zmíněné kronice lípa Davidova. Uprostřed horního kon-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fd279f13-085b-4633-9e20-d2e7f24d3305" index="21" custom="heights_v2:[36.1,17.0]">
+        <Coords points="402,1788 399,1841 399,1841 618,1847 833,1845 1047,1843 1262,1849 1477,1847 1691,1851 1906,1855 2121,1863 2340,1863 2340,1810 2121,1810 1908,1802 1692,1798 1478,1794 1262,1796 1049,1790 833,1792 618,1794 402,1788"/>
+        <Baseline points="400,1824 618,1830 833,1828 1048,1826 1262,1832 1477,1830 1692,1834 1907,1838 2121,1846 2340,1846"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Fot. dok. SV. I. č. fot.7. ce vesnice stojí kostel zasvěcený sv. Mikuláši. Okolo kostela se rozprostírá hřbi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="004a1b26-81a4-4b22-9680-d400eff1596d" index="22" custom="heights_v2:[35.7,16.6]">
+        <Coords points="2342,1887 2342,1873 2342,1873 2154,1871 1971,1869 1789,1865 1606,1865 1422,1859 1238,1861 1056,1859 874,1855 686,1855 686,1907 873,1907 1055,1911 1238,1913 1420,1911 1606,1917 1788,1917 1971,1921 2153,1923 2342,1925 2342,1887"/>
+        <Baseline points="686,1890 873,1890 1056,1895 1238,1897 1421,1895 1606,1901 1788,1901 1971,1905 2153,1907 2342,1909"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tov, který vroubí stará, typicky hřbitovní zeď. Šindelový přístřešek který zeď kryl,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6db0dc37-fe2e-4d8e-aca5-9750a66e1b9e" index="23" custom="heights_v2:[36.4,16.8]">
+        <Coords points="2344,1980 2343,1944 2157,1938 1970,1940 1789,1936 1604,1934 1422,1928 1236,1928 1054,1928 870,1924 684,1918 682,1971 869,1977 1054,1982 1236,1982 1420,1982 1603,1988 1788,1990 1971,1994 2155,1992 2344,1998 2344,1980"/>
+        <Baseline points="682,1955 869,1961 1054,1965 1236,1965 1421,1965 1604,1971 1788,1973 1971,1977 2155,1975 2344,1981"/>
+        <TextEquiv conf="1.000">
+          <Unicode>je již úplně zničen. Kostel byl postaven nákladen vrchnosti r. 1740. Křížovou ces-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a9f20453-ddec-4956-b636-d940ffb5e71e" index="24" custom="heights_v2:[35.8,16.9]">
+        <Coords points="2346,2064 2345,2011 2158,2007 1973,2005 1791,2003 1606,2001 1424,1997 1238,1997 1056,1995 871,1993 684,1993 684,2046 871,2046 1055,2048 1238,2050 1423,2050 1605,2054 1790,2056 1973,2058 2157,2060 2346,2064"/>
+        <Baseline points="684,2029 871,2029 1056,2031 1238,2033 1423,2033 1606,2037 1790,2039 1973,2041 2157,2043 2345,2047"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tu v kostele maloval r. 1825 Jan Dithman, obraz sv. Mikuláše nad hlavním oltá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1b41e096-0c10-47cf-bb54-3600a5fbcbd0" index="25" custom="heights_v2:[35.9,17.0]">
+        <Coords points="690,2049 688,2102 873,2110 1053,2114 1236,2116 1417,2118 1597,2118 1780,2120 1961,2124 2141,2124 2328,2124 2328,2071 2141,2071 1961,2071 1781,2067 1598,2065 1417,2065 1237,2063 1054,2061 874,2057 690,2049"/>
+        <Baseline points="688,2085 873,2093 1054,2097 1236,2099 1417,2101 1597,2101 1780,2103 1961,2107 2141,2107 2328,2107"/>
+        <TextEquiv conf="1.000">
+          <Unicode>řem r. 1836 Frant. Leiter. Ve věži kostela se nacházely zvony tři. Prvý byl ulit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="887dbd0b-1786-4720-ab62-b06295ff9b92" index="26" custom="heights_v2:[34.8,16.3]">
+        <Coords points="2347,2151 2347,2147 2159,2139 1973,2137 1790,2137 1606,2133 1424,2129 1238,2131 1056,2131 872,2125 685,2123 684,2174 870,2176 1056,2182 1238,2182 1423,2180 1605,2184 1790,2188 1973,2188 2157,2190 2345,2198 2347,2151"/>
+        <Baseline points="684,2157 871,2159 1056,2165 1238,2165 1423,2163 1606,2167 1790,2171 1973,2171 2157,2173 2346,2181"/>
+        <TextEquiv conf="1.000">
+          <Unicode>r. 1592, druhý r. 1729 a třetí nejmenší byl ulit r. 1759. Tento nejmenší se dosud na-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="606ff4a6-0220-463a-a466-a0273a85a6cd" index="27" custom="heights_v2:[34.8,16.6]">
+        <Coords points="2349,2262 2348,2211 2161,2211 1978,2205 1793,2201 1608,2201 1423,2201 1239,2199 1054,2195 869,2193 683,2191 682,2242 869,2244 1053,2246 1238,2250 1423,2252 1608,2252 1792,2252 1976,2256 2161,2262 2349,2262"/>
+        <Baseline points="682,2226 869,2228 1054,2230 1238,2234 1423,2236 1608,2236 1792,2236 1977,2240 2161,2246 2349,2246"/>
+        <TextEquiv conf="1.000">
+          <Unicode>chází ve věži kostela, druhé dva byly v době nacistické okupace použity k válečným ú-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="50123a9a-2d58-4e3f-ac96-f2103413f666" index="28" custom="heights_v2:[34.4,16.1]">
+        <Coords points="684,2259 684,2310 871,2310 1053,2314 1236,2316 1419,2316 1601,2320 1784,2320 1966,2324 2149,2330 2336,2336 2337,2286 2150,2280 1968,2274 1785,2270 1601,2270 1420,2266 1236,2266 1054,2264 872,2259 684,2259"/>
+        <Baseline points="684,2294 871,2294 1054,2298 1236,2300 1419,2300 1601,2304 1784,2304 1967,2308 2149,2314 2336,2320"/>
+        <TextEquiv conf="1.000">
+          <Unicode>čelům. Na návsi vedle kostela stojí Kulturní dům, který byl upraven ze staré obec-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="336d5a06-6328-467e-bec9-59a151bc20d1" index="29" custom="heights_v2:[13.4,6.8]">
+        <Coords points="1471,2313 1471,2333 1511,2333 1553,2333 1553,2313 1511,2313 1471,2313"/>
+        <Baseline points="1471,2326 1511,2326 1553,2326"/>
+        <TextEquiv conf="1.000">
+          <Unicode>oz. X na f.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5190dc96-5b84-4f6c-9899-c77ffd2d0031" index="30" custom="heights_v2:[34.2,16.0]">
+        <Coords points="2352,2391 2351,2344 2164,2342 1979,2342 1797,2338 1612,2334 1427,2336 1245,2332 1060,2328 875,2326 688,2326 688,2376 875,2376 1059,2378 1244,2382 1427,2386 1611,2384 1796,2388 1979,2392 2163,2392 2352,2394 2352,2391"/>
+        <Baseline points="688,2360 875,2360 1060,2362 1244,2366 1427,2370 1612,2368 1796,2372 1979,2376 2163,2376 2352,2378"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ní hospody v akci 5 M v letech 1947 až 1949. Naproti Kulturnímu domu stojí jedno-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5a0f384e-b746-4999-aeba-7694c794295a" index="31" custom="heights_v2:[35.7,16.6]">
+        <Coords points="2337,2461 2338,2456 2338,2409 2151,2409 1970,2405 1787,2403 1604,2401 1423,2401 1241,2397 1058,2395 875,2393 690,2393 690,2445 875,2445 1057,2447 1240,2449 1423,2453 1603,2453 1786,2455 1968,2457 2151,2461 2337,2461"/>
+        <Baseline points="690,2428 875,2428 1058,2430 1240,2432 1423,2436 1604,2436 1786,2438 1969,2440 2151,2444 2338,2444"/>
+        <TextEquiv conf="1.000">
+          <Unicode>poschoďová budova národní školy. Před školou stojí pomník věnovaný obětem ná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c2c28532-507c-4eec-8a72-b888b209c45a" index="32" custom="heights_v2:[34.4,16.0]">
+        <Coords points="388,2458 387,2492 387,2509 592,2511 799,2509 1001,2511 1204,2515 1407,2521 1609,2521 1812,2529 2015,2527 2221,2531 2222,2480 2016,2476 1812,2478 1611,2470 1407,2470 1205,2464 1002,2460 799,2458 592,2460 388,2458"/>
+        <Baseline points="387,2493 592,2495 799,2493 1001,2495 1204,2499 1407,2505 1610,2505 1812,2513 2015,2511 2222,2515"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Fot. dok. SV. I. foto č. 4. rodního odboje. Námět pomníku "Lidice„ Pomník byl postaven roku 1947.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bcb72d4d-7c78-4979-abc4-f32c8db6c9db" index="33" custom="heights_v2:[33.5,15.8]">
+        <Coords points="726,2529 727,2579 905,2577 1081,2579 1256,2585 1433,2589 1608,2591 1784,2591 1959,2593 2135,2595 2316,2599 2317,2549 2136,2545 1959,2543 1785,2541 1608,2541 1433,2539 1257,2535 1083,2529 905,2527 726,2529"/>
+        <Baseline points="726,2563 905,2561 1082,2563 1256,2569 1433,2573 1608,2575 1784,2575 1959,2577 2135,2579 2316,2583"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Slavnostní odhalení pomníku se konalo v letě 1947 za veliké účasti občanů naší</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="71f30d32-64cc-4140-8574-bd7b8803950f" index="34" custom="heights_v2:[34.8,16.5]">
+        <Coords points="691,2651 691,2651 977,2645 1958,2662 1973,2662 1972,2610 1826,2612 1684,2610 1545,2604 1401,2602 1261,2600 1118,2598 978,2594 834,2598 690,2600 691,2651"/>
+        <Baseline points="690,2635 835,2633 977,2629 1118,2633 1260,2635 1401,2637 1543,2639 1684,2645 1826,2647 1973,2645"/>
+        <TextEquiv conf="1.000">
+          <Unicode>obce i širokého okolí. Čestnou stráž u pomníku drželi partyzáni.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="225e930f-2844-494c-9dcd-e3403d99b865">
+      <Coords points="419,2261 386,2263 388,2306 648,2306 648,2263 419,2261"/>
+      <TextLine id="73382554-a74f-418c-b56c-b8ca1e8df266" index="0" custom="heights_v2:[28.7,13.8]">
+        <Coords points="386,2263 387,2293 388,2306 419,2304 448,2304 476,2304 504,2304 532,2304 559,2304 588,2306 616,2306 648,2306 648,2263 616,2263 588,2263 577,2262 438,2261 419,2261 386,2263"/>
+        <Baseline points="387,2292 419,2290 448,2290 476,2290 504,2290 532,2290 560,2290 588,2292 616,2292 648,2292"/>
+        <TextEquiv conf="1.000">
+          <Unicode>fot. dok. SV. I. foto č. 12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="45b8eeea-d05d-40e8-ab18-ec2d5fff5864">
+      <Coords points="2767,358 2761,474 2774,615 2772,958 3903,954 4471,962 4471,914 4454,851 4460,714 4445,646 4461,563 4462,378 4083,368 2767,358"/>
+      <TextLine id="e72c475b-38bc-4d27-a234-8cbe5161df86" index="0" custom="heights_v2:[33.1,15.6]">
+        <Coords points="4462,392 4462,378 4401,376 4139,369 4083,368 3895,368 3707,366 3627,365 2780,358 2767,358 2768,407 2958,405 3145,407 3333,409 3520,411 3707,415 3895,417 4082,417 4268,421 4461,427 4462,392"/>
+        <Baseline points="2768,391 2958,389 3145,391 3333,393 3520,395 3707,399 3895,401 4082,401 4269,405 4461,411"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zahájil předseda M. N. V. Slavnostní projev pronesl Sekanina zaměstnanec O.N.V. v Šumperku.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="354b0358-916f-452b-a167-63718dc49053" index="1" custom="heights_v2:[31.2,14.4]">
+        <Coords points="2763,428 2761,465 2761,474 2864,474 2962,474 3063,474 3161,474 3261,474 3359,476 3460,478 3558,478 3663,476 3662,430 3558,432 3460,432 3360,430 3262,428 3161,428 3063,428 2962,428 2864,428 2763,428"/>
+        <Baseline points="2762,460 2864,460 2962,460 3063,460 3161,460 3261,460 3360,462 3460,464 3558,464 3663,462"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Texty zahájení a slavnostního projevu jsou uloženy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ba8dc306-e643-423a-9e6c-add425cb2570" index="2" custom="heights_v2:[33.1,15.6]">
+        <Coords points="4461,554 4461,515 4280,507 4101,503 3921,503 3744,499 3567,495 3387,497 3210,493 3030,495 2850,493 2850,541 3031,543 3209,541 3388,545 3566,543 3743,547 3921,551 4100,551 4278,555 4461,563 4461,554"/>
+        <Baseline points="2850,526 3030,528 3209,526 3388,530 3566,528 3743,532 3921,536 4100,536 4279,540 4461,548"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Závěrem byla spontánní přísaha: již nikdy nacismus, již nikdy válku. Vše pro přátelst-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e1163e2d-1ea6-43b8-b455-71b1f193020e" index="3" custom="heights_v2:[33.0,14.9]">
+        <Coords points="2774,613 2774,615 2962,611 3147,613 3331,611 3516,611 3700,611 3885,615 4070,617 4254,621 4445,623 4446,575 4255,573 4071,569 3886,567 3701,563 3516,563 3331,563 3146,565 2963,563 2773,567 2774,613"/>
+        <Baseline points="2774,600 2962,596 3147,598 3331,596 3516,596 3701,596 3885,600 4070,602 4255,606 4445,608"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ví mezi národy a spravedlivý společenský řád. Ukončeno krásnou básní kterou recitovala</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aa6db048-820e-47a2-af0e-fb1e9250f90d" index="4" custom="heights_v2:[32.8,15.1]">
+        <Coords points="2774,633 2774,681 2960,679 3144,677 3329,681 3514,681 3700,679 3885,683 4070,689 4255,693 4445,693 4445,647 4445,646 4445,646 4255,646 4071,642 3886,636 3701,632 3514,634 3329,634 3146,630 2960,632 2774,633"/>
+        <Baseline points="2774,666 2960,664 3145,662 3329,666 3514,666 3701,664 3885,668 4070,674 4255,678 4445,678"/>
+        <TextEquiv conf="1.000">
+          <Unicode>paní Anna Michalíčková. Doznívají poslední tony naší národní hymny, zazněla salva z</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0f2eeb72-43e4-4b86-ae9f-77da920b2a6f" index="5" custom="heights_v2:[32.4,15.1]">
+        <Coords points="2774,700 2773,748 2962,750 3148,746 3336,750 3522,748 3709,750 3895,752 4082,754 4268,758 4458,762 4460,714 4269,710 4083,706 3896,704 3709,702 3522,700 3335,702 3150,698 2961,702 2774,700"/>
+        <Baseline points="2773,733 2962,735 3149,731 3335,735 3522,733 3709,735 3895,737 4082,739 4269,743 4459,747"/>
+        <TextEquiv conf="1.000">
+          <Unicode>patyzánských samopalů, sňata rouška halicí pomník. Pomík předán veřejnosti aby zde stál</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="da7bad8c-9b6b-4dc3-a767-3d26d030d64a" index="6" custom="heights_v2:[32.5,14.9]">
+        <Coords points="2773,766 2773,814 2910,814 3046,814 3183,816 3320,816 3458,814 3594,816 3730,818 3867,822 4010,824 4010,776 3868,774 3732,770 3595,768 3458,766 3319,768 3183,768 3047,766 2910,766 2773,766"/>
+        <Baseline points="2773,799 2910,799 3046,799 3183,801 3319,801 3458,799 3594,801 3731,803 3867,807 4010,809"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a připomínal nám, kolik obětí bylo přineseno pro naše osvobození.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b69f960b-653b-4ebf-a58a-adda49fd1f2e" index="7" custom="heights_v2:[32.4,14.8]">
+        <Coords points="2846,831 2845,878 3026,882 3205,882 3382,884 3560,882 3736,886 3915,890 4092,894 4271,896 4453,898 4454,851 4271,849 4092,847 3916,843 3738,839 3561,835 3381,837 3205,835 3026,835 2846,831"/>
+        <Baseline points="2846,863 3026,867 3205,867 3382,869 3560,867 3737,871 3915,875 4092,879 4271,881 4453,883"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Fotografie která zachycuje zahájení slavnosti předsedou M. N. V., čestnou stráž partyzá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="435599b9-4c5f-41ee-855a-aecf26832f1d" index="8" custom="heights_v2:[32.8,15.2]">
+        <Coords points="2772,910 2772,958 3903,954 4471,962 4471,914 4279,914 4091,910 3904,906 3714,908 3526,908 3339,910 3151,910 2962,910 2772,910"/>
+        <Baseline points="2772,943 2962,943 3151,943 3339,943 3526,941 3715,941 3903,939 4090,943 4279,947 4471,947"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nů a účast obyvatelstva je uložena ve fotodokumentaci SV. II foto čís. 82 až 87 Listiné dole. ve SV. I. obálka č.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c25f38fe-47d4-494a-9ddd-ed4fe5f459c2">
+      <Coords points="4518,578 4485,578 4485,614 4759,614 4757,578 4518,578"/>
+      <TextLine id="e36e30e5-9ab4-4547-9c2f-bdede0e888aa" index="0" custom="heights_v2:[23.9,11.8]">
+        <Coords points="4637,614 4757,614 4759,614 4758,602 4757,578 4723,580 4694,580 4666,580 4638,578 4606,578 4578,578 4548,578 4518,578 4485,578 4485,614 4518,614 4548,614 4578,614 4606,614 4635,614 4637,614"/>
+        <Baseline points="4485,602 4518,602 4548,602 4578,602 4606,602 4636,602 4666,604 4694,604 4724,604 4758,602"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Národního oodboje</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="e8341f03-99f4-459d-b86e-99d70701e76f">
+      <Coords points="4511,626 4483,628 4486,669 4705,667 4708,626 4511,626"/>
+      <TextLine id="c576964e-da33-4d7a-bb2b-39738d0a55a0" index="0" custom="heights_v2:[28.5,13.0]">
+        <Coords points="4511,626 4483,628 4486,669 4489,669 4511,667 4537,667 4560,665 4584,665 4606,665 4630,665 4654,665 4677,665 4703,667 4705,667 4708,626 4511,626"/>
+        <Baseline points="4485,656 4511,654 4536,654 4560,652 4584,652 4606,652 4630,652 4654,652 4678,652 4706,654"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Foto č. 82 až 87</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="da23faf7-0d4b-4774-9c96-e29d8e57915d">
+      <Coords points="4546,666 4546,697 4706,701 4706,663 4546,666"/>
+      <TextLine id="382183e1-bcbf-424a-9ab4-440c9bc1bbbb" index="0" custom="heights_v2:[25.3,12.6]">
+        <Coords points="4546,666 4546,697 4574,697 4600,697 4625,697 4649,699 4663,700 4703,701 4706,701 4706,663 4705,663 4546,666"/>
+        <Baseline points="4546,684 4574,684 4600,684 4626,684 4650,686 4676,688 4706,688"/>
+        <TextEquiv conf="1.000">
+          <Unicode>album SV. II.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9381fb29-1ee0-490c-9210-1d9d8b9853cc">
+      <Coords points="2775,1295 2778,1712 2769,1864 2778,1987 2773,2527 2765,2663 3393,2661 3705,2671 4178,2671 4453,2467 4445,2278 4462,2080 4447,1925 4461,1789 4455,1657 4736,1459 4737,1408 4731,1321 4459,1119 4455,1105 4442,1104 4439,1055 2870,1041 2778,1107 2775,1295"/>
+      <TextLine id="8eee8ac1-648a-4700-975d-3c13d6842951" index="0" custom="heights_v2:[33.0,15.5]">
+        <Coords points="4439,1059 4439,1055 4414,1055 4261,1055 4166,1053 3514,1047 3394,1047 3219,1045 3176,1044 2870,1041 2870,1041 2870,1089 3046,1089 3219,1093 3394,1095 3566,1095 3741,1095 3913,1097 4088,1099 4261,1103 4439,1103 4439,1059"/>
+        <Baseline points="2870,1074 3046,1074 3219,1078 3394,1080 3566,1080 3741,1080 3913,1082 4088,1084 4261,1088 4439,1088"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V budově čís. 21 (bývalá řim. kat. fára) je umístěna úřadovna M. N. V. v této</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1c985547-4a92-4900-965c-b836b505830f" index="1" custom="heights_v2:[32.8,14.9]">
+        <Coords points="2778,1107 2778,1136 2778,1155 2932,1155 3084,1157 3237,1159 3387,1159 3540,1161 3692,1161 3843,1165 3996,1165 4152,1167 4153,1119 3996,1117 3843,1117 3694,1113 3540,1113 3388,1111 3237,1111 3085,1109 2932,1107 2778,1107"/>
+        <Baseline points="2778,1140 2932,1140 3085,1142 3237,1144 3388,1144 3540,1146 3693,1146 3843,1150 3996,1150 4152,1152"/>
+        <TextEquiv conf="1.000">
+          <Unicode>budově se nachází rozhlasová aparatura značky "Tesla„ o výkonu 100</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="900fa846-93b6-48f8-9f6f-1756ac67accb" index="2" custom="heights_v2:[32.6,14.8]">
+        <Coords points="4156,1119 4156,1167 4192,1167 4224,1167 4259,1169 4291,1169 4323,1169 4358,1169 4389,1167 4421,1167 4459,1167 4459,1119 4421,1119 4389,1119 4355,1121 4323,1121 4291,1121 4259,1121 4226,1119 4192,1119 4156,1119"/>
+        <Baseline points="4156,1152 4192,1152 4225,1152 4259,1154 4291,1154 4323,1154 4357,1154 4389,1152 4421,1152 4459,1152"/>
+        <TextEquiv conf="1.000">
+          <Unicode>- Po vesnici je</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aee16489-2069-4b57-8be3-bed187ba4907" index="3" custom="heights_v2:[36.6,17.1]">
+        <Coords points="2777,1172 2776,1225 2966,1227 3153,1225 3339,1227 3526,1233 3712,1231 3899,1235 4086,1237 4272,1237 4463,1239 4464,1186 4273,1184 4086,1184 3900,1182 3714,1178 3526,1180 3341,1174 3153,1172 2966,1174 2777,1172"/>
+        <Baseline points="2776,1208 2966,1210 3153,1208 3339,1210 3526,1216 3713,1214 3899,1218 4086,1220 4273,1220 4463,1222"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rozmístěno 9 amplionů o cekovém výkonu 90watů. Slyšitelnost místního vysílání</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e187bcac-4d40-4c0a-b928-22990365e951" index="4" custom="heights_v2:[35.0,16.7]">
+        <Coords points="2777,1243 2775,1295 2848,1297 2918,1297 2988,1297 3059,1297 3127,1297 3197,1297 3267,1297 3337,1297 3411,1299 3413,1247 3338,1245 3267,1245 3197,1245 3127,1245 3059,1245 2988,1245 2918,1245 2848,1245 2777,1243"/>
+        <Baseline points="2776,1278 2848,1280 2918,1280 2988,1280 3059,1280 3127,1280 3197,1280 3267,1280 3337,1280 3412,1282"/>
+        <TextEquiv conf="1.000">
+          <Unicode>je ve všech částech obce dobrá.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="49ea128d-048c-425f-b824-7d12dbda9715" index="5" custom="heights_v2:[37.3,17.0]">
+        <Coords points="4731,1326 4731,1321 4516,1327 4307,1325 4097,1319 3885,1319 3677,1315 3466,1313 3256,1311 3044,1311 2832,1307 2831,1362 3044,1366 3255,1366 3466,1368 3676,1370 3885,1374 4096,1374 4307,1380 4518,1382 4733,1376 4731,1326"/>
+        <Baseline points="2832,1345 3044,1349 3255,1349 3466,1351 3677,1353 3885,1357 4096,1357 4307,1363 4518,1365 4732,1359"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Naproti úřadovny M.N.V. přes silnici stojí požární zbrojnice. V budově kul_ Fot. dok. SV. I f. č. 6.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="18410c79-ce19-4e34-ace3-7affdd8358ad" index="6" custom="heights_v2:[34.8,15.9]">
+        <Coords points="2776,1382 2776,1433 2992,1433 3209,1435 3428,1437 3644,1439 3861,1443 4080,1447 4296,1443 4513,1457 4736,1459 4736,1448 4737,1408 4514,1406 4299,1392 4079,1396 3862,1392 3645,1388 3428,1386 3209,1384 2993,1382 2776,1382"/>
+        <Baseline points="2776,1417 2992,1417 3209,1419 3428,1421 3645,1423 3861,1427 4080,1431 4297,1427 4513,1441 4736,1443"/>
+        <TextEquiv conf="1.000">
+          <Unicode>turního domu se nachází poštovní úřad a veřejná telefonní hovorna. V obci jsou Fot. dok. SV. I. f. č. 12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7c9bb2cd-5ab9-4bcd-a007-bec74d40d36d" index="7" custom="heights_v2:[13.8,7.1]">
+        <Coords points="3408,1431 3408,1452 3450,1452 3450,1431 3408,1431"/>
+        <Baseline points="3408,1445 3450,1445"/>
+        <TextEquiv conf="1.000">
+          <Unicode>oz.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4f84bbcb-58f8-4276-9cb6-3395ea971fdf" index="8" custom="heights_v2:[19.7,10.2]">
+        <Coords points="3452,1425 3449,1455 3467,1457 3470,1427 3452,1425"/>
+        <Baseline points="3450,1445 3468,1447"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a8d2639-7203-42ac-84e5-7860204fe0df" index="9" custom="heights_v2:[34.3,16.1]">
+        <Coords points="2776,1451 2776,1501 2940,1501 3105,1505 3267,1503 3431,1505 3594,1509 3759,1511 3922,1511 4086,1509 4255,1507 4254,1457 4086,1459 3921,1461 3759,1461 3595,1459 3433,1455 3268,1453 3104,1455 2941,1451 2776,1451"/>
+        <Baseline points="2776,1485 2940,1485 3105,1489 3267,1487 3432,1489 3594,1493 3759,1495 3921,1495 4086,1493 4255,1491"/>
+        <TextEquiv conf="1.000">
+          <Unicode>čtyři telefonní účastníci: M.N.V. škola, J.Z.D. a zdravotní středisko.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bc4b9004-27df-4b20-8d27-cd4c3275503f" index="10" custom="heights_v2:[36.7,17.4]">
+        <Coords points="2845,1517 2843,1571 3023,1575 3199,1573 3374,1573 3550,1573 3725,1577 3901,1579 4076,1579 4252,1581 4433,1585 4434,1531 4253,1527 4076,1525 3901,1525 3725,1523 3551,1519 3374,1519 3199,1519 3022,1521 2845,1517"/>
+        <Baseline points="2844,1553 3022,1557 3199,1555 3374,1555 3550,1555 3725,1559 3901,1561 4076,1561 4253,1563 4433,1567"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Obec Mladoňov se svým katastrem leží v lesnaté krajině. V těchto lesích</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="83cbd651-a403-4e00-a824-004c00cd4da0" index="11" custom="heights_v2:[37.0,17.6]">
+        <Coords points="2777,1634 2778,1643 2966,1645 3151,1643 3337,1643 3522,1645 3709,1645 3893,1647 4079,1647 4264,1655 4455,1657 4455,1657 4455,1657 4456,1603 4265,1601 4082,1593 3893,1593 3709,1591 3522,1591 3338,1589 3151,1589 2966,1591 2778,1589 2777,1634"/>
+        <Baseline points="2778,1626 2966,1628 3151,1626 3337,1626 3522,1628 3709,1628 3893,1630 4080,1630 4265,1638 4455,1640"/>
+        <TextEquiv conf="1.000">
+          <Unicode>převládá smrk. Dále jsou zastoupeny: jedle, modřín, borovice, buk, habr, dub,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f1b55422-cac2-44f0-a3c0-02f101597491" index="12" custom="heights_v2:[34.1,15.9]">
+        <Coords points="2778,1662 2778,1712 2896,1710 3010,1712 3125,1714 3239,1714 3355,1714 3470,1716 3585,1714 3698,1712 3819,1714 3820,1664 3699,1662 3584,1664 3469,1666 3356,1664 3239,1664 3125,1664 3011,1662 2897,1660 2778,1662"/>
+        <Baseline points="2778,1696 2896,1694 3010,1696 3125,1698 3239,1698 3356,1698 3470,1700 3584,1698 3699,1696 3819,1698"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bříza, jíva, vrba, olše, jasan, javor, klen, jeřáb.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5381f228-e0e2-4480-ab8b-5aed69e63ce9" index="13" custom="heights_v2:[36.3,17.1]">
+        <Coords points="4461,1789 4461,1789 4459,1736 4275,1736 4093,1730 3909,1732 3726,1734 3545,1728 3362,1728 3179,1726 2996,1728 2812,1728 2812,1781 2996,1781 3179,1779 3362,1781 3544,1781 3727,1787 3910,1785 4091,1783 4275,1789 4461,1789"/>
+        <Baseline points="2812,1764 2996,1764 3179,1762 3362,1764 3544,1764 3727,1770 3909,1768 4092,1766 4275,1772 4460,1772"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Svahovitý a hornatý teren katastru má mnoho mezí které jsou hojně porostlé keři</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1072f8ca-4ce8-4057-92ec-61d4b8bc9771" index="14" custom="heights_v2:[37.0,17.4]">
+        <Coords points="2773,1793 2770,1848 2924,1846 3074,1846 3225,1850 3375,1852 3526,1854 3677,1856 3827,1854 3978,1852 4134,1852 4134,1797 3978,1797 3827,1799 3676,1801 3527,1799 3376,1797 3226,1795 3076,1791 2924,1791 2773,1793"/>
+        <Baseline points="2771,1830 2924,1828 3075,1828 3225,1832 3376,1834 3526,1836 3677,1838 3827,1836 3978,1834 4134,1834"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Jsou to keře šípovníku, lísky, hlohu, bezu černého a jiných keřů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="66dd984e-5fa1-4ff0-81ff-c280bce306a1" index="15" custom="heights_v2:[36.2,16.9]">
+        <Coords points="2769,1866 2773,1917 2958,1915 3142,1915 3329,1919 3514,1919 3701,1919 3885,1919 4072,1921 4256,1923 4447,1925 4447,1925 4447,1924 4448,1872 4257,1870 4072,1868 3886,1866 3701,1866 3514,1866 3329,1866 3144,1862 2958,1862 2769,1864 2769,1866"/>
+        <Baseline points="2772,1901 2958,1899 3143,1899 3329,1903 3514,1903 3701,1903 3885,1903 4072,1905 4257,1907 4447,1909"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Z lesních plodin jsou sbírány maliny, ostružiny, jahody a borůvky. Rozsáhlé lesy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1a203d4c-e8e3-45b6-872a-7e98868b2114" index="16" custom="heights_v2:[34.6,16.2]">
+        <Coords points="2777,1936 2778,1987 2846,1985 2912,1985 2978,1985 3045,1985 3111,1983 3177,1983 3243,1983 3309,1983 3380,1983 3380,1932 3309,1932 3243,1932 3177,1932 3111,1932 3043,1934 2978,1934 2912,1934 2846,1934 2777,1936"/>
+        <Baseline points="2778,1971 2846,1969 2912,1969 2978,1969 3044,1969 3111,1967 3177,1967 3243,1967 3309,1967 3380,1967"/>
+        <TextEquiv conf="1.000">
+          <Unicode>poskytují hojnost jedlých hub.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="39cd2539-a9bb-4e53-b1f5-d6f67485e9a7" index="17" custom="heights_v2:[35.7,16.5]">
+        <Coords points="2834,1999 2833,2052 2960,2054 3083,2054 3205,2054 3327,2052 3452,2052 3574,2052 3696,2054 3819,2056 3947,2058 3948,2005 3820,2003 3697,2001 3575,1999 3452,1999 3327,1999 3204,2001 3083,2001 2960,2001 2834,1999"/>
+        <Baseline points="2834,2035 2960,2037 3083,2037 3205,2037 3327,2035 3452,2035 3574,2035 3697,2037 3819,2039 3948,2041"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pro rybáře žije ve vodách našich potoků pstruh a rak.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="49cf113c-0ccf-44de-ba9f-92bec420965d" index="18" custom="heights_v2:[33.7,15.8]">
+        <Coords points="4458,2129 4462,2080 4462,2080 4281,2076 4104,2075 3927,2075 3751,2075 3575,2069 3397,2071 3221,2069 3044,2069 2863,2071 2864,2121 3044,2119 3221,2119 3398,2121 3574,2119 3751,2125 3927,2125 4104,2125 4280,2125 4458,2129"/>
+        <Baseline points="2864,2105 3044,2103 3221,2103 3398,2105 3574,2103 3751,2109 3927,2109 4104,2109 4281,2109 4459,2113"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hlavní plodiny naších polí: ječmen, oves, žito, pšenice, (v menší míře) len, bram-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bb11f825-b39b-47b1-b826-891603969ca1" index="19" custom="heights_v2:[33.6,15.5]">
+        <Coords points="2777,2138 2776,2187 2964,2191 3149,2189 3335,2189 3520,2189 3705,2191 3892,2191 4076,2189 4260,2191 4451,2197 4452,2148 4262,2142 4076,2140 3891,2142 3705,2142 3520,2140 3335,2140 3149,2140 2964,2142 2777,2138"/>
+        <Baseline points="2776,2171 2964,2175 3149,2173 3335,2173 3520,2173 3705,2175 3891,2175 4076,2173 4261,2175 4451,2181"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bory a krmná řepa. Mák se zde daří ale seje se velmi málo. Z jetelovin se pěstuje</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0be8b869-7bff-4e09-804a-c6b15992e294" index="20" custom="heights_v2:[33.6,15.4]">
+        <Coords points="2776,2208 2775,2257 2960,2255 3145,2255 3329,2255 3514,2257 3699,2257 3883,2259 4068,2259 4252,2259 4441,2265 4442,2216 4254,2210 4068,2210 3883,2210 3699,2208 3514,2208 3330,2206 3145,2206 2960,2206 2776,2208"/>
+        <Baseline points="2776,2242 2960,2240 3145,2240 3329,2240 3514,2242 3699,2242 3883,2244 4068,2244 4253,2244 4441,2250"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pouze jetel červený. Ostatní druhy ojediněle. Pěstují se různé směsky které se převáž-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a4bb968c-de62-46d5-99ab-07772b2e1a3a" index="21" custom="heights_v2:[33.9,15.5]">
+        <Coords points="2775,2274 2775,2323 2960,2325 3145,2325 3329,2323 3514,2325 3701,2327 3885,2325 4070,2327 4255,2327 4445,2327 4445,2284 4445,2278 4255,2278 4070,2278 3886,2276 3700,2278 3514,2276 3330,2274 3144,2276 2960,2276 2775,2274"/>
+        <Baseline points="2775,2308 2960,2310 3145,2310 3329,2308 3514,2310 3701,2312 3885,2310 4070,2312 4255,2312 4445,2312"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ně silážují. Rovněž se pěstují některé druhy travných semen, ovsík vyvýšený, ovsík žlu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0b33ee57-1e75-40ca-91cb-209883bd93c5" index="22" custom="heights_v2:[34.1,15.8]">
+        <Coords points="2775,2342 2774,2392 2958,2392 3143,2390 3327,2392 3512,2392 3697,2394 3881,2394 4066,2396 4251,2396 4439,2396 4439,2346 4251,2346 4066,2346 3882,2344 3697,2344 3512,2342 3327,2342 3143,2340 2958,2342 2775,2342"/>
+        <Baseline points="2774,2376 2958,2376 3143,2374 3327,2376 3512,2376 3697,2378 3881,2378 4066,2380 4251,2380 4439,2380"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tavý, kostřava luční. Z domácích zvířat je chován téměř v každé domácnosti pes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="69fe68d8-8e70-4bbf-8a5f-c3fe5dd08f6a" index="23" custom="heights_v2:[35.1,16.7]">
+        <Coords points="2774,2409 2774,2461 2960,2461 3147,2461 3333,2461 3518,2463 3705,2463 3891,2461 4076,2463 4262,2463 4453,2467 4453,2467 4453,2466 4451,2415 4263,2411 4076,2411 3892,2409 3704,2411 3518,2411 3334,2409 3147,2409 2960,2409 2774,2409"/>
+        <Baseline points="2774,2444 2960,2444 3147,2444 3333,2444 3518,2446 3705,2446 3891,2444 4076,2446 4263,2446 4452,2450"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a kočka. Hospodářská zvířata chovaná v obci: hovězí a vepřový dobytek, kůň, ko-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ed66f960-71b4-4eb6-9717-b1018d0927e6" index="24" custom="heights_v2:[33.9,16.1]">
+        <Coords points="2774,2477 2773,2527 2938,2529 3101,2527 3261,2523 3423,2527 3584,2531 3747,2531 3907,2531 4070,2533 4237,2533 4237,2483 4070,2483 3908,2481 3747,2481 3584,2481 3425,2477 3262,2473 3100,2477 2938,2479 2774,2477"/>
+        <Baseline points="2774,2511 2938,2513 3101,2511 3261,2507 3424,2511 3584,2515 3747,2515 3907,2515 4070,2517 4237,2517"/>
+        <TextEquiv conf="1.000">
+          <Unicode>za a ovce. Z drůbeže jsou chovány slepice, krůty, perličky, husy a kachny.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d182dc55-b874-4ae5-b988-d235e80cb5b9" index="25" custom="heights_v2:[32.0,14.2]">
+        <Coords points="2843,2549 2844,2595 2944,2593 3040,2593 3137,2593 3233,2591 3329,2591 3425,2591 3522,2595 3618,2595 3719,2595 3719,2549 3618,2549 3522,2549 3427,2545 3329,2545 3233,2545 3136,2547 3040,2547 2944,2547 2843,2549"/>
+        <Baseline points="2844,2581 2944,2579 3040,2579 3137,2579 3233,2577 3329,2577 3426,2577 3522,2581 3618,2581 3719,2581"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Lovná zvěř našich lesů: jelen, srnec a zajíc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a9a3b555-cb41-41be-aa54-1b51015c59bf" index="26" custom="heights_v2:[30.6,14.2]">
+        <Coords points="2768,2618 2765,2655 2765,2663 3393,2661 3443,2663 3548,2665 3648,2669 3705,2671 3889,2671 4018,2669 4150,2671 4178,2671 4178,2671 4179,2626 4018,2624 3861,2626 3705,2626 3549,2620 3394,2616 3237,2618 3081,2618 2924,2618 2768,2618"/>
+        <Baseline points="2766,2649 2924,2649 3081,2649 3237,2649 3394,2647 3548,2651 3705,2657 3861,2657 4018,2655 4178,2657"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Po druhé světové válce se u nás rozmnožila zvěř černá, lidově zvaná divočáci.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eae1dcb0-c6df-4bf2-b265-41702ed962d5">
+      <Coords points="4446,1059 4442,1104 4466,1106 4470,1061 4446,1059"/>
+      <TextLine id="8384e043-6aba-4320-a94b-2b10383346a1" index="0" custom="heights_v2:[31.2,14.3]">
+        <Coords points="4446,1059 4443,1092 4442,1104 4466,1106 4468,1079 4470,1061 4446,1059"/>
+        <Baseline points="4443,1090 4467,1092"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="944b8ceb-9dbd-40f4-b8f7-389bdd0f6e9c">
+      <Coords points="4499,1059 4471,1059 4471,1110 4716,1108 4716,1057 4499,1059"/>
+      <TextLine id="9375531e-6085-4bc9-b12d-418e0fff1b04" index="0" custom="heights_v2:[35.0,15.8]">
+        <Coords points="4499,1059 4471,1059 4471,1110 4503,1110 4528,1108 4554,1108 4580,1108 4606,1108 4632,1108 4658,1108 4684,1108 4716,1108 4716,1057 4499,1059"/>
+        <Baseline points="4471,1094 4501,1094 4528,1092 4554,1092 4580,1092 4606,1092 4632,1092 4658,1092 4684,1092 4716,1092"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Fot. dok. SV. I. foto č. 11.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="df709206-5d72-4eea-9a8d-24498e8b9da2">
+      <Coords points="4513,529 4489,529 4489,569 4709,567 4706,527 4513,529"/>
+      <TextLine id="f0671456-1545-486c-915f-dc408c3dc7ef" index="0" custom="heights_v2:[27.2,13.4]">
+        <Coords points="4513,529 4489,529 4489,569 4523,569 4540,567 4564,567 4585,567 4595,568 4709,567 4706,527 4702,527 4678,529 4656,529 4634,529 4610,529 4603,528 4513,529"/>
+        <Baseline points="4489,556 4516,556 4540,554 4564,554 4586,554 4610,556 4634,556 4656,556 4680,556 4708,554"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pomník obětem</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c44eb63a-585c-483b-addd-2a1b4b8e270d">
+      <Coords points="312,2734 254,2810 289,3025 348,3020 360,2736 312,2734"/>
+      <TextLine id="534b6a6a-8523-408c-85e9-c71de1637cf6" index="0" custom="heights_v2:[204.1,80.3]">
+        <Coords points="312,2734 312,2735 300,3018 346,3020 348,3020 360,2736 312,2734"/>
+        <Baseline points="303,2938 351,2940"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d828f9b1-a284-4984-bbb4-385103ac03c7" index="1" custom="heights_v2:[156.4,61.6]">
+        <Coords points="271,2914 289,3025 339,3017 304,2802 254,2810 271,2914"/>
+        <Baseline points="279,2964 329,2956"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="3a65aeea-1e01-4a21-9bfa-b17358c42aa7">
+      <Coords points="1442,2807 1438,2846 1472,2850 1476,2811 1442,2807"/>
+      <TextLine id="e645db90-af6c-4f90-8664-e351bb02f27f" index="0" custom="heights_v2:[27.4,12.0]">
+        <Coords points="1441,2813 1438,2846 1472,2850 1475,2825 1476,2811 1442,2807 1441,2813"/>
+        <Baseline points="1439,2834 1473,2838"/>
+        <TextEquiv>
+          <Unicode>8</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="023d4759-6f20-4079-8fda-2461d4ba1480">
+      <Coords points="3681,2809 3643,2809 3643,2857 3681,2857 3681,2809"/>
+      <TextLine id="227d3c86-22bb-41a6-9e31-74a50fed1f87" index="0" custom="heights_v2:[33.1,15.7]">
+        <Coords points="3681,2809 3643,2809 3643,2857 3681,2857 3681,2809"/>
+        <Baseline points="3643,2842 3681,2842"/>
+        <TextEquiv>
+          <Unicode>9</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

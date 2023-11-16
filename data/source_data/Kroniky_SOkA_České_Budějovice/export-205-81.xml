@@ -1,0 +1,175 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:12:13.710498+00:00</Created>
+    <LastChange>2023-02-07T20:12:13.710498+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-205-81" imageWidth="1975" imageHeight="1526">
+    <TextRegion id="r000">
+      <Coords points="60,181 50,251 63,356 681,303 747,254 951,243 946,186 970,123 976,72 895,17 797,11 613,14 67,42 60,181"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[36.7,16.2]">
+        <Coords points="67,42 161,39 252,34 341,31 432,25 522,20 613,14 704,11 797,11 895,17 892,70 794,64 704,64 615,67 525,73 435,78 345,84 254,87 164,92 68,95"/>
+        <Baseline points="68,79 163,76 254,70 344,68 434,62 524,56 614,51 704,48 795,48 893,54"/>
+        <TextEquiv conf="0.392">
+          <Unicode>der 13 Prosince 1840 Wihoreli w Machaussi Mann</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="1" custom="heights_v2:[36.0,16.2]">
+        <Coords points="64,85 167,82 265,77 367,68 466,63 565,57 669,54 767,57 869,60 976,71 970,123 863,112 766,109 667,106 567,109 469,115 370,120 269,129 170,135 65,137"/>
+        <Baseline points="65,121 169,118 268,113 369,104 468,99 566,93 668,90 766,93 865,96 972,107"/>
+        <TextEquiv conf="0.357">
+          <Unicode>Partl Ruza chramosta dvorak Podlaha Trinkl hore</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="2" custom="heights_v2:[37.4,17.7]">
+        <Coords points="59,126 150,123 238,118 327,115 416,109 505,106 595,101 685,101 771,101 867,98 868,153 773,156 685,156 595,156 508,161 418,164 331,170 240,173 153,178 61,181"/>
+        <Baseline points="61,163 152,161 240,155 330,152 417,147 507,144 595,138 685,138 772,138 868,135"/>
+        <TextEquiv conf="0.495">
+          <Unicode>Patek Asesigala gim Hlavatecka Obri Obili</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="3" custom="heights_v2:[39.7,18.7]">
+        <Coords points="64,186 159,177 250,174 337,172 426,169 513,163 603,158 692,152 781,149 877,143 880,202 784,207 694,210 607,216 517,222 430,227 339,230 251,233 161,236 69,244"/>
+        <Baseline points="68,225 161,217 251,214 338,211 428,209 516,203 606,197 693,192 783,189 879,183"/>
+        <TextEquiv conf="0.484">
+          <Unicode>Vsichni Sigali Negne 14 Srichu dal Každi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="4" custom="heights_v2:[39.6,18.2]">
+        <Coords points="52,251 152,242 250,234 349,225 447,217 547,208 646,203 746,197 842,194 946,186 951,244 847,252 747,255 649,261 551,266 452,275 354,283 255,291 157,300 57,308"/>
+        <Baseline points="55,290 155,282 254,273 352,265 451,256 549,248 648,242 747,237 845,234 950,225"/>
+        <TextEquiv conf="0.381">
+          <Unicode>Wertl žita Sprett geimene Mert Owsa a 10 ciga</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="5" custom="heights_v2:[39.9,18.4]">
+        <Coords points="59,298 129,293 197,287 263,282 330,273 400,265 469,259 535,256 603,250 676,245 681,303 607,309 540,314 471,317 404,323 338,331 270,340 202,345 134,351 63,357"/>
+        <Baseline points="62,338 132,333 200,327 268,321 335,313 403,304 471,299 538,296 606,290 679,285"/>
+        <TextEquiv conf="0.315">
+          <Unicode>Stani každěj a gednu dey gena</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="74,430 85,583 754,558 951,544 946,481 916,388 885,331 78,373 74,430"/>
+      <TextLine id="r001-l008" index="0" custom="heights_v2:[40.7,18.5]">
+        <Coords points="78,374 169,371 258,365 347,362 434,357 524,351 612,345 703,340 789,337 885,331 889,390 793,396 705,399 615,404 528,410 438,416 351,421 260,424 173,430 79,433"/>
+        <Baseline points="79,414 172,411 259,406 349,403 437,397 527,392 614,386 704,380 792,378 888,372"/>
+        <TextEquiv conf="0.457">
+          <Unicode>Sten Sami Rot Wihoreli Wihlarch 1880</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="1" custom="heights_v2:[37.7,18.0]">
+        <Coords points="74,430 170,424 263,419 356,413 448,408 540,402 634,399 725,399 818,393 916,388 920,443 821,449 728,455 634,455 542,458 452,463 359,469 266,474 173,480 78,486"/>
+        <Baseline points="77,468 172,462 265,456 358,451 451,445 541,440 634,437 727,437 820,431 919,425"/>
+        <TextEquiv conf="0.360">
+          <Unicode>Knotek Nowak Kales Kadlec Sei per dali</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="2" custom="heights_v2:[38.7,18.3]">
+        <Coords points="77,477 155,471 228,466 301,460 376,454 449,452 524,449 597,449 669,449 751,446 753,503 671,506 597,506 524,506 452,509 378,511 306,517 232,523 159,528 81,534"/>
+        <Baseline points="80,516 158,510 231,504 304,499 378,493 451,490 524,487 597,487 671,487 752,485"/>
+        <TextEquiv conf="0.386">
+          <Unicode>Tři z Strihi a jednu Korku lami</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="3" custom="heights_v2:[42.6,19.6]">
+        <Coords points="83,521 182,518 278,515 372,513 465,507 562,501 658,498 750,496 845,490 946,482 951,544 850,552 754,558 660,561 564,563 469,569 376,575 280,578 184,580 85,583"/>
+        <Baseline points="85,564 183,561 279,558 375,555 468,549 564,544 659,541 752,538 848,533 950,524"/>
+        <TextEquiv conf="0.434">
+          <Unicode>Soho duhu Bil Tomas Haudek Předstaneni</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="172,611 78,614 90,825 111,900 134,1223 937,1184 933,1118 995,1048 978,799 959,735 957,683 915,586 172,611"/>
+      <TextLine id="r002-l012" index="0" custom="heights_v2:[39.7,19.1]">
+        <Coords points="79,614 172,611 266,606 358,603 450,603 541,600 632,600 722,594 816,589 915,586 916,645 818,647 725,653 635,659 541,659 451,662 358,662 268,664 176,670 81,673"/>
+        <Baseline points="80,654 175,651 268,645 358,642 451,642 541,640 634,640 724,634 817,628 916,626"/>
+        <TextEquiv conf="0.511">
+          <Unicode>Roku 1841 Vihoreli in Mahmissi zimandl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="1" custom="heights_v2:[35.6,17.1]">
+        <Coords points="82,663 175,658 261,658 347,655 433,655 518,652 606,652 688,652 777,646 870,643 871,696 778,699 691,705 606,705 518,705 435,707 347,707 263,710 175,710 86,716"/>
+        <Baseline points="85,699 175,693 262,693 347,690 434,690 518,688 606,688 690,688 778,682 871,679"/>
+        <TextEquiv conf="0.392">
+          <Unicode>Nowotung gindra Bohateg Kukla dali</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l014" index="2" custom="heights_v2:[35.7,16.9]">
+        <Coords points="87,700 185,700 282,697 379,697 472,700 568,697 664,694 759,691 856,686 957,683 959,735 857,738 762,744 666,747 570,750 474,752 377,750 282,750 186,752 87,752"/>
+        <Baseline points="87,735 186,735 282,733 378,733 473,735 569,733 665,730 761,727 857,721 958,719"/>
+        <TextEquiv conf="0.433">
+          <Unicode>smr gin almužnu 6 sleichu žita 2 struhi geiner,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l015" index="3" custom="heights_v2:[34.1,16.3]">
+        <Coords points="87,738 181,738 267,741 358,738 445,738 533,738 622,738 710,735 797,735 893,735 893,786 797,786 710,786 623,788 533,788 445,788 358,788 268,791 180,788 87,788"/>
+        <Baseline points="87,772 180,772 268,775 358,772 445,772 533,772 623,772 710,769 797,769 893,769"/>
+        <TextEquiv conf="0.391">
+          <Unicode>na dwa gille wohn každi suiget sluni</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l016" index="4" custom="heights_v2:[35.1,16.7]">
+        <Coords points="90,774 178,774 263,774 345,776 428,774 513,774 599,774 679,776 763,776 853,774 854,825 764,828 679,828 597,825 513,825 428,825 347,828 262,825 178,825 90,825"/>
+        <Baseline points="90,809 178,809 262,809 347,812 428,809 513,809 597,809 679,812 764,812 854,809"/>
+        <TextEquiv conf="0.366">
+          <Unicode>der otigi sena dali sie wssichen stegne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l017" index="5" custom="heights_v2:[39.9,18.0]">
+        <Coords points="107,820 207,820 304,817 400,817 497,817 591,820 685,817 781,811 877,805 978,800 982,858 880,863 784,869 689,875 592,877 495,875 400,875 304,875 209,877 107,877"/>
+        <Baseline points="107,859 209,859 304,857 400,857 496,857 592,859 688,857 783,851 879,845 981,840"/>
+        <TextEquiv conf="0.399">
+          <Unicode>seho Cafe bil Tomas Handek Piedsteng</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l018" index="6" custom="heights_v2:[44.3,19.7]">
+        <Coords points="113,900 201,897 287,894 373,894 459,891 545,891 630,888 717,886 800,883 893,877 897,941 804,947 719,950 632,952 547,955 459,955 375,958 287,958 204,961 115,964"/>
+        <Baseline points="114,944 203,941 287,938 375,938 459,936 547,936 631,933 719,930 803,927 896,921"/>
+        <TextEquiv conf="0.508">
+          <Unicode>Roku 1882. Vihoreli a Mahanſi Berka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l019" index="7" custom="heights_v2:[42.0,19.3]">
+        <Coords points="118,970 207,967 297,964 386,961 474,956 565,950 655,947 741,944 832,939 927,933 931,994 835,1000 745,1006 657,1008 567,1011 477,1017 390,1022 299,1025 209,1028 120,1031"/>
+        <Baseline points="119,1011 209,1009 299,1006 389,1003 476,998 566,992 657,989 744,986 834,981 930,975"/>
+        <TextEquiv conf="0.546">
+          <Unicode>duda Trinkl delegſſi dali sen gim z Strichi žita</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l020" index="8" custom="heights_v2:[42.9,20.0]">
+        <Coords points="123,1025 220,1022 317,1017 412,1014 509,1008 602,1005 699,1003 793,1003 885,1000 986,986 995,1048 893,1062 795,1065 699,1065 604,1068 511,1071 415,1077 319,1079 224,1085 125,1088"/>
+        <Baseline points="124,1068 223,1065 318,1060 414,1057 510,1051 603,1048 699,1045 795,1045 890,1043 992,1029"/>
+        <TextEquiv conf="0.363">
+          <Unicode>tisme sofipali na Ondreger kazdeg 2 mirki geim</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l021" index="9" custom="heights_v2:[44.4,20.2]">
+        <Coords points="125,1097 202,1091 280,1086 359,1083 435,1080 511,1077 588,1074 666,1069 741,1066 825,1060 830,1125 745,1130 669,1133 593,1139 514,1142 438,1145 361,1147 283,1150 207,1156 129,1161"/>
+        <Baseline points="128,1141 206,1136 282,1130 361,1127 437,1124 513,1121 592,1119 668,1113 744,1110 828,1105"/>
+        <TextEquiv conf="0.252">
+          <Unicode>z weticki Nami Každej dal ftegne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l022" index="10" custom="heights_v2:[46.2,20.1]">
+        <Coords points="130,1157 222,1152 311,1146 399,1143 485,1140 576,1135 664,1132 749,1129 837,1123 933,1118 937,1184 841,1189 754,1195 666,1198 578,1201 489,1206 401,1209 313,1212 227,1218 134,1223"/>
+        <Baseline points="132,1203 225,1198 313,1192 400,1189 487,1186 578,1181 665,1178 752,1175 840,1169 936,1164"/>
+        <TextEquiv conf="0.573">
+          <Unicode>toho Cafu bil Voglech Hagek Punstandung</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1933,-18 1885,-18 1885,31 1933,31 1933,-18"/>
+      <TextLine id="r003-l001" index="0" custom="heights_v2:[37.3,11.0]">
+        <Coords points="1885,-18 1933,-18 1933,31 1885,31"/>
+        <Baseline points="1885,20 1933,20"/>
+        <TextEquiv conf="0.970">
+          <Unicode>195</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

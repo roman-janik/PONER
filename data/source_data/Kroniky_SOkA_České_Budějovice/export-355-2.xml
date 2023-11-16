@@ -1,0 +1,218 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:14:25.922437+00:00</Created>
+    <LastChange>2023-02-07T20:14:25.922437+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-355-2" imageWidth="1444" imageHeight="2037">
+    <TextRegion id="r000">
+      <Coords points="72,297 97,616 83,681 87,995 73,1326 82,1449 72,1610 86,1905 472,1905 977,1889 1104,1947 1372,1937 1391,1597 1415,1513 1418,1454 1418,1391 1398,1265 1409,1194 1406,1123 1372,1037 1426,890 1404,628 1435,555 1434,488 1376,345 1374,281 1211,224 579,247 72,297"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[44.7,19.3]">
+        <Coords points="72,298 201,284 327,271 452,258 579,248 702,241 829,234 952,231 1078,228 1211,224 1213,288 1080,292 954,295 831,298 705,305 582,312 457,322 334,335 208,348 78,361"/>
+        <Baseline points="76,342 206,329 332,316 455,302 581,292 704,286 830,279 953,276 1080,272 1212,269"/>
+        <TextEquiv conf="0.499">
+          <Unicode>V roku 1812 byl zvolen obecním richterem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="1" custom="heights_v2:[45.0,19.4]">
+        <Coords points="109,350 253,337 392,327 533,317 671,311 808,301 948,294 1088,287 1228,284 1374,281 1376,345 1229,348 1090,352 951,358 811,365 676,375 536,381 397,391 257,401 115,415"/>
+        <Baseline points="113,395 256,382 395,372 535,362 674,355 810,345 950,339 1089,332 1229,329 1375,326"/>
+        <TextEquiv conf="0.318">
+          <Unicode>Wojtech Mann jensen uslo Naz do roku 1827.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="2" custom="heights_v2:[45.7,19.2]">
+        <Coords points="82,420 225,406 365,393 506,383 647,376 782,373 922,366 1061,363 1200,356 1347,350 1349,414 1203,421 1064,428 924,431 785,438 648,441 509,448 370,458 231,471 88,484"/>
+        <Baseline points="86,465 229,452 369,438 508,428 648,422 784,419 923,412 1063,409 1202,402 1349,395"/>
+        <TextEquiv conf="0.338">
+          <Unicode>Po něm nastoupil Tones Zirowsk. richter roku</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="3" custom="heights_v2:[45.5,19.7]">
+        <Coords points="93,476 229,466 359,456 489,446 619,440 750,433 879,430 1009,426 1138,423 1274,420 1276,485 1140,488 1010,491 881,495 751,498 622,505 493,511 364,521 234,531 98,541"/>
+        <Baseline points="96,521 233,512 362,502 492,492 621,485 751,478 880,475 1010,472 1139,468 1276,465"/>
+        <TextEquiv conf="0.408">
+          <Unicode>1827. a byl ředitelem obce až do roku 1844.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="4" custom="heights_v2:[48.5,20.9]">
+        <Coords points="92,553 245,540 392,526 539,516 686,510 832,506 978,500 1125,493 1271,490 1434,486 1435,556 1273,559 1127,562 981,569 835,576 688,579 542,586 397,595 251,609 98,622"/>
+        <Baseline points="96,601 249,588 395,575 541,565 688,558 834,555 980,548 1126,541 1272,538 1435,535"/>
+        <TextEquiv conf="0.389">
+          <Unicode>Po ni nastoupil Dan Infadil a byl richtarem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="5" custom="heights_v2:[44.5,19.1]">
+        <Coords points="97,617 149,613 193,613 236,610 286,603 332,600 379,597 425,593 472,590 525,587 529,650 476,653 430,657 383,660 337,663 290,667 245,673 197,677 149,677 101,680"/>
+        <Baseline points="100,661 149,658 196,658 242,654 289,648 335,644 382,641 428,638 475,634 528,631"/>
+        <TextEquiv conf="0.683">
+          <Unicode>do roku 1850.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="6" custom="heights_v2:[47.9,21.1]">
+        <Coords points="83,680 233,670 380,660 526,653 669,646 816,640 962,636 1105,633 1251,630 1404,626 1406,695 1253,699 1107,702 964,705 818,709 672,715 529,722 383,729 237,739 88,749"/>
+        <Baseline points="86,727 236,717 382,708 528,701 671,694 817,688 963,684 1106,681 1252,678 1405,674"/>
+        <TextEquiv conf="0.570">
+          <Unicode>Nato byla z mena stalý se wýkupi a a přestala</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l009" index="7" custom="heights_v2:[44.7,19.9]">
+        <Coords points="91,746 241,739 383,736 527,729 669,726 813,719 955,716 1097,709 1241,703 1394,699 1396,764 1243,767 1100,774 958,781 814,784 672,791 529,794 386,800 243,804 94,810"/>
+        <Baseline points="93,791 242,784 385,781 528,774 671,771 814,764 957,761 1099,754 1242,747 1395,744"/>
+        <TextEquiv conf="0.408">
+          <Unicode>zadanost a staly se nowa molky cisařských ura</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="8" custom="heights_v2:[43.4,19.2]">
+        <Coords points="84,807 234,800 381,794 526,790 673,784 819,780 967,777 1111,777 1258,770 1411,767 1412,830 1259,833 1114,840 967,840 821,843 675,846 529,853 382,856 237,863 86,869"/>
+        <Baseline points="86,850 236,844 382,837 528,834 674,827 820,824 967,820 1113,820 1259,814 1412,810"/>
+        <TextEquiv conf="0.325">
+          <Unicode>du a obecnich představených a byl sice zwe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l011" index="9" custom="heights_v2:[44.2,19.9]">
+        <Coords points="91,866 245,859 389,856 536,846 683,839 830,836 977,836 1122,836 1267,833 1422,826 1425,890 1270,897 1123,900 977,900 830,900 685,903 539,910 393,920 246,923 94,930"/>
+        <Baseline points="93,910 246,903 392,900 538,890 684,884 830,880 977,880 1123,880 1269,877 1424,870"/>
+        <TextEquiv conf="0.419">
+          <Unicode>len za griwaiho predstaweneho Jehof Jindra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="10" custom="heights_v2:[46.3,20.6]">
+        <Coords points="88,927 230,920 366,914 508,907 643,907 781,904 920,904 1055,904 1190,900 1337,894 1340,961 1193,967 1057,971 920,971 781,971 645,974 508,974 370,980 234,987 91,994"/>
+        <Baseline points="90,973 233,967 369,960 508,953 644,953 781,950 920,950 1056,950 1192,947 1339,940"/>
+        <TextEquiv conf="0.473">
+          <Unicode>ktery urod tento zastával do roku 1860.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l013" index="11" custom="heights_v2:[48.0,20.9]">
+        <Coords points="88,995 235,988 373,985 518,978 657,978 801,975 940,975 1082,975 1221,972 1371,968 1372,1037 1223,1041 1083,1044 940,1044 801,1044 658,1047 518,1047 376,1054 236,1057 91,1064"/>
+        <Baseline points="90,1043 236,1036 375,1033 518,1026 658,1026 801,1023 940,1023 1083,1023 1222,1020 1372,1016"/>
+        <TextEquiv conf="0.484">
+          <Unicode>Po něm byl zvolen za představeného obce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="12" custom="heights_v2:[50.5,22.7]">
+        <Coords points="81,1059 174,1056 260,1052 347,1049 435,1046 525,1046 611,1046 699,1046 786,1049 882,1052 879,1125 783,1122 697,1119 611,1119 525,1119 435,1119 350,1122 263,1125 177,1129 84,1132"/>
+        <Baseline points="83,1109 176,1106 262,1103 349,1099 435,1096 525,1096 611,1096 698,1096 784,1099 880,1103"/>
+        <TextEquiv conf="0.630">
+          <Unicode>Mazelowské Josef Cup.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="13" custom="heights_v2:[49.2,21.1]">
+        <Coords points="81,1143 233,1137 379,1137 525,1137 670,1137 817,1133 963,1133 1108,1133 1253,1130 1406,1123 1409,1194 1256,1200 1110,1204 963,1204 817,1204 671,1207 525,1207 379,1207 233,1207 84,1214"/>
+        <Baseline points="83,1192 233,1186 379,1186 525,1186 671,1186 817,1182 963,1182 1109,1182 1256,1179 1408,1173"/>
+        <TextEquiv conf="0.464">
+          <Unicode>Za něho se stavěla do roku 1862 nová kaple</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l016" index="14" custom="heights_v2:[44.5,19.3]">
+        <Coords points="79,1211 228,1208 375,1204 520,1204 663,1201 810,1198 957,1198 1099,1198 1247,1198 1399,1201 1398,1265 1245,1262 1099,1262 957,1262 810,1262 665,1265 522,1268 375,1268 230,1272 80,1275"/>
+        <Baseline points="80,1256 229,1252 375,1249 521,1249 664,1246 810,1242 957,1242 1099,1242 1246,1242 1398,1246"/>
+        <TextEquiv conf="0.353">
+          <Unicode>pod dohlítku radnih: Waila ve Withy Jana Gerwe</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="15" custom="heights_v2:[44.2,20.0]">
+        <Coords points="78,1271 216,1265 345,1265 474,1265 605,1261 733,1261 862,1258 993,1255 1122,1255 1265,1251 1266,1315 1123,1319 993,1319 864,1322 735,1325 605,1325 476,1329 345,1329 216,1329 81,1335"/>
+        <Baseline points="80,1315 216,1309 345,1309 475,1309 605,1305 734,1305 864,1302 993,1299 1123,1299 1266,1295"/>
+        <TextEquiv conf="0.380">
+          <Unicode>ského, a společneho sousedestwa werne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="16" custom="heights_v2:[46.7,20.5]">
+        <Coords points="76,1325 221,1325 366,1322 508,1325 651,1325 795,1325 936,1328 1078,1325 1222,1322 1372,1322 1372,1389 1222,1389 1080,1392 937,1396 793,1392 651,1392 508,1392 365,1389 223,1392 76,1392"/>
+        <Baseline points="76,1372 223,1372 365,1369 508,1372 651,1372 794,1372 937,1375 1080,1372 1222,1369 1372,1369"/>
+        <TextEquiv conf="0.594">
+          <Unicode>Tuto kapličku stavěl zednicky polir Josef Mark.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="17" custom="heights_v2:[44.2,19.2]">
+        <Coords points="86,1391 238,1391 385,1387 532,1387 679,1391 824,1394 969,1394 1116,1391 1262,1391 1418,1391 1418,1454 1262,1454 1116,1454 970,1457 824,1457 677,1454 531,1451 385,1451 240,1454 86,1454"/>
+        <Baseline points="86,1435 239,1435 385,1432 531,1432 678,1435 824,1438 970,1438 1116,1435 1262,1435 1418,1435"/>
+        <TextEquiv conf="0.456">
+          <Unicode>ze Sawitina. Tesaři Josef Horák Tomáš Woda</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="18" custom="heights_v2:[42.3,18.4]">
+        <Coords points="82,1449 236,1446 382,1446 530,1446 674,1452 820,1452 967,1452 1112,1452 1260,1449 1416,1452 1415,1513 1259,1510 1113,1513 967,1513 820,1513 674,1513 527,1506 382,1506 236,1506 83,1510"/>
+        <Baseline points="83,1491 236,1488 382,1488 528,1488 674,1495 820,1495 967,1495 1113,1495 1259,1491 1415,1495"/>
+        <TextEquiv conf="0.252">
+          <Unicode>a truhlař Wojtech Jirowsky a Jan Zasadil pokry</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l021" index="19" custom="heights_v2:[42.6,19.4]">
+        <Coords points="80,1502 225,1502 370,1499 512,1502 652,1502 793,1505 938,1502 1076,1505 1218,1505 1368,1502 1369,1564 1219,1567 1076,1567 936,1564 794,1567 651,1564 512,1564 368,1561 226,1564 80,1564"/>
+        <Baseline points="80,1545 226,1545 369,1541 512,1545 651,1545 794,1548 937,1545 1076,1548 1219,1548 1369,1545"/>
+        <TextEquiv conf="0.363">
+          <Unicode>wac Jan Kordaž z Drohoku. Trebousky kleupir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l022" index="20" custom="heights_v2:[40.4,17.7]">
+        <Coords points="83,1557 130,1557 179,1554 223,1554 269,1554 312,1554 359,1554 402,1554 446,1554 499,1551 503,1609 450,1612 402,1612 359,1612 312,1612 269,1612 223,1612 179,1612 134,1615 83,1615"/>
+        <Baseline points="83,1598 133,1598 179,1594 223,1594 269,1594 312,1594 359,1594 402,1594 448,1594 502,1591"/>
+        <TextEquiv conf="0.732">
+          <Unicode>jmenem Mich</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="21" custom="heights_v2:[44.8,19.7]">
+        <Coords points="73,1609 223,1606 368,1606 514,1603 659,1599 805,1603 949,1606 1092,1603 1238,1599 1387,1596 1389,1661 1239,1664 1093,1667 950,1671 803,1667 657,1664 515,1667 369,1671 223,1671 75,1674"/>
+        <Baseline points="74,1654 223,1651 369,1651 515,1648 658,1644 804,1648 950,1651 1093,1648 1239,1644 1388,1641"/>
+        <TextEquiv conf="0.456">
+          <Unicode>Kruti toto stavbě zakládal Josef Cap, toho času pred</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l024" index="22" custom="heights_v2:[42.7,19.6]">
+        <Coords points="80,1661 225,1661 365,1658 505,1658 645,1658 786,1661 923,1668 1061,1668 1201,1661 1351,1658 1352,1720 1203,1724 1064,1730 923,1730 783,1724 644,1720 505,1720 365,1720 226,1724 80,1724"/>
+        <Baseline points="80,1704 226,1704 365,1701 505,1701 644,1701 784,1704 923,1711 1063,1711 1202,1704 1352,1701"/>
+        <TextEquiv conf="0.301">
+          <Unicode>sta weny, zworek zawiſcowolj Josef la Jen hirowi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="23" custom="heights_v2:[42.3,17.2]">
+        <Coords points="1352,1668 1382,1668 1382,1728 1352,1728"/>
+        <Baseline points="1352,1711 1382,1711"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l026" index="24" custom="heights_v2:[43.9,19.7]">
+        <Coords points="83,1723 133,1723 173,1723 219,1720 259,1720 302,1717 349,1713 392,1713 435,1713 485,1713 485,1777 435,1777 392,1777 349,1777 307,1780 264,1783 219,1783 178,1787 133,1787 83,1787"/>
+        <Baseline points="83,1767 133,1767 176,1767 219,1764 262,1764 306,1760 349,1757 392,1757 435,1757 485,1757"/>
+        <TextEquiv conf="0.593">
+          <Unicode>a Jan Žiska</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="25" custom="heights_v2:[43.4,19.1]">
+        <Coords points="85,1797 219,1793 348,1793 473,1790 603,1783 730,1780 859,1777 985,1774 1116,1770 1252,1770 1252,1833 1116,1833 987,1836 861,1839 731,1843 605,1846 476,1853 349,1856 219,1856 87,1859"/>
+        <Baseline points="86,1840 219,1837 349,1837 475,1834 605,1827 731,1824 860,1820 987,1817 1116,1814 1252,1814"/>
+        <TextEquiv conf="0.430">
+          <Unicode>Matěj Zahradnik toho času bil upředstavenýho Seb</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l028" index="26" custom="heights_v2:[41.5,18.6]">
+        <Coords points="87,1845 218,1849 345,1845 471,1845 597,1842 723,1839 848,1835 975,1829 1102,1825 1235,1822 1236,1882 1103,1885 977,1889 851,1895 725,1899 598,1902 472,1905 345,1905 220,1909 86,1905"/>
+        <Baseline points="86,1887 219,1890 345,1887 472,1887 598,1883 724,1880 850,1877 977,1870 1103,1867 1236,1863"/>
+        <TextEquiv conf="0.420">
+          <Unicode>ktery porſy rozkazoval a lidi každodeně poláwal dop</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="27" custom="heights_v2:[41.6,16.4]">
+        <Coords points="1100,1888 1146,1885 1192,1882 1232,1882 1279,1878 1322,1878 1372,1878 1372,1936 1322,1936 1279,1936 1237,1940 1192,1940 1151,1943 1104,1946"/>
+        <Baseline points="1103,1930 1149,1927 1192,1923 1236,1923 1279,1920 1322,1920 1372,1920"/>
+        <TextEquiv conf="0.221">
+          <Unicode>Josef Le Penn</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="503,132 451,135 457,232 663,218 657,122 503,132"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[71.3,26.0]">
+        <Coords points="451,135 503,132 553,128 600,125 657,122 663,219 606,222 560,225 510,229 457,232"/>
+        <Baseline points="455,206 508,203 558,199 605,196 661,193"/>
+        <TextEquiv conf="0.944">
+          <Unicode>Úvod</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

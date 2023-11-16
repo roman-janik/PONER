@@ -1,0 +1,266 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:22:12.789738</Created>
+    <LastChange>2023-03-26T21:22:12.789738</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_011.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="2e07a0f2-bc05-4e2c-ade6-2581436d0229">
+      <Coords points="1873,69 1814,69 1814,118 1873,118 1873,69"/>
+      <TextLine id="a70109c6-ef9e-4d7d-a62e-186944ff29e7" index="0" custom="heights_v2:[37.8,11.6]">
+        <Coords points="1873,69 1814,69 1814,118 1873,118 1873,69"/>
+        <Baseline points="1814,107 1873,107"/>
+        <TextEquiv>
+          <Unicode>9</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="4b03b368-17b2-4fbc-9780-f71904685fb7">
+      <Coords points="247,632 257,1013 247,1231 250,2264 266,2345 251,2422 257,2631 390,2635 545,2559 979,2559 1565,2541 1587,2393 1598,2165 1596,2102 1570,2029 1570,1881 1550,1720 1543,1572 1542,1351 1565,1278 1576,1200 1574,1140 1549,1077 1605,910 1605,847 1545,708 1568,621 1575,484 1515,398 1484,318 1482,253 309,268 309,332 258,487 246,573 247,632"/>
+      <TextLine id="ef3b2781-0baa-4cfe-ad2e-11a16d2d7fe8" index="0" custom="heights_v2:[45.0,19.5]">
+        <Coords points="1183,257 1013,259 959,261 830,264 702,268 574,268 445,268 320,268 309,268 309,332 445,332 574,332 703,332 832,329 961,325 1089,321 1218,321 1347,321 1484,318 1482,253 1346,257 1218,257 1183,257"/>
+        <Baseline points="309,313 445,313 574,313 703,313 832,309 961,305 1089,302 1218,302 1347,302 1483,298"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Socha sv. Jana Nepomuckého je na betonovým mostě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="04f7b04c-df9b-4095-84d7-e57d33a8e7d6" index="1" custom="heights_v2:[43.6,19.9]">
+        <Coords points="394,339 394,403 453,403 504,403 556,403 615,403 615,339 556,339 504,339 453,339 394,339"/>
+        <Baseline points="394,383 453,383 504,383 556,383 615,383"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Pomníky.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c135ed34-2078-4cd5-a46f-321d59c82b0f" index="2" custom="heights_v2:[43.5,18.6]">
+        <Coords points="364,413 364,475 497,475 622,475 751,471 876,468 1001,468 1130,468 1255,468 1381,464 1517,460 1515,398 1379,402 1254,405 1130,405 1001,405 876,405 749,409 621,413 497,413 364,413"/>
+        <Baseline points="364,456 497,456 622,456 751,453 876,449 1001,449 1130,449 1255,449 1380,445 1516,442"/>
+        <TextEquiv conf="0.992">
+          <Unicode>Pomník Jana Amose Komenského pochází od Tomáše</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="66b84130-b02a-417b-90a7-d1871fa07df1" index="3" custom="heights_v2:[42.5,18.4]">
+        <Coords points="1572,545 1575,484 1575,484 1421,484 1277,484 1133,484 986,484 843,484 698,487 552,487 408,487 258,487 258,490 258,548 408,548 552,548 700,548 843,545 986,545 1133,545 1277,545 1421,545 1572,545"/>
+        <Baseline points="258,530 408,530 552,530 699,530 843,526 986,526 1133,526 1277,526 1421,526 1573,526"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Seidana v Praze, byl zřízen nákladem Jednoty moravských</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="67c6493e-7cd4-4634-b98f-b55afb8f9789" index="4" custom="heights_v2:[41.7,17.8]">
+        <Coords points="247,632 247,632 397,629 541,629 688,625 832,625 979,625 1122,625 1270,625 1413,621 1568,621 1568,562 1413,562 1269,565 1122,565 979,565 832,565 688,565 540,569 397,569 246,573 246,573 247,632"/>
+        <Baseline points="247,615 397,611 541,611 688,607 832,607 979,607 1122,607 1270,607 1413,604 1568,604"/>
+        <TextEquiv conf="1.000">
+          <Unicode>učitelů r. 1874 a postaven na Horním náměstí před zám-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f80a55e8-5766-4a34-9c76-0a7da20e20fc" index="5" custom="heights_v2:[42.8,18.6]">
+        <Coords points="247,649 249,710 391,707 530,703 670,699 810,699 950,699 1090,696 1229,692 1369,692 1517,688 1515,627 1368,631 1229,631 1088,634 948,638 810,638 670,638 529,642 389,645 247,649"/>
+        <Baseline points="249,692 390,688 530,685 670,681 810,681 949,681 1089,677 1229,673 1369,673 1516,670"/>
+        <TextEquiv conf="0.999">
+          <Unicode>kem. R. 1892 byl přenesen do gymnasijního parku a r.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0fcc2169-8aab-4848-88dc-78f8da779ba9" index="6" custom="heights_v2:[43.1,18.8]">
+        <Coords points="249,722 251,784 394,784 538,781 681,777 825,777 965,773 1107,770 1251,773 1395,773 1546,770 1545,708 1394,711 1251,711 1109,708 963,711 823,715 681,715 536,719 393,722 249,722"/>
+        <Baseline points="251,765 394,765 537,762 681,758 824,758 964,754 1108,751 1251,754 1395,754 1546,751"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1919 znovu přeložen na nynější místo mezi chlapecké</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="57cc97cf-3de6-4376-a726-e4e390c1fc04" index="7" custom="heights_v2:[43.8,19.2]">
+        <Coords points="254,799 254,862 320,862 384,862 445,858 505,858 567,855 629,855 689,855 751,851 821,851 821,788 751,788 686,792 629,792 567,792 502,795 445,795 380,799 320,799 254,799"/>
+        <Baseline points="254,843 320,843 383,843 445,839 504,839 567,835 629,835 688,835 751,832 821,832"/>
+        <TextEquiv conf="0.999">
+          <Unicode>školy v Palackého ulici.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0bf98a01-2038-4d84-8d76-9e07b021c4f6" index="8" custom="heights_v2:[44.0,19.2]">
+        <Coords points="366,869 369,932 508,925 644,921 781,921 916,917 1053,917 1189,917 1325,913 1461,910 1605,910 1605,847 1461,847 1324,850 1188,854 1053,854 916,854 779,858 644,858 507,861 366,869"/>
+        <Baseline points="368,913 508,905 644,902 780,902 916,898 1053,898 1189,898 1325,894 1461,891 1605,891"/>
+        <TextEquiv conf="0.993">
+          <Unicode>Pomník Jana Blahoslava viz níže na str. 107 n.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a1a5328b-6532-45c9-8fed-e80141e22475" index="9" custom="heights_v2:[43.9,19.5]">
+        <Coords points="364,935 364,998 438,998 508,998 574,998 645,998 710,995 780,995 847,995 916,991 994,991 994,928 916,928 844,931 780,931 710,931 642,935 574,935 508,935 438,935 364,935"/>
+        <Baseline points="364,979 438,979 508,979 574,979 644,979 710,975 780,975 846,975 916,972 994,972"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Památné desky v Přerově.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2986d470-340d-4ebd-901f-9116e12744ce" index="10" custom="heights_v2:[43.2,19.5]">
+        <Coords points="257,1013 257,1020 258,1076 401,1072 541,1072 681,1072 821,1068 961,1065 1100,1065 1240,1065 1380,1065 1527,1068 1528,1006 1381,1002 1240,1002 1100,1002 961,1002 820,1006 680,1009 541,1009 401,1009 257,1013"/>
+        <Baseline points="258,1056 401,1053 541,1053 681,1053 821,1049 961,1045 1100,1045 1240,1045 1380,1045 1527,1049"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Památné desky J. A. Komenského a Jana Blahoslava</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3886d089-fdec-43a6-b291-061fdfa6a313" index="11" custom="heights_v2:[41.3,18.3]">
+        <Coords points="1549,1078 1549,1077 1398,1077 1255,1077 1114,1081 972,1081 828,1081 687,1085 545,1085 400,1089 254,1089 254,1148 402,1148 545,1144 689,1144 828,1141 972,1141 1116,1141 1255,1137 1398,1137 1549,1137 1549,1078"/>
+        <Baseline points="254,1130 401,1130 545,1126 688,1126 828,1122 972,1122 1115,1122 1255,1119 1398,1119 1549,1119"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jsou zasazeny na městské radnici na Masarykově náměstí.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3560d87d-c291-4c2b-8eaf-d0f1f50bde52" index="12" custom="heights_v2:[41.7,18.5]">
+        <Coords points="1574,1153 1574,1140 1574,1140 1420,1143 1276,1147 1129,1151 986,1151 839,1151 696,1151 547,1154 405,1154 254,1154 254,1215 405,1215 549,1215 696,1211 839,1211 986,1211 1130,1211 1277,1207 1421,1204 1576,1200 1574,1153"/>
+        <Baseline points="254,1196 405,1196 548,1196 696,1192 839,1192 986,1192 1130,1192 1277,1189 1421,1185 1575,1181"/>
+        <TextEquiv conf="0.990">
+          <Unicode>Blahoslavova deska byla zřízena r. 1882 a J. A. Komen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="07e36947-9b27-44d0-ad2f-ad85a364d158" index="13" custom="heights_v2:[42.6,19.5]">
+        <Coords points="247,1231 247,1231 247,1293 398,1293 541,1289 689,1289 832,1285 975,1282 1122,1282 1266,1282 1410,1282 1565,1278 1563,1216 1408,1220 1266,1220 1122,1220 975,1220 831,1223 687,1227 541,1227 396,1231 247,1231"/>
+        <Baseline points="247,1273 397,1273 541,1270 688,1270 832,1266 975,1262 1122,1262 1266,1262 1410,1262 1564,1259"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ského byla zasazena r. 1892. Mezi oběma jest umístěn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fe77a05a-f3b6-4c84-bf07-77e54a9401e1" index="14" custom="heights_v2:[43.3,19.1]">
+        <Coords points="247,1304 247,1366 394,1366 537,1362 681,1362 820,1359 964,1362 1108,1362 1249,1359 1391,1351 1542,1351 1542,1289 1391,1289 1245,1296 1107,1300 964,1300 822,1296 680,1300 537,1300 393,1304 247,1304"/>
+        <Baseline points="247,1347 394,1347 537,1343 681,1343 821,1340 964,1343 1108,1343 1248,1340 1391,1332 1542,1332"/>
+        <TextEquiv conf="0.999">
+          <Unicode>na deska, která bývala na jedné hradní věži, na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="49740f57-9412-4888-a168-f815d1590847" index="15" custom="heights_v2:[42.9,19.1]">
+        <Coords points="250,1378 250,1440 394,1440 534,1440 670,1436 810,1436 946,1436 1086,1436 1222,1436 1362,1432 1509,1429 1508,1367 1361,1370 1221,1374 1086,1374 946,1374 810,1374 670,1374 532,1378 394,1378 250,1378"/>
+        <Baseline points="250,1421 394,1421 534,1421 670,1417 810,1417 946,1417 1086,1417 1222,1417 1362,1413 1509,1410"/>
+        <TextEquiv conf="0.999">
+          <Unicode>desce jsou pěkně barvami provedeny znaky pánů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="77c3ad85-85f6-40fa-b182-469752a922e9" index="16" custom="heights_v2:[43.2,18.9]">
+        <Coords points="249,1458 251,1520 364,1517 475,1517 585,1513 696,1513 803,1513 913,1509 1023,1509 1134,1509 1252,1506 1250,1444 1132,1447 1023,1447 913,1447 801,1451 696,1451 585,1451 473,1455 364,1455 249,1458"/>
+        <Baseline points="250,1502 364,1498 475,1498 585,1494 696,1494 802,1494 913,1490 1023,1490 1133,1490 1251,1487"/>
+        <TextEquiv conf="0.995">
+          <Unicode>z Pernštejna, z Žerotína a města Přerova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="25b335b2-c258-4476-9eae-90265d2ade4f" index="17" custom="heights_v2:[43.9,19.1]">
+        <Coords points="405,1524 405,1587 534,1587 659,1587 784,1587 909,1583 1034,1583 1160,1583 1285,1580 1410,1576 1543,1572 1541,1509 1408,1513 1283,1517 1158,1520 1034,1520 909,1520 783,1524 659,1524 534,1524 405,1524"/>
+        <Baseline points="405,1568 534,1568 659,1568 784,1568 909,1564 1034,1564 1159,1564 1284,1560 1410,1557 1542,1553"/>
+        <TextEquiv conf="0.948">
+          <Unicode>Celý Třesov býval obehnán pevnou zdí. Hor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="76246b66-1e27-4e1b-b4b9-97954acd50ad" index="18" custom="heights_v2:[43.6,19.4]">
+        <Coords points="253,1601 254,1664 397,1661 538,1661 677,1657 817,1657 957,1657 1097,1657 1238,1657 1377,1650 1524,1646 1522,1583 1375,1587 1234,1594 1097,1594 957,1594 817,1594 677,1594 536,1598 397,1598 253,1601"/>
+        <Baseline points="254,1645 397,1641 537,1641 677,1638 817,1638 957,1638 1097,1638 1237,1638 1376,1630 1524,1627"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ní náměstí pak trojnásobnou hradbou. Do města se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="52db9efd-120c-4ba4-b256-e37c5a98d1a8" index="19" custom="heights_v2:[43.4,19.5]">
+        <Coords points="1550,1720 1547,1657 1396,1664 1254,1668 1110,1672 968,1672 828,1672 685,1672 540,1675 396,1679 250,1679 250,1742 398,1742 541,1738 685,1734 828,1734 968,1734 1112,1734 1255,1731 1399,1727 1550,1720"/>
+        <Baseline points="250,1722 397,1722 541,1719 685,1715 828,1715 968,1715 1111,1715 1255,1711 1398,1708 1549,1700"/>
+        <TextEquiv conf="0.999">
+          <Unicode>vcházelo sedmi branami a to na Horní náměstí dvě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="90c3ef68-591a-419f-a6e4-7d7c948cd4c4" index="20" custom="heights_v2:[43.0,19.4]">
+        <Coords points="250,1753 250,1815 398,1815 538,1812 677,1808 817,1808 957,1808 1097,1804 1237,1804 1377,1801 1528,1797 1526,1734 1375,1738 1235,1742 1097,1742 956,1746 817,1746 677,1746 536,1749 396,1753 250,1753"/>
+        <Baseline points="250,1796 397,1796 537,1792 677,1789 817,1789 957,1789 1097,1785 1237,1785 1376,1781 1527,1778"/>
+        <TextEquiv conf="0.998">
+          <Unicode>ma branami, pak byly tyto brány: mostní brána</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b4233411-a9d5-4380-944b-dd34e1aa24a9" index="21" custom="heights_v2:[43.6,19.4]">
+        <Coords points="249,1830 249,1893 398,1889 541,1885 685,1882 828,1882 976,1882 1119,1878 1263,1878 1406,1874 1560,1874 1560,1811 1406,1811 1261,1815 1119,1815 974,1819 828,1819 685,1819 540,1822 396,1826 249,1830"/>
+        <Baseline points="249,1873 397,1870 541,1866 685,1862 828,1862 975,1862 1119,1858 1262,1858 1406,1855 1560,1855"/>
+        <TextEquiv conf="0.999">
+          <Unicode>u začátku dřevěného mostu, troubecká brána (na konci</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3c9220b7-b844-4c5f-9464-29065020cf6b" index="22" custom="heights_v2:[43.4,19.7]">
+        <Coords points="1570,1944 1570,1881 1416,1885 1272,1889 1130,1889 983,1889 838,1892 694,1896 548,1896 404,1900 253,1903 254,1966 405,1963 548,1959 696,1959 840,1955 983,1952 1130,1952 1274,1952 1417,1948 1570,1944"/>
+        <Baseline points="254,1947 405,1943 548,1939 696,1939 839,1936 983,1932 1130,1932 1273,1932 1417,1928 1570,1925"/>
+        <TextEquiv conf="0.998">
+          <Unicode>ulice dnešní Blahoslavovy), brána na konci ulice Ko-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1972332c-f83c-4206-ac5d-70ad6dae3a8e" index="23" custom="heights_v2:[43.7,19.2]">
+        <Coords points="249,1977 249,1978 251,2040 394,2036 534,2032 673,2032 813,2032 953,2032 1094,2032 1233,2029 1373,2025 1520,2021 1519,1958 1372,1962 1232,1966 1092,1969 953,1969 813,1969 673,1969 534,1969 393,1973 249,1977"/>
+        <Baseline points="250,2020 394,2017 534,2013 673,2013 813,2013 953,2013 1093,2013 1233,2009 1373,2006 1520,2002"/>
+        <TextEquiv conf="0.997">
+          <Unicode>měřížské (nyní ulice Palackého), Žižkova brána</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7ffdb93e-ee5e-4fd5-b0cb-ed1cdcef221a" index="24" custom="heights_v2:[43.1,19.6]">
+        <Coords points="1570,2030 1570,2029 1570,2029 1416,2033 1272,2036 1130,2036 982,2040 838,2044 696,2044 548,2044 405,2044 253,2047 254,2110 405,2106 548,2106 696,2106 840,2106 983,2103 1130,2099 1274,2099 1417,2095 1572,2092 1570,2030"/>
+        <Baseline points="254,2090 405,2087 548,2087 696,2087 839,2087 983,2083 1130,2079 1273,2079 1417,2076 1571,2072"/>
+        <TextEquiv conf="0.998">
+          <Unicode>na konci Kostelní ulice (nyní Kratochvílovy) a kon</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d5277ca0-18df-4a79-810d-fa9e1c56354d" index="25" custom="heights_v2:[44.0,19.7]">
+        <Coords points="1597,2123 1596,2102 1596,2102 1438,2105 1291,2109 1143,2113 996,2116 845,2120 698,2124 552,2124 405,2124 250,2124 250,2187 405,2187 552,2187 700,2187 847,2184 998,2180 1145,2176 1292,2173 1439,2169 1598,2165 1597,2123"/>
+        <Baseline points="250,2168 405,2168 552,2168 699,2168 846,2164 997,2160 1145,2157 1292,2153 1439,2149 1597,2146"/>
+        <TextEquiv conf="0.988">
+          <Unicode>nečně brána na konci Široké ulice (nyní Žerotínov</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0dec92a4-96d2-45f1-a4b3-2118c13558c4" index="26" custom="heights_v2:[44.0,19.4]">
+        <Coords points="250,2201 250,2264 398,2264 541,2261 685,2257 824,2253 968,2253 1111,2253 1251,2253 1395,2253 1546,2250 1545,2186 1394,2190 1251,2190 1111,2190 968,2190 824,2190 683,2194 540,2197 396,2201 250,2201"/>
+        <Baseline points="250,2245 397,2245 541,2241 685,2238 824,2234 968,2234 1111,2234 1251,2234 1395,2234 1546,2230"/>
+        <TextEquiv conf="0.999">
+          <Unicode>vo náměstí). Z bran se nezachovala ani jediná.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0201da8b-5735-4988-acee-12fc39db4351" index="27" custom="heights_v2:[43.2,19.2]">
+        <Coords points="276,2272 276,2334 423,2334 567,2334 707,2330 851,2330 990,2327 1133,2323 1273,2323 1417,2323 1568,2319 1567,2257 1416,2261 1273,2261 1133,2261 989,2264 849,2268 707,2268 566,2272 423,2272 276,2272"/>
+        <Baseline points="276,2315 423,2315 567,2315 707,2311 850,2311 990,2307 1133,2304 1273,2304 1417,2304 1568,2300"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Domy v Přerově bývaly jednopatrové s podloubím</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5f23da25-7483-414b-ab06-150b86900c62" index="28" custom="heights_v2:[43.4,19.7]">
+        <Coords points="266,2345 264,2408 416,2412 560,2412 707,2408 851,2404 997,2401 1141,2401 1288,2397 1432,2397 1587,2393 1585,2330 1431,2334 1288,2334 1140,2338 997,2338 849,2341 705,2345 558,2349 416,2349 266,2345"/>
+        <Baseline points="265,2388 416,2392 559,2392 707,2388 850,2385 997,2381 1141,2381 1288,2377 1432,2377 1586,2374"/>
+        <TextEquiv conf="0.999">
+          <Unicode>čili podsíněmi na Horním i Dolním náměstí; místo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e74e79ea-1bfc-4f70-b399-cf4ac812e495" index="29" custom="heights_v2:[44.0,19.7]">
+        <Coords points="251,2428 253,2485 401,2489 549,2489 696,2485 839,2485 987,2485 1134,2482 1278,2478 1425,2471 1576,2467 1579,2448 1578,2403 1423,2407 1275,2414 1132,2418 985,2422 839,2422 696,2422 547,2425 401,2425 251,2422 251,2428"/>
+        <Baseline points="252,2466 401,2469 548,2469 696,2466 839,2466 986,2466 1133,2462 1277,2458 1424,2451 1579,2447"/>
+        <TextEquiv conf="0.998">
+          <Unicode>prvního patra vesměs měly sýpky. Až do r. 1831 byly do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aedb23a3-a48a-4b8a-bc6e-8900d4b616d1" index="30" custom="heights_v2:[44.4,19.7]">
+        <Coords points="253,2495 255,2559 401,2559 545,2559 545,2559 545,2559 979,2559 1544,2542 1565,2541 1562,2477 1407,2484 1265,2488 1121,2491 978,2495 832,2495 688,2495 545,2495 401,2495 253,2495"/>
+        <Baseline points="254,2539 401,2539 545,2539 688,2539 832,2539 979,2539 1122,2536 1266,2532 1410,2528 1564,2521"/>
+        <TextEquiv conf="0.996">
+          <Unicode>ny kryty došky, domy na Horním náměstí šinder</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a58c550b-bffd-4fa2-9449-6aa32b85b111" index="31" custom="heights_v2:[43.4,17.9]">
+        <Coords points="257,2626 257,2631 264,2631 374,2635 390,2635 390,2573 324,2573 260,2570 257,2626"/>
+        <Baseline points="258,2613 324,2617 390,2617"/>
+        <TextEquiv conf="0.997">
+          <Unicode>lem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="dcee8002-4994-402b-8b09-9ae9550f0793">
+      <Coords points="1538,260 1505,260 1505,308 1538,308 1538,260"/>
+      <TextLine id="a56672d8-c25b-4003-8d7d-1e34ce70a354" index="0" custom="heights_v2:[34.2,13.2]">
+        <Coords points="1538,308 1538,260 1505,260 1505,308 1538,308"/>
+        <Baseline points="1505,294 1538,294"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="d7063c85-e26f-4460-b168-a22fceaf3d34">
+      <Coords points="523,2636 394,2636 394,2704 1013,2704 1509,2693 1509,2625 1011,2636 523,2636"/>
+      <TextLine id="d11130f2-4e72-40c2-a9db-bbbcb1eb3f48" index="0" custom="heights_v2:[46.8,21.4]">
+        <Coords points="394,2636 394,2704 1013,2704 1042,2703 1134,2701 1256,2697 1376,2693 1499,2693 1509,2693 1509,2625 1508,2625 1019,2636 1011,2636 887,2636 765,2636 644,2636 523,2636 394,2636"/>
+        <Baseline points="394,2683 523,2683 644,2683 765,2683 887,2683 1012,2683 1133,2679 1255,2675 1376,2672 1509,2672"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Nejstarší částí města Přerova je Horní náměstí,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

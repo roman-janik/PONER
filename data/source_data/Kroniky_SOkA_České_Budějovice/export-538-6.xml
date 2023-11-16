@@ -1,0 +1,249 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:15:19.165441+00:00</Created>
+    <LastChange>2023-02-07T20:15:19.165441+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-538-6" imageWidth="2212" imageHeight="1567">
+    <TextRegion id="r000">
+      <Coords points="133,309 128,373 142,798 147,1352 154,1420 150,1518 969,1535 1009,1476 988,1249 1006,1172 1005,1124 984,1060 1000,988 999,940 983,861 974,749 971,562 978,423 963,294 962,183 952,121 922,64 167,81 134,141 133,309"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[32.6,11.7]">
+        <Coords points="167,81 256,78 337,78 419,75 502,73 585,70 666,70 750,67 831,67 922,64 924,108 833,111 750,111 668,114 585,114 503,117 421,120 338,122 256,123 168,125"/>
+        <Baseline points="168,114 256,111 338,111 420,108 503,105 585,102 668,102 750,99 832,99 923,97"/>
+        <TextEquiv conf="0.574">
+          <Unicode>zničení Francie, úplné podmanění střední</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="1" custom="heights_v2:[32.6,12.0]">
+        <Coords points="134,141 227,141 317,141 405,138 496,135 584,132 674,129 763,124 855,121 952,121 952,165 855,165 765,168 677,174 586,177 498,180 407,182 319,185 227,185 134,185"/>
+        <Baseline points="134,173 227,173 318,173 406,170 497,168 585,165 676,162 764,156 855,153 952,153"/>
+        <TextEquiv conf="0.534">
+          <Unicode>Evropy, záhubu všech slovanských národů a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="2" custom="heights_v2:[32.9,12.8]">
+        <Coords points="136,200 230,200 320,200 411,197 502,194 594,192 684,192 775,189 865,186 961,183 963,229 867,232 776,234 685,237 594,237 503,240 412,243 321,246 230,246 136,246"/>
+        <Baseline points="136,233 230,233 321,233 412,230 503,227 594,224 685,224 776,222 866,219 962,216"/>
+        <TextEquiv conf="0.354">
+          <Unicode>zkázu Sovětského Svazu. Napsal výslovně, že</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="3" custom="heights_v2:[34.2,13.2]">
+        <Coords points="135,261 229,264 320,261 411,258 502,256 593,253 684,250 776,247 866,247 963,247 963,294 866,294 776,294 685,297 594,300 503,303 412,306 321,309 231,312 133,309"/>
+        <Baseline points="134,295 230,298 321,295 412,293 503,290 594,287 685,284 776,281 866,281 963,281"/>
+        <TextEquiv conf="0.803">
+          <Unicode>chce v Evropě místo pro 250 milionů budoucích</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="4" custom="heights_v2:[35.0,12.7]">
+        <Coords points="129,326 173,326 207,329 242,329 285,326 288,373 245,376 207,376 169,373 129,374"/>
+        <Baseline points="129,361 170,361 207,364 244,364 287,361"/>
+        <TextEquiv conf="0.990">
+          <Unicode>Němců.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="5" custom="heights_v2:[35.9,13.8]">
+        <Coords points="166,382 259,385 347,385 436,385 526,382 612,382 705,379 791,379 880,376 975,373 976,423 881,426 793,429 705,429 614,431 526,431 438,434 347,434 259,434 164,431"/>
+        <Baseline points="165,418 259,420 347,420 437,420 526,418 614,418 705,415 793,415 881,412 976,409"/>
+        <TextEquiv conf="0.644">
+          <Unicode>Přebujelý romantismus a pangermánská touha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="6" custom="heights_v2:[34.1,13.0]">
+        <Coords points="134,449 230,449 320,449 414,446 505,443 599,440 689,440 783,437 874,435 973,432 975,479 875,482 784,485 691,487 599,487 506,490 415,493 321,496 230,496 134,496"/>
+        <Baseline points="134,483 230,483 321,483 415,480 506,477 599,474 690,474 784,472 875,469 974,466"/>
+        <TextEquiv conf="0.983">
+          <Unicode>po dosažení gigantických cílů za cenu všech utr-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l016" index="7" custom="heights_v2:[34.0,13.1]">
+        <Coords points="137,503 230,506 317,506 408,503 496,500 588,497 676,497 767,497 854,497 951,494 952,541 855,544 767,544 676,544 588,544 498,547 409,550 319,553 230,553 136,550"/>
+        <Baseline points="136,537 230,540 318,540 409,537 497,534 588,531 676,531 767,531 855,531 952,528"/>
+        <TextEquiv conf="0.881">
+          <Unicode>pení byly nesmírně mezi Němci rozšířeny všemi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="8" custom="heights_v2:[34.3,13.1]">
+        <Coords points="136,571 233,571 325,571 414,574 505,571 599,568 689,568 781,565 871,565 970,562 972,610 873,613 781,613 691,615 599,615 506,618 415,621 323,618 233,618 136,618"/>
+        <Baseline points="136,605 233,605 324,605 415,608 506,605 599,602 690,602 781,599 872,599 971,597"/>
+        <TextEquiv conf="0.938">
+          <Unicode>myslitelnými prostředky a obrovskou propagan-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="9" custom="heights_v2:[34.2,13.7]">
+        <Coords points="138,628 233,631 324,631 417,631 509,628 598,628 693,625 784,625 874,625 972,622 973,670 875,673 784,673 693,673 600,676 509,676 418,678 324,678 233,678 137,676"/>
+        <Baseline points="137,662 233,665 324,665 418,665 509,662 599,662 693,659 784,659 875,659 972,656"/>
+        <TextEquiv conf="0.741">
+          <Unicode>dou. Proto tak rychle a s takovým halasným</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="10" custom="heights_v2:[34.3,13.8]">
+        <Coords points="139,693 230,693 318,693 406,693 493,693 582,690 670,690 757,690 846,687 939,684 941,733 847,735 759,738 670,738 582,738 495,741 406,741 318,741 230,741 139,741"/>
+        <Baseline points="139,727 230,727 318,727 406,727 494,727 582,724 670,724 758,724 847,722 940,719"/>
+        <TextEquiv conf="0.771">
+          <Unicode>nadšením se rozhodli všude i mimo hranice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="11" custom="heights_v2:[35.0,14.2]">
+        <Coords points="143,749 240,752 330,755 420,755 510,755 602,752 692,752 784,749 875,749 974,749 974,798 875,798 784,798 694,801 602,801 512,804 420,804 330,804 238,801 142,798"/>
+        <Baseline points="142,784 239,787 330,790 420,790 511,790 602,787 693,787 784,784 875,784 974,784"/>
+        <TextEquiv conf="0.593">
+          <Unicode>vlastního Německa pro zbožňovaného „Führera,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l021" index="12" custom="heights_v2:[35.1,13.9]">
+        <Coords points="143,812 236,814 331,814 420,817 514,817 605,817 698,817 790,814 882,814 981,812 983,860 884,863 790,863 699,866 605,866 514,866 420,866 329,863 236,863 142,860"/>
+        <Baseline points="142,847 236,849 330,849 420,852 514,852 605,852 699,852 790,849 883,849 982,847"/>
+        <TextEquiv conf="0.975">
+          <Unicode>který jim říkal: „Ať trpíme a působíme utrpení,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l022" index="13" custom="heights_v2:[35.0,14.0]">
+        <Coords points="144,877 233,880 321,880 412,880 500,880 590,880 679,877 770,877 857,877 953,874 955,923 858,926 770,926 679,926 591,929 500,929 412,929 321,929 233,929 142,926"/>
+        <Baseline points="143,912 233,915 321,915 412,915 500,915 591,915 679,912 770,912 858,912 955,909"/>
+        <TextEquiv conf="0.633">
+          <Unicode>jen když spasíme Německo! Jednejme špatně,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="14" custom="heights_v2:[34.5,13.6]">
+        <Coords points="144,940 239,943 332,943 426,943 520,943 616,943 710,943 804,943 897,943 999,940 1000,988 898,991 804,991 710,991 616,991 520,991 426,991 332,991 239,991 143,988"/>
+        <Baseline points="143,975 239,977 332,977 426,977 520,977 616,977 710,977 804,977 898,977 1000,974"/>
+        <TextEquiv conf="0.610">
+          <Unicode>zrazujeme a vychovávejme svoji německou mládež</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l024" index="15" custom="heights_v2:[34.4,13.3]">
+        <Coords points="144,1000 237,1000 328,1003 418,1005 509,1005 597,1005 687,1005 778,1005 868,1005 965,1003 966,1050 870,1053 778,1053 687,1053 597,1053 509,1053 418,1053 326,1050 235,1047 144,1047"/>
+        <Baseline points="144,1034 236,1034 327,1037 418,1040 509,1040 597,1040 687,1040 778,1040 869,1040 966,1037"/>
+        <TextEquiv conf="0.670">
+          <Unicode>tak, aby měla povahu i srdce divokých šelem!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="16" custom="heights_v2:[34.1,13.1]">
+        <Coords points="169,1054 262,1057 353,1060 441,1062 531,1065 619,1065 710,1065 798,1065 887,1065 984,1060 987,1107 890,1113 798,1113 710,1113 619,1113 531,1113 440,1110 352,1107 261,1104 167,1101"/>
+        <Baseline points="168,1088 261,1091 352,1094 440,1097 531,1099 619,1099 710,1099 798,1099 889,1099 986,1094"/>
+        <TextEquiv conf="0.837">
+          <Unicode>Hitler a jeho nacistické hnutí proměnilo Ně-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l026" index="17" custom="heights_v2:[34.9,13.3]">
+        <Coords points="146,1116 245,1118 338,1121 432,1121 527,1121 622,1124 717,1124 810,1127 902,1127 1005,1124 1006,1172 904,1175 810,1175 715,1172 622,1172 525,1169 432,1169 338,1169 244,1167 145,1164"/>
+        <Baseline points="145,1151 244,1153 338,1156 432,1156 526,1156 622,1159 716,1159 810,1162 903,1162 1006,1159"/>
+        <TextEquiv conf="0.923">
+          <Unicode>mecko v ohromnou továrnu na zbraně. Chorob-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="18" custom="heights_v2:[34.5,13.3]">
+        <Coords points="147,1179 243,1181 333,1184 427,1187 518,1190 608,1193 702,1193 793,1193 883,1193 982,1190 983,1238 884,1240 793,1240 702,1240 608,1240 517,1238 426,1235 332,1232 241,1229 145,1226"/>
+        <Baseline points="146,1213 241,1216 332,1219 426,1222 517,1224 608,1227 702,1227 793,1227 883,1227 983,1224"/>
+        <TextEquiv conf="0.883">
+          <Unicode>ný fašismus a zvrácený nacismus přivodily</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="19" custom="heights_v2:[34.5,13.7]">
+        <Coords points="150,1238 245,1244 336,1247 429,1250 521,1250 614,1252 705,1252 798,1252 888,1252 988,1250 989,1298 890,1301 798,1301 705,1301 614,1301 519,1298 429,1298 335,1295 244,1292 147,1286"/>
+        <Baseline points="148,1273 244,1278 335,1281 429,1284 520,1284 614,1287 705,1287 798,1287 889,1287 989,1284"/>
+        <TextEquiv conf="0.674">
+          <Unicode>druhou, ještě strašnější světovou válku, jejíž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l030" index="20" custom="heights_v2:[35.4,14.1]">
+        <Coords points="149,1303 243,1306 330,1308 422,1308 509,1311 598,1311 689,1314 776,1317 864,1317 960,1317 960,1366 864,1366 776,1366 687,1363 596,1361 509,1361 420,1358 330,1358 241,1355 147,1352"/>
+        <Baseline points="148,1338 241,1341 330,1344 420,1344 509,1347 597,1347 687,1349 776,1352 864,1352 960,1352"/>
+        <TextEquiv conf="0.506">
+          <Unicode>plameny pohltily na čas i naši republiku.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="21" custom="heights_v2:[34.6,13.9]">
+        <Coords points="177,1360 268,1363 353,1366 441,1369 527,1372 614,1374 700,1374 787,1377 871,1377 965,1374 966,1423 873,1426 787,1426 698,1423 614,1423 525,1420 440,1417 352,1414 267,1412 176,1409"/>
+        <Baseline points="176,1395 267,1398 352,1401 440,1403 526,1406 614,1409 699,1409 787,1412 872,1412 966,1409"/>
+        <TextEquiv conf="0.615">
+          <Unicode>Utrpení evropských národů - a našeho</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l032" index="22" custom="heights_v2:[34.4,13.4]">
+        <Coords points="154,1420 254,1423 347,1426 440,1426 535,1426 629,1429 722,1431 815,1431 908,1431 1007,1429 1008,1476 909,1479 815,1479 722,1479 627,1476 534,1474 440,1474 347,1474 252,1471 153,1468"/>
+        <Baseline points="153,1454 253,1457 347,1460 440,1460 534,1460 628,1463 722,1466 815,1466 909,1466 1008,1463"/>
+        <TextEquiv conf="0.972">
+          <Unicode>národa rovněž bylo bezměrné. Válka trvala</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="23" custom="heights_v2:[33.9,12.5]">
+        <Coords points="152,1472 245,1475 336,1477 424,1480 514,1483 603,1483 693,1486 782,1486 872,1489 969,1489 969,1535 872,1535 781,1532 693,1532 602,1530 514,1530 423,1527 335,1524 244,1521 150,1518"/>
+        <Baseline points="151,1506 244,1508 335,1511 423,1514 514,1517 602,1517 693,1520 781,1520 872,1523 969,1523"/>
+        <TextEquiv conf="0.582">
+          <Unicode>téměř šest let a vyžádala si hekatomby</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="1250,105 1253,535 2071,535 2077,372 2066,129 1611,123 1560,56 1250,56 1250,105"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[35.2,13.6]">
+        <Coords points="1250,56 1290,56 1318,59 1355,56 1389,56 1423,56 1454,59 1489,59 1520,59 1560,56 1563,105 1524,107 1489,107 1454,107 1419,105 1389,105 1355,105 1322,107 1286,105 1250,105"/>
+        <Baseline points="1250,91 1287,91 1321,94 1355,91 1389,91 1420,91 1454,94 1489,94 1523,94 1562,91"/>
+        <TextEquiv conf="0.998">
+          <Unicode>lidských životů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l003" index="1" custom="heights_v2:[35.9,14.3]">
+        <Coords points="1250,120 1341,120 1433,120 1520,123 1611,123 1700,123 1790,126 1878,126 1970,126 2066,129 2065,179 1968,176 1878,176 1790,176 1698,173 1611,173 1520,173 1431,171 1341,171 1250,171"/>
+        <Baseline points="1250,156 1341,156 1432,156 1520,159 1611,159 1699,159 1790,162 1878,162 1969,162 2065,165"/>
+        <TextEquiv conf="0.679">
+          <Unicode>Další a nejdůležitější události těchto pohnu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="2" custom="heights_v2:[33.6,13.5]">
+        <Coords points="1252,185 1344,188 1435,188 1523,188 1614,188 1702,188 1793,188 1881,188 1972,188 2068,188 2068,235 1972,235 1881,235 1793,235 1702,235 1614,235 1523,235 1435,235 1344,235 1250,232"/>
+        <Baseline points="1251,219 1344,222 1435,222 1523,222 1614,222 1702,222 1793,222 1881,222 1972,222 2068,222"/>
+        <TextEquiv conf="0.734">
+          <Unicode>tých a strašlivých časů, sestavené pro přehled</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="3" custom="heights_v2:[33.0,13.5]">
+        <Coords points="1253,245 1344,245 1432,245 1520,245 1608,245 1697,245 1784,248 1873,248 1959,251 2053,248 2054,295 1961,298 1872,295 1784,295 1696,292 1608,292 1520,292 1432,292 1344,292 1253,292"/>
+        <Baseline points="1253,278 1344,278 1432,278 1520,278 1608,278 1696,278 1784,281 1872,281 1960,284 2054,281"/>
+        <TextEquiv conf="0.833">
+          <Unicode>v časovém svém pořadí, ukazují, kdo je po</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="4" custom="heights_v2:[33.6,13.6]">
+        <Coords points="1254,310 1345,313 1437,310 1526,310 1616,310 1704,310 1795,310 1883,310 1974,310 2071,310 2071,357 1974,357 1883,357 1795,357 1704,357 1616,357 1526,357 1437,357 1347,360 1252,357"/>
+        <Baseline points="1253,344 1347,347 1437,344 1526,344 1616,344 1704,344 1795,344 1883,344 1974,344 2071,344"/>
+        <TextEquiv conf="0.723">
+          <Unicode>pravdě vinen hroznou zkázou Evropy a valné</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="5" custom="heights_v2:[34.2,13.5]">
+        <Coords points="1253,369 1343,372 1435,369 1526,369 1616,369 1707,369 1799,369 1889,372 1980,372 2075,372 2075,420 1980,420 1889,420 1798,417 1707,417 1616,417 1526,417 1435,417 1344,420 1252,417"/>
+        <Baseline points="1252,403 1344,406 1435,403 1526,403 1616,403 1707,403 1798,403 1889,406 1980,406 2075,406"/>
+        <TextEquiv conf="0.829">
+          <Unicode>části celého světa - a kdo způsobil zúčastněným</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="6" custom="heights_v2:[34.2,13.3]">
+        <Coords points="1255,435 1347,432 1435,432 1522,432 1608,429 1695,429 1785,426 1869,429 1957,429 2051,429 2051,476 1957,476 1869,476 1784,474 1696,476 1608,476 1523,479 1435,479 1347,479 1256,482"/>
+        <Baseline points="1256,469 1347,466 1435,466 1523,466 1608,463 1696,463 1784,460 1869,463 1957,463 2051,463"/>
+        <TextEquiv conf="0.891">
+          <Unicode>národům tolik běd, hrůz a tragedií, jichž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="7" custom="heights_v2:[34.0,11.9]">
+        <Coords points="1253,489 1347,489 1436,489 1526,486 1616,486 1706,486 1795,489 1883,489 1974,489 2071,489 2071,535 1974,535 1883,535 1795,535 1704,532 1616,532 1526,532 1438,535 1347,535 1253,535"/>
+        <Baseline points="1253,523 1347,523 1437,523 1526,520 1616,520 1704,520 1795,523 1883,523 1974,523 2071,523"/>
+        <TextEquiv conf="0.602">
+          <Unicode>nesmí být už nikdy a nikde zapomenuto!</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="1397,1215 1314,1218 1316,1261 2032,1233 2029,1190 1397,1215"/>
+      <TextLine id="r002-l028" index="0" custom="heights_v2:[32.3,11.0]">
+        <Coords points="1314,1218 1397,1215 1476,1212 1553,1209 1632,1206 1708,1204 1789,1198 1866,1195 1944,1195 2029,1189 2032,1233 1947,1238 1866,1238 1790,1241 1711,1247 1634,1250 1554,1252 1478,1255 1398,1258 1316,1261"/>
+        <Baseline points="1315,1250 1398,1247 1477,1244 1554,1241 1633,1239 1710,1236 1790,1230 1866,1227 1946,1227 2031,1222"/>
+        <TextEquiv conf="0.532">
+          <Unicode>Jedna ze schůzek Führera s ital. Ducem</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

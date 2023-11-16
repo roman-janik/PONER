@@ -1,0 +1,568 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:20:08.190151</Created>
+    <LastChange>2023-01-19T00:20:08.190151</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Janoslavice_008.jpg" imageWidth="4450" imageHeight="2700">
+    <TextRegion id="384d475b-2652-4159-ab44-b2d11bba93d1">
+      <Coords points="2286,59 2264,61 2267,87 2288,85 2286,59"/>
+      <TextLine id="68e8ed56-f3d0-4922-9c69-d7f55c825dc9" index="0" custom="heights_v2:[16.9,8.5]">
+        <Coords points="2267,85 2267,87 2288,85 2288,79 2286,59 2264,61 2267,85"/>
+        <Baseline points="2266,78 2287,76"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9b8d93bb-8f57-4102-8cf1-6a4a253dc9f7">
+      <Coords points="1345,259 1317,262 1319,282 1346,280 1345,259"/>
+      <TextLine id="ce2b7dcc-03cf-4e72-ab2e-ed2aac48859d" index="0" custom="heights_v2:[13.5,7.3]">
+        <Coords points="1330,261 1317,262 1318,270 1319,282 1346,280 1346,272 1345,259 1330,261"/>
+        <Baseline points="1318,275 1346,273"/>
+        <TextEquiv>
+          <Unicode>8</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="5db37cf1-02d9-4f38-ba49-e6fe340ef802">
+      <Coords points="3326,287 3323,323 3357,325 3359,289 3326,287"/>
+      <TextLine id="0a46f41a-64bb-4d28-9340-3e226b992286" index="0" custom="heights_v2:[24.0,11.5]">
+        <Coords points="3326,287 3324,309 3323,323 3357,325 3359,289 3326,287"/>
+        <Baseline points="3324,311 3358,313"/>
+        <TextEquiv>
+          <Unicode>9</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="efe63fce-8303-4e9a-87ed-23bcfd4096e1">
+      <Coords points="526,1760 525,1863 540,2036 528,2142 527,2244 2073,2244 2105,2195 2097,1999 2150,1863 2150,1819 2097,1702 2100,1594 2067,1475 2068,1433 2097,1355 2073,1031 2075,768 2066,668 2065,569 2086,467 2087,421 1578,414 568,423 561,571 573,713 556,822 559,924 552,1027 554,1088 569,1161 560,1257 569,1421 535,1599 526,1760"/>
+      <TextLine id="acb26177-f410-4fc1-abc1-6f2b9424e6b2" index="0" custom="heights_v2:[32.3,14.4]">
+        <Coords points="2087,431 2087,421 1591,414 1578,414 1411,416 1242,418 1084,418 568,423 570,469 741,465 908,465 1075,465 1242,465 1411,463 1578,461 1745,461 1912,463 2086,467 2087,431"/>
+        <Baseline points="569,455 741,451 908,451 1075,451 1242,451 1411,449 1578,446 1746,446 1913,449 2086,453"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tom svědčí, že vypálili též města Jevíčko a Litovel. Tataři porazili 9. dubna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7e2a53f1-ac6c-46f6-b58a-86a431a4363c" index="1" custom="heights_v2:[29.4,13.1]">
+        <Coords points="568,476 570,519 736,515 899,515 1064,512 1227,512 1390,510 1555,512 1718,512 1881,512 2050,515 2051,472 1881,470 1718,470 1555,470 1391,468 1227,470 1064,470 899,472 736,472 568,476"/>
+        <Baseline points="569,506 736,501 899,501 1064,499 1227,499 1390,497 1555,499 1718,499 1881,499 2050,501"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1241 u Lehnice ve Slezsku vojsko slezského knížete Jindřicha Pobožného</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="08e27ac2-0ebc-48c8-92ab-8e9da03d9e20" index="2" custom="heights_v2:[28.0,12.4]">
+        <Coords points="2065,569 2065,569 2065,529 1894,529 1727,526 1562,524 1394,526 1230,524 1062,524 897,524 729,529 563,531 561,571 730,569 897,565 1062,565 1229,565 1395,567 1561,565 1726,567 1894,569 2065,569"/>
+        <Baseline points="562,559 730,556 897,552 1062,552 1229,552 1394,554 1562,552 1727,554 1894,556 2065,556"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a snažili se vtrhnouti župou Kladskou do Čech. Ale král český Václav</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="12d646b3-1911-45a3-b121-7c872ccd299f" index="3" custom="heights_v2:[25.1,11.5]">
+        <Coords points="563,591 564,610 730,608 895,608 1060,608 1225,606 1390,606 1555,608 1720,610 1885,612 2054,615 2055,578 1886,576 1721,574 1555,572 1390,569 1225,569 1060,572 895,572 730,572 563,574 563,591"/>
+        <Baseline points="563,599 730,597 895,597 1060,597 1225,595 1390,595 1555,597 1720,599 1885,601 2055,603"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dal obsaditi vojskem hory hraniční a nadělati zásek. Nemohoun do Čech,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="96f51bc0-1d27-4b80-b3f9-5db53bdf20b4" index="4" custom="heights_v2:[26.2,11.8]">
+        <Coords points="576,611 575,649 741,653 901,653 1062,653 1223,651 1384,651 1544,653 1705,657 1866,659 2031,659 2031,621 1866,621 1706,619 1545,615 1384,613 1223,613 1062,615 901,615 741,615 576,611"/>
+        <Baseline points="576,637 741,641 901,641 1062,641 1223,639 1384,639 1545,641 1705,645 1866,647 2031,647"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vrhli se Tataři na Moravu a zle tam řádili. Kdo mohl, utekl před</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8b716f1c-26bc-40d8-9eaa-c152f0f059e8" index="5" custom="heights_v2:[26.1,12.0]">
+        <Coords points="582,664 582,702 749,700 912,698 1077,698 1240,698 1405,700 1568,700 1733,700 1896,702 2065,706 2066,668 1896,664 1733,662 1568,662 1405,662 1240,659 1077,659 912,659 749,662 582,664"/>
+        <Baseline points="582,690 749,688 912,686 1077,686 1240,686 1405,688 1568,688 1733,688 1896,690 2065,694"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nimi do hor a do lesů. Kdo nemohl, byl zabit a vesnice byly vypá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a4965dce-ee9f-4203-8bc4-0c882df86abc" index="6" custom="heights_v2:[27.8,12.9]">
+        <Coords points="2074,751 2071,719 1903,717 1738,713 1572,711 1405,709 1240,709 1075,709 908,709 743,709 573,713 573,713 573,715 574,753 743,749 908,749 1075,749 1240,749 1405,749 1572,751 1737,753 1902,758 2073,760 2074,751"/>
+        <Baseline points="573,741 743,736 908,736 1075,736 1240,736 1405,736 1572,738 1737,741 1902,745 2073,747"/>
+        <TextEquiv conf="1.000">
+          <Unicode>leny. V horách děla se však místy po vypuzení Tatarův i česká koloni-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6bdd18d0-f59e-440a-b42f-d356b5bd9fc5" index="7" custom="heights_v2:[29.8,13.5]">
+        <Coords points="2075,811 2075,768 2075,768 1904,770 1737,770 1570,768 1403,766 1236,764 1068,768 901,768 735,766 564,770 562,781 563,813 734,809 901,811 1069,811 1235,807 1403,809 1570,811 1737,813 1904,813 2075,811"/>
+        <Baseline points="563,800 734,796 901,798 1069,798 1236,793 1403,796 1570,798 1737,800 1904,800 2075,798"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sace. Novým osadám říkalo se někdy Lhota, na př. Štědrákova Lhota, Bí-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f5330046-2f89-4d1e-8b7e-fed13cdd9f3e" index="8" custom="heights_v2:[30.4,13.5]">
+        <Coords points="556,822 557,866 726,862 890,862 1056,866 1221,864 1386,864 1551,866 1716,864 1881,864 2050,866 2051,822 1881,820 1716,820 1551,822 1386,820 1221,820 1055,822 892,818 726,818 556,822"/>
+        <Baseline points="557,853 726,848 891,848 1056,853 1221,851 1386,851 1551,853 1716,851 1881,851 2050,853"/>
+        <TextEquiv conf="1.000">
+          <Unicode>lá, Vranová Lhota a p., ježto po určitou lhůtu let bývaly ty nové o</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6b5cc3e9-1f36-4784-9d00-fa6641dccbb4" index="9" custom="heights_v2:[29.1,14.0]">
+        <Coords points="558,881 559,909 559,924 618,922 673,922 728,922 783,922 838,922 893,920 947,920 1003,922 1065,920 1063,877 1002,879 949,877 893,877 837,879 783,879 728,879 673,879 618,879 558,881"/>
+        <Baseline points="559,910 618,908 673,908 728,908 783,908 838,908 893,906 948,906 1003,908 1064,906"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sady osvobozeny od daní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c3e63b4b-f6dd-416a-9716-b4c64feac6a1" index="10" custom="heights_v2:[29.9,13.7]">
+        <Coords points="915,931 914,974 1043,976 1168,974 1293,974 1417,972 1542,979 1667,979 1792,979 1917,983 2046,983 2046,939 1917,939 1793,935 1667,935 1542,935 1419,929 1292,931 1168,931 1043,933 915,931"/>
+        <Baseline points="914,961 1043,963 1168,961 1293,961 1418,958 1542,965 1667,965 1792,965 1917,969 2046,969"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Předkové naši vzdělávali pilně půdu otcovskou, muži</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6f69df19-d337-44d2-9694-28caaf7cf52b" index="11" custom="heights_v2:[28.9,13.3]">
+        <Coords points="2073,1031 2073,1031 2073,989 1900,987 1734,982 1564,980 1396,980 1227,982 1060,985 890,987 723,989 555,985 552,1027 724,1031 891,1029 1060,1027 1227,1025 1396,1023 1563,1023 1733,1025 1900,1029 2073,1031"/>
+        <Baseline points="553,1014 724,1018 891,1016 1060,1014 1227,1011 1396,1009 1564,1009 1733,1011 1900,1016 2073,1018"/>
+        <TextEquiv conf="1.000">
+          <Unicode>orali, osévali a pásli stáda, ženy vedly domácnosti, předly, tkali plátno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="23a8424d-82bb-4ef4-a425-a1b7f1daac9a" index="12" custom="heights_v2:[28.4,12.8]">
+        <Coords points="555,1046 554,1088 719,1090 882,1090 1045,1088 1209,1088 1371,1081 1534,1081 1697,1081 1860,1083 2027,1088 2028,1046 1861,1042 1697,1040 1534,1040 1371,1040 1207,1046 1045,1046 882,1049 719,1049 555,1046"/>
+        <Baseline points="554,1075 719,1077 882,1077 1045,1075 1208,1075 1371,1069 1534,1069 1697,1069 1860,1071 2027,1075"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a sukno, žily a vyšívaly překrásně. Ve mravech a zvycích nebylo národa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f45fc6a0-80b6-4d72-911c-670b3acb76f3" index="13" custom="heights_v2:[28.3,12.8]">
+        <Coords points="567,1104 567,1145 730,1145 889,1143 1049,1141 1208,1141 1369,1141 1528,1138 1688,1138 1847,1138 2012,1138 2012,1097 1847,1097 1688,1097 1528,1097 1369,1099 1208,1099 1049,1099 888,1102 730,1104 567,1104"/>
+        <Baseline points="567,1132 730,1132 889,1130 1049,1128 1208,1128 1369,1128 1528,1126 1688,1126 1847,1126 2012,1126"/>
+        <TextEquiv conf="1.000">
+          <Unicode>počestnějšího nad Slovany, jak o tom dávají svědectví i Němci sv.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2f200315-3ebf-4414-930a-1ae05cc0c533" index="14" custom="heights_v2:[28.2,13.5]">
+        <Coords points="569,1161 569,1203 623,1203 673,1200 724,1200 775,1198 826,1196 876,1192 927,1192 978,1192 1033,1192 1033,1150 978,1150 927,1150 876,1150 823,1155 773,1157 722,1159 673,1159 621,1161 569,1161"/>
+        <Baseline points="569,1189 622,1189 673,1187 724,1187 774,1185 825,1183 876,1179 927,1179 978,1179 1033,1179"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Bonifác, sv. Otto a j.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="08c238c1-d5f7-40c7-85d7-5a594e4c663b" index="15" custom="heights_v2:[31.1,14.5]">
+        <Coords points="2086,1204 2086,1202 1948,1205 1819,1200 1687,1198 1555,1198 1424,1196 1293,1194 1161,1198 1030,1198 895,1198 895,1244 1030,1244 1162,1244 1293,1240 1424,1242 1555,1244 1686,1244 1817,1246 1949,1250 2086,1248 2086,1204"/>
+        <Baseline points="895,1229 1030,1229 1162,1229 1293,1225 1424,1227 1555,1229 1686,1229 1818,1231 1949,1236 2086,1234"/>
+        <TextEquiv conf="1.000">
+          <Unicode>K cizincům byli naši předkové velmi pohostinni, uctí-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2734c8a4-cb28-459e-9175-1ce865bb8a2f" index="16" custom="heights_v2:[31.2,14.2]">
+        <Coords points="560,1264 563,1303 726,1301 887,1299 1049,1296 1210,1296 1371,1296 1534,1294 1694,1294 1855,1299 2023,1301 2023,1255 1856,1253 1696,1249 1534,1249 1371,1251 1210,1251 1049,1251 886,1253 725,1255 560,1257 560,1264"/>
+        <Baseline points="562,1289 726,1286 887,1284 1049,1282 1210,1282 1371,1282 1534,1280 1695,1280 1856,1284 2023,1286"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vali je nejen chlebem a solí, ale i tím, co měli v domě nejlepšího.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="774706e6-3060-421f-9f92-7c3cf33b582c" index="17" custom="heights_v2:[29.3,13.4]">
+        <Coords points="2097,1351 2094,1312 1922,1310 1753,1306 1582,1310 1413,1310 1243,1314 1075,1314 905,1316 736,1318 563,1316 566,1359 736,1361 906,1359 1075,1357 1244,1357 1413,1353 1583,1353 1752,1348 1921,1353 2097,1355 2097,1351"/>
+        <Baseline points="565,1346 736,1348 906,1346 1075,1344 1244,1344 1413,1339 1583,1339 1752,1335 1921,1339 2096,1341"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Také vinice bývaly při mnohých osadách, jak o tom svědčí dosud tu a tam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0541aa9b-bdc0-40e1-a4a4-4ff92fcd1101" index="18" custom="heights_v2:[29.6,13.8]">
+        <Coords points="569,1377 569,1421 701,1419 827,1417 954,1417 1081,1417 1208,1417 1335,1415 1462,1412 1589,1412 1722,1412 1722,1369 1589,1369 1462,1369 1335,1371 1208,1373 1081,1373 954,1373 827,1373 700,1375 569,1377"/>
+        <Baseline points="569,1407 700,1405 827,1403 954,1403 1081,1403 1208,1403 1335,1401 1462,1399 1589,1399 1722,1399"/>
+        <TextEquiv conf="1.000">
+          <Unicode>názvy tratí, na vinohrádku, jako na Vítošově a jinde.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4d368e0f-6230-49ae-817d-8041b8773068" index="19" custom="heights_v2:[28.8,13.4]">
+        <Coords points="2068,1446 2068,1433 1926,1429 1788,1429 1650,1429 1513,1429 1375,1429 1237,1431 1100,1431 962,1433 821,1433 821,1475 963,1475 1100,1473 1238,1473 1375,1471 1513,1471 1650,1471 1788,1471 1925,1471 2067,1475 2068,1446"/>
+        <Baseline points="821,1462 963,1462 1100,1460 1238,1460 1375,1458 1513,1458 1650,1458 1788,1458 1925,1458 2067,1462"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Sídla svá jmenovali jednak podle rodu v něm usedlého,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e29d483f-f250-4695-968c-1f9055bd7237" index="20" custom="heights_v2:[29.0,13.6]">
+        <Coords points="556,1490 552,1509 552,1533 720,1531 885,1529 1049,1526 1212,1526 1377,1526 1542,1526 1705,1529 1870,1529 2040,1529 2040,1486 1870,1486 1705,1486 1543,1484 1377,1484 1212,1484 1049,1484 884,1486 719,1488 556,1490"/>
+        <Baseline points="552,1519 719,1517 884,1515 1049,1513 1212,1513 1377,1513 1542,1513 1705,1515 1870,1515 2040,1515"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na př. Bohuslavici, Jakubovici, Loštici, Žadlovici a p., jednak podle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="488ba2e6-b37c-4a08-ab69-0b95a70cd5e4" index="21" custom="heights_v2:[27.7,12.9]">
+        <Coords points="544,1551 543,1556 544,1591 718,1587 887,1583 1058,1576 1227,1576 1399,1576 1568,1572 1739,1574 1908,1581 2084,1585 2085,1544 1909,1540 1740,1534 1568,1532 1398,1536 1227,1536 1058,1536 886,1542 717,1547 544,1551"/>
+        <Baseline points="544,1578 717,1574 887,1570 1058,1564 1227,1564 1399,1564 1568,1559 1739,1562 1909,1568 2084,1572"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zakladatel osady na př. Blud-ov, Zbor-ov, Svín-ov, Krasíkov, Bohu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9f3c2a45-b6bd-401b-9521-9e14fde07d3c" index="22" custom="heights_v2:[28.6,13.2]">
+        <Coords points="535,1599 535,1599 535,1599 535,1640 711,1638 885,1638 1058,1634 1229,1632 1403,1630 1576,1628 1747,1626 1921,1632 2099,1636 2100,1594 1922,1590 1749,1584 1576,1586 1402,1588 1229,1590 1058,1592 884,1596 711,1596 535,1599"/>
+        <Baseline points="535,1627 711,1625 884,1625 1058,1621 1229,1619 1403,1617 1576,1614 1748,1612 1921,1619 2099,1623"/>
+        <TextEquiv conf="1.000">
+          <Unicode>tín (založil jej zeman Bohuta čili Bohuslav), Drozdov, Kos-ov, Janoušov,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b8962279-d25d-40d8-a145-4032c85e64ed" index="23" custom="heights_v2:[29.4,13.5]">
+        <Coords points="534,1653 533,1696 705,1700 874,1698 1043,1698 1211,1696 1380,1691 1549,1687 1716,1685 1885,1687 2059,1689 2059,1646 1886,1644 1716,1642 1548,1644 1379,1648 1210,1653 1043,1655 874,1655 704,1657 534,1653"/>
+        <Baseline points="533,1682 705,1686 874,1684 1043,1684 1210,1682 1380,1678 1549,1674 1716,1672 1885,1674 2059,1676"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Křížanov, Vítošov, Bezděkov a p., jednak podle vody tekoucí, při které</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="728d1168-4b31-46bd-ae9d-0bb116be41d5" index="24" custom="heights_v2:[29.2,13.0]">
+        <Coords points="2097,1702 2097,1702 2097,1702 1919,1699 1745,1704 1572,1702 1398,1704 1227,1704 1054,1704 879,1708 707,1708 530,1712 531,1754 707,1750 881,1750 1054,1746 1227,1746 1399,1746 1572,1744 1746,1746 1919,1742 2097,1744 2097,1702"/>
+        <Baseline points="531,1741 707,1737 880,1737 1054,1733 1227,1733 1399,1733 1572,1731 1746,1733 1919,1729 2097,1731"/>
+        <TextEquiv conf="1.000">
+          <Unicode>se usazovali, na př. Červená Voda (= při potoce Červené Vodě). Bílá vo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5788855f-68b6-4829-a643-e253057f150e" index="25" custom="heights_v2:[30.1,13.5]">
+        <Coords points="526,1760 527,1804 698,1799 866,1801 1035,1799 1202,1799 1369,1795 1538,1797 1706,1799 1872,1795 2046,1801 2047,1758 1874,1752 1705,1756 1539,1754 1369,1751 1201,1756 1035,1756 865,1758 699,1756 526,1760"/>
+        <Baseline points="527,1790 698,1786 865,1788 1035,1786 1202,1786 1369,1782 1538,1784 1705,1786 1873,1782 2046,1788"/>
+        <TextEquiv conf="1.000">
+          <Unicode>da, Březná, Bukovice, Leznice (dle vody slazů stékající), Mohylnice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="06494bcb-ee56-490d-ba26-c7d1ba87cfaa" index="26" custom="heights_v2:[30.4,13.9]">
+        <Coords points="525,1819 525,1863 525,1863 707,1863 887,1863 1066,1859 1246,1859 1426,1861 1606,1859 1785,1857 1965,1861 2150,1863 2150,1826 2150,1819 2150,1819 1966,1817 1787,1813 1606,1815 1426,1817 1247,1815 1066,1815 886,1819 707,1819 525,1819"/>
+        <Baseline points="525,1849 707,1849 887,1849 1066,1845 1246,1845 1426,1847 1606,1845 1786,1843 1966,1847 2150,1849"/>
+        <TextEquiv conf="1.000">
+          <Unicode>(dle říčky vinoucí se dávným pohřebištěm) a t. d. Také podle lesů a porostlin</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="44f391b5-3519-4fbf-8086-969f731e5455" index="27" custom="heights_v2:[29.1,13.2]">
+        <Coords points="533,1877 533,1920 711,1917 885,1913 1060,1909 1234,1911 1407,1911 1583,1909 1756,1909 1929,1911 2109,1915 2110,1873 1930,1869 1757,1867 1583,1867 1407,1869 1234,1869 1060,1867 884,1871 710,1875 533,1877"/>
+        <Baseline points="533,1906 711,1904 884,1900 1060,1896 1234,1898 1407,1898 1583,1896 1756,1896 1930,1898 2110,1902"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ve kterých nová osada vznikla jmenují se časem osady naše, na př.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b3ed2389-eb77-4d84-8c2e-c31a8c4e94d2" index="28" custom="heights_v2:[30.9,13.9]">
+        <Coords points="537,1926 537,1971 711,1971 880,1969 1050,1967 1219,1965 1390,1967 1559,1969 1728,1969 1897,1971 2073,1977 2075,1933 1899,1926 1729,1924 1559,1924 1391,1922 1219,1920 1049,1922 880,1924 711,1926 537,1926"/>
+        <Baseline points="537,1957 711,1957 880,1955 1049,1953 1219,1951 1390,1953 1559,1955 1729,1955 1898,1957 2074,1964"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Leština, i Líštnice podle listových porostlin, Jedlí, Smrčina, Březina,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="67a8c4f2-6fe7-4d72-865e-5b4b09a63e1c" index="29" custom="heights_v2:[30.4,13.6]">
+        <Coords points="541,1984 542,2028 717,2026 889,2026 1060,2026 1232,2024 1403,2022 1574,2024 1745,2024 1916,2030 2094,2043 2097,1999 1919,1986 1747,1980 1574,1980 1403,1978 1231,1980 1060,1982 889,1982 717,1982 541,1984"/>
+        <Baseline points="542,2014 717,2012 889,2012 1060,2012 1231,2010 1403,2008 1574,2010 1746,2010 1917,2016 2095,2029"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Hrabová, Veleboř, Javoří, Sokolom (= osada a zlomené doky t. j. jilmu),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a0819c11-ec6d-4ede-9a21-1b2ed49639a8" index="30" custom="heights_v2:[29.5,12.9]">
+        <Coords points="540,2036 540,2036 540,2040 540,2078 707,2078 870,2076 1033,2076 1196,2074 1358,2072 1521,2074 1684,2076 1847,2078 2016,2082 2017,2040 1848,2036 1685,2033 1522,2031 1359,2029 1195,2031 1032,2033 870,2033 706,2036 540,2036"/>
+        <Baseline points="540,2065 707,2065 870,2063 1033,2063 1195,2061 1358,2059 1521,2061 1684,2063 1847,2065 2016,2069"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Sokytlja čili Gotkytle (v místě, kde rostlo mnoho sok čili Jilmů),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="929b3904-4ef3-4c63-9d81-3720d498885f" index="31" custom="heights_v2:[30.6,13.4]">
+        <Coords points="536,2085 535,2129 709,2131 880,2127 1050,2125 1221,2121 1390,2123 1561,2125 1731,2129 1902,2131 2078,2131 2078,2087 1902,2087 1731,2085 1562,2081 1391,2079 1221,2077 1049,2081 880,2083 708,2087 536,2085"/>
+        <Baseline points="535,2116 709,2118 880,2114 1049,2112 1221,2107 1390,2110 1562,2112 1731,2116 1902,2118 2078,2118"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Třeština v místě, kde rostla hojná třtina čili rákosí a podobně. Vál-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c660589a-942e-4975-a82c-12a6214fc0ed" index="32" custom="heights_v2:[31.2,13.6]">
+        <Coords points="2105,2195 2105,2195 2105,2195 2103,2150 1926,2146 1752,2144 1580,2138 1403,2135 1229,2138 1056,2138 879,2142 707,2138 528,2142 529,2187 706,2182 881,2187 1056,2182 1229,2182 1403,2180 1578,2182 1752,2189 1925,2191 2105,2195"/>
+        <Baseline points="529,2173 707,2169 880,2173 1056,2169 1229,2169 1403,2167 1578,2169 1752,2175 1925,2177 2104,2181"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kami náboženskými ve stol. 15. a 17. zničeno bylo velmi mnoho osad na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4f2f69c9-6f6c-4f0b-b1f5-8f1482bdf744" index="33" custom="heights_v2:[30.1,13.6]">
+        <Coords points="527,2200 527,2238 527,2244 700,2240 872,2240 1043,2240 1215,2242 1384,2242 1555,2244 1575,2244 1802,2244 1898,2242 2073,2244 2073,2243 2074,2200 1898,2198 1726,2202 1556,2200 1384,2198 1215,2198 1043,2196 872,2196 700,2196 527,2200"/>
+        <Baseline points="527,2230 700,2226 872,2226 1043,2226 1215,2228 1384,2228 1555,2230 1727,2232 1898,2228 2074,2230"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sev. Moravě a zbyla po nich teď často jen pouhá jména tratí, kde ony</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="1bddf2f2-a3bc-445b-8ba9-260414f1813e">
+      <Coords points="2556,687 2552,1003 2983,1001 3842,1014 3908,957 4081,961 4084,759 4065,636 4065,434 2553,424 2556,687"/>
+      <TextLine id="7e645551-1b8b-4264-86f2-6a713d4fb049" index="0" custom="heights_v2:[31.1,14.5]">
+        <Coords points="3846,433 2553,424 2554,469 2723,467 2890,467 3057,471 3225,474 3392,474 3559,474 3726,474 3893,480 4065,480 4065,434 3893,434 3846,433"/>
+        <Baseline points="2554,455 2723,453 2890,453 3057,457 3225,459 3392,459 3559,459 3726,459 3893,465 4065,465"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stávaly, na př. Sudín a Jankov mezi Hoštýnem a Tátenicí, Strejcov a Ha-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="077b0561-5a2a-41fe-9f60-cd69a5ef6d4c" index="1" custom="heights_v2:[29.7,13.3]">
+        <Coords points="2554,474 2554,517 2721,515 2886,517 3053,519 3218,523 3385,523 3550,523 3718,525 3882,525 4054,527 4054,485 3883,482 3718,482 3551,480 3385,480 3218,480 3054,476 2886,474 2721,472 2554,474"/>
+        <Baseline points="2554,504 2721,501 2886,504 3053,506 3218,510 3385,510 3550,510 3718,512 3883,512 4054,514"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dovce při řece Březné u Drozdovské Pily, Zálavčí u Lesnice a Leštiny a pod.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b3172946-214e-48df-83b0-16f9a75acbf0" index="2" custom="heights_v2:[29.8,13.7]">
+        <Coords points="2868,527 2867,570 3000,574 3129,574 3258,576 3387,576 3516,579 3646,581 3774,581 3904,585 4037,583 4037,539 3903,542 3776,537 3646,537 3517,535 3388,533 3258,533 3130,531 3000,531 2868,527"/>
+        <Baseline points="2867,556 3000,561 3129,561 3258,563 3388,563 3517,565 3646,567 3775,567 3904,571 4037,569"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Válkami zničeny byly i tehdejší kláštery v Krasíkově a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="47061a5e-cbae-4952-9abc-23fdee4ebde0" index="3" custom="heights_v2:[29.8,13.5]">
+        <Coords points="2556,580 2556,623 2725,623 2892,625 3060,627 3227,627 3391,627 3559,631 3726,636 3893,638 4065,636 4064,592 3893,594 3726,592 3560,588 3393,584 3227,584 3060,584 2893,582 2726,580 2556,580"/>
+        <Baseline points="2556,609 2725,609 2892,611 3060,614 3227,614 3392,614 3559,618 3726,622 3893,624 4065,622"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Klášterci. Ve zničených osadách našich usazovali se zvláště po roce 1648</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="be81a7c3-7ea9-4127-bf8c-130b9865b4dd" index="4" custom="heights_v2:[29.3,13.3]">
+        <Coords points="2556,633 2556,676 2725,676 2890,678 3055,680 3220,678 3387,680 3552,682 3717,684 3882,686 4054,688 4054,646 3883,644 3718,641 3553,639 3388,637 3221,635 3055,637 2891,635 2726,633 2556,633"/>
+        <Baseline points="2556,662 2725,662 2890,664 3055,667 3220,664 3388,667 3553,669 3718,671 3883,673 4054,675"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kolonisté němečtí ze Slezska, z hor, válečnými hrůzami více ušetřených</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7b257b86-fcaf-4f42-bb25-9adc3f9ff3fd" index="5" custom="heights_v2:[30.8,14.0]">
+        <Coords points="2556,687 2556,689 2556,731 2725,731 2890,733 3057,733 3222,733 3388,736 3554,736 3720,740 3885,742 4056,742 4056,697 3885,697 3720,695 3555,691 3388,691 3223,689 3057,689 2890,689 2726,687 2556,687 2556,687"/>
+        <Baseline points="2556,717 2725,717 2890,719 3057,719 3222,719 3388,722 3555,722 3720,726 3885,728 4056,728"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a ze Švábska. Tak se nám zalidňovalo sice opět, ale též poněmčovalo zne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="475f9351-390a-473f-bfda-822e204cff65" index="6" custom="heights_v2:[30.4,13.6]">
+        <Coords points="2555,746 2555,790 2725,786 2895,786 3064,786 3233,786 3402,790 3571,792 3741,794 3910,799 4083,803 4083,798 4084,759 4084,759 3911,755 3742,750 3572,748 3403,746 3234,742 3064,742 2895,742 2725,742 2555,746"/>
+        <Baseline points="2555,776 2725,772 2895,772 3064,772 3233,772 3402,777 3572,779 3741,781 3910,785 4084,789"/>
+        <TextEquiv conf="1.000">
+          <Unicode>náhla krásné naše Šilpersko a Mohelnicko. Mnoho přispělo k poněmčení také</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c6b4b0b0-3897-496c-ac36-b3c4c27d1451" index="7" custom="heights_v2:[29.9,13.5]">
+        <Coords points="2555,795 2554,839 2721,841 2884,839 3047,841 3210,845 3373,847 3536,847 3698,847 3862,851 4031,847 4030,804 3861,808 3699,804 3536,804 3373,804 3210,802 3048,797 2884,795 2721,797 2555,795"/>
+        <Baseline points="2554,825 2721,827 2884,825 3047,827 3210,832 3373,834 3536,834 3699,834 3861,838 4031,834"/>
+        <TextEquiv conf="1.000">
+          <Unicode>to, že r. 1622 a r. 1624 zabaven a rozdán byl císařem Ferdinandem II. ci-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b1c9cd1b-cc2c-4963-b679-cb2334c379cf" index="8" custom="heights_v2:[30.1,13.6]">
+        <Coords points="2554,852 2554,869 2554,896 2723,894 2890,898 3057,900 3224,900 3390,902 3557,902 3724,902 3891,907 4062,907 4062,863 3891,863 3725,859 3557,859 3390,859 3225,856 3057,856 2891,854 2724,850 2554,852"/>
+        <Baseline points="2554,882 2723,880 2890,884 3057,887 3225,887 3390,889 3557,889 3724,889 3891,893 4062,893"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zincům velký majetek, pánů českých na sev. Moravě za to, že se súčastnili</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8af69358-4b25-4b71-82cd-8c076f5c97c3" index="9" custom="heights_v2:[29.5,13.1]">
+        <Coords points="4081,961 4082,918 3909,914 3739,912 3571,914 3403,912 3236,910 3066,910 2899,910 2729,910 2558,908 2558,950 2729,953 2899,953 3066,953 3235,953 3402,955 3572,957 3739,955 3908,957 4081,961"/>
+        <Baseline points="2558,937 2729,939 2899,939 3066,939 3235,939 3402,942 3572,944 3739,942 3908,944 4081,948"/>
+        <TextEquiv conf="1.000">
+          <Unicode>odboje proti císaři r. 1620. Cizinci usazovali u nás pak Němce, obchod a prů-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4a401455-6425-481d-aa16-e578b9da393c" index="10" custom="heights_v2:[28.6,13.2]">
+        <Coords points="2553,962 2552,1003 2598,1003 2698,1001 2748,1002 2983,1001 3285,1006 3411,1006 3552,1008 3694,1010 3840,1014 3842,1014 3842,1014 3843,972 3695,968 3553,966 3411,964 3267,964 3125,964 2984,959 2839,962 2698,959 2553,962"/>
+        <Baseline points="2552,990 2698,988 2840,990 2983,988 3125,992 3267,992 3411,992 3553,994 3694,997 3842,1001"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mysl český poklesl, lid vesnický zatížen byl krutou porobou.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="5dcaf0a1-be31-4aa8-ab33-8237c3d9cfbc">
+      <Coords points="2989,1063 2987,1118 3548,1126 3550,1072 2989,1063"/>
+      <TextLine id="a183993a-3a7b-49c5-b71f-1fccde45554d" index="0" custom="heights_v2:[37.2,17.6]">
+        <Coords points="2989,1063 2987,1108 2987,1118 2994,1118 3424,1124 3482,1124 3529,1126 3548,1126 3550,1072 3387,1069 3360,1069 3297,1072 3239,1069 3176,1069 3115,1069 3056,1065 2989,1063"/>
+        <Baseline points="2988,1100 3053,1102 3115,1107 3176,1107 3237,1107 3299,1109 3360,1107 3421,1107 3483,1107 3548,1109"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Kdy vznikla naše obec.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="fb9e83a9-fe59-434c-a76e-b2bcfc4e4c50">
+      <Coords points="2562,2117 2552,2229 2897,2223 3466,2227 3585,2223 3751,2171 4094,2175 4095,2128 4056,2002 4087,1907 4089,1863 4080,1808 4088,1639 4069,1459 4063,1252 2860,1229 2728,1291 2569,1291 2570,1407 2555,1569 2560,1930 2573,2049 2562,2117"/>
+      <TextLine id="0e78b17b-7cb9-4e5d-9200-43b4da2d9cab" index="0" custom="heights_v2:[34.6,16.1]">
+        <Coords points="4063,1252 4063,1252 4028,1251 3925,1250 3792,1250 3659,1246 3560,1242 3381,1239 3261,1237 3128,1235 2994,1235 2874,1229 2860,1229 2858,1279 2994,1286 3127,1286 3260,1288 3394,1290 3525,1292 3658,1296 3792,1300 3925,1300 4062,1303 4063,1252"/>
+        <Baseline points="2859,1263 2994,1270 3127,1270 3261,1272 3394,1274 3525,1276 3658,1280 3792,1284 3925,1284 4062,1286"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Otázku tuto zodpověděti jest velice nesnadné. Staré zápi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c0457d15-60cd-4f7a-b426-bc0f2d87bd8f" index="1" custom="heights_v2:[29.5,13.5]">
+        <Coords points="2728,1291 2728,1291 2569,1291 2569,1334 2727,1334 2882,1336 3036,1338 3190,1340 3347,1344 3501,1346 3656,1351 3811,1353 3971,1355 3972,1312 3811,1310 3657,1308 3503,1304 3348,1301 3192,1297 3037,1295 2882,1293 2728,1291"/>
+        <Baseline points="2569,1320 2727,1320 2882,1322 3036,1325 3191,1327 3347,1331 3502,1333 3656,1337 3811,1339 3971,1341"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sy se nám nedochovaly a pokud jsou, pocházejí teprve ze století 17</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f694aed2-6057-4797-8785-a711f32216f9" index="2" custom="heights_v2:[29.6,13.4]">
+        <Coords points="2571,1348 2571,1391 2738,1391 2901,1391 3066,1391 3228,1391 3392,1395 3556,1397 3719,1404 3883,1408 4052,1408 4052,1365 3883,1365 3720,1361 3558,1354 3392,1352 3230,1348 3066,1348 2901,1348 2738,1348 2571,1348"/>
+        <Baseline points="2571,1377 2738,1377 2901,1377 3066,1377 3229,1377 3392,1382 3557,1384 3720,1390 3883,1394 4052,1394"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Jisto však jest, že patří též ke starým osadám, jako téměř všechny o</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="78bade01-6b25-4450-adab-c0401d315810" index="3" custom="heights_v2:[29.6,13.6]">
+        <Coords points="4069,1451 4068,1415 3898,1413 3733,1411 3568,1409 3403,1407 3236,1405 3071,1403 2905,1403 2740,1405 2570,1407 2571,1450 2740,1448 2905,1446 3070,1446 3235,1448 3402,1450 3567,1452 3732,1455 3897,1457 4069,1459 4069,1451"/>
+        <Baseline points="2571,1437 2740,1435 2905,1432 3070,1432 3235,1435 3402,1437 3567,1439 3732,1441 3897,1443 4069,1445"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vesnice na sev. Moravě. Možno tak souditi dle nálezu starých mincí.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fca285e8-2b39-4158-842a-f321e924bd39" index="4" custom="heights_v2:[30.2,13.8]">
+        <Coords points="2565,1457 2564,1470 2565,1501 2731,1499 2895,1503 3057,1503 3220,1503 3383,1505 3546,1508 3709,1505 3872,1510 4039,1514 4040,1470 3873,1466 3710,1462 3546,1464 3384,1462 3221,1459 3057,1459 2895,1459 2732,1455 2565,1457"/>
+        <Baseline points="2564,1487 2732,1485 2895,1490 3057,1490 3220,1490 3383,1492 3546,1494 3709,1492 3872,1496 4039,1500"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pan Alois Kobza, z čís. 25, kopal na zahradě za stodolou cihlářskou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9d82eacc-3df8-4f14-a704-a6c708a247a9" index="5" custom="heights_v2:[30.8,13.6]">
+        <Coords points="4079,1558 4076,1526 3907,1522 3739,1520 3572,1520 3405,1518 3236,1514 3068,1512 2901,1512 2735,1505 2562,1510 2563,1554 2733,1550 2901,1556 3068,1556 3235,1558 3404,1562 3572,1565 3739,1565 3906,1567 4079,1571 4079,1558"/>
+        <Baseline points="2562,1540 2734,1536 2901,1542 3068,1542 3235,1545 3404,1549 3572,1551 3739,1551 3906,1553 4079,1557"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hlínu. V hloubce 11/2 m našel poprvé 30, po druhé 25 pražských grošů,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c7c1c01a-6272-4bdf-8ae2-b88afaf41b3c" index="6" custom="heights_v2:[30.4,13.6]">
+        <Coords points="4084,1604 4082,1586 3912,1578 3742,1573 3571,1576 3403,1571 3236,1569 3066,1569 2897,1567 2728,1565 2555,1569 2556,1613 2727,1609 2896,1611 3066,1613 3235,1613 3402,1615 3572,1620 3741,1617 3909,1622 4083,1630 4084,1604"/>
+        <Baseline points="2556,1600 2727,1595 2897,1597 3066,1600 3235,1600 3402,1602 3572,1606 3741,1604 3910,1608 4084,1617"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ražených r. 1300 za Václava II., který panoval od r. 1278 - 1305. Asi 2 roky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fb90afa1-ec11-480f-857b-4d57f01ab544" index="7" custom="heights_v2:[30.6,13.8]">
+        <Coords points="4086,1683 4088,1639 4088,1639 3915,1637 3746,1632 3577,1628 3407,1626 3238,1624 3068,1622 2899,1620 2729,1620 2556,1620 2556,1639 2556,1664 2729,1664 2899,1664 3068,1666 3237,1668 3406,1671 3575,1673 3745,1677 3914,1681 4086,1683"/>
+        <Baseline points="2556,1650 2729,1650 2899,1650 3068,1652 3237,1655 3407,1657 3576,1659 3745,1663 3914,1667 4087,1669"/>
+        <TextEquiv conf="1.000">
+          <Unicode>před tím jeho otec našel na téže zahradě pod starou jabloní asi 20 m.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="159b6d9d-0b79-495d-b1ce-c0a6c71bcf80" index="8" custom="heights_v2:[30.4,13.9]">
+        <Coords points="2556,1673 2557,1717 2721,1717 2884,1717 3046,1721 3210,1726 3370,1728 3533,1732 3696,1734 3859,1736 4027,1736 4027,1692 3859,1692 3697,1690 3534,1688 3371,1684 3210,1681 3048,1677 2885,1673 2721,1673 2556,1673"/>
+        <Baseline points="2557,1703 2721,1703 2884,1703 3047,1708 3210,1712 3371,1714 3534,1718 3696,1720 3859,1722 4027,1722"/>
+        <TextEquiv conf="1.000">
+          <Unicode>od stodole) stříbrnou medaili s latinským textem, která se bohužel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f8afd135-8f50-47a6-baa3-d0d085b9ac40" index="9" custom="heights_v2:[29.4,13.6]">
+        <Coords points="2557,1733 2558,1776 2725,1776 2892,1776 3059,1776 3226,1778 3392,1782 3558,1785 3726,1791 3893,1791 4064,1797 4066,1754 3894,1748 3726,1748 3560,1742 3392,1739 3227,1735 3060,1733 2892,1733 2725,1733 2557,1733"/>
+        <Baseline points="2558,1763 2725,1763 2892,1763 3060,1763 3227,1765 3392,1769 3559,1771 3726,1777 3893,1777 4065,1784"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nedochovala. Patrně to byla nějaká vojenská medaile za udatnost. Z</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bff8afd0-0939-400d-b796-a207424fa2ee" index="10" custom="heights_v2:[28.5,13.0]">
+        <Coords points="4080,1810 4080,1808 3907,1802 3739,1797 3571,1791 3403,1789 3233,1787 3066,1785 2897,1781 2730,1776 2558,1781 2559,1822 2729,1818 2896,1822 3066,1826 3233,1828 3402,1831 3569,1833 3738,1839 3905,1843 4079,1850 4080,1810"/>
+        <Baseline points="2558,1809 2729,1805 2897,1809 3066,1813 3233,1815 3402,1818 3569,1820 3739,1826 3906,1830 4079,1837"/>
+        <TextEquiv conf="1.000">
+          <Unicode>nálezu pražských grošů možno souditi, že obec naše byla obydlena již</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9a900ce2-8c0e-48ae-aa0d-3a63f79f6b31" index="11" custom="heights_v2:[30.2,13.7]">
+        <Coords points="4087,1907 4087,1907 4089,1864 4089,1863 3915,1857 3745,1855 3577,1849 3407,1844 3238,1838 3069,1834 2900,1830 2729,1830 2559,1834 2559,1878 2729,1874 2898,1874 3068,1878 3237,1882 3406,1888 3575,1893 3745,1899 3914,1901 4087,1907"/>
+        <Baseline points="2559,1864 2729,1860 2899,1860 3068,1864 3237,1868 3407,1875 3576,1879 3745,1885 3914,1887 4088,1894"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ve století 13. neb 14. Jistě, že peníze uschoval majitel ze strachu před</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="36da87f4-9334-4e5d-95a4-ec19df17f541" index="12" custom="heights_v2:[16.1,8.1]">
+        <Coords points="3103,1878 3105,1902 3134,1900 3161,1900 3189,1900 3220,1900 3220,1875 3189,1875 3161,1875 3134,1875 3103,1878"/>
+        <Baseline points="3104,1894 3134,1892 3161,1892 3189,1892 3220,1892"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vojskem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5afd515b-85f5-4e50-8fb7-bb4b902c0f42" index="13" custom="heights_v2:[29.9,13.4]">
+        <Coords points="2560,1887 2560,1930 2727,1928 2890,1930 3055,1935 3218,1937 3381,1939 3546,1945 3709,1951 3872,1956 4041,1962 4042,1919 3873,1913 3710,1908 3547,1902 3382,1896 3219,1893 3056,1891 2891,1887 2728,1885 2560,1887"/>
+        <Baseline points="2560,1917 2727,1915 2890,1917 3055,1921 3218,1923 3381,1925 3546,1932 3709,1938 3872,1942 4041,1949"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vojskem husitským neb uherského krále Matyáše, za panování, které</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="00e99923-697b-4325-b0e4-a6c05b7bfe03" index="14" custom="heights_v2:[29.7,13.5]">
+        <Coords points="2567,1944 2566,1988 2734,1990 2899,1990 3064,1992 3229,1988 3391,1988 3556,1992 3721,1996 3887,2000 4056,2002 4057,1959 3887,1957 3723,1953 3558,1949 3393,1944 3229,1944 3063,1949 2899,1947 2734,1947 2567,1944"/>
+        <Baseline points="2567,1974 2734,1976 2899,1976 3064,1978 3229,1974 3392,1974 3557,1978 3722,1983 3887,1987 4056,1989"/>
+        <TextEquiv conf="1.000">
+          <Unicode>za panování Jiřího z Poděbrad táhlo zdejším krajem do Uher. Jsou to</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7f23584f-1e6d-4df7-b3e8-8a97bbe234ab" index="15" custom="heights_v2:[29.0,13.5]">
+        <Coords points="2573,2006 2573,2049 2740,2047 2903,2047 3066,2047 3229,2043 3393,2045 3556,2051 3720,2055 3882,2057 4052,2062 4053,2019 3883,2015 3720,2013 3558,2009 3395,2002 3229,2000 3065,2004 2903,2004 2740,2004 2573,2006"/>
+        <Baseline points="2573,2035 2740,2033 2903,2033 3066,2033 3229,2029 3394,2031 3557,2038 3720,2042 3883,2044 4052,2048"/>
+        <TextEquiv conf="1.000">
+          <Unicode>však jen pouhé dohady, které nejsou starými písemnými zápisy dolo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9abee95e-4c6b-40d6-8974-abe2ad6ab7e2" index="16" custom="heights_v2:[29.7,13.4]">
+        <Coords points="2576,2057 2577,2100 2744,2095 2907,2098 3070,2098 3233,2098 3396,2100 3559,2100 3721,2102 3885,2106 4054,2108 4054,2065 3885,2063 3723,2059 3559,2057 3396,2057 3233,2054 3070,2054 2907,2054 2745,2052 2576,2057"/>
+        <Baseline points="2577,2086 2744,2082 2907,2084 3070,2084 3233,2084 3396,2086 3559,2086 3722,2088 3885,2093 4054,2095"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ženy. V archivu Búzovském učiněn jest zápis, že Jan z Búzo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4469a0f4-48ca-44c9-98a2-fb34036e12c8" index="17" custom="heights_v2:[32.3,14.9]">
+        <Coords points="2562,2117 2562,2118 2563,2165 2736,2162 2905,2162 3074,2162 3243,2165 3413,2167 3582,2167 3751,2171 3920,2171 4081,2175 4094,2175 4095,2130 4095,2128 3922,2124 3751,2124 3583,2120 3413,2120 3244,2117 3075,2115 2905,2115 2736,2115 2562,2117"/>
+        <Baseline points="2562,2150 2736,2148 2905,2148 3074,2148 3244,2150 3413,2152 3582,2152 3751,2156 3921,2156 4094,2160"/>
+        <TextEquiv conf="1.000">
+          <Unicode>va koupil r. 1357 Rohli a lesy Bradlo. Tato zmínka může též částečně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="29eea839-a09a-4055-a6d8-74801e1d15bf" index="18" custom="heights_v2:[29.9,14.1]">
+        <Coords points="2556,2185 2552,2229 2897,2223 2913,2223 3011,2223 3123,2223 3237,2225 3252,2225 3466,2227 3585,2223 3583,2179 3465,2183 3352,2183 3238,2181 3124,2179 3011,2179 2897,2179 2782,2181 2667,2185 2556,2185"/>
+        <Baseline points="2553,2215 2668,2215 2782,2211 2897,2209 3011,2209 3123,2209 3237,2211 3352,2213 3466,2213 3584,2209"/>
+        <TextEquiv conf="1.000">
+          <Unicode>svědčiti o osídlení zdejší krajiny ve století 14</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="aa9c20f5-9a28-4ccb-88ab-f22aa1206a45">
+      <Coords points="2481,2277 2479,2311 2603,2315 2595,2258 2531,2256 2481,2277"/>
+      <TextLine id="2a993aae-4100-4fe1-8321-de0c60a2add3" index="0" custom="heights_v2:[18.6,8.7]">
+        <Coords points="2531,2256 2530,2283 2594,2285 2595,2258 2531,2256"/>
+        <Baseline points="2531,2275 2594,2277"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Pozn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="66c1a882-e94b-4c70-926d-4c37a44d9994" index="1" custom="heights_v2:[23.1,10.9]">
+        <Coords points="2484,2311 2603,2315 2603,2312 2598,2281 2569,2281 2541,2281 2513,2279 2481,2277 2479,2311 2484,2311"/>
+        <Baseline points="2480,2300 2512,2302 2541,2304 2569,2304 2601,2304"/>
+        <TextEquiv conf="1.000">
+          <Unicode>též ku str. 12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="c9bd9b59-72cb-4bfc-9d75-38a44a1640f2">
+      <Coords points="2567,2332 2570,2421 2583,2467 3032,2471 3135,2523 3425,2532 3554,2427 4050,2433 4075,2383 4066,2284 2827,2284 2611,2275 2603,2286 2603,2315 2580,2315 2567,2332"/>
+      <TextLine id="4881d195-8d3a-44bc-a5db-88368af543b2" index="0" custom="heights_v2:[28.8,12.3]">
+        <Coords points="2611,2275 2608,2317 2667,2321 2670,2280 2611,2275"/>
+        <Baseline points="2609,2304 2668,2308"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1ea4243b-c662-4583-af72-f8bfa5005fd6" index="1" custom="heights_v2:[30.7,13.9]">
+        <Coords points="4066,2288 4066,2284 3908,2286 3754,2286 3599,2286 3445,2286 3290,2286 3136,2284 2981,2284 2827,2284 2669,2280 2668,2324 2827,2329 2981,2329 3136,2329 3290,2331 3445,2331 3599,2331 3754,2331 3908,2331 4067,2329 4066,2288"/>
+        <Baseline points="2668,2311 2827,2315 2981,2315 3136,2315 3290,2317 3445,2317 3599,2317 3754,2317 3908,2317 4067,2315"/>
+        <TextEquiv conf="1.000">
+          <Unicode>K faře dubické, o které se v listinách činí zmínka od r. 1355, patřilo od toho roku až do r. 1720</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="83c3665f-0204-4ef8-adff-9e26e23440f6" index="2" custom="heights_v2:[29.5,13.3]">
+        <Coords points="2567,2337 2568,2375 2736,2379 2903,2379 3070,2377 3237,2379 3402,2379 3569,2379 3736,2381 3904,2383 4075,2383 4075,2383 4071,2340 3904,2340 3737,2338 3570,2336 3402,2336 3237,2336 3071,2334 2903,2336 2736,2336 2567,2332 2567,2337"/>
+        <Baseline points="2568,2361 2736,2366 2903,2366 3070,2363 3237,2366 3402,2366 3569,2366 3737,2368 3904,2370 4074,2370"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pět kostelů a to: dubický, rohelský, dlouhomilovský, klesnický a brničský s osadami: Dubicko, Třeština, Bohu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b9bd5910-f477-4f11-9603-85d5324d5715" index="3" custom="heights_v2:[28.3,12.9]">
+        <Coords points="3554,2427 3554,2427 4050,2433 4050,2392 3881,2392 3718,2390 3555,2386 3392,2386 3227,2382 3064,2382 2901,2380 2737,2384 2572,2380 2570,2421 2738,2425 2901,2421 3064,2423 3226,2423 3392,2427 3554,2427"/>
+        <Baseline points="2571,2408 2738,2412 2901,2408 3064,2410 3227,2410 3392,2414 3555,2414 3718,2418 3881,2421 4050,2421"/>
+        <TextEquiv conf="1.000">
+          <Unicode>slavice, Hrabová, Rohle, Nedvězí, Benkov, Kamenná, Obědné - 3 grunty a 6 domků ze Svinova </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f4fa5c1e-2326-4ee6-8e8c-c299f27a2330" index="4" custom="heights_v2:[27.1,12.1]">
+        <Coords points="2605,2467 2766,2469 2778,2469 2842,2469 2905,2469 2956,2470 3004,2471 3032,2471 3096,2471 3165,2471 3165,2432 3096,2432 3032,2432 2969,2432 2906,2429 2842,2429 2778,2429 2715,2429 2651,2429 2584,2427 2583,2467 2605,2467"/>
+        <Baseline points="2583,2454 2651,2457 2715,2457 2778,2457 2842,2457 2905,2457 2969,2459 3032,2459 3096,2459 3165,2459"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ostatek patřil pod panství úsovské</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3dc892d1-327e-4c33-9db8-09e41521e51f" index="5" custom="heights_v2:[38.0,18.3]">
+        <Coords points="3135,2523 3135,2523 3139,2523 3166,2521 3198,2523 3231,2526 3261,2526 3293,2528 3301,2528 3354,2530 3358,2530 3389,2530 3425,2532 3428,2476 3392,2474 3358,2474 3326,2474 3297,2472 3265,2469 3231,2469 3202,2467 3170,2465 3131,2467 3135,2523"/>
+        <Baseline points="3134,2505 3167,2503 3199,2505 3231,2507 3263,2507 3294,2509 3326,2512 3358,2512 3390,2512 3426,2514"/>
+        <TextEquiv conf="1.000">
+          <Unicode>(poznamenal</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

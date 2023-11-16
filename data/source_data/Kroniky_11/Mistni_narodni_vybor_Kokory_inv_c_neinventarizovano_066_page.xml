@@ -1,0 +1,289 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:20:28.165923</Created>
+    <LastChange>2023-01-19T00:20:28.165923</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Kokory_inv_c_neinventarizovano_066.jpg" imageWidth="1536" imageHeight="2048">
+    <TextRegion id="80287a2f-21cc-4c65-9a42-21975c0a1488">
+      <Coords points="138,163 108,163 108,229 174,227 171,161 138,163"/>
+      <TextLine id="fea21d70-7d51-4426-a7ec-9a23a523f870" index="0" custom="heights_v2:[47.9,18.2]">
+        <Coords points="138,163 108,163 108,229 122,229 172,227 174,227 173,204 171,161 138,163"/>
+        <Baseline points="108,210 141,210 173,209"/>
+        <TextEquiv conf="1.000">
+          <Unicode>66</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="b7db4e34-7016-49b9-adac-6785178b2218">
+      <Coords points="147,701 146,773 382,770 523,733 1274,736 1304,622 1305,589 1277,515 1278,477 1244,400 942,396 343,414 288,449 333,448 336,488 220,493 158,532 147,701"/>
+      <TextLine id="b1e8453b-7f64-4793-9be5-94210c46e89e" index="0" custom="heights_v2:[30.9,13.8]">
+        <Coords points="1244,400 1244,400 976,396 942,396 842,400 819,400 360,413 343,414 345,459 447,454 546,451 645,448 743,444 844,444 942,441 1041,441 1139,441 1243,444 1244,400"/>
+        <Baseline points="345,445 447,440 545,437 644,434 743,431 843,431 942,427 1041,427 1140,427 1243,431"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ukončili jsme čtvrtý rok pětiletého plánu, rok bohatý</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="11f1f449-20b7-47d5-8f5c-529dadcb32b9" index="1" custom="heights_v2:[23.4,10.3]">
+        <Coords points="338,452 338,486 363,486 384,485 405,484 426,483 449,483 469,481 490,481 511,481 537,481 537,448 511,448 490,448 469,448 447,449 426,449 403,451 384,451 361,453 338,452"/>
+        <Baseline points="338,476 363,476 384,474 405,474 426,473 448,473 469,471 490,471 511,471 537,471"/>
+        <TextEquiv conf="1.000">
+          <Unicode>i událostmi.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="89c101e4-37a9-42e6-9dd0-dc764b30c195" index="2" custom="heights_v2:[26.8,12.0]">
+        <Coords points="1278,477 1278,477 1171,473 1067,472 964,470 859,472 755,473 651,477 548,480 445,481 337,485 339,524 445,520 549,519 653,515 756,512 860,511 963,509 1066,511 1170,512 1277,515 1278,477"/>
+        <Baseline points="338,511 445,508 549,507 652,503 756,500 859,499 963,497 1067,499 1170,500 1277,503"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Radostně vstupujeme do pátého, posledního roku pětiletky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="795682ca-8e9f-45f0-b1ef-f4eb68c7cf32" index="3" custom="heights_v2:[22.8,10.1]">
+        <Coords points="158,532 159,565 280,562 400,557 518,554 638,552 756,551 876,547 994,546 1113,546 1236,549 1237,516 1114,513 994,513 875,515 755,518 637,519 518,521 399,524 279,529 158,532"/>
+        <Baseline points="159,555 280,552 400,547 518,544 638,542 756,541 876,537 994,536 1114,536 1237,539"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Celá země - všechen pracující lid, dělníci z továren a závodů, dolů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f8e36860-3d8f-47a3-b75e-edcf9be76960" index="4" custom="heights_v2:[22.1,9.8]">
+        <Coords points="156,567 157,599 284,594 407,591 529,588 653,586 775,583 899,581 1021,578 1144,580 1271,580 1271,548 1144,548 1022,546 898,549 775,551 652,554 529,556 406,559 283,562 156,567"/>
+        <Baseline points="157,589 283,584 406,581 529,578 652,576 775,573 898,571 1021,568 1144,570 1271,570"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a hutí, družstevníci, pracující inteligence - začíná nový rok s pevným</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="94f34f19-4f79-4e00-a09c-26e7553b36b6" index="5" custom="heights_v2:[23.2,10.3]">
+        <Coords points="1304,622 1304,622 1305,589 1305,589 1174,585 1047,585 920,584 793,585 665,585 539,587 411,590 285,592 155,597 156,630 285,625 411,624 539,621 665,619 793,619 919,617 1047,619 1173,619 1304,622"/>
+        <Baseline points="155,620 285,615 411,613 539,610 665,609 793,609 919,607 1047,609 1174,609 1304,612"/>
+        <TextEquiv conf="1.000">
+          <Unicode>odhodláním úkoly národohospodářského plánu nejen plnit, ale i překra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b071ded5-55ed-46fd-883c-4a8a11521201" index="6" custom="heights_v2:[23.8,10.3]">
+        <Coords points="153,629 154,663 277,661 397,659 516,658 636,656 756,656 876,655 995,656 1115,656 1238,656 1238,622 1115,622 995,622 876,620 756,622 636,622 516,624 396,625 276,627 153,629"/>
+        <Baseline points="154,652 277,651 397,649 516,647 636,646 756,646 876,644 995,646 1115,646 1238,646"/>
+        <TextEquiv conf="1.000">
+          <Unicode>čovat. Pátý rok pětiletky bude vyvrcholením úsilí a boje za položení</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="44d7d588-420e-4b94-9e38-1dc6e0f71180" index="7" custom="heights_v2:[24.9,10.5]">
+        <Coords points="152,661 152,697 280,697 405,695 529,694 654,695 779,694 903,692 1028,694 1152,694 1282,695 1282,660 1153,658 1028,658 904,657 778,658 654,660 530,658 404,660 280,661 152,661"/>
+        <Baseline points="152,686 280,686 405,685 529,683 654,685 779,683 903,681 1028,683 1152,683 1282,685"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pevných základů socialismu v naší zemi. V tomto úsilí nezůstanou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="998e6c81-02f1-4cae-bfd5-1be00f490b8c" index="8" custom="heights_v2:[25.7,11.0]">
+        <Coords points="147,701 147,710 148,738 274,734 398,733 523,733 647,731 772,731 897,731 1021,731 1146,734 1262,736 1274,736 1274,699 1146,698 1022,695 897,695 772,695 647,695 522,696 398,696 273,698 147,701"/>
+        <Baseline points="147,727 274,724 398,722 523,722 647,720 772,720 897,720 1021,720 1146,724 1274,725"/>
+        <TextEquiv conf="1.000">
+          <Unicode>stranou ani naši občané v čele s národním výborem a všemi složkami</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2fae1845-914e-475c-a031-93b244311f38" index="9" custom="heights_v2:[26.4,11.0]">
+        <Coords points="147,736 146,773 348,770 353,770 370,770 382,770 382,733 353,733 325,734 301,734 275,734 251,734 223,736 199,736 173,736 147,736"/>
+        <Baseline points="146,762 173,762 199,762 225,762 251,761 275,761 301,761 327,761 353,759 382,759"/>
+        <TextEquiv conf="1.000">
+          <Unicode>národní fronty</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="4e372741-9168-49a1-9a8e-2ea865ecafaf">
+      <Coords points="184,454 165,454 165,494 336,488 333,448 184,454"/>
+      <TextLine id="1ebb6b92-b28c-4d7a-8e58-7f0eb2ec82b1" index="0" custom="heights_v2:[28.2,12.1]">
+        <Coords points="165,494 237,491 240,491 244,491 269,490 277,490 290,490 335,488 336,488 334,467 333,448 325,448 310,449 300,449 220,453 219,453 218,453 189,454 184,454 165,454 165,494"/>
+        <Baseline points="165,482 186,482 204,481 222,481 240,479 259,479 277,477 295,477 312,477 335,476"/>
+        <TextEquiv conf="1.000">
+          <Unicode>významným</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="cc0c0046-320b-482c-b172-ab9e1ad6e323">
+      <Coords points="190,802 141,803 143,850 562,843 561,797 190,802"/>
+      <TextLine id="3150ccb0-fc69-4113-9365-17560e0d4291" index="0" custom="heights_v2:[31.9,14.7]">
+        <Coords points="190,802 171,802 141,803 143,843 143,850 192,848 237,847 283,845 329,845 374,845 421,845 466,843 488,844 562,843 562,831 561,797 555,797 510,799 494,798 190,802"/>
+        <Baseline points="142,835 191,834 236,832 283,830 329,830 374,830 421,830 466,829 511,830 562,829"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Činnost lidové správy</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="2fa1ca0d-b481-4802-b2d3-29db9485a77f">
+      <Coords points="123,1326 123,1358 304,1363 531,1363 629,1339 1265,1343 1285,1267 1285,1217 1269,1152 1300,1065 1299,1028 1267,882 1268,841 562,837 562,843 512,845 302,845 260,879 137,882 123,1326"/>
+      <TextLine id="155f930c-9c80-4d90-9f52-ba03d2d85e5d" index="0" custom="heights_v2:[28.7,12.3]">
+        <Coords points="1267,882 1268,861 1268,841 901,839 838,839 802,838 616,837 562,837 562,843 512,845 305,845 306,883 415,880 521,878 626,878 733,878 838,880 945,880 1050,880 1157,880 1267,882"/>
+        <Baseline points="306,871 414,868 521,866 626,866 733,866 838,868 945,868 1050,868 1157,868 1267,869"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Do nového roku vstoupil národní výbor s plánem práce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8e56359e-2926-45ad-9ef1-e0af3547b811" index="1" custom="heights_v2:[25.8,11.0]">
+        <Coords points="260,879 260,879 255,879 137,882 137,884 138,919 261,916 380,913 502,913 622,914 741,914 863,916 982,917 1102,919 1227,919 1227,882 1102,882 983,881 863,879 742,877 622,877 502,876 380,876 260,879"/>
+        <Baseline points="138,908 261,905 380,902 502,902 622,903 741,903 863,905 983,906 1102,908 1227,908"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rady, plena a Výboru žen. I komise vypracovaly plán své činnosti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="99c72cfc-205b-492f-b6a8-339e7be3f40e" index="2" custom="heights_v2:[23.8,10.1]">
+        <Coords points="136,920 135,954 219,952 301,951 384,951 466,951 549,951 631,951 714,951 796,952 882,954 883,920 797,918 714,917 631,917 549,917 466,917 384,917 301,917 218,918 136,920"/>
+        <Baseline points="135,944 219,942 301,940 384,940 466,940 549,940 631,940 714,940 796,942 882,944"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Schůze rady se koná každé úterý po 14 dnech.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="37fcf463-a662-402d-aa0d-3149e667692b" index="3" custom="heights_v2:[26.8,11.5]">
+        <Coords points="135,952 136,991 262,988 385,986 510,986 633,989 757,991 881,992 1005,992 1128,994 1256,996 1256,957 1129,956 1006,954 881,954 758,952 633,951 511,948 385,948 262,949 135,952"/>
+        <Baseline points="136,979 262,976 385,974 510,974 633,978 758,979 881,981 1005,981 1128,983 1256,984"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 6. února se konala schůze národního výboru „Hovory s občany“.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="65eb0a88-da15-42fa-a3ae-04fdcc620e12" index="4" custom="heights_v2:[25.3,10.7]">
+        <Coords points="134,988 134,1024 257,1024 377,1024 497,1026 617,1026 736,1027 856,1029 976,1030 1096,1032 1219,1030 1219,994 1095,996 976,994 857,993 737,991 617,990 497,990 377,988 257,988 134,988"/>
+        <Baseline points="134,1013 257,1013 377,1013 497,1015 617,1015 736,1017 856,1018 976,1020 1096,1021 1219,1020"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Na pořadu byla zpráva o činnosti rady v r. 1952. Účast 95 osob.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e4db87e6-8f38-451b-b480-495863cfeffb" index="5" custom="heights_v2:[26.1,10.9]">
+        <Coords points="1300,1065 1300,1049 1299,1028 1185,1032 1078,1034 970,1034 862,1031 753,1029 645,1028 536,1026 428,1024 316,1024 316,1061 427,1061 536,1063 644,1065 753,1066 861,1068 970,1071 1078,1071 1187,1069 1300,1065"/>
+        <Baseline points="316,1050 427,1050 536,1052 644,1054 753,1055 861,1057 970,1060 1078,1060 1186,1059 1300,1054"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Členky Výboru žen se zúčastnily ve dnech 3., 10., 17. a 24. února</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bdce4360-86d2-4982-942a-37c871e5f516" index="6" custom="heights_v2:[28.9,11.7]">
+        <Coords points="132,1062 131,1103 206,1104 279,1104 352,1103 424,1101 495,1101 568,1101 641,1104 714,1106 790,1107 791,1067 714,1065 642,1064 569,1060 495,1060 424,1060 351,1062 278,1064 206,1064 132,1062"/>
+        <Baseline points="131,1091 206,1093 278,1093 351,1091 424,1089 495,1089 568,1089 641,1093 714,1094 790,1096"/>
+        <TextEquiv conf="1.000">
+          <Unicode>školení v Přerově, vždy v úterý odpoledne.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5d8159df-b76a-4bfb-bb83-8f2a7a219756" index="7" custom="heights_v2:[29.8,12.7]">
+        <Coords points="1269,1152 1269,1152 1269,1151 1269,1110 1159,1111 1054,1110 949,1106 844,1105 737,1103 631,1103 527,1100 421,1098 313,1097 312,1139 421,1141 526,1143 631,1146 736,1146 843,1147 948,1149 1054,1152 1159,1154 1269,1152"/>
+        <Baseline points="312,1127 421,1128 526,1130 631,1133 736,1133 843,1135 949,1136 1054,1140 1159,1141 1269,1140"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Koncem měsíce února prováděly ženy agitaci u všech ze-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="78c503cb-dd6c-496a-8403-1c31aada8e95" index="8" custom="heights_v2:[27.3,11.4]">
+        <Coords points="129,1135 128,1174 207,1175 286,1175 366,1175 445,1177 522,1177 602,1180 681,1183 761,1183 843,1183 843,1145 761,1145 681,1145 603,1141 524,1138 445,1138 366,1137 286,1137 207,1137 129,1135"/>
+        <Baseline points="128,1162 207,1164 286,1164 366,1164 445,1165 523,1165 602,1169 681,1172 761,1172 843,1172"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mědělců za účelem zlepšení dodávky mléka.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="51b6d374-7efd-4833-b57e-5a96c0224e90" index="9" custom="heights_v2:[35.8,14.5]">
+        <Coords points="1285,1267 1285,1267 1285,1237 1285,1217 1152,1219 1025,1219 898,1215 769,1214 640,1211 513,1204 384,1202 256,1201 127,1199 125,1250 256,1251 383,1253 511,1254 639,1261 769,1264 896,1266 1025,1269 1153,1269 1285,1267"/>
+        <Baseline points="126,1235 256,1237 384,1238 511,1240 639,1246 769,1250 897,1251 1025,1254 1152,1254 1285,1253"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 27. února se konala plenární schůze MNV s ustavující schůzí Česko-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6a32bdf2-8b68-4829-99ca-a8e4fc8d04f6" index="10" custom="heights_v2:[26.0,10.9]">
+        <Coords points="126,1246 124,1283 175,1285 225,1285 273,1286 323,1288 372,1290 422,1291 470,1293 521,1296 575,1296 575,1259 521,1259 473,1256 423,1254 373,1253 325,1251 274,1249 226,1248 175,1248 126,1246"/>
+        <Baseline points="125,1272 175,1274 225,1274 274,1275 324,1277 372,1279 422,1280 471,1282 521,1285 575,1285"/>
+        <TextEquiv conf="1.000">
+          <Unicode>slovenského Červeného kříže.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="088dcfb3-12f7-4d14-be21-d873ab106c42" index="11" custom="heights_v2:[36.7,14.6]">
+        <Coords points="648,1339 1265,1343 1263,1292 1134,1295 1010,1291 882,1291 756,1291 631,1287 505,1281 378,1278 251,1276 125,1274 123,1326 251,1327 377,1329 503,1332 629,1339 648,1339"/>
+        <Baseline points="123,1311 251,1313 377,1314 503,1318 630,1324 756,1327 882,1327 1008,1327 1135,1332 1264,1329"/>
+        <TextEquiv conf="1.000">
+          <Unicode>O zdravotnické přípravě obyvatelstva přednášel MUDr. Vojtěch Dědek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9c541397-1820-448f-b9c6-5e5f55dffc5f" index="12" custom="heights_v2:[26.5,11.0]">
+        <Coords points="123,1347 123,1358 159,1359 173,1359 215,1359 259,1361 304,1363 348,1363 393,1363 404,1363 519,1363 531,1363 530,1325 481,1327 437,1327 394,1325 348,1325 304,1325 260,1323 216,1322 170,1322 124,1320 123,1347"/>
+        <Baseline points="123,1347 170,1348 215,1348 259,1350 304,1352 348,1352 393,1352 437,1353 482,1353 531,1352"/>
+        <TextEquiv conf="1.000">
+          <Unicode>z Přerova. Účast 106 osob.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="64973951-0edc-4809-aea0-01e6d6becfb5">
+      <Coords points="29,1387 -3,1387 -3,1432 59,1434 61,1388 29,1387"/>
+      <TextLine id="2ec05c36-8cde-4640-9703-161277e8ac5c" index="0" custom="heights_v2:[31.3,14.4]">
+        <Coords points="29,1387 -3,1387 -3,1432 8,1432 27,1432 59,1434 61,1388 48,1388 29,1387"/>
+        <Baseline points="-3,1418 28,1418 60,1420"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ženy</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="a5f0766c-e696-45ea-b813-0aec4e9abf3f">
+      <Coords points="115,1577 115,1807 952,1833 1031,1799 1276,1797 1300,1759 1302,1563 1242,1460 1239,1419 124,1390 114,1467 115,1577"/>
+      <TextLine id="fb46fdd8-3d9a-46c0-9e39-27325560bcce" index="0" custom="heights_v2:[29.9,13.0]">
+        <Coords points="1239,1419 1219,1418 1111,1417 988,1414 865,1411 763,1407 721,1406 619,1404 496,1401 373,1398 282,1394 124,1390 124,1392 123,1433 249,1436 372,1441 495,1444 618,1447 741,1449 864,1454 987,1457 1110,1460 1238,1462 1239,1419"/>
+        <Baseline points="123,1420 249,1423 372,1428 495,1431 618,1434 741,1436 864,1441 987,1444 1110,1447 1238,1449"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dnem 1. dubna byl odvolán ze zdravotních důvodů z funkce člena</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2c76a13e-3d00-425f-b73e-8a2677915a3e" index="1" custom="heights_v2:[28.0,11.8]">
+        <Coords points="120,1429 120,1469 245,1470 370,1477 493,1480 618,1483 741,1486 866,1490 989,1493 1113,1498 1241,1499 1242,1460 1114,1458 990,1453 867,1450 742,1447 619,1443 494,1440 371,1437 247,1430 120,1429"/>
+        <Baseline points="120,1457 246,1458 371,1465 494,1468 618,1471 741,1475 866,1478 989,1481 1114,1486 1241,1488"/>
+        <TextEquiv conf="1.000">
+          <Unicode>plena MNV Antonín Zaoral. Na jeho místo vyslal AUNF p. Danuši</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="15c325ab-ab4d-47a8-9423-19fdf05dc0bb" index="2" custom="heights_v2:[27.0,11.4]">
+        <Coords points="114,1467 114,1467 114,1505 189,1507 263,1509 338,1512 412,1515 487,1520 561,1523 636,1525 710,1525 788,1528 789,1490 712,1486 636,1486 562,1485 488,1482 415,1477 339,1473 265,1470 190,1469 114,1467"/>
+        <Baseline points="114,1494 189,1496 264,1497 338,1500 413,1504 487,1509 562,1512 636,1513 711,1513 788,1517"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Strnadlovou za Českosl. svaz mládeže.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9640d7d6-603c-4f2d-ad89-340d20416e4c" index="3" custom="heights_v2:[34.6,14.9]">
+        <Coords points="1301,1613 1302,1563 1174,1566 1051,1565 927,1561 802,1558 679,1557 555,1552 430,1547 306,1540 179,1536 177,1585 304,1590 428,1596 553,1601 678,1606 801,1608 925,1611 1050,1614 1176,1616 1301,1613"/>
+        <Baseline points="178,1570 304,1575 429,1581 554,1586 678,1591 801,1593 926,1596 1050,1599 1175,1601 1302,1598"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V červnu vstupuje MNV do druhé etapy soutěže národních výborů s těmito</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="386efbf4-02e9-4cd1-9985-525cf7b736d3" index="4" custom="heights_v2:[25.7,10.9]">
+        <Coords points="115,1577 115,1614 185,1618 257,1623 328,1626 398,1628 469,1631 540,1634 610,1636 681,1639 756,1641 756,1604 682,1603 611,1599 541,1598 471,1595 399,1591 329,1590 259,1586 188,1582 115,1577 115,1577"/>
+        <Baseline points="115,1603 186,1607 257,1612 329,1615 398,1617 469,1620 541,1623 610,1625 681,1628 756,1630"/>
+        <TextEquiv conf="1.000">
+          <Unicode>individuálními a kolektivními závazky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b3566298-fcdb-48ed-b5f1-43afb3eba75e" index="5" custom="heights_v2:[27.7,11.7]">
+        <Coords points="115,1641 115,1656 244,1659 372,1668 500,1669 628,1674 754,1677 882,1679 1010,1684 1138,1682 1269,1684 1269,1644 1138,1643 1010,1644 883,1639 755,1638 629,1635 501,1630 373,1628 246,1620 116,1617 115,1641"/>
+        <Baseline points="115,1645 244,1648 372,1656 500,1657 628,1662 754,1666 882,1667 1010,1672 1138,1670 1269,1672"/>
+        <TextEquiv conf="1.000">
+          <Unicode>rada MNV zajistí výkup mléka, brambor, masa a vajec do 30. června,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8d3c6e7a-e5ad-4b22-bae3-38a3801b2796" index="6" custom="heights_v2:[27.0,11.0]">
+        <Coords points="115,1653 115,1691 239,1696 362,1702 485,1706 608,1709 733,1712 856,1715 979,1719 1102,1722 1230,1720 1230,1682 1102,1684 980,1681 857,1677 734,1674 609,1671 486,1668 363,1664 241,1658 115,1653"/>
+        <Baseline points="115,1680 240,1685 363,1691 486,1695 609,1698 733,1701 856,1704 979,1708 1102,1711 1230,1709"/>
+        <TextEquiv conf="1.000">
+          <Unicode>výkup obilí do 25. srpna, slámy a luštěnin do 30. září, ozimé řepky do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3480a608-9dd3-4160-bdaf-6e4e583a9b9a" index="7" custom="heights_v2:[27.6,11.1]">
+        <Coords points="1300,1759 1300,1759 1299,1721 1165,1722 1035,1721 904,1716 773,1712 644,1708 512,1704 381,1703 251,1695 117,1691 116,1730 249,1733 380,1741 511,1743 642,1746 772,1751 903,1754 1034,1759 1166,1761 1300,1759"/>
+        <Baseline points="117,1719 249,1722 380,1730 511,1732 643,1735 772,1740 903,1743 1034,1748 1165,1750 1300,1748"/>
+        <TextEquiv conf="1.000">
+          <Unicode>15. srpna, olejnin do 30. srpna, cukrovky do 15. listopadu a chmele do 30. září.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f88909a0-9b74-4ba6-8d80-54507542168e" index="8" custom="heights_v2:[28.0,11.5]">
+        <Coords points="1054,1799 1269,1797 1276,1797 1275,1757 1150,1761 1031,1759 913,1753 792,1751 671,1748 551,1743 431,1741 313,1733 188,1730 187,1769 310,1773 430,1781 550,1782 670,1787 791,1790 911,1792 1031,1799 1054,1799"/>
+        <Baseline points="188,1758 311,1761 431,1769 550,1771 670,1776 792,1779 911,1781 1031,1787 1151,1789 1275,1785"/>
+        <TextEquiv conf="1.000">
+          <Unicode>JZD provede senoseč 80 ha a svoz sena do 20. června, po žních HTÚP,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="96243c19-9659-4281-8b20-25f855a49343" index="9" custom="heights_v2:[30.6,12.3]">
+        <Coords points="115,1793 115,1807 259,1811 302,1812 395,1815 448,1817 952,1833 952,1790 857,1789 765,1786 673,1782 580,1781 489,1776 396,1773 304,1769 211,1768 116,1764 115,1793"/>
+        <Baseline points="115,1795 210,1798 303,1800 395,1803 487,1806 579,1811 672,1813 764,1816 856,1819 952,1821"/>
+        <TextEquiv conf="1.000">
+          <Unicode>sklizeň brambor a cukrovky v agrotechnické lhůtě.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

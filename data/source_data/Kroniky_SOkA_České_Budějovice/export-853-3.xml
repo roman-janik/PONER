@@ -1,0 +1,162 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:17:11.530641+00:00</Created>
+    <LastChange>2023-02-07T20:17:11.530641+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-853-3" imageWidth="3428" imageHeight="2351">
+    <TextRegion id="r000">
+      <Coords points="1997,612 1990,697 1995,1182 2006,1331 2009,1899 2021,2144 2318,2134 2426,2043 3239,2010 3238,1931 3248,1845 3226,1615 3233,1537 3219,1233 3261,1154 3261,1079 3233,993 3226,683 3172,530 2239,525 2132,612 1997,612"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[57.9,22.1]">
+        <Coords points="2239,525 2346,525 2449,525 2552,525 2657,525 2752,530 2855,530 2957,530 3060,530 3172,530 3172,610 3060,610 2957,610 2855,610 2752,610 2653,605 2552,605 2449,605 2346,605 2239,605"/>
+        <Baseline points="2239,583 2346,583 2449,583 2552,583 2654,583 2752,588 2855,588 2957,588 3060,588 3172,588"/>
+        <TextEquiv conf="0.675">
+          <Unicode>Od roku 1918 po 20 let rozvíjel se český</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="1" custom="heights_v2:[54.8,22.1]">
+        <Coords points="1997,612 2132,612 2262,612 2386,612 2519,608 2645,608 2776,608 2901,608 3030,608 3170,603 3173,680 3033,684 2901,684 2776,684 2645,684 2519,684 2389,689 2262,689 2132,689 1997,689"/>
+        <Baseline points="1997,667 2132,667 2262,667 2388,667 2519,662 2645,662 2776,662 2901,662 3032,662 3172,658"/>
+        <TextEquiv conf="0.843">
+          <Unicode>národ ve své prvé republice v klidu a míru, věnuje</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="2" custom="heights_v2:[53.7,22.4]">
+        <Coords points="1990,697 2136,693 2272,693 2407,693 2540,693 2678,688 2813,688 2948,688 3082,688 3226,683 3228,759 3084,764 2948,764 2813,764 2678,764 2543,769 2407,769 2272,769 2136,769 1993,773"/>
+        <Baseline points="1992,751 2136,746 2272,746 2407,746 2542,746 2678,742 2813,742 2948,742 3083,742 3228,737"/>
+        <TextEquiv conf="0.769">
+          <Unicode>se denní práci a starostem o zabezpečení své budoucnosti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="3" custom="heights_v2:[54.0,22.2]">
+        <Coords points="1997,772 2136,772 2267,772 2396,772 2528,767 2659,767 2788,767 2920,762 3051,762 3191,762 3191,839 3051,839 2920,839 2790,843 2659,843 2528,843 2398,848 2267,848 2136,848 1997,848"/>
+        <Baseline points="1997,826 2136,826 2267,826 2398,826 2528,821 2659,821 2790,821 2920,816 3051,816 3191,816"/>
+        <TextEquiv conf="0.505">
+          <Unicode>Byl znám v celém světě jako národ vysoce kulturní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="4" custom="heights_v2:[54.2,22.5]">
+        <Coords points="1995,855 2136,851 2267,851 2402,851 2531,851 2670,846 2797,851 2934,846 3063,846 3208,841 3210,918 3065,923 2934,923 2800,927 2667,923 2534,927 2402,928 2267,928 2136,928 1997,932"/>
+        <Baseline points="1997,910 2136,905 2267,905 2402,905 2533,905 2668,900 2799,905 2934,900 3065,900 3209,896"/>
+        <TextEquiv conf="0.873">
+          <Unicode>a soběstačný. Československý průmysl byl chválen a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="5" custom="heights_v2:[54.4,22.6]">
+        <Coords points="1995,939 2141,935 2275,935 2412,930 2547,930 2680,930 2816,925 2953,921 3086,921 3231,916 3233,993 3089,998 2953,998 2818,1002 2683,1007 2547,1007 2412,1007 2277,1012 2141,1012 1997,1016"/>
+        <Baseline points="1997,994 2141,989 2276,989 2412,984 2547,984 2682,984 2818,980 2953,975 3088,975 3233,970"/>
+        <TextEquiv conf="0.932">
+          <Unicode>jeho výrobky byly vyhledávány cizinou. Vyspělé země-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="6" custom="heights_v2:[53.6,21.4]">
+        <Coords points="1995,1019 2139,1015 2276,1010 2412,1010 2545,1010 2680,1005 2818,1001 2951,1001 3088,996 3233,996 3233,1071 3088,1071 2954,1076 2818,1076 2683,1080 2548,1085 2412,1085 2276,1085 2142,1090 1997,1094"/>
+        <Baseline points="1997,1073 2141,1068 2276,1064 2412,1064 2547,1064 2682,1059 2818,1054 2953,1054 3088,1050 3233,1050"/>
+        <TextEquiv conf="0.783">
+          <Unicode>dělství zajišťovalo výživu obyvatelstva. Jména obou pro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l009" index="7" custom="heights_v2:[53.8,20.1]">
+        <Coords points="1995,1103 2139,1098 2281,1094 2421,1094 2555,1094 2696,1089 2834,1089 2970,1084 3111,1080 3261,1080 3261,1154 3111,1154 2972,1158 2837,1163 2696,1163 2557,1168 2421,1168 2281,1168 2142,1172 1997,1177"/>
+        <Baseline points="1997,1157 2141,1152 2281,1148 2421,1148 2556,1148 2696,1143 2836,1143 2971,1138 3111,1134 3261,1134"/>
+        <TextEquiv conf="0.546">
+          <Unicode>ních presidentů Dr. T. G. Masaryka a Dr. E. Beneše získá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="8" custom="heights_v2:[53.2,19.7]">
+        <Coords points="1997,1183 2135,1178 2272,1174 2401,1174 2538,1169 2666,1169 2804,1164 2932,1164 3068,1160 3212,1155 3215,1228 3070,1232 2935,1237 2804,1237 2669,1242 2538,1242 2403,1246 2272,1246 2137,1251 1999,1256"/>
+        <Baseline points="1999,1236 2136,1232 2272,1227 2402,1227 2538,1222 2668,1222 2804,1218 2934,1218 3069,1213 3214,1208"/>
+        <TextEquiv conf="0.847">
+          <Unicode>vala národu úctu všech předních světových politiků.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l011" index="9" custom="heights_v2:[53.0,20.1]">
+        <Coords points="2006,1258 2144,1258 2276,1253 2410,1253 2540,1249 2678,1244 2806,1244 2942,1239 3074,1234 3219,1234 3219,1308 3074,1308 2944,1312 2809,1317 2678,1317 2543,1322 2412,1326 2276,1326 2147,1331 2006,1331"/>
+        <Baseline points="2006,1311 2146,1311 2276,1306 2412,1306 2542,1301 2678,1297 2808,1297 2943,1292 3074,1287 3219,1287"/>
+        <TextEquiv conf="0.726">
+          <Unicode>Branná moc a mezinárodní smlouvy měly zajistiti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="10" custom="heights_v2:[54.6,20.8]">
+        <Coords points="2006,1340 2082,1340 2160,1335 2231,1336 2304,1331 2376,1331 2454,1326 2520,1326 2598,1321 2682,1321 2682,1397 2598,1397 2525,1402 2454,1402 2380,1406 2304,1406 2236,1411 2160,1411 2086,1416 2006,1416"/>
+        <Baseline points="2006,1395 2085,1395 2160,1390 2234,1390 2304,1385 2379,1385 2454,1381 2524,1381 2598,1376 2682,1376"/>
+        <TextEquiv conf="0.736">
+          <Unicode>nedotknutelnost jeho hranic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l013" index="11" custom="heights_v2:[54.1,21.4]">
+        <Coords points="2230,1411 2339,1411 2449,1406 2549,1406 2659,1401 2759,1401 2869,1397 2969,1397 3077,1392 3193,1387 3196,1463 3080,1467 2972,1472 2869,1472 2762,1477 2659,1477 2553,1481 2449,1481 2343,1486 2230,1486"/>
+        <Baseline points="2230,1465 2342,1465 2449,1460 2552,1460 2659,1455 2762,1455 2869,1451 2971,1451 3079,1446 3195,1441"/>
+        <TextEquiv conf="0.988">
+          <Unicode>Bohužel, mnichovská konference vyrazila</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="12" custom="heights_v2:[54.7,21.7]">
+        <Coords points="2009,1499 2150,1494 2284,1494 2421,1489 2550,1489 2685,1485 2818,1480 2951,1471 3086,1466 3231,1461 3233,1538 3089,1542 2954,1547 2824,1556 2688,1561 2552,1566 2421,1566 2286,1570 2150,1570 2011,1575"/>
+        <Baseline points="2011,1553 2150,1549 2286,1549 2421,1544 2552,1544 2687,1539 2822,1535 2953,1525 3088,1521 3232,1516"/>
+        <TextEquiv conf="0.754">
+          <Unicode>nám zbraň z rukou a vydala nás na pospas odvě-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="13" custom="heights_v2:[53.7,21.4]">
+        <Coords points="2007,1579 2071,1579 2132,1579 2188,1579 2249,1574 2314,1570 2384,1570 2384,1645 2314,1645 2255,1649 2194,1654 2132,1654 2071,1654 2007,1654"/>
+        <Baseline points="2007,1633 2071,1633 2132,1633 2192,1633 2253,1628 2314,1623 2384,1623"/>
+        <TextEquiv conf="0.983">
+          <Unicode>kému nepříteli.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l016" index="14" custom="heights_v2:[54.6,22.3]">
+        <Coords points="2220,1648 2335,1648 2449,1643 2554,1643 2666,1639 2773,1634 2885,1629 2993,1625 3105,1620 3226,1615 3229,1692 3108,1697 2996,1702 2888,1706 2776,1711 2669,1716 2557,1720 2449,1720 2338,1725 2220,1725"/>
+        <Baseline points="2220,1703 2337,1703 2449,1698 2556,1698 2668,1693 2776,1689 2888,1684 2995,1679 3107,1675 3228,1670"/>
+        <TextEquiv conf="0.541">
+          <Unicode>Kdo dovede vylíčit naši bolest, když z roz-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="15" custom="heights_v2:[53.8,21.7]">
+        <Coords points="2011,1737 2149,1738 2284,1733 2419,1728 2552,1724 2685,1714 2820,1710 2956,1705 3091,1700 3236,1696 3238,1771 3093,1776 2958,1780 2823,1785 2688,1790 2558,1799 2422,1804 2286,1808 2151,1813 2011,1813"/>
+        <Baseline points="2011,1791 2150,1791 2286,1787 2421,1782 2556,1777 2687,1768 2822,1763 2957,1759 3093,1754 3237,1749"/>
+        <TextEquiv conf="0.815">
+          <Unicode>hodnutí násilného diktátu museli jsme se rozloučit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="16" custom="heights_v2:[53.5,21.6]">
+        <Coords points="2009,1822 2151,1817 2289,1808 2424,1803 2559,1798 2694,1794 2830,1789 2965,1784 3099,1780 3243,1771 3247,1846 3103,1855 2968,1860 2832,1864 2697,1869 2562,1874 2426,1878 2291,1883 2157,1892 2011,1897"/>
+        <Baseline points="2011,1875 2155,1871 2290,1861 2426,1857 2561,1852 2696,1847 2832,1843 2967,1838 3102,1833 3246,1824"/>
+        <TextEquiv conf="0.510">
+          <Unicode>s rozsáhlým a bohatým územím, odvolati odtud naši</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="17" custom="heights_v2:[55.5,22.7]">
+        <Coords points="2010,1899 2149,1894 2284,1890 2419,1885 2552,1881 2685,1871 2820,1866 2956,1862 3091,1857 3236,1852 3238,1931 3093,1935 2958,1940 2823,1945 2688,1949 2558,1959 2422,1963 2287,1968 2151,1973 2012,1977"/>
+        <Baseline points="2012,1955 2150,1950 2286,1945 2421,1941 2556,1936 2687,1927 2822,1922 2957,1917 3093,1913 3237,1908"/>
+        <TextEquiv conf="0.708">
+          <Unicode>skvělou armádu a vystěhovati mnoho českého obyva-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="18" custom="heights_v2:[56.4,23.2]">
+        <Coords points="2018,1982 2158,1978 2291,1973 2424,1964 2559,1959 2690,1954 2825,1950 2956,1945 3089,1940 3234,1931 3239,2010 3094,2020 2958,2024 2828,2029 2692,2034 2562,2038 2426,2043 2297,2052 2161,2057 2021,2062"/>
+        <Baseline points="2020,2039 2160,2034 2295,2029 2426,2020 2561,2015 2692,2011 2827,2006 2957,2001 3093,1997 3237,1987"/>
+        <TextEquiv conf="0.719">
+          <Unicode>telstva. Avšak kalich hořkosti nebyl dovršen touto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l021" index="19" custom="heights_v2:[57.6,20.8]">
+        <Coords points="2016,2065 2085,2060 2141,2060 2192,2060 2253,2056 2318,2056 2318,2134 2253,2134 2199,2139 2141,2139 2085,2139 2022,2143"/>
+        <Baseline points="2020,2122 2085,2118 2141,2118 2197,2118 2253,2113 2318,2113"/>
+        <TextEquiv conf="0.972">
+          <Unicode>skutečností.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="2041,224 2031,376 2370,381 2370,229 2041,224"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[110.6,40.0]">
+        <Coords points="2041,225 2104,230 2169,230 2230,230 2295,230 2370,230 2370,381 2295,381 2230,381 2169,381 2104,381 2031,376"/>
+        <Baseline points="2034,336 2104,341 2169,341 2230,341 2295,341 2370,341"/>
+        <TextEquiv conf="0.985">
+          <Unicode>Úvodem:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

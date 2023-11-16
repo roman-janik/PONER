@@ -1,0 +1,260 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:23:10.242996</Created>
+    <LastChange>2023-03-26T21:23:10.242996</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_107.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="4d0cfce5-af12-4783-ba4c-1ba304798ac8">
+      <Coords points="1812,60 1755,60 1755,121 1878,117 1874,56 1812,60"/>
+      <TextLine id="b1bd159e-0e07-4bf7-af60-9951a2853721" index="0" custom="heights_v2:[46.9,14.4]">
+        <Coords points="1812,60 1755,60 1755,121 1878,117 1875,74 1874,56 1837,58 1812,60"/>
+        <Baseline points="1755,107 1814,107 1877,103"/>
+        <TextEquiv conf="0.991">
+          <Unicode>107</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="303078bf-a746-48ae-9062-6aef77e9d5fe">
+      <Coords points="224,2026 221,2180 232,2625 1443,2625 1428,2338 1454,2184 1454,2120 1446,2046 1424,1953 1424,1888 1479,1803 1492,1514 1531,1358 1531,1292 1465,1130 1465,997 1443,928 1428,639 1428,575 1475,495 1487,207 1065,204 977,145 821,141 651,204 231,207 224,853 247,1303 224,1455 232,1810 224,2026"/>
+      <TextLine id="46a69f5f-9029-4853-a75e-1694706e8727" index="0" custom="heights_v2:[43.2,18.4]">
+        <Coords points="977,145 977,145 821,141 821,141 821,202 897,202 974,206 977,145"/>
+        <Baseline points="821,184 898,184 975,188"/>
+        <TextEquiv conf="0.520">
+          <Unicode>192</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c172e2e0-aefd-4b3b-b90c-5e5d230a2751" index="1" custom="heights_v2:[42.9,20.0]">
+        <Coords points="1484,270 1487,212 1487,207 1340,207 1203,207 1080,204 1065,204 1065,204 927,204 788,204 652,204 651,204 252,207 231,207 231,214 232,270 375,267 512,267 651,267 788,267 927,267 1063,267 1203,270 1340,270 1484,270"/>
+        <Baseline points="232,250 375,247 512,247 651,247 788,247 927,247 1064,247 1203,250 1340,250 1485,250"/>
+        <TextEquiv conf="0.999">
+          <Unicode>dostal se na cestu příliš širokou, takže vyšla z toho řada</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0971bfea-80f4-420b-8f81-5667b31e9d99" index="2" custom="heights_v2:[42.3,20.1]">
+        <Coords points="236,274 236,337 368,337 497,337 625,337 754,340 879,340 1008,344 1137,344 1265,348 1402,351 1403,289 1267,285 1138,282 1008,282 881,278 754,278 627,274 497,274 368,274 236,274"/>
+        <Baseline points="236,316 368,316 497,316 626,316 754,320 880,320 1008,324 1137,324 1266,328 1402,331"/>
+        <TextEquiv conf="0.994">
+          <Unicode>obrazů, dějově roztříštěných a omezených téměř zcela na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f1b83523-3ac5-42c5-bb20-3e8898c1b507" index="3" custom="heights_v2:[44.4,21.3]">
+        <Coords points="232,342 232,408 305,408 375,408 445,408 514,408 585,411 655,411 724,411 795,415 872,415 872,349 795,349 727,346 655,346 585,346 518,342 445,342 375,342 305,342 232,342"/>
+        <Baseline points="232,386 305,386 375,386 445,386 515,386 585,390 655,390 725,390 795,394 872,394"/>
+        <TextEquiv conf="0.996">
+          <Unicode>sétorické výklady a rozklady.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="67a71ade-9a62-4270-ad58-a09e29aa148f" index="4" custom="heights_v2:[43.8,20.8]">
+        <Coords points="1475,495 1475,495 1475,483 1477,431 1356,427 1244,427 1135,424 1023,424 913,424 804,420 692,420 581,420 465,416 463,481 581,484 692,484 802,484 913,488 1023,488 1133,488 1244,492 1354,492 1475,495"/>
+        <Baseline points="464,460 581,464 692,464 802,464 913,467 1023,467 1133,467 1244,471 1354,471 1476,475"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Družstvo pro vystavění pomníku Blahoslavova</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8a67cd54-cd1d-4ff0-82ea-9c44d8a6c422" index="5" custom="heights_v2:[43.3,21.3]">
+        <Coords points="228,494 227,559 361,559 493,559 626,559 758,559 891,559 1022,559 1156,562 1287,562 1427,566 1429,501 1289,498 1156,498 1024,494 891,494 758,494 626,494 493,494 361,494 228,494"/>
+        <Baseline points="227,537 361,537 493,537 626,537 758,537 891,537 1023,537 1156,541 1288,541 1428,545"/>
+        <TextEquiv conf="0.996">
+          <Unicode>vydalo k oslavám Blahoslavovým Sborník Blahoslavův,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="59413faf-91fb-466c-8452-d783b1f6974e" index="6" custom="heights_v2:[43.2,21.1]">
+        <Coords points="228,568 228,632 365,632 496,628 629,632 762,632 890,632 1023,636 1155,636 1288,639 1428,639 1428,575 1288,575 1157,571 1023,571 892,568 762,568 629,568 498,564 363,568 228,568"/>
+        <Baseline points="228,611 364,611 497,607 629,611 762,611 891,611 1023,615 1156,615 1288,618 1428,618"/>
+        <TextEquiv conf="0.997">
+          <Unicode>velkého formátu, pěkně vypravený, s čitelným písmem;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6e638b8f-e7dc-4ed1-a5e0-a1b3962040b5" index="7" custom="heights_v2:[44.4,21.3]">
+        <Coords points="226,636 226,702 357,702 481,702 611,706 736,706 861,706 990,709 1115,709 1240,709 1376,713 1378,647 1241,644 1115,644 990,644 862,640 736,640 611,640 483,636 357,636 226,636"/>
+        <Baseline points="226,681 357,681 482,681 611,685 736,685 861,685 990,688 1115,688 1240,688 1376,692"/>
+        <TextEquiv conf="0.998">
+          <Unicode>doplněn je obrazy a fakimily rukopisu Blahoslavova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d59f7e89-04a1-427f-b64d-47718721186c" index="8" custom="heights_v2:[44.7,21.2]">
+        <Coords points="1435,774 1432,721 1319,717 1207,717 1100,717 991,713 883,713 774,710 666,710 556,710 442,710 442,776 556,776 666,776 772,776 883,779 989,779 1100,783 1207,783 1317,783 1435,787 1435,774"/>
+        <Baseline points="442,754 556,754 666,754 773,754 883,758 990,758 1100,762 1207,762 1318,762 1435,765"/>
+        <TextEquiv conf="0.992">
+          <Unicode>Slavnostní číslo Obzoru, r. XIV. č. 114 obsahova</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="11de9cb1-a976-4c50-84b6-cfd18f1e4622" index="9" custom="heights_v2:[44.1,21.7]">
+        <Coords points="225,788 224,808 224,853 361,853 494,853 621,850 754,853 883,853 1016,853 1145,853 1276,853 1416,857 1418,791 1278,788 1145,788 1016,788 883,788 754,788 623,784 492,788 361,788 225,788"/>
+        <Baseline points="224,832 361,832 493,832 622,828 754,832 883,832 1016,832 1145,832 1277,832 1417,835"/>
+        <TextEquiv conf="0.976">
+          <Unicode>lo články: Dr. Jan Herben: „Blahoslav, největší básník</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6dd64b3-ded4-4b5c-ac1c-fcdf117a813b" index="10" custom="heights_v2:[44.1,21.6]">
+        <Coords points="228,865 228,931 361,931 490,927 618,923 747,923 876,923 1005,923 1133,923 1262,923 1398,923 1398,858 1262,858 1133,858 1005,858 876,858 747,858 618,858 488,861 359,865 228,865"/>
+        <Baseline points="228,909 361,909 489,905 618,902 747,902 876,902 1005,902 1133,902 1262,902 1398,902"/>
+        <TextEquiv conf="0.989">
+          <Unicode>náš 16. století. Dr. Jos. Staněk: „Blahoslavovy znalosti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="463a1512-ef8e-40e9-b012-6b217bf450c7" index="11" custom="heights_v2:[43.9,22.3]">
+        <Coords points="228,935 232,1001 368,1001 501,1001 634,1001 765,998 902,998 1035,997 1167,994 1299,994 1443,994 1443,928 1299,928 1167,928 1033,931 902,931 765,931 632,935 501,935 368,935 228,935"/>
+        <Baseline points="230,979 368,979 501,979 633,979 765,975 902,975 1034,975 1167,972 1299,972 1443,972"/>
+        <TextEquiv conf="0.987">
+          <Unicode>o jazycích slovanských a nářečích. Rudolf Vanýsek:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a0910c34-660e-4935-a18d-5d805a99bc44" index="12" custom="heights_v2:[44.4,21.5]">
+        <Coords points="234,1012 236,1078 375,1074 512,1074 648,1070 781,1070 916,1067 1053,1067 1186,1067 1321,1063 1465,1063 1465,997 1321,997 1184,1001 1053,1001 916,1001 779,1004 648,1004 510,1008 375,1008 234,1012"/>
+        <Baseline points="236,1056 375,1053 512,1053 648,1049 780,1049 916,1045 1053,1045 1185,1045 1321,1041 1465,1041"/>
+        <TextEquiv conf="0.987">
+          <Unicode>„Několik časových poznámek“. Pod čarou: Sylva Likešová.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="89ef12ef-2943-4d07-9806-50926b0c525e" index="13" custom="heights_v2:[45.2,22.4]">
+        <Coords points="1465,1130 1465,1130 1465,1119 1464,1063 1320,1066 1184,1070 1053,1070 915,1074 783,1077 648,1077 514,1081 378,1085 237,1092 240,1160 380,1152 516,1149 648,1145 784,1145 917,1141 1053,1138 1186,1138 1322,1134 1465,1130"/>
+        <Baseline points="239,1137 379,1130 515,1126 648,1122 784,1122 916,1119 1053,1115 1185,1115 1321,1111 1465,1108"/>
+        <TextEquiv conf="0.982">
+          <Unicode>K Bílkovu dílu. J. Kabelík. Jak se oslavovalo povědomí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="841c114d-e27d-4b5d-9f8b-bb135032c4e1" index="14" custom="heights_v2:[44.2,22.0]">
+        <Coords points="249,1159 251,1225 386,1222 516,1222 648,1218 777,1218 910,1218 1038,1214 1171,1211 1300,1207 1440,1203 1438,1137 1298,1141 1169,1144 1037,1148 908,1152 777,1152 648,1152 514,1156 386,1156 249,1159"/>
+        <Baseline points="250,1203 386,1200 515,1200 648,1196 777,1196 909,1196 1038,1192 1170,1189 1299,1185 1439,1181"/>
+        <TextEquiv conf="0.988">
+          <Unicode>o bratrské minulosti Přerova. (Trocha prostých vzpo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="454def24-3d44-40c5-87c0-39bd78fd3bc3" index="15" custom="heights_v2:[44.7,22.6]">
+        <Coords points="245,1236 247,1303 380,1300 509,1296 637,1292 765,1289 895,1289 1023,1285 1153,1285 1281,1281 1417,1278 1416,1210 1279,1214 1151,1218 1023,1218 893,1221 765,1221 635,1225 507,1229 378,1232 245,1236"/>
+        <Baseline points="247,1281 379,1277 508,1273 637,1270 765,1266 894,1266 1023,1262 1152,1262 1281,1259 1417,1255"/>
+        <TextEquiv conf="0.996">
+          <Unicode>mínek k jubileu Blahoslavovu od J. Kabelíka:/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d46ed412-3181-4cda-b44f-311d084b2917" index="16" custom="heights_v2:[44.0,21.9]">
+        <Coords points="531,1299 529,1365 645,1369 754,1365 865,1365 976,1365 1082,1361 1193,1361 1303,1358 1413,1358 1531,1358 1531,1292 1413,1292 1303,1292 1191,1296 1082,1296 974,1299 865,1299 754,1299 643,1303 531,1299"/>
+        <Baseline points="530,1343 644,1347 754,1343 865,1343 975,1343 1082,1340 1192,1340 1303,1336 1413,1336 1531,1336"/>
+        <TextEquiv conf="0.999">
+          <Unicode>V neděli se město naplnilo slavnostním 20.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="56dc957d-b220-4fb9-9a3d-f8bb88779e28" index="17" custom="heights_v2:[43.9,22.2]">
+        <Coords points="238,1384 240,1450 380,1446 516,1443 652,1439 784,1435 920,1432 1056,1432 1189,1432 1325,1432 1469,1428 1467,1362 1324,1366 1189,1366 1056,1366 920,1366 783,1369 650,1373 514,1377 378,1380 238,1384"/>
+        <Baseline points="239,1428 379,1424 515,1421 651,1417 784,1413 920,1410 1056,1410 1189,1410 1325,1410 1468,1406"/>
+        <TextEquiv conf="0.999">
+          <Unicode>ruchem; proudy lidstva spěly na Horní náměstí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="53941794-99db-4c18-a3d4-1f81d94b27f6" index="18" custom="heights_v2:[43.3,21.4]">
+        <Coords points="224,1477 225,1519 361,1519 494,1516 626,1512 759,1512 887,1508 1020,1508 1152,1504 1284,1504 1424,1504 1424,1440 1284,1440 1152,1440 1018,1444 887,1444 757,1447 626,1447 492,1451 359,1455 224,1455 224,1477"/>
+        <Baseline points="225,1498 361,1498 493,1494 626,1490 758,1490 887,1487 1019,1487 1152,1483 1284,1483 1424,1483"/>
+        <TextEquiv conf="0.997">
+          <Unicode>k Blahoslavovu pomníku. Studenti a studentky z</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="52507476-eed1-45d4-850a-5f2d443bae99" index="19" custom="heights_v2:[42.6,21.7]">
+        <Coords points="1489,1578 1491,1537 1492,1514 1344,1510 1203,1510 1066,1514 927,1514 786,1518 651,1518 512,1518 371,1521 228,1521 228,1586 372,1586 512,1582 651,1582 788,1582 927,1578 1068,1578 1203,1575 1343,1575 1489,1578"/>
+        <Baseline points="228,1564 372,1564 512,1560 651,1560 788,1560 927,1557 1067,1557 1203,1553 1343,1553 1490,1557"/>
+        <TextEquiv conf="0.999">
+          <Unicode>gymnasia a pedagogia prodávali plakety, na nichž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bc43b290-0f89-4973-9f54-29d13991fac1" index="20" custom="heights_v2:[42.9,21.6]">
+        <Coords points="228,1639 229,1659 364,1663 494,1663 626,1659 755,1656 887,1652 1016,1652 1149,1648 1277,1645 1417,1645 1417,1580 1277,1580 1147,1584 1015,1587 887,1587 753,1591 624,1595 492,1598 364,1598 229,1595 228,1639"/>
+        <Baseline points="228,1638 364,1641 493,1641 626,1638 754,1634 887,1630 1016,1630 1148,1627 1277,1623 1417,1623"/>
+        <TextEquiv conf="0.996">
+          <Unicode>je vymodelována Blahoslavova postava, nesoucí</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d47c1b2b-f295-4134-88bf-374d5bc425e0" index="21" custom="heights_v2:[43.4,22.1]">
+        <Coords points="229,1672 230,1737 369,1737 501,1733 637,1730 770,1726 905,1722 1038,1722 1174,1719 1306,1719 1449,1722 1451,1657 1308,1653 1174,1653 1037,1657 905,1657 768,1661 635,1664 499,1668 367,1672 229,1672"/>
+        <Baseline points="230,1715 368,1715 501,1711 637,1708 769,1704 905,1700 1038,1700 1174,1697 1306,1697 1450,1700"/>
+        <TextEquiv conf="0.998">
+          <Unicode>bibli, a pohlednice zhotovené podle Bílkovy kresby,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f92968e5-68f2-4321-9fc1-e1783511baf6" index="22" custom="heights_v2:[43.3,21.5]">
+        <Coords points="231,1745 232,1810 375,1806 512,1806 648,1806 784,1803 924,1803 1060,1799 1196,1799 1332,1799 1479,1803 1481,1738 1333,1734 1196,1734 1060,1734 923,1738 784,1738 647,1742 512,1742 375,1742 231,1745"/>
+        <Baseline points="232,1789 375,1785 512,1785 648,1785 784,1781 924,1781 1060,1778 1196,1778 1332,1778 1479,1781"/>
+        <TextEquiv conf="0.998">
+          <Unicode>vyložené na výstavě v aule reálného gymnasia. Bylo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="58f8a982-583e-4a78-ae9a-51cf35648930" index="23" custom="heights_v2:[43.5,22.2]">
+        <Coords points="236,1815 236,1881 368,1881 497,1881 622,1877 751,1877 876,1877 1005,1877 1130,1877 1259,1873 1395,1873 1395,1808 1259,1808 1129,1811 1005,1811 876,1811 751,1811 622,1811 496,1815 368,1815 236,1815"/>
+        <Baseline points="236,1858 368,1858 497,1858 622,1855 751,1855 876,1855 1005,1855 1130,1855 1259,1851 1395,1851"/>
+        <TextEquiv conf="0.998">
+          <Unicode>prý prodáno na 2000 plaket a tolikéž pohlednic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f5720a90-6cf6-4d33-a029-c27f3b3ddc03" index="24" custom="heights_v2:[44.0,21.1]">
+        <Coords points="1424,1953 1424,1953 1424,1888 1284,1888 1152,1888 1022,1892 891,1892 758,1892 629,1892 497,1892 366,1888 229,1888 228,1913 228,1953 364,1953 497,1957 629,1957 758,1957 891,1957 1024,1957 1152,1953 1284,1953 1424,1953"/>
+        <Baseline points="228,1932 364,1932 497,1936 629,1936 758,1936 891,1936 1023,1936 1152,1932 1284,1932 1424,1932"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Horní náměstí bylo vyzdobeno zelení a květy a na všech</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bd06d9cc-b3de-48e6-9203-6d5a52a8fe64" index="25" custom="heights_v2:[44.0,20.6]">
+        <Coords points="224,2026 224,2026 356,2030 482,2034 611,2034 736,2034 865,2034 991,2034 1119,2030 1243,2030 1380,2034 1381,1969 1245,1965 1119,1965 989,1969 865,1969 736,1969 611,1969 482,1969 358,1965 226,1962 224,2026"/>
+        <Baseline points="225,2006 357,2009 482,2013 611,2013 736,2013 865,2013 990,2013 1119,2009 1244,2009 1380,2013"/>
+        <TextEquiv conf="0.998">
+          <Unicode>domech vyvěšeny prapory. V 10 h. zazněly fanfáry. Pak s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3de7f08b-33d3-4797-9a4f-621b7f503acf" index="26" custom="heights_v2:[43.9,20.2]">
+        <Coords points="1446,2049 1446,2046 1303,2046 1172,2043 1038,2043 902,2043 768,2046 637,2046 501,2046 368,2046 228,2046 228,2110 368,2110 501,2110 637,2110 770,2110 902,2107 1038,2107 1170,2107 1303,2110 1446,2110 1446,2049"/>
+        <Baseline points="228,2090 368,2090 501,2090 637,2090 769,2090 902,2087 1038,2087 1170,2087 1303,2090 1446,2090"/>
+        <TextEquiv conf="0.994">
+          <Unicode>mostu do zámku zazněla Blahoslavova píseň „Vzdejmež</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e36fa2cc-1457-48d7-8d6d-c60e898d065e" index="27" custom="heights_v2:[44.3,19.8]">
+        <Coords points="222,2116 221,2180 221,2180 361,2180 497,2180 633,2180 769,2180 902,2180 1037,2180 1174,2184 1310,2184 1454,2184 1454,2120 1310,2120 1174,2120 1039,2116 902,2116 769,2116 633,2116 497,2116 361,2116 222,2116"/>
+        <Baseline points="221,2160 361,2160 497,2160 633,2160 769,2160 902,2160 1038,2160 1174,2164 1310,2164 1454,2164"/>
+        <TextEquiv conf="0.994">
+          <Unicode>chválu“. Po ní řečnil dr. R. Urbánek, ale velmi nesrozu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="369f1d95-f0ea-4fa6-aa94-f0240c243e48" index="28" custom="heights_v2:[43.9,20.5]">
+        <Coords points="224,2197 224,2262 357,2262 486,2262 615,2258 744,2258 869,2254 997,2254 1126,2254 1255,2254 1391,2254 1391,2190 1255,2190 1126,2190 997,2190 869,2190 742,2194 615,2194 485,2197 357,2197 224,2197"/>
+        <Baseline points="224,2241 357,2241 486,2241 615,2238 743,2238 869,2234 997,2234 1126,2234 1255,2234 1391,2234"/>
+        <TextEquiv conf="0.999">
+          <Unicode>mitelně a tiše, takže se obecenstvo, ač se namáhalo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e296f0e9-fdf9-457b-9576-ade65d55bd73" index="29" custom="heights_v2:[43.3,19.8]">
+        <Coords points="224,2321 225,2335 358,2335 483,2331 611,2327 736,2327 865,2327 990,2327 1119,2327 1244,2327 1380,2327 1380,2264 1244,2264 1119,2264 990,2264 865,2264 736,2264 611,2264 481,2268 356,2272 224,2271 224,2321"/>
+        <Baseline points="224,2315 357,2315 482,2311 611,2307 736,2307 865,2307 990,2307 1119,2307 1244,2307 1380,2307"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zachytiti několik souvislých slov, stávalo se neklidné</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6b371db-b72f-4c04-8a16-a18c395b5d68" index="30" custom="heights_v2:[43.1,20.3]">
+        <Coords points="227,2349 229,2412 365,2409 497,2405 629,2401 762,2401 891,2401 1023,2401 1156,2401 1288,2401 1428,2401 1428,2338 1288,2338 1156,2338 1023,2338 891,2338 762,2338 629,2338 496,2342 363,2345 227,2349"/>
+        <Baseline points="228,2392 364,2388 497,2385 629,2381 762,2381 891,2381 1023,2381 1156,2381 1288,2381 1428,2381"/>
+        <TextEquiv conf="0.995">
+          <Unicode>a znenáhla opouštělo Horní náměstí. Po něm promluvil</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="734b7172-897a-4603-84cb-a9607ca02d19" index="31" custom="heights_v2:[43.2,19.7]">
+        <Coords points="236,2415 236,2478 369,2478 493,2474 619,2478 743,2474 869,2474 994,2474 1119,2474 1243,2474 1380,2478 1381,2415 1245,2412 1119,2411 994,2411 869,2411 743,2411 617,2415 494,2412 367,2415 236,2415"/>
+        <Baseline points="236,2458 368,2458 493,2455 618,2458 743,2455 869,2455 994,2455 1119,2455 1244,2455 1380,2458"/>
+        <TextEquiv conf="0.995">
+          <Unicode>prof. dr. Bořecký, zopakovan a populárně vylíčiv a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ce55de93-604e-4a92-aa87-fee38d24f84b" index="32" custom="heights_v2:[44.2,19.9]">
+        <Coords points="232,2484 232,2548 364,2548 490,2552 615,2548 740,2548 869,2548 994,2548 1119,2548 1244,2548 1380,2548 1380,2484 1244,2484 1119,2484 994,2484 869,2484 740,2484 615,2484 488,2488 366,2484 232,2484"/>
+        <Baseline points="232,2528 364,2528 489,2532 615,2528 740,2528 869,2528 994,2528 1119,2528 1244,2528 1380,2528"/>
+        <TextEquiv conf="0.999">
+          <Unicode>vysvětliv význam Blahoslavův, Bílkův pomník,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4ff0e2e0-f12a-4f9f-b56e-dbc2b486c8e2" index="33" custom="heights_v2:[44.4,19.7]">
+        <Coords points="232,2619 232,2625 646,2625 769,2622 902,2622 1034,2622 1157,2625 1443,2625 1443,2618 1440,2561 1299,2561 1167,2561 1035,2557 902,2557 769,2557 635,2561 504,2561 372,2561 232,2561 232,2619"/>
+        <Baseline points="232,2606 372,2606 504,2606 637,2606 769,2602 902,2602 1034,2602 1167,2606 1299,2606 1442,2606"/>
+        <TextEquiv conf="1.000">
+          <Unicode>svou jasnou a zmocněnou řečí vyvrcholil slavnosti a</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,165 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:22:13.758888</Created>
+    <LastChange>2023-01-19T00:22:13.758888</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Loucka_inv_c_8_047.jpg" imageWidth="2550" imageHeight="3230">
+    <TextRegion id="a0bf7aea-0352-46af-8b52-a8bd014b19ee">
+      <Coords points="84,641 74,695 77,761 1092,721 1700,705 1912,709 1961,601 1980,509 1979,441 1630,453 957,453 782,461 574,428 436,424 295,575 84,575 84,641"/>
+      <TextLine id="4be3fc2d-ea11-484e-ab95-1d40d080934a" index="0" custom="heights_v2:[36.0,16.6]">
+        <Coords points="572,428 436,424 436,424 436,477 503,477 571,481 574,428 572,428"/>
+        <Baseline points="436,460 504,460 572,464"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eb8a7961-0512-47b6-817d-940fc694c083" index="1" custom="heights_v2:[46.9,21.4]">
+        <Coords points="1980,509 1980,509 1979,447 1979,441 1972,441 1639,453 1630,453 1464,453 1291,457 1124,457 957,453 782,461 613,473 438,481 441,549 618,541 785,529 955,521 1124,525 1292,525 1464,521 1633,521 1800,513 1980,509"/>
+        <Baseline points="440,528 616,520 784,508 956,500 1124,504 1292,504 1464,500 1632,500 1800,492 1980,488"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Vlastnoruční podpisy pp. starostů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0c3b648e-1aab-4627-bf97-63e000c814ad" index="2" custom="heights_v2:[45.0,21.1]">
+        <Coords points="84,575 84,641 84,641 296,641 505,637 713,629 916,621 1124,617 1332,617 1536,613 1745,609 1961,601 1958,535 1742,543 1535,547 1331,551 1124,551 915,555 710,563 502,571 295,575 84,575"/>
+        <Baseline points="84,620 296,620 504,616 712,608 916,600 1124,596 1332,596 1536,592 1744,588 1960,580"/>
+        <TextEquiv conf="1.000">
+          <Unicode>na starostenské schůzi konané 2. dubna 1938</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="81c59aca-0501-4220-9e6d-dca87a37df00" index="3" custom="heights_v2:[44.6,21.3]">
+        <Coords points="76,734 77,761 1092,721 1700,705 1912,709 1913,643 1701,639 1494,647 1295,651 1091,655 890,663 686,671 486,679 282,687 74,695 76,734"/>
+        <Baseline points="76,740 284,732 488,724 688,716 892,708 1092,700 1296,696 1496,692 1700,684 1912,688"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v Masarykově lidovýchovném sále v Loučce</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="639bb4a0-36d4-43cf-b22d-aafd1396523a">
+      <Coords points="526,1320 314,1328 317,1403 1956,1327 2172,1323 2171,1248 1955,1252 526,1320"/>
+      <TextLine id="6b3f366d-4a59-4442-ab84-e783ee10ed95" index="0" custom="heights_v2:[51.8,22.7]">
+        <Coords points="315,1345 317,1403 352,1401 1935,1328 1956,1327 2172,1323 2171,1248 1955,1252 1749,1264 1546,1272 1341,1284 1138,1292 933,1304 730,1312 526,1320 314,1328 315,1345"/>
+        <Baseline points="316,1380 528,1372 732,1364 936,1356 1140,1344 1344,1336 1548,1324 1752,1316 1956,1304 2172,1300"/>
+        <TextEquiv conf="1.000">
+          <Unicode>František Zamazal předseda starostenského sboru lipenského</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="97667bf8-7ad6-4f2e-9780-6a4aa7d4feec">
+      <Coords points="564,1602 360,1839 360,1905 390,2040 410,2256 366,2373 419,2830 433,2882 436,3058 817,3066 996,3136 1100,3136 1382,3058 1568,3042 2141,3030 2324,2939 2337,2596 1904,2592 1690,2600 1503,2299 1564,2190 1573,2098 1896,1885 2115,1881 2343,1889 2346,1823 2118,1815 1458,1827 1240,1699 1008,1699 824,1590 564,1602"/>
+      <TextLine id="7f8d3c88-dd5d-40dd-bc1b-b58a3f6ca94c" index="0" custom="heights_v2:[57.8,25.2]">
+        <Coords points="731,1594 700,1596 664,1598 615,1602 564,1602 564,1685 622,1685 670,1681 720,1677 770,1677 830,1673 824,1590 764,1594 731,1594"/>
+        <Baseline points="564,1660 620,1660 668,1656 720,1652 768,1652 828,1648"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d29ca75d-79ae-4c2e-8be4-ebd005c614e5" index="1" custom="heights_v2:[41.5,19.9]">
+        <Coords points="1240,1699 1008,1699 1007,1699 930,1703 858,1707 782,1711 712,1711 636,1711 558,1707 555,1768 636,1772 712,1772 785,1772 861,1768 933,1764 1008,1760 1080,1760 1156,1760 1240,1760 1240,1699"/>
+        <Baseline points="556,1748 636,1752 712,1752 784,1752 860,1748 932,1744 1008,1740 1080,1740 1156,1740 1240,1740"/>
+        <TextEquiv conf="1.000">
+          <Unicode>kronikář pol. správy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a73ea56f-0ace-4968-931b-b309af00f139" index="2" custom="heights_v2:[44.5,20.8]">
+        <Coords points="360,1839 360,1905 584,1905 804,1905 1025,1905 1240,1897 1461,1893 1680,1885 1896,1885 2115,1881 2343,1889 2344,1864 2346,1823 2118,1815 1895,1819 1872,1819 1486,1826 1458,1827 1239,1831 1022,1839 804,1839 584,1839 360,1839"/>
+        <Baseline points="360,1884 584,1884 804,1884 1024,1884 1240,1876 1460,1872 1680,1864 1896,1864 2116,1860 2344,1868"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Stejskal František, člen okresního výboru Hranického, rolník z Oseka n Bečvou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a21d3735-8fa0-486d-9b48-718d46ec8851" index="3" custom="heights_v2:[49.7,21.9]">
+        <Coords points="384,1938 384,2010 515,2010 640,2014 764,2014 889,2014 1017,2010 1141,2006 1265,1998 1388,1994 1524,1994 1524,1922 1388,1922 1262,1926 1137,1934 1014,1938 886,1942 764,1942 640,1942 518,1938 384,1938"/>
+        <Baseline points="384,1988 516,1988 640,1992 764,1992 888,1992 1016,1988 1140,1984 1264,1976 1388,1972 1524,1972"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Janák Vilém starosta obce Lazník</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="35efa002-d191-406f-9f6f-6d05316bbfc5" index="4" custom="heights_v2:[52.0,22.5]">
+        <Coords points="391,2047 397,2114 528,2110 656,2110 789,2110 915,2106 1045,2110 1177,2106 1304,2102 1433,2102 1573,2098 1571,2024 1431,2028 1304,2028 1174,2032 1042,2036 918,2032 786,2036 656,2036 528,2036 390,2040 391,2047"/>
+        <Baseline points="395,2092 528,2088 656,2088 788,2088 916,2084 1044,2088 1176,2084 1304,2080 1432,2080 1572,2076"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Josef Drbálek starosta Trnávky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0d1a15f2-a829-45b5-a198-351ba56e989a" index="5" custom="heights_v2:[48.3,22.2]">
+        <Coords points="1564,2190 1564,2190 1564,2120 1428,2120 1304,2120 1173,2128 1050,2132 924,2132 798,2136 672,2136 546,2140 415,2144 417,2214 549,2210 672,2206 801,2206 924,2202 1053,2202 1177,2198 1304,2190 1428,2190 1564,2190"/>
+        <Baseline points="416,2192 548,2188 672,2184 800,2184 924,2180 1052,2180 1176,2176 1304,2168 1428,2168 1564,2168"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Janák Ladislav, radní, Osek n/B.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="f81c1bc4-d291-4b11-b995-d40983fa18b9" index="6" custom="heights_v2:[52.3,23.3]">
+        <Coords points="1503,2299 1503,2299 1503,2298 1506,2224 1378,2220 1254,2224 1136,2224 1016,2224 894,2228 771,2240 654,2244 533,2252 410,2256 413,2331 538,2327 657,2319 778,2315 897,2303 1016,2299 1136,2299 1257,2299 1375,2295 1503,2299"/>
+        <Baseline points="412,2308 536,2304 656,2296 776,2292 896,2280 1016,2276 1136,2276 1256,2276 1376,2272 1504,2276"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Masař St. starosta Soběchleby.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="837f8d21-396e-4cae-871b-7f96841334a9" index="7" custom="heights_v2:[47.5,21.4]">
+        <Coords points="366,2373 366,2373 368,2388 375,2441 494,2425 605,2413 721,2409 833,2405 949,2401 1060,2397 1178,2397 1288,2389 1412,2389 1412,2320 1288,2320 1173,2329 1060,2328 946,2333 830,2337 718,2341 602,2345 487,2357 366,2373"/>
+        <Baseline points="372,2420 492,2404 604,2392 720,2388 832,2384 948,2380 1060,2376 1176,2376 1288,2368 1412,2368"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Žuj Frant. starosta Střeky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="aac4796d-21f5-43fd-8d63-53c3c65fb9bc" index="8" custom="heights_v2:[53.0,23.5]">
+        <Coords points="384,2528 386,2548 465,2547 536,2544 613,2543 685,2539 760,2536 832,2536 909,2535 980,2532 1064,2532 1064,2455 980,2455 905,2459 832,2459 760,2459 681,2463 609,2467 536,2467 461,2471 384,2471 384,2528"/>
+        <Baseline points="384,2524 464,2524 536,2520 612,2520 684,2516 760,2512 832,2512 908,2512 980,2508 1064,2508"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Palička Radvanice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="db2dfc5e-8682-4ba1-85f2-e69c2ec770be" index="9" custom="heights_v2:[20.3,10.3]">
+        <Coords points="1352,2504 1352,2534 1388,2534 1388,2504 1352,2504"/>
+        <Baseline points="1352,2524 1388,2524"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="019e4a1a-0837-4105-8590-604b628bec59" index="10" custom="heights_v2:[46.3,21.2]">
+        <Coords points="396,2632 398,2645 516,2645 629,2645 742,2641 854,2633 965,2625 1077,2621 1190,2617 1301,2605 1425,2597 1421,2530 1297,2538 1183,2550 1074,2554 962,2558 849,2566 737,2574 626,2578 516,2578 396,2578 396,2632"/>
+        <Baseline points="396,2624 516,2624 628,2624 740,2620 852,2612 964,2604 1076,2600 1188,2596 1300,2584 1424,2576"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Karel Kunovský starosta Týn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c6982aa1-6c72-4c14-8680-9861128ae61f" index="11" custom="heights_v2:[48.2,22.2]">
+        <Coords points="2334,2666 2337,2602 2337,2596 1904,2592 1690,2600 1690,2600 1476,2616 1265,2628 1053,2640 842,2648 629,2660 412,2660 412,2730 633,2730 845,2718 1057,2710 1269,2698 1482,2686 1693,2670 1904,2662 2116,2662 2334,2666"/>
+        <Baseline points="412,2708 632,2708 844,2696 1056,2688 1268,2676 1480,2664 1692,2648 1904,2640 2116,2640 2335,2644"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Alois Pazdera, říd. učitel - jednatel starost. sboru</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="41cb3d45-da75-4564-b2b9-d04d0e401a5f" index="12" custom="heights_v2:[48.5,21.8]">
+        <Coords points="421,2760 419,2830 552,2834 677,2834 801,2830 924,2826 1050,2826 1173,2814 1297,2810 1421,2802 1553,2794 1549,2724 1417,2732 1293,2740 1170,2744 1043,2756 924,2756 798,2760 674,2764 552,2764 421,2760"/>
+        <Baseline points="420,2808 552,2812 676,2812 800,2808 924,2804 1048,2804 1172,2792 1296,2788 1420,2780 1552,2772"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zapletal Robert Lasničky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e6e962b5-4e29-4efc-b68b-7e6b329981cf" index="13" custom="heights_v2:[50.5,23.1]">
+        <Coords points="433,2882 433,2882 434,2955 648,2959 856,2955 1064,2951 1272,2951 1480,2951 1688,2947 1896,2943 2104,2939 2324,2939 2324,2939 2324,2865 2104,2865 1895,2870 1687,2874 1479,2878 1272,2877 1064,2877 855,2882 647,2886 433,2882 433,2882"/>
+        <Baseline points="434,2932 648,2936 856,2932 1064,2928 1272,2928 1480,2928 1688,2924 1896,2920 2104,2916 2324,2916"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Irnoš Felix Dol. Újezd - předseda společ. lesa dolnovíj.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4de5c8a3-fa7e-49bc-9bc6-c04647fe6833" index="14" custom="heights_v2:[50.6,22.5]">
+        <Coords points="436,3046 436,3058 817,3066 818,3066 1004,3058 1192,3058 1381,3058 1382,3058 1568,3042 2141,3030 2138,2957 1942,2965 1756,2965 1567,2969 1376,2986 1192,2985 1004,2985 814,2993 629,2989 437,2985 436,3046"/>
+        <Baseline points="436,3036 628,3040 816,3044 1004,3036 1192,3036 1380,3036 1568,3020 1756,3016 1944,3016 2140,3008"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Zindulka Frant, Dol. Újezd - náměstek starosty</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4d90e0a9-2424-4430-8095-664bd457cc45" index="15" custom="heights_v2:[40.9,20.1]">
+        <Coords points="996,3136 1100,3136 1100,3075 996,3075 996,3136"/>
+        <Baseline points="996,3116 1100,3116"/>
+        <TextEquiv conf="1.000">
+          <Unicode>67</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

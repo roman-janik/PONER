@@ -1,0 +1,263 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-03-26T21:23:18.122522</Created>
+    <LastChange>2023-03-26T21:23:18.122522</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_mesta_Prerov_inv_c_neinventarizovano_121.jpg" imageWidth="1942" imageHeight="3147">
+    <TextRegion id="200d6b09-2b70-4702-9b9b-79ce086b111a">
+      <Coords points="1787,67 1785,124 1905,128 1907,71 1787,67"/>
+      <TextLine id="3a7eb113-f71a-4bf0-a22b-947a14706f31" index="0" custom="heights_v2:[45.5,11.9]">
+        <Coords points="1785,124 1905,128 1907,71 1805,68 1787,67 1785,124"/>
+        <Baseline points="1786,113 1905,116"/>
+        <TextEquiv conf="0.996">
+          <Unicode>121</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="33557a4f-328d-4320-971a-e8226b6cc9a5">
+      <Coords points="874,148 795,148 795,208 953,208 953,148 874,148"/>
+      <TextLine id="8685c06d-a9e1-4677-a1fe-c7817592ed61" index="0" custom="heights_v2:[46.9,13.4]">
+        <Coords points="795,208 953,208 953,148 874,148 795,148 795,208"/>
+        <Baseline points="795,195 874,195 953,195"/>
+        <TextEquiv conf="0.314">
+          <Unicode>192</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="22135be2-d130-418e-9d4c-106fcd2491e3">
+      <Coords points="285,1440 285,1875 278,2030 289,2113 289,2187 281,2326 293,2619 307,2686 1515,2690 1517,2481 1504,2328 1474,2263 1485,2168 1485,1946 1497,1867 1520,1795 1523,1721 1518,1585 1492,1513 1505,1422 1503,1216 1437,1070 1482,980 1482,918 1457,849 1453,778 1481,684 1483,624 1546,530 1546,468 1523,387 1523,328 1242,328 1176,263 974,270 296,270 284,346 291,479 283,632 278,1284 285,1440"/>
+      <TextLine id="65af2318-a055-4c52-b7bf-d6d828de1d11" index="0" custom="heights_v2:[40.9,14.6]">
+        <Coords points="1176,263 1176,263 1144,264 1071,267 974,270 882,270 784,270 686,270 593,270 495,270 398,270 296,270 296,326 398,326 495,326 593,326 686,326 784,326 882,326 976,326 1073,322 1178,318 1176,263"/>
+        <Baseline points="296,311 398,311 495,311 593,311 686,311 784,311 882,311 975,311 1073,308 1178,304"/>
+        <TextEquiv conf="0.995">
+          <Unicode>Kozlovská, Žerotínovo nám. a nemocnice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0555ec85-a578-496f-9124-26dda5ef0275" index="1" custom="heights_v2:[43.8,15.1]">
+        <Coords points="1523,328 1242,328 1242,328 1105,331 972,331 833,331 697,335 561,339 426,343 284,346 287,405 428,402 563,398 698,394 833,390 972,390 1107,390 1242,387 1377,387 1523,387 1523,328"/>
+        <Baseline points="286,390 428,386 563,383 698,379 833,375 972,375 1107,375 1242,371 1377,371 1523,371"/>
+        <TextEquiv conf="0.997">
+          <Unicode>III. B. Německá škola v Komenského třídě: Šířava, Trávník,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8ff02f98-838f-4af3-82fd-21502637d8df" index="2" custom="heights_v2:[42.2,14.9]">
+        <Coords points="290,416 294,473 353,469 409,469 465,469 519,469 574,465 630,465 684,465 739,461 803,461 803,404 739,404 680,408 630,408 574,408 515,412 465,412 409,412 353,412 290,416"/>
+        <Baseline points="293,458 353,454 409,454 465,454 518,454 574,450 630,450 683,450 739,446 803,446"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Malá Trávnická, Vsadsko.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fe5b3e4d-993b-45d3-9bba-0f5714784d64" index="3" custom="heights_v2:[45.9,16.6]">
+        <Coords points="291,479 293,542 436,538 574,534 713,534 848,530 987,530 1125,530 1260,530 1399,530 1546,530 1546,468 1399,468 1260,468 1125,468 987,468 848,468 711,472 574,472 434,476 291,479"/>
+        <Baseline points="293,525 435,521 574,518 713,518 848,514 987,514 1125,514 1260,514 1399,514 1546,514"/>
+        <TextEquiv conf="0.928">
+          <Unicode>IV. A. Klášterní škola na Šíravě: Ke kapličce, Lešetín, Moštěn-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9111355d-c279-4b16-af20-13f21a0571d6" index="4" custom="heights_v2:[44.2,16.2]">
+        <Coords points="287,556 287,557 290,616 375,613 455,613 536,609 616,609 694,605 777,605 855,605 935,605 1025,601 1022,541 932,545 855,545 777,545 694,545 613,549 536,549 452,552 375,552 287,556"/>
+        <Baseline points="289,600 375,596 454,596 536,593 615,593 694,589 777,589 855,589 934,589 1024,585"/>
+        <TextEquiv conf="0.998">
+          <Unicode>ská, Svisle, Ztracená, Želátovská.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5bf38325-1d8e-4ca1-9aae-8165ded3c870" index="5" custom="heights_v2:[43.7,16.1]">
+        <Coords points="1481,684 1483,638 1483,624 1344,620 1213,617 1080,617 949,617 817,620 686,620 554,624 424,624 283,632 283,632 283,636 286,691 424,684 556,684 686,680 818,680 949,676 1080,676 1211,676 1343,680 1481,684"/>
+        <Baseline points="285,675 424,668 555,668 686,664 818,664 949,660 1080,660 1212,660 1343,664 1482,668"/>
+        <TextEquiv conf="0.996">
+          <Unicode>IV. B. Gymnasium v Komenského třídě: Nádraží, Husova,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e1677b34-50db-4ac5-91a3-e000eca670ab" index="6" custom="heights_v2:[42.9,16.1]">
+        <Coords points="285,704 285,763 413,763 533,759 656,755 777,755 897,751 1020,751 1140,755 1260,755 1391,759 1393,700 1262,696 1140,696 1022,692 897,692 775,696 656,696 531,700 411,704 285,704"/>
+        <Baseline points="285,746 413,746 533,743 656,739 777,739 897,735 1020,735 1140,739 1260,739 1392,743"/>
+        <TextEquiv conf="0.993">
+          <Unicode>Jungmannova, Kramářova, Sušilova a Tovární.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b5349c65-5244-443a-88b7-c4d0702ce7b1" index="7" custom="heights_v2:[44.0,16.3]">
+        <Coords points="284,781 286,842 421,838 548,834 676,834 803,830 930,830 1057,830 1185,834 1312,834 1451,838 1453,778 1314,774 1185,774 1059,770 930,770 803,770 674,774 548,774 419,778 284,781"/>
+        <Baseline points="285,825 420,822 548,818 675,818 803,814 930,814 1058,814 1185,818 1313,818 1452,822"/>
+        <TextEquiv conf="0.996">
+          <Unicode>V. A Měšťanská škola v Palackého třídě: Bartošova,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2039d8fa-68d4-426f-ac2f-5e515221b068" index="8" custom="heights_v2:[43.8,15.8]">
+        <Coords points="284,849 286,909 420,905 548,905 675,905 803,905 934,905 1062,905 1189,905 1316,905 1455,909 1457,849 1318,845 1189,845 1062,845 934,845 803,845 675,845 548,845 420,845 284,849"/>
+        <Baseline points="285,893 420,889 548,889 675,889 803,889 934,889 1062,889 1189,889 1317,889 1455,893"/>
+        <TextEquiv conf="0.996">
+          <Unicode>Kratochvílova, Náměstí Svobody, Palackého a Riegrova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="394a18ea-374b-449c-b15a-b1d9019868ab" index="9" custom="heights_v2:[45.7,16.3]">
+        <Coords points="281,926 281,944 282,988 421,984 551,980 683,980 814,980 945,980 1077,980 1208,980 1339,980 1482,980 1482,918 1339,918 1208,918 1077,918 945,918 814,918 683,918 551,918 419,922 281,926"/>
+        <Baseline points="281,972 420,968 551,964 683,964 814,964 945,964 1077,964 1208,964 1339,964 1482,964"/>
+        <TextEquiv conf="0.995">
+          <Unicode>V. B. Pedagogium v ulici Boženy Němcové: Komen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c7d745a2-8427-49e9-ac01-6195e3d4a177" index="10" custom="heights_v2:[44.9,15.8]">
+        <Coords points="281,1002 281,1062 371,1062 454,1062 536,1062 620,1062 701,1059 784,1059 866,1059 948,1062 1038,1066 1041,1005 951,1002 869,998 784,998 701,998 617,1002 536,1002 454,1002 371,1002 281,1002"/>
+        <Baseline points="281,1047 371,1047 454,1047 536,1047 619,1047 701,1043 784,1043 867,1043 949,1047 1039,1050"/>
+        <TextEquiv conf="0.995">
+          <Unicode>ského ul., Velké Novosady, Škodova,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1ef00792-e039-4d55-9f1f-c122a5b12064" index="11" custom="heights_v2:[44.5,15.9]">
+        <Coords points="280,1077 282,1137 413,1134 540,1130 668,1130 795,1130 919,1130 1047,1130 1174,1130 1302,1130 1437,1130 1437,1070 1302,1070 1174,1070 1047,1070 919,1070 795,1070 668,1070 540,1070 411,1073 280,1077"/>
+        <Baseline points="281,1122 413,1118 540,1114 668,1114 795,1114 919,1114 1047,1114 1174,1114 1302,1114 1437,1114"/>
+        <TextEquiv conf="0.987">
+          <Unicode>VI. A.: Akciový pivovar v Komenského tř.: Kojetínská,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="55cc0c8d-9910-463c-9a20-b5a82c030a30" index="12" custom="heights_v2:[43.8,16.0]">
+        <Coords points="289,1145 289,1205 368,1205 439,1205 514,1205 585,1205 660,1205 731,1205 807,1205 878,1205 960,1205 960,1145 878,1145 807,1145 731,1145 660,1145 585,1145 514,1145 439,1145 368,1145 289,1145"/>
+        <Baseline points="289,1189 368,1189 439,1189 514,1189 585,1189 660,1189 731,1189 807,1189 878,1189 960,1189"/>
+        <TextEquiv conf="0.995">
+          <Unicode>činžovní domy, Malé Novosady.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="09f60886-e53c-42f0-95b0-e179746d8e8e" index="13" custom="heights_v2:[44.5,15.8]">
+        <Coords points="1504,1276 1503,1216 1503,1216 1361,1220 1227,1220 1092,1220 957,1220 822,1220 686,1220 550,1223 416,1223 278,1223 278,1284 416,1284 552,1284 686,1280 822,1280 957,1280 1092,1280 1227,1280 1362,1280 1504,1276"/>
+        <Baseline points="278,1268 416,1268 551,1268 686,1264 822,1264 957,1264 1092,1264 1227,1264 1362,1264 1503,1260"/>
+        <TextEquiv conf="0.997">
+          <Unicode>VI. B. Průmyslová škola v Havlíčkově tř.: Čechova, Ha-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4e5c2403-56e0-4166-bbe3-f26e9e0cc2c5" index="14" custom="heights_v2:[43.6,14.9]">
+        <Coords points="279,1299 282,1358 364,1354 440,1354 518,1350 593,1350 668,1347 746,1347 822,1347 897,1347 983,1347 983,1288 897,1288 822,1288 746,1288 668,1288 591,1292 518,1292 437,1296 364,1296 279,1299"/>
+        <Baseline points="281,1343 364,1339 439,1339 518,1335 593,1335 668,1332 746,1332 822,1332 897,1332 983,1332"/>
+        <TextEquiv conf="0.998">
+          <Unicode>vlíčkova, Smetanova, Wurmova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="b7deeab7-8013-41f7-90aa-f635c8d2177c" index="15" custom="heights_v2:[44.6,15.5]">
+        <Coords points="300,1366 300,1426 439,1426 570,1426 701,1426 833,1426 968,1426 1099,1426 1231,1430 1362,1426 1505,1422 1503,1362 1361,1366 1229,1370 1100,1366 968,1366 833,1366 701,1366 570,1366 439,1366 300,1366"/>
+        <Baseline points="300,1410 439,1410 570,1410 701,1410 833,1410 968,1410 1099,1410 1230,1414 1362,1410 1504,1407"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Volbami byli zvoleni členy obecního zastupitelstva ti-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eadd828d-089c-4b87-81b0-56a4f4aa9f38" index="16" custom="heights_v2:[45.8,15.7]">
+        <Coords points="285,1440 285,1501 340,1501 394,1505 444,1505 495,1501 555,1501 555,1440 495,1440 439,1444 394,1443 345,1440 285,1440"/>
+        <Baseline points="285,1485 341,1485 394,1489 443,1489 495,1485 555,1485"/>
+        <TextEquiv conf="0.986">
+          <Unicode>to landidáti:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="db29d976-35dc-4fce-b1a7-3fb6600c241e" index="17" custom="heights_v2:[43.7,14.3]">
+        <Coords points="285,1560 285,1571 424,1575 555,1575 690,1575 822,1575 953,1575 1088,1575 1219,1575 1351,1575 1493,1571 1492,1513 1349,1517 1219,1517 1088,1517 953,1517 822,1517 690,1517 555,1517 424,1517 286,1513 285,1560"/>
+        <Baseline points="285,1557 424,1561 555,1561 690,1561 822,1561 953,1561 1088,1561 1219,1561 1350,1561 1493,1557"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Za stranu národně-demokratickou: K. M. Vítězslav Nečas,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="74606a53-1058-4439-996c-81cded8446a5" index="18" custom="heights_v2:[43.4,13.8]">
+        <Coords points="1518,1596 1518,1585 1518,1585 1376,1588 1242,1588 1108,1585 972,1585 840,1585 705,1585 570,1585 435,1585 295,1588 297,1646 435,1642 570,1642 705,1642 840,1642 972,1642 1106,1642 1242,1646 1377,1646 1520,1642 1518,1596"/>
+        <Baseline points="296,1632 435,1628 570,1628 705,1628 840,1628 972,1628 1107,1628 1242,1632 1377,1632 1519,1628"/>
+        <TextEquiv conf="0.994">
+          <Unicode>lékárník, Vojtěch Trpon, obchodník, Hubert Malina, odborný</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="baf1ab9b-bff8-4d0c-b028-9a77a0c21686" index="19" custom="heights_v2:[44.5,14.4]">
+        <Coords points="1523,1721 1523,1721 1523,1721 1521,1662 1377,1662 1240,1666 1107,1666 973,1662 833,1662 698,1662 563,1662 428,1662 285,1662 285,1721 428,1721 563,1721 698,1721 833,1721 971,1721 1107,1725 1242,1725 1377,1721 1523,1721"/>
+        <Baseline points="285,1707 428,1707 563,1707 698,1707 833,1707 972,1707 1107,1711 1242,1711 1377,1707 1522,1707"/>
+        <TextEquiv conf="0.998">
+          <Unicode>učitel, Rudolf Flašar, profesor a dr. Karel Bořecký, profesor.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c89aa87c-21eb-4b01-93f3-2f3e327b6337" index="20" custom="heights_v2:[43.9,13.2]">
+        <Coords points="285,1742 285,1799 428,1799 563,1799 698,1799 833,1795 968,1795 1102,1795 1238,1799 1373,1799 1520,1795 1518,1738 1372,1742 1238,1742 1104,1738 968,1738 833,1738 697,1742 563,1742 428,1742 285,1742"/>
+        <Baseline points="285,1786 428,1786 563,1786 698,1786 833,1782 968,1782 1103,1782 1238,1786 1373,1786 1519,1782"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Za politickou stranu živnostensko - obchodně - středostavov-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6a512f00-efb2-4160-9d31-d46cb7ca9d24" index="21" custom="heights_v2:[43.2,13.9]">
+        <Coords points="285,1817 285,1857 285,1875 424,1871 555,1867 690,1867 822,1867 957,1867 1088,1867 1223,1867 1354,1867 1497,1867 1497,1810 1354,1810 1223,1810 1088,1810 957,1810 822,1810 690,1810 555,1810 423,1814 285,1817"/>
+        <Baseline points="285,1861 424,1857 555,1853 690,1853 822,1853 957,1853 1088,1853 1223,1853 1354,1853 1497,1853"/>
+        <TextEquiv conf="0.998">
+          <Unicode>skou: Karel Skřeček, hostinský, Jaroslav Strojil, majitel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="acc8200d-6d76-4f64-ae0a-3ac511c8557a" index="22" custom="heights_v2:[45.6,14.6]">
+        <Coords points="284,1894 284,1898 285,1954 424,1950 555,1946 686,1946 818,1946 949,1946 1080,1946 1212,1950 1343,1946 1485,1946 1485,1946 1485,1943 1485,1886 1343,1886 1210,1890 1082,1886 949,1886 818,1886 686,1886 555,1886 423,1890 284,1894"/>
+        <Baseline points="285,1939 424,1936 555,1932 686,1932 818,1932 949,1932 1080,1932 1212,1936 1343,1932 1485,1932"/>
+        <TextEquiv conf="0.994">
+          <Unicode>knihtiskárny, Josef Polama, natěrač, František Posselt,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8ebcc29e-234a-450f-a374-2704673c239c" index="23" custom="heights_v2:[45.1,15.7]">
+        <Coords points="281,1969 278,2030 278,2030 383,2030 481,2030 581,2026 679,2026 777,2026 878,2023 975,2023 1073,2023 1182,2019 1180,1958 1071,1962 975,1962 878,1962 775,1966 679,1966 581,1966 478,1969 383,1969 281,1969"/>
+        <Baseline points="279,2014 383,2014 480,2014 581,2011 679,2011 777,2011 878,2007 975,2007 1073,2007 1182,2003"/>
+        <TextEquiv conf="0.997">
+          <Unicode>obchodník a František Hercík, klempíř.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="87a17cd1-e49c-45da-b8b7-c0933a04ccc0" index="24" custom="heights_v2:[44.7,14.8]">
+        <Coords points="1485,2093 1485,2033 1347,2033 1214,2037 1084,2037 953,2037 820,2041 690,2041 560,2037 428,2037 293,2037 293,2097 428,2097 559,2097 690,2101 822,2100 953,2097 1084,2097 1216,2097 1347,2093 1485,2093"/>
+        <Baseline points="293,2082 428,2082 559,2082 690,2086 822,2086 953,2082 1084,2082 1215,2082 1347,2078 1485,2078"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Za českou stranu socialistickou: Otto Kadlec, odborný</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8d7fa25f-8af7-4dd6-9093-bf11873db142" index="25" custom="heights_v2:[43.6,15.2]">
+        <Coords points="289,2113 289,2172 428,2172 559,2172 690,2172 822,2172 953,2168 1084,2168 1215,2168 1347,2168 1485,2168 1485,2168 1485,2110 1347,2110 1215,2110 1084,2110 953,2110 820,2113 690,2113 559,2113 428,2113 289,2113"/>
+        <Baseline points="289,2157 428,2157 559,2157 690,2157 822,2157 953,2153 1084,2153 1215,2153 1347,2153 1485,2153"/>
+        <TextEquiv conf="0.998">
+          <Unicode>učitel, Bohuslav Levý, poštovní kontrolor, Josef Zlámal,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="461f32b6-7136-48aa-bf8e-1e0014fc0ad3" index="26" custom="heights_v2:[44.6,15.1]">
+        <Coords points="289,2187 289,2190 289,2247 423,2247 551,2251 679,2251 807,2251 938,2247 1066,2247 1193,2243 1320,2243 1459,2243 1459,2184 1320,2184 1193,2184 1064,2187 938,2187 805,2191 679,2191 551,2191 425,2187 289,2187"/>
+        <Baseline points="289,2232 424,2232 551,2236 679,2236 807,2236 938,2232 1065,2232 1193,2228 1320,2228 1459,2228"/>
+        <TextEquiv conf="0.998">
+          <Unicode>průvodčí vlaků, Jan Moulík, úředník nemocenské</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ca66a92b-08d6-4435-8c63-4c90926703a7" index="27" custom="heights_v2:[44.3,14.9]">
+        <Coords points="284,2266 281,2320 281,2326 416,2326 548,2326 679,2326 811,2326 942,2322 1073,2318 1204,2318 1335,2322 1474,2322 1474,2263 1474,2263 1474,2263 1335,2263 1205,2259 1073,2259 940,2263 809,2266 679,2266 548,2266 416,2266 284,2266"/>
+        <Baseline points="282,2311 416,2311 548,2311 679,2311 810,2311 942,2307 1073,2303 1204,2303 1335,2307 1474,2307"/>
+        <TextEquiv conf="0.996">
+          <Unicode>pokladny, Evžen Kunc, železniční zřízenec - legionář,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="639eaa5a-9a40-4e4f-a804-9bead0ed577d" index="28" custom="heights_v2:[42.8,14.5]">
+        <Coords points="1504,2331 1504,2328 1362,2328 1225,2332 1094,2336 960,2336 829,2336 694,2336 561,2339 428,2339 288,2343 289,2400 428,2397 563,2397 694,2393 829,2393 960,2393 1096,2393 1227,2389 1362,2385 1504,2385 1504,2331"/>
+        <Baseline points="289,2386 428,2382 563,2382 694,2378 829,2378 960,2378 1095,2378 1227,2375 1362,2371 1504,2371"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Bohuslav Jordán, dvogaista. Za stranu československou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3a212c99-d7f8-44d7-862b-fc6f15a34a77" index="29" custom="heights_v2:[43.2,14.6]">
+        <Coords points="285,2418 287,2475 425,2472 556,2464 690,2460 822,2460 953,2460 1088,2460 1220,2460 1350,2457 1493,2457 1493,2399 1350,2399 1218,2403 1088,2403 953,2403 822,2403 690,2403 554,2406 421,2414 285,2418"/>
+        <Baseline points="287,2461 424,2457 555,2450 690,2446 822,2446 953,2446 1088,2446 1219,2446 1350,2442 1493,2442"/>
+        <TextEquiv conf="0.980">
+          <Unicode>sociálně demokratickou: inž. J. Volek, řed. průmyslové školy, posla-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3067a6aa-27be-4325-a1e6-b5d852aaa086" index="30" custom="heights_v2:[44.0,15.1]">
+        <Coords points="295,2488 297,2547 436,2543 571,2540 705,2536 837,2536 972,2532 1106,2532 1238,2536 1373,2536 1515,2540 1517,2481 1374,2477 1238,2477 1108,2473 972,2473 835,2477 705,2477 569,2481 434,2484 295,2488"/>
+        <Baseline points="296,2532 435,2528 570,2525 705,2521 837,2521 972,2517 1107,2517 1238,2521 1373,2521 1515,2525"/>
+        <TextEquiv conf="0.992">
+          <Unicode>nec Jaroslav Marek, želez. zřízenec, Phajda, stolář, Frant. Musil,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a89a9ce5-644d-4e9e-b800-d316bccd8ce1" index="31" custom="heights_v2:[45.2,15.4]">
+        <Coords points="293,2609 293,2619 402,2619 503,2615 608,2611 710,2611 814,2608 915,2608 1020,2607 1122,2611 1234,2611 1234,2551 1122,2551 1022,2547 915,2547 814,2547 707,2551 608,2551 501,2554 400,2558 293,2558 293,2609"/>
+        <Baseline points="293,2603 401,2603 503,2600 608,2596 709,2596 814,2592 915,2592 1020,2592 1122,2596 1234,2596"/>
+        <TextEquiv conf="0.978">
+          <Unicode>průvodce vlaků L. Lysá, dr. Vilém Roubíček, advokát.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="45018ebc-f93a-421c-a970-b3a160a0ccda" index="32" custom="heights_v2:[44.9,14.9]">
+        <Coords points="317,2686 899,2688 975,2686 1110,2686 1242,2686 1373,2686 1515,2690 1516,2630 1374,2626 1242,2626 1110,2626 975,2626 843,2630 713,2630 578,2630 446,2630 309,2626 307,2686 317,2686"/>
+        <Baseline points="308,2671 446,2675 578,2675 713,2675 844,2675 975,2671 1110,2671 1242,2671 1373,2671 1515,2675"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Za komunistickou stranu: Antonín Bukač, tajemník,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

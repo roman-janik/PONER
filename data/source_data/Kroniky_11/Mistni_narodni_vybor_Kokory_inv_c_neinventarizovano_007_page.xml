@@ -1,0 +1,304 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:20:26.280017</Created>
+    <LastChange>2023-01-19T00:20:26.280017</LastChange>
+  </Metadata>
+  <Page imageFilename="Mistni_narodni_vybor_Kokory_inv_c_neinventarizovano_007.jpg" imageWidth="1536" imageHeight="2048">
+    <TextRegion id="384f2c11-2d17-4454-8793-68824a1e5c8e">
+      <Coords points="101,281 99,339 146,412 786,420 903,391 1282,392 1293,362 1283,243 151,212 101,248 101,281"/>
+      <TextLine id="7a7de205-d203-4449-aa54-fd5b863c480f" index="0" custom="heights_v2:[25.3,11.3]">
+        <Coords points="1283,243 159,212 151,212 151,249 277,250 402,252 527,255 653,260 778,263 903,266 1028,271 1153,273 1281,279 1283,243"/>
+        <Baseline points="151,237 278,239 403,241 528,244 653,249 778,252 903,255 1028,260 1153,261 1282,268"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V dubnu se značnou měrou vyskytl nosatec řepný, který pro suchou po-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ddab19c1-2f33-4914-b5e5-28c901816842" index="1" custom="heights_v2:[21.9,9.5]">
+        <Coords points="102,248 101,248 101,264 101,279 229,277 356,277 482,282 609,287 734,289 861,292 988,293 1115,297 1245,300 1245,268 1115,265 989,262 862,260 735,257 610,256 484,251 357,246 229,246 102,248"/>
+        <Baseline points="101,270 229,268 356,268 483,273 610,278 735,279 861,282 988,284 1115,287 1245,290"/>
+        <TextEquiv conf="1.000">
+          <Unicode>větrnost ohrozil osevy řepy cukrovky. Betonový povrch dálnice, polní cesty</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="31498a63-9346-4d25-8648-8b36900f31e6" index="2" custom="heights_v2:[22.0,9.7]">
+        <Coords points="1290,327 1287,296 1157,296 1026,292 894,291 762,289 631,288 500,281 368,278 236,275 101,275 101,306 236,306 367,310 498,313 630,319 762,321 893,323 1025,324 1157,327 1290,327"/>
+        <Baseline points="101,297 236,297 367,300 499,303 630,310 762,311 894,313 1025,314 1157,318 1289,318"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a pěšiny byly plny nosatců. Školní děti byly vyzvány, aby za dozoru učitelů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="60476f64-814a-4625-a96c-03190a8f0a1b" index="3" custom="heights_v2:[23.5,10.2]">
+        <Coords points="100,305 99,326 99,339 234,339 366,344 497,347 629,352 762,354 893,355 1025,358 1156,360 1293,362 1293,360 1290,328 1157,326 1025,325 894,321 762,320 629,318 498,313 366,310 235,305 100,305"/>
+        <Baseline points="99,329 234,329 366,334 497,337 629,342 762,343 894,345 1025,348 1157,350 1292,351"/>
+        <TextEquiv conf="1.000">
+          <Unicode>pomohly při sběru těchto škůdců. Děti nasbíraly za dva dny přes 13l nosatců.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3632adab-f801-4615-afe0-1cbdaff5cfef" index="4" custom="heights_v2:[23.9,10.7]">
+        <Coords points="916,391 1282,392 1282,358 1153,358 1028,358 903,356 779,353 655,352 530,348 405,345 280,342 152,342 152,376 279,376 404,380 529,383 654,386 778,388 903,391 916,391"/>
+        <Baseline points="152,366 279,366 404,369 529,372 655,375 778,377 903,380 1028,382 1153,382 1282,382"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V květnu se vyskytli v hojné míře chrousti, žáci nasbírali 103.000 kusů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="246c4df3-346a-4672-b5cc-e8f1441fcd91" index="5" custom="heights_v2:[25.3,11.3]">
+        <Coords points="146,412 146,412 177,412 218,412 288,412 331,414 786,420 786,420 786,384 712,384 642,384 572,382 501,382 430,381 360,379 290,376 218,376 146,376 146,412"/>
+        <Baseline points="146,401 218,401 289,401 359,404 430,406 501,407 571,407 642,409 712,409 786,409"/>
+        <TextEquiv conf="1.000">
+          <Unicode>I v červnu se jeví výskyt různých škůdců</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="bcfa9d7c-f0e2-44ca-8ba3-09f98a05f57c">
+      <Coords points="1348,240 1323,240 1323,282 1352,313 1448,314 1452,244 1348,240"/>
+      <TextLine id="ef81fa4b-32bd-481c-bdd5-ed2543606bad" index="0" custom="heights_v2:[29.2,12.7]">
+        <Coords points="1450,285 1452,248 1452,244 1439,244 1428,244 1407,244 1390,242 1367,242 1348,240 1323,240 1323,282 1345,282 1367,284 1387,284 1407,285 1428,285 1450,285"/>
+        <Baseline points="1323,270 1346,270 1367,271 1388,271 1407,273 1428,273 1450,273"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nosatec</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="2757bc56-751f-4bac-a1c1-c8fc65e61435" index="1" custom="heights_v2:[23.7,10.9]">
+        <Coords points="1446,314 1448,314 1449,295 1450,280 1424,278 1400,278 1378,278 1352,278 1352,313 1378,313 1400,313 1422,312 1446,314"/>
+        <Baseline points="1352,302 1378,302 1400,302 1423,302 1449,303"/>
+        <TextEquiv conf="1.000">
+          <Unicode>řepný</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="90efc8a9-cb6d-4ca9-8524-b44047790b2a">
+      <Coords points="61,900 61,939 193,1020 370,1088 746,1097 937,1097 1099,1020 1171,915 1512,902 1509,854 1463,830 1304,669 1305,627 1272,499 1272,457 392,445 279,447 200,478 87,476 74,795 61,900"/>
+      <TextLine id="3e121ac0-b373-4777-9030-6ff763729eb4" index="0" custom="heights_v2:[29.5,13.3]">
+        <Coords points="1272,499 1272,499 1272,478 1272,457 1257,457 1158,458 1049,458 940,457 830,455 721,453 612,452 501,449 392,445 289,447 279,447 279,447 279,490 391,488 500,491 611,495 720,496 829,498 940,499 1049,501 1158,501 1272,499"/>
+        <Baseline points="279,476 391,475 501,478 611,481 720,483 829,484 940,486 1049,488 1158,488 1272,486"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 14. června 1948 zvolilo Národní shromáždění na své</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="36503dd7-e4d9-4654-9e2c-93515391b762" index="1" custom="heights_v2:[29.0,12.3]">
+        <Coords points="200,478 200,478 185,478 87,476 86,518 199,519 308,522 417,526 526,527 635,529 744,530 853,534 962,534 1076,535 1077,494 963,492 853,492 745,489 636,488 527,486 418,484 309,481 200,478"/>
+        <Baseline points="87,505 199,507 308,510 417,513 526,515 635,517 744,518 853,521 963,521 1076,523"/>
+        <TextEquiv conf="1.000">
+          <Unicode>slavnostní schůzi ve Vladislavském sálu pražského hradu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="cc54f8e7-7db2-41ef-98cf-0bbb79810308" index="2" custom="heights_v2:[36.6,16.9]">
+        <Coords points="145,538 144,591 261,593 375,594 489,596 603,598 717,598 831,599 944,601 1059,604 1177,604 1177,551 1059,551 946,547 831,546 718,544 603,544 490,543 376,541 262,539 145,538"/>
+        <Baseline points="144,574 261,576 375,578 489,579 603,581 717,581 831,582 945,584 1059,587 1177,587"/>
+        <TextEquiv conf="1.000">
+          <Unicode>presidentem republiky s. Klementa Gottwalda,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="be6f01b2-e420-4c3b-b77e-5195b3284f34" index="3" custom="heights_v2:[28.7,13.0]">
+        <Coords points="1304,669 1304,669 1304,665 1305,627 1165,626 1030,624 895,624 761,623 624,621 489,621 355,618 220,615 82,611 82,653 219,656 354,659 489,663 624,663 760,664 895,666 1030,666 1164,668 1304,669 1304,669"/>
+        <Baseline points="82,640 220,643 355,646 489,650 624,650 760,651 895,653 1030,653 1165,655 1304,656"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dosavadního předsedu vlády. Nový dělnický president byl uvítán důvěrou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7a4e2aed-5944-4008-a7f5-d34eeb7b7f78" index="4" custom="heights_v2:[23.8,10.8]">
+        <Coords points="80,655 79,682 79,689 216,689 351,691 486,693 621,696 757,696 892,697 1027,699 1162,699 1301,696 1300,661 1161,664 1027,664 892,663 757,661 621,661 487,658 352,656 217,655 80,655"/>
+        <Baseline points="79,679 217,679 351,680 486,682 621,685 757,685 892,687 1027,688 1161,688 1301,685"/>
+        <TextEquiv conf="1.000">
+          <Unicode>všeho československého pracujícího lidu, protože vyšel z lidu, zůstal mu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e91d760d-b33e-4d44-a7cf-12151c3e1325" index="5" custom="heights_v2:[23.4,10.4]">
+        <Coords points="78,689 77,723 213,724 347,724 481,724 614,727 749,731 882,731 1017,732 1150,731 1288,731 1288,697 1150,697 1017,698 883,697 749,697 615,694 482,690 347,690 213,690 78,689"/>
+        <Baseline points="77,712 213,714 347,714 481,714 614,717 749,720 882,720 1017,722 1150,720 1288,720"/>
+        <TextEquiv conf="1.000">
+          <Unicode>věren a pracoval vždy doma i za hranicemi, pro blaho obou národů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="806e947c-b9da-4be8-b94f-be712922d41b" index="6" custom="heights_v2:[25.2,11.3]">
+        <Coords points="77,722 77,759 215,760 350,760 484,760 619,762 754,764 889,767 1024,769 1158,767 1296,767 1296,730 1158,730 1023,732 889,730 755,727 620,726 485,724 350,724 215,724 77,722"/>
+        <Baseline points="77,748 215,749 350,749 484,749 619,751 754,752 889,756 1023,757 1158,756 1296,756"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Československa. Klement Gottwald je prvý dělnický president, pod jehož</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="fbdd55c4-21e6-426f-8f66-2a9f8d7b6163" index="7" custom="heights_v2:[26.0,12.0]">
+        <Coords points="76,757 74,795 165,796 255,796 345,798 435,798 523,800 613,801 702,801 792,804 886,804 886,766 792,766 704,763 613,763 523,762 435,760 345,760 256,758 165,758 76,757"/>
+        <Baseline points="74,783 165,784 255,784 345,786 435,786 523,788 613,789 703,789 792,792 886,792"/>
+        <TextEquiv conf="1.000">
+          <Unicode>vedením vykročila republika k socialismu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c786fa0c-3a97-474b-b842-9f1404d08d9f" index="8" custom="heights_v2:[32.9,14.5]">
+        <Coords points="189,821 189,868 332,868 473,870 614,876 755,876 895,879 1036,879 1177,879 1319,879 1463,878 1463,830 1318,832 1177,832 1036,832 895,832 756,829 614,829 475,822 332,821 189,821"/>
+        <Baseline points="189,853 332,853 473,855 614,861 756,861 895,865 1036,865 1177,865 1319,865 1463,863"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dnem 1. září 1948 přeměněna byla soukromá mateřská škola Škola</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="9022ded6-837f-4b27-b820-15eec5a59bd5" index="9" custom="heights_v2:[27.5,12.2]">
+        <Coords points="1171,915 1171,915 1313,910 1311,871 1170,876 1033,874 895,876 758,872 620,869 481,869 344,866 206,863 66,863 64,874 64,903 205,903 343,906 481,909 619,909 757,912 895,915 1033,914 1171,915"/>
+        <Baseline points="64,890 205,890 343,894 481,897 619,897 757,900 895,903 1033,902 1171,903 1312,898"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v klášteře sester Dominikánek na školu státní a přestěhována do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="14c4d07c-7de6-489e-8a27-d393adf24985" index="10" custom="heights_v2:[33.3,14.8]">
+        <Coords points="1347,908 1362,908 1374,907 1394,905 1412,904 1432,903 1449,902 1469,904 1472,904 1509,902 1512,902 1511,880 1509,854 1486,855 1469,855 1453,854 1428,856 1412,855 1390,857 1370,859 1351,860 1333,860 1333,908 1347,908"/>
+        <Baseline points="1333,894 1354,894 1373,892 1392,890 1412,889 1431,889 1450,887 1469,889 1489,889 1511,887"/>
+        <TextEquiv conf="1.000">
+          <Unicode>mateřská</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8d8b1485-76e2-467c-98f6-abc9283fbe2e" index="11" custom="heights_v2:[27.0,11.6]">
+        <Coords points="61,925 61,939 157,940 250,939 343,942 436,944 529,945 622,945 715,945 809,947 906,947 906,908 809,908 716,907 622,907 529,907 437,905 344,903 251,900 157,902 61,900 61,925"/>
+        <Baseline points="61,927 157,929 250,927 343,930 436,932 529,934 622,934 715,934 809,935 906,935"/>
+        <TextEquiv conf="1.000">
+          <Unicode>školní budovy. Přičleněna byla k obecné škole.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4be03d20-1be6-4baa-801c-3c3b00ac3dd5" index="12" custom="heights_v2:[37.0,16.3]">
+        <Coords points="193,1020 193,1020 194,1020 296,1020 394,1017 495,1019 595,1020 695,1022 796,1022 895,1022 995,1022 1098,1020 1099,1020 1099,1020 1098,967 994,969 895,969 796,969 695,969 596,967 496,966 395,964 294,967 193,967 193,1020"/>
+        <Baseline points="193,1004 295,1004 395,1001 496,1003 595,1004 695,1006 796,1006 895,1006 995,1006 1099,1004"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 3. září 1948 zemřel president republiky</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a0c13d74-156d-4af8-9cc7-f6608c0884cc" index="13" custom="heights_v2:[40.3,17.8]">
+        <Coords points="440,1090 629,1094 682,1094 731,1097 746,1097 937,1097 937,1039 871,1039 809,1039 746,1039 685,1036 622,1036 561,1034 497,1034 437,1031 372,1030 370,1088 434,1089 440,1090"/>
+        <Baseline points="371,1070 435,1072 497,1075 560,1075 622,1076 683,1076 746,1080 809,1080 871,1080 937,1080"/>
+        <TextEquiv conf="1.000">
+          <Unicode>dr. Edward Beneš</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="87fdf844-8322-42d4-a95b-bdbd4c9681f8">
+      <Coords points="51,1492 53,1568 149,1608 829,1613 1009,1538 1285,1533 1291,1378 1314,1310 1306,1115 930,1123 183,1113 53,1158 51,1492"/>
+      <TextLine id="4c512e98-0c8e-4c24-a5f0-bd986103971f" index="0" custom="heights_v2:[31.9,14.2]">
+        <Coords points="1308,1161 1306,1115 1178,1120 1055,1123 930,1123 807,1121 682,1120 559,1118 434,1117 310,1115 183,1113 183,1160 309,1161 433,1163 558,1164 682,1166 807,1168 930,1169 1056,1169 1180,1166 1308,1161"/>
+        <Baseline points="183,1145 310,1147 433,1149 558,1150 682,1152 807,1153 930,1155 1056,1155 1179,1152 1307,1147"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V den pohřbu dne 8. září se konala v sokolovně tryzna za vel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="7291ee2e-c8e4-44c3-b208-afaae1ba5e69" index="1" custom="heights_v2:[27.2,12.3]">
+        <Coords points="53,1158 53,1168 53,1198 194,1198 332,1203 471,1203 609,1204 749,1206 887,1206 1027,1207 1165,1206 1308,1203 1307,1163 1164,1166 1026,1168 887,1166 749,1166 610,1165 472,1163 332,1163 195,1158 53,1158"/>
+        <Baseline points="53,1185 194,1185 332,1190 472,1190 610,1192 749,1194 887,1194 1027,1195 1165,1194 1307,1190"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ké účasti občanstva. Účinkovali žáci škol, členové Sokola a místní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="25d7e501-9f58-48f8-a06a-29b54b200ad6" index="2" custom="heights_v2:[25.8,11.5]">
+        <Coords points="54,1195 53,1232 178,1235 300,1239 422,1239 544,1237 667,1239 789,1240 911,1239 1033,1242 1160,1242 1160,1205 1033,1205 912,1201 789,1203 668,1201 544,1200 422,1201 300,1201 179,1198 54,1195"/>
+        <Baseline points="53,1221 178,1224 300,1227 422,1227 544,1226 667,1227 789,1229 911,1227 1033,1230 1160,1230"/>
+        <TextEquiv conf="1.000">
+          <Unicode>hudba. Smuteční projev přednesl předseda MNV Alois Válek.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4214ff04-4568-4cfc-92c3-e41b1a7950fb" index="3" custom="heights_v2:[26.5,11.8]">
+        <Coords points="53,1233 53,1271 189,1273 322,1274 457,1276 590,1276 725,1276 858,1276 993,1277 1126,1276 1264,1274 1264,1236 1126,1238 993,1239 859,1238 725,1238 590,1238 457,1238 323,1236 190,1234 53,1233"/>
+        <Baseline points="53,1259 189,1261 322,1262 457,1264 590,1264 725,1264 858,1264 993,1266 1126,1264 1264,1262"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Bylo vzpomenuto jeho zásluh a práce v době první republiky i jeho</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="52c37f1d-b977-4c24-8e6e-3ce19b7ba333" index="4" custom="heights_v2:[26.6,11.9]">
+        <Coords points="1314,1310 1312,1271 1170,1274 1031,1276 892,1276 753,1274 613,1274 473,1274 334,1273 195,1270 53,1268 53,1306 194,1308 334,1311 473,1313 613,1313 752,1313 892,1314 1032,1314 1171,1313 1314,1310"/>
+        <Baseline points="53,1295 194,1296 334,1299 473,1301 613,1301 752,1301 892,1303 1031,1303 1171,1301 1313,1298"/>
+        <TextEquiv conf="1.000">
+          <Unicode>moudrého státnického rozhodování za druhé světové války a zvláště</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0bd55455-e6d5-42c4-8490-c9857f6d9ee4" index="5" custom="heights_v2:[27.6,12.4]">
+        <Coords points="52,1304 52,1344 173,1345 291,1345 411,1350 529,1350 648,1350 767,1353 886,1353 1004,1353 1128,1353 1128,1313 1004,1313 886,1313 767,1313 649,1310 529,1310 411,1310 293,1305 173,1305 52,1304"/>
+        <Baseline points="52,1331 173,1333 292,1333 411,1338 529,1338 648,1338 767,1341 886,1341 1004,1341 1128,1341"/>
+        <TextEquiv conf="1.000">
+          <Unicode>při řešení únorové krise, kdy se postavil na stranu lidu.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="86bcb0cf-e279-46e8-a3da-424c283f4e12" index="6" custom="heights_v2:[31.7,14.2]">
+        <Coords points="1289,1424 1291,1385 1291,1378 1164,1382 1041,1383 918,1383 794,1383 671,1382 547,1383 424,1383 300,1382 173,1382 173,1428 300,1428 424,1429 547,1429 670,1428 794,1429 918,1429 1041,1429 1165,1428 1289,1424"/>
+        <Baseline points="173,1413 300,1413 424,1415 547,1415 671,1413 794,1415 918,1415 1041,1415 1165,1413 1290,1410"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Počátkem školního roku vstoupil v platnost nový školní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ae997c62-06a2-46b4-95a3-743e43923961" index="7" custom="heights_v2:[26.0,11.6]">
+        <Coords points="51,1458 51,1459 189,1460 324,1460 460,1462 595,1462 730,1463 866,1463 1001,1463 1136,1463 1275,1463 1275,1426 1136,1426 1001,1426 866,1426 730,1426 595,1424 460,1424 324,1423 189,1423 52,1421 51,1458"/>
+        <Baseline points="51,1447 189,1449 324,1449 460,1450 595,1450 730,1452 866,1452 1001,1452 1136,1452 1275,1452"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zákon čís. 95 Sb. ze dne 21. dubna 1948, podle něhož prvních pět,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="81a0798a-23a5-4cfd-9baf-b3d210186fe9" index="8" custom="heights_v2:[26.1,11.6]">
+        <Coords points="52,1455 51,1492 189,1495 324,1499 460,1499 595,1499 731,1499 866,1500 1003,1499 1137,1499 1277,1497 1277,1459 1137,1461 1003,1461 866,1463 732,1461 595,1461 460,1461 324,1461 190,1458 52,1455"/>
+        <Baseline points="51,1481 189,1484 324,1487 460,1487 595,1487 732,1487 866,1489 1003,1487 1137,1487 1277,1485"/>
+        <TextEquiv conf="1.000">
+          <Unicode>ročníků dosavadní obecné školy se přeměňuje ve školu národní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ad003f07-e7c5-4827-a7d1-a013067d21c8" index="9" custom="heights_v2:[27.3,12.0]">
+        <Coords points="52,1512 52,1530 191,1534 327,1536 464,1538 600,1538 736,1536 873,1539 1009,1538 1146,1534 1285,1533 1285,1531 1285,1493 1145,1495 1008,1498 872,1500 737,1497 600,1498 464,1498 328,1497 191,1495 52,1490 52,1512"/>
+        <Baseline points="52,1518 191,1522 327,1524 464,1526 600,1526 736,1524 873,1527 1009,1526 1145,1522 1285,1521"/>
+        <TextEquiv conf="1.000">
+          <Unicode>a první tři třídy dosavadní měšťanské školy a nižší střední školy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="124bade5-593c-4552-987a-9ac57ee3799c" index="10" custom="heights_v2:[27.0,12.2]">
+        <Coords points="53,1562 53,1568 54,1568 143,1570 229,1571 316,1573 402,1575 489,1576 576,1576 663,1575 749,1575 839,1576 839,1537 750,1535 663,1535 575,1537 489,1537 403,1535 317,1534 230,1532 143,1531 53,1529 53,1562"/>
+        <Baseline points="53,1556 143,1558 229,1559 316,1561 403,1562 489,1564 576,1564 663,1562 749,1562 839,1564"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v jednotnou střední školu čtyřtřídní.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="bf84fc43-5f28-4e1e-a72a-84fbf01b4386" index="11" custom="heights_v2:[27.5,12.2]">
+        <Coords points="149,1608 149,1608 829,1613 829,1613 829,1574 751,1574 675,1575 602,1574 526,1574 451,1574 377,1574 302,1574 227,1570 150,1569 149,1608"/>
+        <Baseline points="149,1596 226,1598 302,1601 377,1601 451,1601 526,1601 602,1601 675,1603 751,1601 829,1601"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Povinná školní docházka je 9 let.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="6e01251a-3b1d-4736-b04a-a07fe9139601">
+      <Coords points="59,1828 552,1836 690,1805 1316,1797 1477,1802 1479,1623 1330,1623 1215,1639 829,1645 59,1635 59,1828"/>
+      <TextLine id="84165c74-e7b9-460d-8fd1-f73bb3cca679" index="0" custom="heights_v2:[31.3,14.1]">
+        <Coords points="1215,1639 1215,1639 1172,1640 1084,1642 956,1643 829,1645 701,1643 573,1642 446,1640 318,1640 243,1637 90,1635 59,1635 59,1681 189,1681 318,1686 446,1686 573,1687 701,1689 830,1690 956,1689 1085,1687 1216,1684 1215,1639"/>
+        <Baseline points="59,1667 189,1667 318,1672 446,1672 573,1673 701,1675 829,1676 956,1675 1084,1673 1216,1670"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Od 5. do 12. září se konala na místním národním výboře</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="6fb59403-6201-4cde-b1a4-bc29eb8560e3" index="1" custom="heights_v2:[47.2,20.3]">
+        <Coords points="1478,1690 1479,1623 1330,1623 1330,1623 1335,1690 1354,1689 1375,1690 1396,1690 1415,1690 1436,1690 1455,1690 1478,1690"/>
+        <Baseline points="1333,1670 1356,1668 1375,1670 1396,1670 1415,1670 1436,1670 1455,1670 1478,1670"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Revise</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="17a26c6f-2e96-4815-842a-b28053e4c625" index="2" custom="heights_v2:[31.6,13.4]">
+        <Coords points="62,1670 60,1715 197,1720 330,1723 465,1725 598,1725 733,1727 866,1727 1001,1727 1135,1725 1273,1720 1271,1675 1133,1680 1001,1682 866,1682 733,1682 599,1680 465,1680 331,1678 198,1675 62,1670"/>
+        <Baseline points="61,1702 197,1707 330,1710 465,1712 598,1712 733,1713 866,1713 1001,1713 1134,1712 1272,1707"/>
+        <TextEquiv conf="1.000">
+          <Unicode>revise zásobovací agendy v akci celostátní. Závady nebyly</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="ef881c9f-0b9a-4227-a2b5-9a936d64a710" index="3" custom="heights_v2:[28.6,12.7]">
+        <Coords points="61,1713 61,1755 82,1755 103,1756 121,1756 140,1758 160,1760 180,1760 204,1760 204,1718 180,1718 160,1718 144,1717 124,1715 103,1715 86,1714 61,1713"/>
+        <Baseline points="61,1742 83,1742 103,1744 122,1744 141,1745 160,1747 180,1747 204,1747"/>
+        <TextEquiv conf="1.000">
+          <Unicode>zjištěny</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="436da696-4811-4a27-833d-2faf32f19624" index="4" custom="heights_v2:[40.0,17.9]">
+        <Coords points="692,1805 1308,1797 1316,1797 1477,1802 1477,1797 1478,1744 1318,1739 1159,1742 1003,1747 847,1749 690,1747 534,1747 378,1744 220,1742 61,1742 61,1800 220,1800 377,1802 534,1805 690,1805 692,1805"/>
+        <Baseline points="61,1782 220,1782 377,1784 534,1787 690,1787 847,1789 1004,1787 1160,1782 1317,1779 1477,1784"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dne 15.l září se konala sbírka pro Československou sociální pomoc, Sbírka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="a3274712-870f-4e97-ab81-06a5860f7b66" index="5" custom="heights_v2:[32.8,13.3]">
+        <Coords points="93,1829 231,1831 277,1831 332,1832 334,1832 528,1836 552,1836 552,1790 494,1790 440,1790 388,1788 333,1786 278,1785 225,1785 170,1785 116,1783 60,1782 59,1827 59,1828 93,1829"/>
+        <Baseline points="59,1814 116,1816 170,1818 225,1818 278,1818 332,1819 387,1821 440,1822 494,1822 552,1822"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jejíž výnos byl 2.372 Kčs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

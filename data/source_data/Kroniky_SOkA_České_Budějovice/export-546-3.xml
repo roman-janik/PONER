@@ -1,0 +1,278 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:15:35.351534+00:00</Created>
+    <LastChange>2023-02-07T20:15:35.351534+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-546-3" imageWidth="2002" imageHeight="1614">
+    <TextRegion id="r000">
+      <Coords points="304,598 244,598 244,649 761,652 761,601 304,598"/>
+      <TextLine id="r000-l013" index="0" custom="heights_v2:[37.9,12.7]">
+        <Coords points="244,598 304,598 363,598 418,601 474,601 528,601 585,601 642,601 699,601 761,601 761,652 699,652 642,652 585,652 528,652 474,652 418,652 360,649 304,649 244,649"/>
+        <Baseline points="244,636 304,636 361,636 418,639 474,639 528,639 585,639 642,639 699,639 761,639"/>
+        <TextEquiv conf="0.669">
+          <Unicode>V Slavošovicích v říjnu 1926.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="311,335 244,335 244,425 552,420 637,378 838,375 838,329 311,335"/>
+      <TextLine id="r001-l003" index="0" custom="heights_v2:[34.5,11.4]">
+        <Coords points="244,335 311,335 378,332 443,332 509,332 571,332 635,332 702,329 767,329 838,329 838,375 767,375 702,375 637,378 571,378 509,378 443,378 378,378 313,381 244,381"/>
+        <Baseline points="244,369 312,369 378,366 443,366 509,366 571,366 636,366 702,364 767,364 838,364"/>
+        <TextEquiv conf="0.959">
+          <Unicode>Tyto paměti založil a o sepsání</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[32.9,10.1]">
+        <Coords points="244,382 281,382 315,382 344,382 381,379 412,379 446,379 477,379 509,379 549,376 552,419 512,422 477,422 446,422 412,422 381,422 347,425 315,425 281,425 244,425"/>
+        <Baseline points="244,415 281,415 315,415 347,415 381,412 412,412 446,412 477,412 511,412 551,409"/>
+        <TextEquiv conf="0.992">
+          <Unicode>jich se pokusil</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="622,462 585,462 585,513 641,557 758,559 829,515 832,465 622,462"/>
+      <TextLine id="r002-l008" index="0" custom="heights_v2:[37.8,12.7]">
+        <Coords points="585,462 622,462 656,462 690,462 722,462 756,462 792,462 832,465 829,516 789,513 756,513 722,513 690,513 656,513 622,513 585,513"/>
+        <Baseline points="585,500 622,500 656,500 690,500 722,500 756,500 790,500 830,503"/>
+        <TextEquiv conf="0.946">
+          <Unicode>Jan Strnad,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l010" index="1" custom="heights_v2:[34.1,10.4]">
+        <Coords points="644,511 699,514 758,514 758,559 699,559 641,556"/>
+        <Baseline points="642,545 699,548 758,548"/>
+        <TextEquiv conf="0.982">
+          <Unicode>učitel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="1022,1426 1020,1558 1327,1561 1386,1517 1776,1511 1767,1382 1778,1294 1776,1211 1787,1155 1790,938 1788,891 1761,800 1769,755 1798,709 1790,527 1794,394 1037,380 1028,746 1034,840 1028,973 1033,1246 1022,1426"/>
+      <TextLine id="r003-l004" index="0" custom="heights_v2:[31.7,10.5]">
+        <Coords points="1037,380 1125,380 1208,380 1290,383 1373,383 1456,386 1538,389 1619,392 1703,392 1794,394 1792,437 1701,434 1619,434 1537,431 1454,428 1372,425 1290,425 1207,422 1125,422 1037,422"/>
+        <Baseline points="1037,412 1125,412 1207,412 1290,415 1372,415 1454,418 1537,420 1619,423 1702,423 1793,426"/>
+        <TextEquiv conf="0.531">
+          <Unicode>vesnice se 196 obyv. a 37 čísly (podle sčít. z r. 1921)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="1" custom="heights_v2:[30.4,10.0]">
+        <Coords points="1036,427 1122,430 1204,430 1288,430 1369,433 1453,433 1535,435 1617,438 1700,441 1791,444 1789,484 1698,482 1616,479 1534,476 1451,473 1369,473 1287,470 1204,470 1122,470 1035,467"/>
+        <Baseline points="1035,457 1122,460 1204,460 1287,460 1369,463 1452,463 1534,466 1616,469 1699,472 1790,474"/>
+        <TextEquiv conf="0.953">
+          <Unicode>leží při okr. silnici vedoucí do Ledenic a dále do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l009" index="2" custom="heights_v2:[29.9,10.3]">
+        <Coords points="1034,476 1122,476 1204,476 1288,476 1370,479 1453,481 1534,484 1617,484 1699,487 1790,487 1790,527 1699,527 1616,524 1534,524 1451,522 1369,519 1287,516 1204,516 1122,516 1034,516"/>
+        <Baseline points="1034,506 1122,506 1204,506 1287,506 1369,509 1452,511 1534,514 1616,514 1699,517 1790,517"/>
+        <TextEquiv conf="0.934">
+          <Unicode>Krumlova. Politickým okresem patří do Č. Budějo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l011" index="3" custom="heights_v2:[30.0,10.6]">
+        <Coords points="1034,521 1119,521 1200,521 1281,524 1362,524 1440,527 1524,527 1602,530 1683,530 1771,532 1769,573 1681,570 1602,570 1522,567 1440,567 1360,565 1281,565 1198,562 1119,562 1034,562"/>
+        <Baseline points="1034,551 1119,551 1199,551 1281,554 1361,554 1440,557 1523,557 1602,560 1682,560 1770,562"/>
+        <TextEquiv conf="0.580">
+          <Unicode>vic, berním a soudním do Lišova, farností do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l012" index="4" custom="heights_v2:[31.4,10.8]">
+        <Coords points="1034,565 1079,565 1114,568 1151,568 1185,568 1231,565 1234,607 1188,610 1151,610 1114,610 1076,607 1034,607"/>
+        <Baseline points="1034,597 1077,597 1114,599 1151,599 1187,599 1233,597"/>
+        <TextEquiv conf="0.993">
+          <Unicode>Štěpánovic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l014" index="5" custom="heights_v2:[33.3,10.9]">
+        <Coords points="1210,609 1278,609 1342,609 1406,612 1470,612 1533,614 1597,617 1661,617 1723,620 1794,623 1792,667 1721,664 1659,661 1597,661 1531,659 1468,656 1406,656 1340,653 1278,653 1210,653"/>
+        <Baseline points="1210,642 1278,642 1341,642 1406,645 1469,645 1531,648 1597,651 1659,651 1722,653 1793,656"/>
+        <TextEquiv conf="0.770">
+          <Unicode>Z minulosti naší vesnice není nám</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l016" index="6" custom="heights_v2:[31.6,10.5]">
+        <Coords points="1034,659 1122,659 1204,659 1289,659 1373,656 1458,659 1541,662 1626,664 1707,667 1798,667 1798,709 1707,709 1625,706 1539,704 1457,701 1372,698 1290,701 1204,701 1122,701 1034,701"/>
+        <Baseline points="1034,690 1122,690 1204,690 1290,690 1372,687 1457,690 1540,693 1625,696 1707,699 1798,699"/>
+        <TextEquiv conf="0.977">
+          <Unicode>mnoho známo. Jako skoro jižní celé Čechy patříva-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l017" index="7" custom="heights_v2:[30.9,10.3]">
+        <Coords points="1029,705 1114,708 1195,708 1276,705 1359,705 1437,708 1521,708 1599,711 1683,711 1771,713 1769,755 1681,752 1599,752 1519,749 1437,749 1358,746 1276,746 1196,749 1114,749 1028,746"/>
+        <Baseline points="1028,736 1114,739 1196,739 1276,736 1358,736 1437,739 1520,739 1599,741 1682,741 1770,744"/>
+        <TextEquiv conf="0.573">
+          <Unicode>ly kdysi rodu Rožmberskému, byla i tato obec pod</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l018" index="8" custom="heights_v2:[31.3,10.3]">
+        <Coords points="1031,750 1116,750 1196,750 1276,750 1356,750 1435,753 1515,753 1594,756 1674,756 1762,758 1761,800 1673,797 1594,797 1514,794 1435,794 1355,792 1276,792 1196,792 1116,792 1031,792"/>
+        <Baseline points="1031,781 1116,781 1196,781 1276,781 1355,781 1435,784 1514,784 1594,787 1673,787 1761,790"/>
+        <TextEquiv conf="0.550">
+          <Unicode>panstvím tohoto rodu. Podle školní kroniky jsou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l019" index="9" custom="heights_v2:[31.3,10.3]">
+        <Coords points="1034,798 1099,798 1159,798 1219,798 1278,798 1341,798 1401,798 1460,798 1520,798 1588,798 1588,840 1520,840 1460,840 1401,840 1341,840 1278,840 1219,840 1159,840 1099,840 1034,840"/>
+        <Baseline points="1034,830 1099,830 1159,830 1219,830 1278,830 1341,830 1401,830 1460,830 1520,830 1588,830"/>
+        <TextEquiv conf="0.855">
+          <Unicode>jednotlivé děje naší vesnice asi tyto:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l020" index="10" custom="heights_v2:[31.7,10.4]">
+        <Coords points="1216,840 1278,840 1340,841 1398,843 1457,843 1514,843 1574,843 1635,843 1693,846 1758,846 1758,888 1693,888 1633,885 1574,885 1514,885 1457,885 1398,885 1338,882 1278,883 1216,883"/>
+        <Baseline points="1216,872 1278,872 1338,872 1398,875 1457,875 1514,875 1574,875 1633,875 1693,878 1758,878"/>
+        <TextEquiv conf="0.536">
+          <Unicode>R. 1366 prodal Jan z Landštejna,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l021" index="11" custom="heights_v2:[31.9,10.6]">
+        <Coords points="1031,886 1120,886 1202,889 1284,889 1366,889 1449,889 1531,889 1614,889 1697,889 1788,891 1787,934 1696,931 1614,931 1531,931 1449,931 1366,931 1284,931 1202,931 1119,928 1031,928"/>
+        <Baseline points="1031,918 1119,918 1202,920 1284,920 1366,920 1449,920 1531,920 1614,920 1696,920 1787,923"/>
+        <TextEquiv conf="0.411">
+          <Unicode>probošt z Mělníka, strýcům svým Oldřichu, Joštovi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l022" index="12" custom="heights_v2:[31.0,10.2]">
+        <Coords points="1029,932 1116,935 1199,935 1284,935 1366,935 1450,935 1534,938 1616,938 1699,938 1789,938 1789,979 1699,979 1616,979 1534,979 1448,976 1366,976 1284,976 1199,976 1116,976 1028,973"/>
+        <Baseline points="1029,963 1116,966 1199,966 1284,966 1366,966 1449,966 1534,969 1616,969 1699,969 1789,969"/>
+        <TextEquiv conf="0.776">
+          <Unicode>a Janovi z Rožmberka (mimo jiné) půl vsi Libína.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l023" index="13" custom="heights_v2:[31.0,10.2]">
+        <Coords points="1202,977 1270,977 1337,977 1398,980 1464,980 1526,983 1591,983 1653,983 1719,983 1789,983 1789,1024 1719,1024 1653,1024 1591,1024 1526,1024 1463,1022 1398,1022 1335,1019 1270,1019 1202,1019"/>
+        <Baseline points="1202,1008 1270,1008 1335,1008 1398,1011 1463,1011 1526,1014 1591,1014 1653,1014 1719,1014 1789,1014"/>
+        <TextEquiv conf="0.577">
+          <Unicode>R. 1571 řádil v okolí mor. Vůkolním</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l024" index="14" custom="heights_v2:[30.8,10.2]">
+        <Coords points="1030,1026 1099,1026 1165,1026 1230,1026 1295,1026 1361,1026 1426,1026 1493,1026 1556,1029 1629,1026 1631,1067 1557,1070 1491,1067 1426,1067 1361,1067 1295,1067 1230,1067 1165,1067 1099,1067 1030,1067"/>
+        <Baseline points="1030,1057 1099,1057 1165,1057 1230,1057 1295,1057 1361,1057 1426,1057 1491,1057 1557,1060 1631,1057"/>
+        <TextEquiv conf="0.980">
+          <Unicode>vesničanům zapovězeno do města jíti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l025" index="15" custom="heights_v2:[30.8,9.8]">
+        <Coords points="1207,1069 1273,1069 1334,1069 1392,1071 1452,1071 1511,1071 1571,1071 1631,1071 1690,1071 1756,1071 1756,1112 1690,1112 1631,1112 1571,1112 1511,1112 1452,1112 1392,1112 1332,1109 1273,1109 1207,1109"/>
+        <Baseline points="1207,1099 1273,1099 1332,1099 1392,1102 1452,1102 1511,1102 1571,1102 1631,1102 1690,1102 1756,1102"/>
+        <TextEquiv conf="0.802">
+          <Unicode>R. 1518 pan Jindřich z Rožmberka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l026" index="16" custom="heights_v2:[30.6,9.9]">
+        <Coords points="1034,1117 1122,1117 1204,1117 1287,1117 1369,1117 1452,1117 1533,1117 1616,1114 1699,1114 1787,1114 1787,1155 1699,1155 1616,1155 1534,1158 1452,1158 1369,1158 1287,1158 1204,1158 1122,1158 1034,1158"/>
+        <Baseline points="1034,1148 1122,1148 1204,1148 1287,1148 1369,1148 1452,1148 1534,1148 1616,1145 1699,1145 1787,1145"/>
+        <TextEquiv conf="0.611">
+          <Unicode>přidal kanonii třeboňské poddané ze vsi Slabo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l027" index="17" custom="heights_v2:[30.6,9.6]">
+        <Coords points="1033,1163 1116,1165 1199,1165 1280,1165 1364,1163 1443,1163 1524,1163 1608,1160 1691,1160 1779,1163 1778,1203 1690,1200 1608,1200 1526,1203 1443,1203 1364,1203 1282,1206 1199,1206 1116,1206 1032,1203"/>
+        <Baseline points="1032,1193 1116,1196 1199,1196 1281,1196 1364,1193 1443,1193 1526,1193 1608,1190 1690,1190 1778,1193"/>
+        <TextEquiv conf="0.508">
+          <Unicode>šovic a Brané s lukami a poli. - Do dnešního dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l028" index="18" custom="heights_v2:[30.9,9.6]">
+        <Coords points="1036,1205 1119,1211 1202,1211 1281,1211 1362,1211 1443,1208 1526,1208 1605,1208 1688,1208 1776,1211 1775,1251 1687,1248 1605,1248 1526,1248 1443,1248 1364,1251 1281,1251 1202,1251 1119,1251 1033,1245"/>
+        <Baseline points="1034,1236 1119,1241 1202,1241 1281,1241 1364,1241 1443,1239 1526,1239 1605,1239 1687,1239 1775,1241"/>
+        <TextEquiv conf="0.912">
+          <Unicode>jmenují se pole na severní straně vsi „klášterní“.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l029" index="19" custom="heights_v2:[31.1,10.1]">
+        <Coords points="1204,1250 1274,1250 1335,1253 1398,1253 1460,1253 1523,1253 1585,1253 1648,1253 1710,1253 1778,1253 1778,1294 1710,1294 1648,1294 1585,1294 1523,1294 1460,1294 1398,1294 1335,1294 1272,1291 1204,1291"/>
+        <Baseline points="1204,1281 1273,1281 1335,1284 1398,1284 1460,1284 1523,1284 1585,1284 1648,1284 1710,1284 1778,1284"/>
+        <TextEquiv conf="0.857">
+          <Unicode>R. 1636 připomíná se Kateřina Hajná</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l030" index="20" custom="heights_v2:[32.8,10.9]">
+        <Coords points="1028,1294 1068,1294 1099,1297 1131,1297 1165,1297 1196,1297 1236,1297 1236,1340 1196,1340 1165,1340 1131,1340 1099,1340 1064,1338 1028,1338"/>
+        <Baseline points="1028,1327 1065,1327 1099,1329 1131,1329 1165,1329 1196,1329 1236,1329"/>
+        <TextEquiv conf="0.908">
+          <Unicode>ze Slabošovic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l031" index="21" custom="heights_v2:[32.5,10.6]">
+        <Coords points="1196,1340 1261,1340 1324,1340 1383,1340 1448,1340 1504,1343 1568,1340 1628,1340 1690,1340 1758,1340 1758,1383 1690,1383 1628,1383 1568,1383 1506,1386 1445,1383 1383,1383 1324,1383 1261,1383 1196,1383"/>
+        <Baseline points="1196,1372 1261,1372 1324,1372 1383,1372 1446,1372 1506,1375 1568,1372 1628,1372 1690,1372 1758,1372"/>
+        <TextEquiv conf="0.972">
+          <Unicode>9. října 1630 koupil sedlák Bíca ze</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l032" index="22" custom="heights_v2:[32.8,10.9]">
+        <Coords points="1024,1382 1109,1385 1190,1388 1273,1388 1351,1388 1433,1385 1517,1382 1597,1382 1679,1382 1767,1382 1767,1426 1679,1426 1597,1426 1517,1426 1435,1428 1353,1431 1273,1431 1190,1431 1108,1428 1023,1426"/>
+        <Baseline points="1023,1415 1108,1418 1190,1420 1273,1420 1352,1420 1435,1418 1517,1415 1597,1415 1679,1415 1767,1415"/>
+        <TextEquiv conf="0.957">
+          <Unicode>Slabošovic z lišovské cihelny 150 cihel za 27 krej-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l033" index="23" custom="heights_v2:[29.9,9.2]">
+        <Coords points="1025,1428 1068,1430 1116,1430 1116,1469 1068,1469 1022,1467"/>
+        <Baseline points="1023,1457 1068,1460 1116,1460"/>
+        <TextEquiv conf="0.955">
+          <Unicode>carů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l034" index="24" custom="heights_v2:[34.9,11.0]">
+        <Coords points="1192,1468 1258,1471 1321,1471 1386,1471 1449,1471 1513,1471 1577,1468 1642,1468 1703,1468 1774,1465 1776,1511 1705,1514 1642,1514 1577,1514 1515,1517 1449,1517 1386,1517 1321,1517 1258,1517 1190,1514"/>
+        <Baseline points="1190,1503 1258,1506 1321,1506 1386,1506 1449,1506 1514,1506 1577,1503 1642,1503 1704,1503 1775,1500"/>
+        <TextEquiv conf="0.511">
+          <Unicode>13. srpna 1680 koupil jich Herda ze Sla-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l035" index="25" custom="heights_v2:[32.1,9.7]">
+        <Coords points="1020,1516 1059,1516 1091,1519 1122,1519 1156,1519 1187,1519 1222,1519 1253,1519 1287,1519 1327,1519 1327,1561 1287,1561 1253,1561 1222,1561 1187,1561 1156,1561 1122,1561 1091,1561 1056,1558 1020,1558"/>
+        <Baseline points="1020,1548 1057,1548 1091,1551 1122,1551 1156,1551 1187,1551 1222,1551 1253,1551 1287,1551 1327,1551"/>
+        <TextEquiv conf="0.791">
+          <Unicode>bošovic 200 za 36 kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="1303,194 1297,294 1668,311 1668,211 1303,194"/>
+      <TextLine id="r004-l002" index="0" custom="heights_v2:[76.5,24.9]">
+        <Coords points="1303,193 1349,196 1389,199 1429,202 1463,205 1508,205 1543,208 1588,208 1622,210 1668,210 1668,312 1622,312 1581,309 1543,309 1501,306 1463,306 1421,303 1382,300 1342,298 1297,295"/>
+        <Baseline points="1298,270 1344,273 1383,276 1423,278 1463,281 1503,281 1543,284 1582,284 1622,287 1668,287"/>
+        <TextEquiv conf="0.545">
+          <Unicode>Slavošovice</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="1806,619 1803,663 1917,669 1919,624 1806,619"/>
+      <TextLine id="r005-l015" index="0" custom="heights_v2:[35.1,9.9]">
+        <Coords points="1806,618 1862,621 1919,624 1917,669 1860,666 1803,663"/>
+        <Baseline points="1804,653 1861,656 1918,659"/>
+        <TextEquiv conf="0.936">
+          <Unicode>Dějiny.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="1857,391 1807,391 1807,436 1945,442 1948,397 1857,391"/>
+      <TextLine id="r006-l006" index="0" custom="heights_v2:[35.1,10.0]">
+        <Coords points="1807,391 1857,391 1900,394 1948,397 1945,442 1897,439 1854,436 1807,436"/>
+        <Baseline points="1807,426 1855,426 1898,429 1946,432"/>
+        <TextEquiv conf="0.998">
+          <Unicode>Místopis</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="1969,33 1932,33 1932,80 1969,80 1969,33"/>
+      <TextLine id="r007-l001" index="0" custom="heights_v2:[38.1,7.8]">
+        <Coords points="1932,33 1969,33 1969,79 1932,79"/>
+        <Baseline points="1932,71 1969,71"/>
+        <TextEquiv conf="0.998">
+          <Unicode>3</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

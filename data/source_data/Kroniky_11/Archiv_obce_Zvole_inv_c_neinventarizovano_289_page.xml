@@ -1,0 +1,184 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-01-19T00:19:39.339384</Created>
+    <LastChange>2023-01-19T00:19:39.339384</LastChange>
+  </Metadata>
+  <Page imageFilename="Archiv_obce_Zvole_inv_c_neinventarizovano_289.jpg" imageWidth="4722" imageHeight="3444">
+    <TextRegion id="46956965-4c1c-4210-8dd0-05c3ecbc2e31">
+      <Coords points="3624,247 3618,351 3946,355 4208,340 4208,235 3939,251 3624,247"/>
+      <TextLine id="2123ffce-f372-4ea4-8e5a-aed18fd1c032" index="0" custom="heights_v2:[73.5,31.5]">
+        <Coords points="3618,351 3946,355 4027,350 4076,347 4136,340 4208,340 4208,235 3939,251 3906,251 3880,251 3816,251 3752,251 3688,251 3632,247 3624,247 3618,351"/>
+        <Baseline points="3620,320 3688,324 3752,324 3816,324 3880,324 3944,324 4008,320 4072,316 4136,308 4208,308"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nové číslo 39.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="4406ffbf-f4a9-4dc6-8a9e-5e96aaa68065">
+      <Coords points="1251,407 1192,407 1192,499 1432,495 1432,403 1251,407"/>
+      <TextLine id="dba1c876-af52-4104-8b2e-c4d7a5e1c736" index="0" custom="heights_v2:[64.8,26.5]">
+        <Coords points="1192,407 1192,499 1222,499 1268,498 1312,495 1368,495 1432,495 1432,403 1421,403 1260,407 1251,407 1192,407"/>
+        <Baseline points="1192,472 1256,472 1312,468 1368,468 1432,468"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Číslo 29.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="2e80d96f-058b-433d-be9e-c1300fcdd0e4">
+      <Coords points="2013,400 2006,485 2308,493 2308,408 2013,400"/>
+      <TextLine id="ff5da6ea-ea48-43ca-8eb4-313a8b4297e7" index="0" custom="heights_v2:[60.0,24.9]">
+        <Coords points="2013,400 2007,471 2006,485 2009,485 2151,489 2154,489 2155,489 2305,493 2308,493 2308,408 2252,408 2204,408 2161,404 2108,404 2060,404 2013,400"/>
+        <Baseline points="2008,460 2060,464 2108,464 2156,464 2204,468 2252,468 2308,468"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Nové číslo 125</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="9f55ad7a-a700-4041-97f3-be0c4fba3ad9">
+      <Coords points="728,686 724,1106 876,1106 996,1190 1909,1182 2033,1178 2065,1094 2308,1002 2315,759 2353,651 2350,575 2178,583 1256,586 943,594 728,686"/>
+      <TextLine id="e2e2b3d7-d1a1-4d14-b6ab-00a40b46c38b" index="0" custom="heights_v2:[53.6,23.0]">
+        <Coords points="2353,651 2353,641 2350,575 2178,583 1805,584 1719,586 1564,586 1412,586 1256,586 1103,590 943,594 945,671 1105,667 1256,663 1412,663 1564,663 1721,663 1872,659 2028,659 2181,659 2353,651"/>
+        <Baseline points="944,648 1104,644 1256,640 1412,640 1564,640 1720,640 1872,636 2028,636 2180,636 2352,628"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V r. 1876 Johann Kohl a manželka Antonie, předali dceři Filo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d0665be5-7ad9-4524-9cfe-64c5cf040c46" index="1" custom="heights_v2:[50.1,21.7]">
+        <Coords points="728,686 728,686 728,758 909,758 1080,754 1253,754 1424,750 1596,750 1769,750 1940,746 2112,746 2292,746 2292,674 2112,674 1940,674 1767,678 1596,678 1424,678 1251,682 1080,682 907,686 728,686"/>
+        <Baseline points="728,736 908,736 1080,732 1252,732 1424,728 1596,728 1768,728 1940,724 2112,724 2292,724"/>
+        <TextEquiv conf="1.000">
+          <Unicode>méně, která si vzala za muže Johanna Neumanna, obuvníka z Pobučí.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="45148cd0-f764-4f68-a866-e3ae47b67233" index="2" custom="heights_v2:[49.0,21.5]">
+        <Coords points="727,775 726,845 904,841 1080,841 1256,837 1432,837 1604,833 1780,833 1956,833 2132,833 2313,830 2315,760 2315,759 2131,763 1956,763 1780,763 1604,763 1431,767 1256,767 1079,771 904,771 727,775"/>
+        <Baseline points="727,824 904,820 1080,820 1256,816 1432,816 1604,812 1780,812 1956,812 2132,812 2314,808"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Za první světové války byl starostou obce Koloredova. Syn Ferdinand padl</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="d8bbff0e-af3f-43f9-af3a-83410be7acb6" index="3" custom="heights_v2:[49.3,21.3]">
+        <Coords points="726,859 726,929 896,929 1064,929 1229,929 1396,925 1561,925 1728,921 1892,921 2060,921 2236,921 2236,851 2060,851 1892,851 1728,851 1559,855 1396,855 1227,859 1064,859 896,859 726,859"/>
+        <Baseline points="726,908 896,908 1064,908 1228,908 1396,904 1560,904 1728,900 1892,900 2060,900 2236,900"/>
+        <TextEquiv conf="1.000">
+          <Unicode>v první světové válce, druhý syn Johann, který je inženýrem, odsunut.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="8094e081-b0ed-4a95-aa86-e6ab5e9ca47a" index="4" custom="heights_v2:[51.6,22.1]">
+        <Coords points="2308,1002 2308,1002 2308,993 2307,928 2123,932 1951,936 1776,936 1604,936 1427,940 1256,940 1080,940 907,944 727,948 728,1022 909,1018 1080,1014 1256,1014 1429,1014 1604,1010 1776,1010 1953,1010 2124,1006 2308,1002"/>
+        <Baseline points="728,1000 908,996 1080,992 1256,992 1428,992 1604,988 1776,988 1952,988 2124,984 2308,980"/>
+        <TextEquiv conf="1.000">
+          <Unicode>13. 11. 1931 převzala vnučka Emilie, roz. Pecková, vzala si za manžela Ja-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c893f624-ee6f-4443-8e46-06f9cb2d5345" index="5" custom="heights_v2:[52.1,22.0]">
+        <Coords points="725,1032 724,1106 876,1106 1025,1106 1172,1102 1320,1102 1465,1102 1612,1098 1760,1098 1909,1098 2065,1094 2063,1020 1907,1024 1760,1024 1612,1024 1463,1028 1320,1028 1172,1028 1023,1032 876,1032 725,1032"/>
+        <Baseline points="724,1084 876,1084 1024,1084 1172,1080 1320,1080 1464,1080 1612,1076 1760,1076 1908,1076 2064,1072"/>
+        <TextEquiv conf="1.000">
+          <Unicode>roslava Krobota, správce zdejší mlékárny, rodáka z Písařova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="0d25dc93-9cd0-46a7-a8e0-41e9078c778c" index="6" custom="heights_v2:[52.6,21.8]">
+        <Coords points="1021,1190 1147,1189 1228,1186 1344,1186 1456,1186 1477,1186 1599,1185 1684,1182 1796,1182 1909,1182 2033,1178 2030,1103 1906,1107 1796,1107 1684,1107 1566,1111 1456,1111 1344,1111 1228,1111 1114,1115 996,1115 996,1190 1021,1190"/>
+        <Baseline points="996,1168 1116,1168 1228,1164 1344,1164 1456,1164 1568,1164 1684,1160 1796,1160 1908,1160 2032,1156"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Filomena Najmanova zemřela v r. 1945 v 80 letech.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="a41267e2-e7f8-4965-915c-ecf08df6dd68">
+      <Coords points="2908,352 2856,352 2856,416 3069,408 3065,344 2908,352"/>
+      <TextLine id="82cb55fe-8939-4744-8041-97e4633c6343" index="0" custom="heights_v2:[44.3,20.3]">
+        <Coords points="2908,352 2856,352 2856,416 3069,408 3065,344 3051,345 3005,348 2991,348 2908,352"/>
+        <Baseline points="2856,396 2912,396 2960,392 3008,392 3068,388"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Číslo 30.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="254810fe-bcdd-4531-9746-b871aa9e5cb1">
+      <Coords points="2479,553 2496,996 2690,988 2888,992 3148,931 3365,935 3584,927 4460,947 4457,774 4372,550 4371,493 3528,493 3348,439 2710,432 2522,440 2479,497 2479,553"/>
+      <TextLine id="9b10e0b7-fa03-4412-aa0a-a843f859563b" index="0" custom="heights_v2:[36.5,17.5]">
+        <Coords points="2724,432 2710,432 2522,440 2525,494 2621,490 2707,486 2800,490 2888,490 2979,490 3068,494 3160,494 3248,494 3348,494 3348,439 3248,439 3160,439 3068,439 2982,436 2888,435 2800,435 2724,432"/>
+        <Baseline points="2524,476 2620,472 2708,468 2800,472 2888,472 2980,472 3068,476 3160,476 3248,476 3348,476"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Majitel Novotný František. 1834.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="61cdf684-79e4-4782-a94b-02acb9b9bae4" index="1" custom="heights_v2:[39.4,18.2]">
+        <Coords points="4372,550 4372,550 4371,493 4352,493 4151,497 3963,493 3528,493 3527,493 3320,493 3112,493 2905,489 2696,489 2479,497 2479,497 2479,509 2481,554 2696,546 2904,546 3112,550 3320,550 3528,550 3736,550 3944,550 4152,554 4372,550"/>
+        <Baseline points="2480,536 2696,528 2904,528 3112,532 3320,532 3528,532 3736,532 3944,532 4152,536 4372,532"/>
+        <TextEquiv conf="1.000">
+          <Unicode>V roce 1775 František Novotný, kovář panský; dědil syn František a potomto syn Jan, jenž domek roz-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="38633a08-2a54-47cd-ba2f-b53ac9387952" index="2" custom="heights_v2:[35.1,16.1]">
+        <Coords points="2479,553 2481,604 2692,596 2900,596 3104,600 3312,604 3516,604 3724,604 3928,608 4136,608 4352,608 4352,557 4136,557 3928,557 3725,553 3516,553 3312,553 3105,549 2901,545 2692,545 2479,553 2479,553"/>
+        <Baseline points="2480,588 2692,580 2900,580 3104,584 3312,588 3516,588 3724,588 3928,592 4136,592 4352,592"/>
+        <TextEquiv conf="1.000">
+          <Unicode>bourav v roce 1879 na jeho místě nový o jednom poschodí postavil a hostinec zařídil. V roce 1897 koupil jej</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="c264b852-5227-4232-848f-5098e33c052b" index="3" custom="heights_v2:[29.4,14.0]">
+        <Coords points="2481,610 2483,654 2557,650 2624,646 2691,646 2760,650 2828,650 2896,650 2965,650 3031,646 3107,650 3110,607 3034,603 2962,607 2896,607 2828,607 2760,607 2694,603 2624,603 2554,607 2481,610"/>
+        <Baseline points="2482,640 2556,636 2624,632 2692,632 2760,636 2828,636 2896,636 2964,636 3032,632 3108,636"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Vojtěch Dvořák z Hořic v Čechách.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="5a2c4d34-c0bb-4f10-b38c-0f8ef492bed5" index="4" custom="heights_v2:[34.0,16.2]">
+        <Coords points="2483,662 2485,712 2668,704 2848,704 3028,704 3208,708 3388,708 3568,708 3748,708 3927,712 4115,724 4118,674 3930,662 3749,658 3568,658 3388,658 3208,658 3029,654 2848,654 2668,654 2483,662"/>
+        <Baseline points="2484,696 2668,688 2848,688 3028,688 3208,692 3388,692 3568,692 3748,692 3928,696 4116,708"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Dvořák dům i se realitami prodal na Aloise Hlavinku v r. 1905 ze Savína za 14200.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="e8c7500e-c860-491e-ad65-0c582357d4a5" index="5" custom="heights_v2:[32.1,15.3]">
+        <Coords points="2485,708 2487,755 2692,751 2895,751 3100,759 3304,755 3508,759 3712,759 3915,759 4120,767 4332,771 4333,724 4121,720 3917,712 3712,712 3508,712 3305,708 3099,712 2897,704 2692,704 2485,708"/>
+        <Baseline points="2486,740 2692,736 2896,736 3100,744 3304,740 3508,744 3712,744 3916,744 4120,752 4332,756"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Roku 1946 beze změny. K číslu 39. patří také stodola - lednice a č 38 a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="1403ee41-0aa8-4b86-99f3-3bc6bf438f42" index="6" custom="heights_v2:[33.7,15.8]">
+        <Coords points="2487,758 2489,803 2489,808 2712,796 2927,800 3144,808 3360,812 3580,816 3796,820 4012,820 4228,820 4456,824 4457,774 4229,770 4012,770 3796,770 3581,766 3361,762 3145,758 2929,750 2713,746 2487,758"/>
+        <Baseline points="2488,792 2712,780 2928,784 3144,792 3360,796 3580,800 3796,804 4012,804 4228,804 4456,808"/>
+        <TextEquiv conf="1.000">
+          <Unicode>část zahrady od téhož čísla - Jan Novotný postaviv dům v 1879 dal na střechu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="3b1cfe15-d400-47c7-93d8-05bbe72b6b7c" index="7" custom="heights_v2:[37.1,17.3]">
+        <Coords points="2495,815 2497,869 2712,861 2920,865 3127,869 3336,877 3548,877 3756,873 3964,877 4172,873 4392,877 4393,823 4173,819 3963,823 3757,819 3547,823 3336,823 3129,815 2921,811 2713,807 2495,815"/>
+        <Baseline points="2496,852 2712,844 2920,848 3128,852 3336,860 3548,860 3756,856 3964,860 4172,856 4392,860"/>
+        <TextEquiv conf="1.000">
+          <Unicode>první hromosvod v obci. Hlavinka Alois zemřel 10. 8. 1953 ve věku 77. roků</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4c423b10-4d72-4192-a45e-175c38732614" index="8" custom="heights_v2:[39.2,18.8]">
+        <Coords points="2492,892 2493,923 2716,923 2931,923 3148,931 3365,935 3584,927 3800,931 4015,935 4164,940 4415,946 4460,947 4460,937 4459,889 4233,885 4017,877 3801,873 3585,869 3363,877 3149,873 2933,865 2716,865 2492,865 2492,892"/>
+        <Baseline points="2492,904 2716,904 2932,904 3148,912 3364,916 3584,908 3800,912 4016,916 4232,924 4460,928"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Majitelem je jeho syn Josef Havinka bydlí v Olomouci. Hostinec má jednota pronajaty</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="4e7903a2-df8a-4046-9fde-4d061681b8b7" index="9" custom="heights_v2:[44.6,20.2]">
+        <Coords points="2496,996 2690,988 2888,992 2888,927 2832,927 2784,927 2736,927 2696,924 2640,928 2596,927 2544,932 2496,931 2496,996"/>
+        <Baseline points="2496,976 2548,976 2596,972 2644,972 2692,968 2736,972 2784,972 2832,972 2888,972"/>
+        <TextEquiv conf="1.000">
+          <Unicode>jako pohostinství.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="6a49ce7a-ddc0-4ec4-ac5f-313c7e5456dc">
+      <Coords points="724,3262 616,3262 616,3338 724,3338 724,3262"/>
+      <TextLine id="1670c036-71cd-4004-b998-90c8bcc2d8b0" index="0" custom="heights_v2:[53.6,22.0]">
+        <Coords points="616,3262 616,3338 724,3338 724,3262 616,3262"/>
+        <Baseline points="616,3316 724,3316"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

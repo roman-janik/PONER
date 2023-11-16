@@ -1,0 +1,120 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:15:03.702546+00:00</Created>
+    <LastChange>2023-02-07T20:15:03.702546+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-537-5" imageWidth="2165" imageHeight="1524">
+    <TextRegion id="r000">
+      <Coords points="95,1004 26,1007 29,1083 629,1040 623,965 576,923 567,839 627,767 871,747 865,684 317,724 323,787 237,879 138,897 95,1004"/>
+      <TextLine id="r000-l013" index="0" custom="heights_v2:[47.8,17.6]">
+        <Coords points="317,722 384,716 444,714 503,711 561,708 620,702 682,697 740,694 800,688 865,682 871,748 805,753 746,759 685,762 627,768 567,773 507,776 447,779 387,782 323,787"/>
+        <Baseline points="321,770 386,764 446,761 506,758 565,756 625,750 685,744 744,741 804,736 869,730"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="1" custom="heights_v2:[61.0,23.0]">
+        <Coords points="138,897 188,889 237,880 279,875 328,865 376,860 421,854 471,848 513,846 567,840 576,923 522,929 476,932 432,938 386,943 338,949 294,957 247,963 203,971 152,980"/>
+        <Baseline points="148,957 199,949 244,940 290,935 335,926 384,920 429,915 474,909 520,906 574,901"/>
+        <TextEquiv conf="0.319">
+          <Unicode>Ant</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="2" custom="heights_v2:[55.6,20.1]">
+        <Coords points="26,1007 95,1004 160,999 225,993 291,987 356,981 424,976 489,973 552,970 623,964 629,1040 558,1046 492,1048 427,1051 363,1057 297,1063 232,1068 167,1074 101,1080 29,1083"/>
+        <Baseline points="28,1062 99,1060 165,1054 230,1048 295,1043 361,1037 426,1031 491,1028 557,1026 628,1020"/>
+        <TextEquiv conf="1.000">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="46,515 49,569 538,540 644,591 674,631 981,614 977,559 878,514 946,321 1034,321 1034,257 1023,199 995,136 894,67 104,106 79,168 83,281 100,352 103,404 46,515"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[38.8,16.6]">
+        <Coords points="104,106 195,103 279,100 365,95 452,86 540,81 627,75 715,72 800,69 894,66 895,122 802,125 716,127 628,130 544,136 456,142 371,150 282,156 197,159 106,161"/>
+        <Baseline points="105,145 196,142 281,139 369,134 455,125 543,119 628,114 716,111 801,108 895,105"/>
+        <TextEquiv conf="0.968">
+          <Unicode>V dalším velmi slibném rozvoji a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l002" index="1" custom="heights_v2:[40.6,16.7]">
+        <Coords points="79,167 186,158 285,155 385,150 484,147 586,141 687,136 786,136 887,133 995,136 994,193 886,190 787,193 687,193 589,198 487,204 387,207 288,213 188,216 84,224"/>
+        <Baseline points="82,207 187,199 287,196 386,190 486,187 588,182 687,176 787,176 886,173 994,176"/>
+        <TextEquiv conf="0.970">
+          <Unicode>rozkvětu obce hojně zdaru ku blahu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l003" index="2" custom="heights_v2:[42.0,16.7]">
+        <Coords points="81,222 189,219 290,217 395,211 499,205 601,202 707,199 810,199 912,199 1023,199 1023,258 912,258 810,258 707,258 603,261 500,264 399,270 294,275 191,278 83,281"/>
+        <Baseline points="82,264 190,261 293,259 398,253 500,247 602,244 707,241 810,241 912,241 1023,241"/>
+        <TextEquiv conf="0.980">
+          <Unicode>celku a drahé republiky Československé!</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l004" index="3" custom="heights_v2:[46.7,17.3]">
+        <Coords points="653,263 699,263 736,263 781,260 821,260 860,260 903,257 946,257 986,257 1034,257 1034,321 986,321 946,321 903,321 865,324 821,324 781,324 740,327 699,327 653,327"/>
+        <Baseline points="653,310 699,310 739,310 781,307 821,307 864,307 903,304 946,304 986,304 1034,304"/>
+        <TextEquiv conf="0.736">
+          <Unicode>Dne 21. září 1936.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="4" custom="heights_v2:[39.0,15.7]">
+        <Coords points="142,308 182,308 222,305 261,305 301,305 338,308 372,308 415,305 452,305 497,305 497,359 452,359 415,359 376,362 338,362 297,359 261,359 222,359 186,362 142,362"/>
+        <Baseline points="142,347 185,347 222,344 261,344 298,344 338,347 375,347 415,344 452,344 497,344"/>
+        <TextEquiv conf="0.560">
+          <Unicode>František Sande</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="5" custom="heights_v2:[36.2,15.2]">
+        <Coords points="100,353 159,350 211,350 264,347 316,347 369,345 421,345 473,342 528,339 588,339 588,390 528,390 475,393 424,396 369,396 319,399 264,399 214,402 159,402 103,404"/>
+        <Baseline points="102,389 159,386 213,386 264,384 318,384 369,381 423,381 474,378 528,375 588,375"/>
+        <TextEquiv conf="0.334">
+          <Unicode>vební komisař pol. správy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="6" custom="heights_v2:[35.5,13.7]">
+        <Coords points="142,411 185,411 227,408 267,408 304,408 347,405 384,405 424,402 466,399 511,399 511,448 466,448 427,451 387,454 347,454 308,457 267,457 227,457 188,460 142,460"/>
+        <Baseline points="142,446 187,446 227,443 267,443 307,443 347,440 386,440 426,437 466,435 511,435"/>
+        <TextEquiv conf="0.919">
+          <Unicode>Ing. Rudolf Linek,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="7" custom="heights_v2:[39.7,14.3]">
+        <Coords points="594,409 636,406 676,404 722,401 725,455 680,457 640,460 598,463"/>
+        <Baseline points="597,449 639,446 679,443 724,440"/>
+        <TextEquiv conf="0.286">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="8" custom="heights_v2:[33.8,13.8]">
+        <Coords points="136,446 179,446 216,446 256,446 290,446 330,443 369,443 404,444 443,441 489,441 489,488 443,488 407,491 369,491 330,491 294,494 256,494 216,494 179,494 136,494"/>
+        <Baseline points="136,480 179,480 216,480 256,480 293,480 330,477 369,477 406,477 443,474 489,474"/>
+        <TextEquiv conf="0.870">
+          <Unicode>vrchní zeměd. komisař.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="9" custom="heights_v2:[39.0,15.0]">
+        <Coords points="46,515 132,509 210,506 294,501 372,498 455,492 534,487 617,481 694,475 782,464 789,518 701,529 620,535 538,540 458,546 376,552 296,555 214,560 134,563 49,569"/>
+        <Baseline points="48,554 134,548 213,545 295,540 375,537 457,531 537,526 619,520 699,514 787,503"/>
+        <TextEquiv conf="0.625">
+          <Unicode>S chutí úsilovnou a s vůlí pevnou statně vpřed. 4. X. 1936</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="10" custom="heights_v2:[39.5,14.5]">
+        <Coords points="636,538 675,532 707,529 741,526 772,523 806,520 838,517 878,515 882,568 842,571 811,574 777,577 746,580 711,583 680,585 644,591"/>
+        <Baseline points="642,577 679,571 710,568 744,565 776,562 810,560 841,557 881,554"/>
+        <TextEquiv conf="0.759">
+          <Unicode>K. Mikuškovic</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="11" custom="heights_v2:[40.7,15.1]">
+        <Coords points="670,576 710,573 741,573 772,570 810,567 837,567 871,565 906,562 937,562 977,559 981,614 941,617 906,617 876,620 842,623 810,623 777,626 746,629 710,629 674,632"/>
+        <Baseline points="673,616 710,614 744,614 776,611 810,608 841,608 875,605 906,602 940,602 980,599"/>
+        <TextEquiv conf="0.850">
+          <Unicode>krajský hasič. náčelník.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

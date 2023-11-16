@@ -1,0 +1,233 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:16:53.012762+00:00</Created>
+    <LastChange>2023-02-07T20:16:53.012762+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-559-204" imageWidth="1982" imageHeight="1570">
+    <TextRegion id="r000">
+      <Coords points="47,108 46,149 135,152 137,111 47,108"/>
+      <TextLine id="r000-l004" index="0" custom="heights_v2:[30.1,10.2]">
+        <Coords points="47,108 137,111 135,152 46,149"/>
+        <Baseline points="46,139 136,141"/>
+        <TextEquiv conf="0.791">
+          <Unicode>5.12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="93,56 44,59 47,103 145,97 142,53 93,56"/>
+      <TextLine id="r001-l002" index="0" custom="heights_v2:[33.5,10.1]">
+        <Coords points="44,59 93,56 142,53 145,97 96,99 47,102"/>
+        <Baseline points="46,92 95,89 144,87"/>
+        <TextEquiv conf="1.000">
+          <Unicode>1933</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="181,441 173,492 181,834 291,840 409,794 863,799 866,646 888,551 890,501 869,441 875,190 866,96 185,99 181,441"/>
+      <TextLine id="r002-l003" index="0" custom="heights_v2:[37.0,14.0]">
+        <Coords points="185,99 261,99 338,96 413,96 488,96 560,96 635,96 710,96 785,96 866,96 866,147 785,147 710,147 635,147 560,147 488,147 413,147 338,147 263,150 185,150"/>
+        <Baseline points="185,136 263,136 338,133 413,133 488,133 560,133 635,133 710,133 785,133 866,133"/>
+        <TextEquiv conf="0.870">
+          <Unicode>platnosti, jestliže v pěti létech ode dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="1" custom="heights_v2:[33.9,13.6]">
+        <Coords points="184,148 263,148 338,148 413,148 488,148 564,148 641,145 716,145 790,145 872,142 874,190 791,193 716,193 641,193 566,195 488,195 413,195 338,195 263,195 184,195"/>
+        <Baseline points="184,182 263,182 338,182 413,182 488,182 566,182 641,179 716,179 791,179 874,176"/>
+        <TextEquiv conf="0.997">
+          <Unicode>doručení tohoto výměru počínajíc ne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l006" index="2" custom="heights_v2:[34.2,14.0]">
+        <Coords points="183,197 260,197 335,197 411,197 488,194 563,194 641,194 716,194 791,194 874,194 874,242 791,242 716,242 641,242 563,242 488,242 413,245 335,245 260,245 183,245"/>
+        <Baseline points="183,231 260,231 335,231 413,231 488,228 563,228 641,228 716,228 791,228 874,228"/>
+        <TextEquiv conf="0.987">
+          <Unicode>začne se na uvedených pozemcích sta-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="3" custom="heights_v2:[34.7,14.2]">
+        <Coords points="183,245 257,245 329,245 401,245 473,245 548,245 620,245 693,245 766,245 847,248 845,297 764,294 693,294 620,294 548,294 473,294 401,294 329,294 257,294 183,294"/>
+        <Baseline points="183,280 257,280 329,280 401,280 473,280 548,280 620,280 693,280 765,280 846,283"/>
+        <TextEquiv conf="0.378">
+          <Unicode>věti (§ 16 stav. řádu). Jeden situační</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l008" index="4" custom="heights_v2:[34.1,14.2]">
+        <Coords points="182,298 263,298 338,298 411,298 488,295 566,295 641,295 717,295 791,298 871,298 871,346 791,346 715,343 641,343 566,343 488,343 413,346 338,346 263,346 182,346"/>
+        <Baseline points="182,332 263,332 338,332 413,332 488,329 566,329 641,329 716,329 791,332 871,332"/>
+        <TextEquiv conf="0.594">
+          <Unicode>plán doložkou schvalovací opatřený se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="5" custom="heights_v2:[33.9,13.7]">
+        <Coords points="183,344 257,347 329,347 401,347 472,347 545,344 618,344 690,344 762,344 840,344 840,392 762,392 690,392 618,392 545,392 474,395 401,395 329,395 257,395 181,392"/>
+        <Baseline points="182,378 257,381 329,381 401,381 473,381 545,378 618,378 690,378 762,378 840,378"/>
+        <TextEquiv conf="0.975">
+          <Unicode>vrací. Proti tomuto výměru možno si</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l010" index="6" custom="heights_v2:[34.7,14.1]">
+        <Coords points="183,392 263,395 338,395 413,395 488,395 561,395 638,392 713,392 788,392 869,392 869,441 788,441 713,441 638,441 563,444 488,444 413,444 338,444 263,444 181,441"/>
+        <Baseline points="182,427 263,430 338,430 413,430 488,430 563,430 638,427 713,427 788,427 869,427"/>
+        <TextEquiv conf="0.878">
+          <Unicode>stěžovati u obec. úřadu v Suchém Vel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="7" custom="heights_v2:[34.3,14.1]">
+        <Coords points="182,445 260,445 332,445 405,445 475,448 551,445 623,445 697,445 768,448 848,448 848,496 768,496 695,493 623,493 551,493 477,496 403,493 332,493 260,493 182,493"/>
+        <Baseline points="182,479 260,479 332,479 404,479 476,482 551,479 623,479 695,479 768,482 848,482"/>
+        <TextEquiv conf="0.705">
+          <Unicode>ném k okresnímu úřadu v Českých</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l012" index="8" custom="heights_v2:[35.6,14.8]">
+        <Coords points="174,493 258,493 335,495 413,495 491,495 570,495 646,498 724,498 803,498 890,501 888,552 802,549 724,549 646,549 568,546 491,546 413,546 335,546 256,543 174,543"/>
+        <Baseline points="174,528 257,528 335,531 413,531 491,531 569,531 646,534 724,534 802,534 889,537"/>
+        <TextEquiv conf="0.917">
+          <Unicode>Budějovicích a to v době 14 dnů ode dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="9" custom="heights_v2:[36.2,14.8]">
+        <Coords points="180,541 260,544 336,544 411,547 485,550 564,550 638,553 713,553 790,553 874,558 871,609 787,604 713,604 638,604 562,601 485,601 409,598 334,595 260,595 178,592"/>
+        <Baseline points="179,577 260,580 335,580 410,583 485,586 563,586 638,589 713,589 788,589 872,594"/>
+        <TextEquiv conf="0.938">
+          <Unicode>doručení výměru počínaje. (paragr. 132</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l014" index="10" custom="heights_v2:[34.3,14.1]">
+        <Coords points="176,592 214,592 251,592 283,595 317,595 358,595 358,643 317,643 283,643 247,640 214,640 176,640"/>
+        <Baseline points="176,626 214,626 248,626 283,629 317,629 358,629"/>
+        <TextEquiv conf="0.935">
+          <Unicode>st. řádu)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l015" index="11" custom="heights_v2:[38.0,15.2]">
+        <Coords points="198,637 274,640 346,640 421,640 495,640 566,643 641,643 714,643 785,646 865,646 865,699 785,699 712,696 641,696 566,696 493,693 421,693 346,693 274,693 196,690"/>
+        <Baseline points="196,675 274,678 346,678 421,678 493,678 566,681 641,681 713,681 785,684 865,684"/>
+        <TextEquiv conf="0.652">
+          <Unicode>Poznámka: Pozemky tyto, jichž parce-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l016" index="12" custom="heights_v2:[34.9,14.0]">
+        <Coords points="182,689 261,689 333,692 404,695 476,695 553,695 623,698 695,698 768,698 848,698 848,747 768,747 695,747 623,747 551,744 476,744 404,744 331,741 259,738 182,738"/>
+        <Baseline points="182,724 260,724 332,727 404,730 476,730 551,730 623,733 695,733 768,733 848,733"/>
+        <TextEquiv conf="0.864">
+          <Unicode>lace byla povolena, leží u Dr. Vody na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l017" index="13" custom="heights_v2:[37.6,14.6]">
+        <Coords points="183,733 261,736 336,739 411,742 485,744 558,744 632,747 707,747 782,747 863,747 863,800 782,800 707,800 632,800 556,797 485,797 409,794 334,791 259,788 181,785"/>
+        <Baseline points="182,771 260,773 335,776 410,779 485,782 557,782 632,785 707,785 782,785 863,785"/>
+        <TextEquiv conf="0.619">
+          <Unicode>hranicích obce blíže Dobrovodského po-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l018" index="14" custom="heights_v2:[36.9,14.6]">
+        <Coords points="184,783 239,786 293,788 291,840 236,837 181,834"/>
+        <Baseline points="182,820 237,822 291,825"/>
+        <TextEquiv conf="0.995">
+          <Unicode>toka.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="192,1179 190,1277 215,1370 208,1508 862,1533 880,1349 911,1300 914,1251 822,1145 227,1128 192,1179"/>
+      <TextLine id="r003-l021" index="0" custom="heights_v2:[38.5,14.0]">
+        <Coords points="227,1127 294,1130 362,1130 426,1133 492,1136 556,1139 620,1142 686,1142 750,1145 822,1145 822,1197 750,1197 683,1194 620,1194 553,1191 490,1188 424,1186 360,1183 294,1183 225,1180"/>
+        <Baseline points="225,1166 294,1169 361,1169 424,1172 491,1175 554,1177 620,1180 684,1180 750,1183 822,1183"/>
+        <TextEquiv conf="0.650">
+          <Unicode>Na počátku knihy I. na titulním</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l022" index="1" custom="heights_v2:[36.1,14.0]">
+        <Coords points="192,1179 270,1182 345,1185 417,1188 492,1190 563,1193 639,1193 711,1196 785,1199 866,1199 866,1249 785,1249 709,1246 637,1243 563,1243 490,1241 415,1238 343,1235 268,1232 191,1229"/>
+        <Baseline points="191,1215 268,1218 343,1221 416,1224 491,1226 563,1229 638,1229 710,1232 785,1235 866,1235"/>
+        <TextEquiv conf="0.637">
+          <Unicode>listu mylně uvedeno jest dřívějším kro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l023" index="2" custom="heights_v2:[35.6,13.2]">
+        <Coords points="192,1228 275,1231 353,1234 434,1237 512,1240 589,1243 671,1243 747,1246 828,1246 914,1252 911,1300 824,1294 747,1294 669,1292 589,1292 510,1289 432,1286 352,1283 274,1280 190,1277"/>
+        <Baseline points="190,1264 274,1267 352,1270 433,1273 511,1276 589,1278 670,1278 747,1281 825,1281 912,1287"/>
+        <TextEquiv conf="0.578">
+          <Unicode>nikářem, že tato kniha čítá 400 stránek.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l024" index="3" custom="heights_v2:[36.1,13.3]">
+        <Coords points="253,1277 303,1280 343,1283 389,1283 430,1286 476,1286 517,1289 560,1289 603,1289 655,1289 655,1338 603,1338 560,1338 517,1338 472,1335 430,1335 386,1332 343,1332 299,1329 250,1326"/>
+        <Baseline points="251,1313 300,1316 343,1319 387,1319 430,1322 473,1322 517,1325 560,1325 603,1325 655,1325"/>
+        <TextEquiv conf="0.961">
+          <Unicode>Kniha čítá správně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l025" index="4" custom="heights_v2:[36.1,13.0]">
+        <Coords points="522,1338 566,1338 606,1338 641,1341 678,1341 721,1341 756,1343 796,1344 833,1346 878,1349 875,1398 830,1395 793,1392 756,1392 718,1390 678,1390 641,1390 602,1387 566,1387 522,1387"/>
+        <Baseline points="522,1374 566,1374 603,1374 641,1377 678,1377 719,1377 756,1379 794,1379 831,1382 876,1385"/>
+        <TextEquiv conf="0.689">
+          <Unicode>jenom 392 stran,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l026" index="5" custom="heights_v2:[37.9,14.7]">
+        <Coords points="215,1370 279,1373 337,1376 395,1379 455,1379 511,1382 573,1382 631,1385 687,1388 753,1388 753,1440 687,1440 628,1437 571,1435 511,1435 452,1432 395,1432 334,1429 276,1426 213,1423"/>
+        <Baseline points="214,1408 277,1411 335,1414 395,1417 453,1417 511,1420 571,1420 629,1423 687,1426 753,1426"/>
+        <TextEquiv conf="0.866">
+          <Unicode>t. j. třistadevadesát dvě stránky.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l027" index="6" custom="heights_v2:[32.5,12.5]">
+        <Coords points="560,1434 597,1434 635,1434 667,1436 701,1437 733,1439 768,1439 808,1439 808,1484 768,1484 733,1484 697,1481 667,1481 631,1479 597,1479 560,1479"/>
+        <Baseline points="560,1466 597,1466 632,1466 667,1469 698,1469 733,1472 768,1472 808,1472"/>
+        <TextEquiv conf="0.808">
+          <Unicode>Jos. Nobis, ob. taj.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l028" index="7" custom="heights_v2:[38.7,13.4]">
+        <Coords points="209,1456 249,1456 277,1459 312,1459 343,1462 375,1462 410,1462 439,1465 479,1465 479,1517 439,1517 406,1514 375,1514 343,1514 308,1511 277,1511 244,1508 209,1508"/>
+        <Baseline points="209,1495 245,1495 277,1498 309,1498 343,1501 375,1501 407,1501 439,1504 479,1504"/>
+        <TextEquiv conf="0.810">
+          <Unicode>S. Vrbné, 5. 12. 33.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l029" index="8" custom="heights_v2:[32.8,11.3]">
+        <Coords points="605,1474 644,1477 681,1477 715,1480 750,1482 788,1482 822,1485 865,1488 862,1532 819,1529 784,1526 750,1526 712,1523 677,1521 644,1521 602,1518"/>
+        <Baseline points="603,1506 644,1509 678,1509 713,1512 750,1515 785,1515 820,1518 863,1521"/>
+        <TextEquiv conf="0.996">
+          <Unicode>kronikář obce.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="277,966 273,1044 808,1061 808,983 277,966"/>
+      <TextLine id="r004-l020" index="0" custom="heights_v2:[58.5,22.5]">
+        <Coords points="277,963 338,966 398,966 453,969 514,969 574,972 626,977 687,978 742,980 808,980 808,1061 742,1061 683,1058 626,1059 566,1053 510,1050 453,1050 394,1047 338,1047 273,1044"/>
+        <Baseline points="274,1022 338,1024 395,1024 453,1027 511,1027 569,1030 626,1036 684,1036 742,1039 808,1039"/>
+        <TextEquiv conf="0.926">
+          <Unicode>Pokračování viz v knize</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="470,835 430,835 430,890 721,893 721,838 470,835"/>
+      <TextLine id="r005-l019" index="0" custom="heights_v2:[38.2,15.8]">
+        <Coords points="430,836 470,836 505,836 540,836 574,836 612,836 644,839 678,839 721,839 721,893 678,893 644,893 608,890 574,890 540,890 505,890 470,890 430,890"/>
+        <Baseline points="430,874 470,874 505,874 540,874 574,874 609,874 644,877 678,877 721,877"/>
+        <TextEquiv conf="0.414">
+          <Unicode>Konec I. knihy. </Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="516,14 465,14 465,65 562,67 565,17 516,14"/>
+      <TextLine id="r006-l001" index="0" custom="heights_v2:[37.0,12.0]">
+        <Coords points="465,15 516,15 565,18 562,67 513,64 465,64"/>
+        <Baseline points="465,52 514,52 563,55"/>
+        <TextEquiv conf="1.000">
+          <Unicode>392</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

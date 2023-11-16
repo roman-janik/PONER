@@ -1,0 +1,260 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:15:32.218040+00:00</Created>
+    <LastChange>2023-02-07T20:15:32.218040+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-546-17" imageWidth="1997" imageHeight="1609">
+    <TextRegion id="r000">
+      <Coords points="30,1441 28,1487 173,1490 216,1448 216,1399 37,1393 30,1441"/>
+      <TextLine id="r000-l031" index="0" custom="heights_v2:[36.3,14.1]">
+        <Coords points="37,1393 74,1395 108,1395 145,1396 176,1398 216,1398 216,1449 176,1449 141,1446 108,1446 74,1446 33,1443"/>
+        <Baseline points="34,1429 74,1432 108,1432 142,1432 176,1435 216,1435"/>
+        <TextEquiv conf="0.686">
+          <Unicode>Otisky has.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l032" index="1" custom="heights_v2:[32.4,12.5]">
+        <Coords points="30,1442 77,1445 122,1445 173,1445 173,1490 122,1490 77,1490 28,1487"/>
+        <Baseline points="28,1474 77,1477 122,1477 173,1477"/>
+        <TextEquiv conf="0.635">
+          <Unicode>razítek</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="82,496 43,496 43,557 227,557 227,496 82,496"/>
+      <TextLine id="r001-l012" index="0" custom="heights_v2:[44.1,17.8]">
+        <Coords points="43,496 82,496 116,496 151,496 185,496 227,496 227,558 185,558 151,558 116,558 82,558 43,558"/>
+        <Baseline points="43,540 82,540 116,540 151,540 185,540 227,540"/>
+        <TextEquiv conf="0.877">
+          <Unicode>Statistika</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="148,23 80,23 80,77 148,77 148,23"/>
+      <TextLine id="r002-l001" index="0" custom="heights_v2:[42.2,11.3]">
+        <Coords points="80,23 148,23 148,77 80,77"/>
+        <Baseline points="80,65 148,65"/>
+        <TextEquiv conf="0.999">
+          <Unicode>30</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="235,190 236,464 628,461 744,415 1003,417 1007,102 751,93 243,99 235,190"/>
+      <TextLine id="r003-l003" index="0" custom="heights_v2:[34.9,14.3]">
+        <Coords points="243,99 332,96 414,96 500,93 582,93 665,93 751,93 834,96 916,99 1007,101 1005,151 914,148 832,145 749,142 665,142 582,142 500,142 415,145 332,145 245,148"/>
+        <Baseline points="244,134 332,131 415,131 500,128 582,128 665,128 750,128 832,131 915,134 1006,136"/>
+        <TextEquiv conf="0.964">
+          <Unicode>slavnost na „Svátek matek, hasičstvo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l004" index="1" custom="heights_v2:[31.3,13.7]">
+        <Coords points="238,148 326,145 412,142 497,142 580,142 665,142 750,142 833,142 919,145 1007,148 1005,193 917,190 832,187 750,187 665,187 580,187 497,187 412,187 327,190 239,193"/>
+        <Baseline points="239,179 327,176 412,173 497,173 580,173 665,173 750,173 832,173 918,176 1006,179"/>
+        <TextEquiv conf="0.767">
+          <Unicode>sehrálo 25. 12. div. předst. „Tomšo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l005" index="2" custom="heights_v2:[31.1,13.8]">
+        <Coords points="235,190 324,188 409,188 490,188 577,185 659,185 744,185 828,185 914,188 1005,193 1002,238 911,233 826,230 744,230 659,230 577,230 492,233 409,233 324,233 236,235"/>
+        <Baseline points="236,222 324,219 409,219 491,219 577,216 659,216 744,216 827,216 912,219 1003,224"/>
+        <TextEquiv conf="0.547">
+          <Unicode>vic grunt“, 4. února pořádalo svůj</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l006" index="3" custom="heights_v2:[31.7,14.3]">
+        <Coords points="238,238 323,235 406,233 489,233 570,233 651,230 734,230 815,233 898,233 986,233 986,278 898,278 815,278 732,276 651,276 572,278 489,278 406,278 324,281 239,284"/>
+        <Baseline points="239,270 324,267 406,264 489,264 571,264 651,261 733,261 815,264 898,264 986,264"/>
+        <TextEquiv conf="0.979">
+          <Unicode>tradiční ples. Velitel měl něko-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="4" custom="heights_v2:[32.5,14.3]">
+        <Coords points="243,280 332,277 415,277 500,277 582,277 668,277 750,277 835,277 919,277 1005,280 1004,327 917,324 835,324 750,324 668,324 582,324 500,324 415,324 332,324 245,327"/>
+        <Baseline points="244,312 332,310 415,310 500,310 582,310 668,310 750,310 835,310 918,310 1004,312"/>
+        <TextEquiv conf="0.933">
+          <Unicode>lik proslovů k hasičstvu Jos. Šne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l008" index="5" custom="heights_v2:[33.3,14.2]">
+        <Coords points="236,325 323,325 409,322 491,322 577,322 659,322 744,322 828,322 913,325 1004,328 1002,375 911,372 826,369 744,369 659,369 577,369 491,369 409,369 324,372 236,372"/>
+        <Baseline points="236,358 324,358 409,355 491,355 577,355 659,355 744,355 827,355 912,358 1003,361"/>
+        <TextEquiv conf="0.544">
+          <Unicode>vas, uč. nábož. a uč. B. Švinger, oba</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l009" index="6" custom="heights_v2:[33.5,14.0]">
+        <Coords points="236,370 324,370 408,370 491,367 577,367 659,367 744,367 828,367 912,370 1003,370 1003,417 912,417 826,415 744,415 659,415 577,415 491,415 410,417 324,417 236,417"/>
+        <Baseline points="236,403 324,403 409,403 491,401 577,401 659,401 744,401 827,401 912,403 1003,403"/>
+        <TextEquiv conf="0.887">
+          <Unicode>z Lišova, uspořádali zde 3 biogra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l010" index="7" custom="heights_v2:[35.0,15.6]">
+        <Coords points="236,414 281,414 324,414 366,414 407,414 452,411 494,411 537,411 580,411 628,411 628,462 580,462 537,462 494,462 452,462 410,464 366,464 324,464 281,464 236,464"/>
+        <Baseline points="236,449 281,449 324,449 366,449 409,449 452,446 494,446 537,446 580,446 628,446"/>
+        <TextEquiv conf="0.979">
+          <Unicode>fická představení.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="245,545 250,780 244,872 253,961 599,967 651,874 977,877 977,829 949,783 960,693 994,647 1007,505 369,499 245,545"/>
+      <TextLine id="r004-l011" index="0" custom="heights_v2:[37.4,14.7]">
+        <Coords points="369,499 443,499 511,499 582,499 651,499 722,499 791,499 861,502 930,502 1005,505 1003,557 928,554 861,554 789,552 722,552 651,552 582,552 511,552 443,552 369,552"/>
+        <Baseline points="369,537 443,537 511,537 582,537 651,537 722,537 790,537 861,540 929,540 1004,543"/>
+        <TextEquiv conf="0.977">
+          <Unicode>K 31. prosinci čítá naše obec</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l013" index="1" custom="heights_v2:[34.1,14.0]">
+        <Coords points="247,545 330,548 412,548 494,548 574,548 656,548 739,548 819,548 902,551 990,554 988,602 900,599 818,596 739,596 656,596 574,596 494,596 412,596 330,596 246,594"/>
+        <Baseline points="246,580 330,582 412,582 494,582 574,582 656,582 739,582 818,582 901,585 989,588"/>
+        <TextEquiv conf="0.926">
+          <Unicode>43 pop. čísla a má 187 obyvatelů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l014" index="2" custom="heights_v2:[33.4,14.0]">
+        <Coords points="246,597 332,594 415,594 497,594 580,594 659,594 741,594 825,594 907,597 995,600 994,647 906,645 823,642 741,642 659,642 580,642 497,642 415,642 332,642 248,645"/>
+        <Baseline points="247,631 332,628 415,628 497,628 580,628 659,628 741,628 824,628 906,631 994,633"/>
+        <TextEquiv conf="0.697">
+          <Unicode>Školních dětí je 31 (11 chl. a 20 d.),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l015" index="3" custom="heights_v2:[33.6,14.5]">
+        <Coords points="250,643 332,643 409,643 489,643 565,643 642,643 722,643 798,643 876,643 961,645 960,693 874,691 798,691 722,691 642,691 565,691 489,691 409,691 332,691 250,691"/>
+        <Baseline points="250,676 332,676 409,676 489,676 565,676 642,676 722,676 798,676 875,676 960,679"/>
+        <TextEquiv conf="0.804">
+          <Unicode>11 dětí navštěvuje měšť. školu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l016" index="4" custom="heights_v2:[32.9,14.0]">
+        <Coords points="249,689 324,689 395,689 469,689 540,689 614,689 685,689 758,689 831,689 910,692 909,738 829,736 758,736 685,736 614,736 540,736 469,736 395,736 324,736 249,736"/>
+        <Baseline points="249,722 324,722 395,722 469,722 540,722 614,722 685,722 758,722 830,722 909,724"/>
+        <TextEquiv conf="0.627">
+          <Unicode>(6 chl. a 5 d.), 1 učitel. ústav.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l017" index="5" custom="heights_v2:[32.2,13.9]">
+        <Coords points="249,735 312,732 372,732 433,732 491,735 551,735 612,735 670,738 730,738 795,738 795,784 730,784 670,784 610,781 551,781 491,781 431,778 372,778 312,778 251,781"/>
+        <Baseline points="250,767 312,764 372,764 432,764 491,767 551,767 611,767 670,770 730,770 795,770"/>
+        <TextEquiv conf="0.866">
+          <Unicode>Uzavřeny byly 2 sňatky.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l018" index="6" custom="heights_v2:[32.6,13.7]">
+        <Coords points="250,780 330,780 406,780 483,780 561,780 636,783 713,783 790,783 866,783 949,783 949,829 866,829 790,829 713,829 636,829 559,826 483,826 406,826 330,826 250,826"/>
+        <Baseline points="250,812 330,812 406,812 483,812 560,812 636,815 713,815 790,815 866,815 949,815"/>
+        <TextEquiv conf="0.597">
+          <Unicode>Počet narozených: 3 děti, Jarosl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l019" index="7" custom="heights_v2:[33.6,13.8]">
+        <Coords points="245,824 330,824 409,824 490,824 568,827 651,827 731,827 810,830 889,830 977,830 977,877 889,877 810,877 730,875 651,875 568,875 488,872 409,872 330,872 245,872"/>
+        <Baseline points="245,858 330,858 409,858 489,858 568,861 651,861 730,861 810,864 889,864 977,864"/>
+        <TextEquiv conf="0.666">
+          <Unicode>Tůma, Ladislav Herda (26.), Mir.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l020" index="8" custom="heights_v2:[32.6,14.1]">
+        <Coords points="249,868 287,871 324,871 358,871 401,871 401,917 358,917 324,917 287,917 246,915"/>
+        <Baseline points="247,901 287,903 324,903 358,903 401,903"/>
+        <TextEquiv conf="0.975">
+          <Unicode>Kýček.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l021" index="9" custom="heights_v2:[37.9,15.2]">
+        <Coords points="253,908 298,908 332,911 369,911 406,911 446,911 480,914 517,914 554,914 599,914 599,967 554,967 517,967 480,967 442,964 406,964 369,964 332,964 294,961 253,961"/>
+        <Baseline points="253,946 295,946 332,949 369,949 406,949 443,949 480,952 517,952 554,952 599,952"/>
+        <TextEquiv conf="0.671">
+          <Unicode>Počet úmrtí 2.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="247,1052 256,1091 252,1142 800,1152 840,1069 842,1015 249,998 247,1052"/>
+      <TextLine id="r005-l022" index="0" custom="heights_v2:[39.2,15.4]">
+        <Coords points="249,998 315,1000 381,1000 448,1001 513,1003 574,1006 641,1006 706,1009 771,1012 842,1015 840,1069 769,1066 704,1064 639,1061 574,1061 511,1058 445,1055 381,1055 315,1055 247,1052"/>
+        <Baseline points="247,1037 315,1040 381,1040 446,1040 511,1043 574,1045 639,1045 705,1048 770,1051 841,1054"/>
+        <TextEquiv conf="0.736">
+          <Unicode>Hasičský sbor má 24 členy</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l023" index="1" custom="heights_v2:[33.9,14.0]">
+        <Coords points="256,1051 298,1051 335,1051 378,1051 412,1054 452,1054 489,1054 531,1054 565,1057 611,1057 611,1105 565,1105 527,1102 489,1102 452,1102 412,1102 374,1099 335,1099 298,1099 256,1099"/>
+        <Baseline points="256,1085 298,1085 335,1085 375,1085 412,1088 452,1088 489,1088 528,1088 565,1091 611,1091"/>
+        <TextEquiv conf="0.963">
+          <Unicode>Národní souruč.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l024" index="2" custom="heights_v2:[33.4,11.8]">
+        <Coords points="651,1057 722,1057 722,1103 651,1103"/>
+        <Baseline points="651,1091 722,1091"/>
+        <TextEquiv conf="1.000">
+          <Unicode>53</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l025" index="3" custom="heights_v2:[35.8,14.2]">
+        <Coords points="256,1092 290,1095 324,1095 358,1095 389,1095 423,1095 461,1095 489,1098 523,1098 562,1098 562,1148 523,1148 489,1148 456,1145 423,1145 389,1145 358,1145 324,1145 290,1145 252,1142"/>
+        <Baseline points="253,1128 290,1131 324,1131 358,1131 389,1131 423,1131 457,1131 489,1133 523,1133 562,1133"/>
+        <TextEquiv conf="0.720">
+          <Unicode>Mladé </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l026" index="4" custom="heights_v2:[45.2,16.0]">
+        <Coords points="648,1085 691,1086 724,1088 761,1088 804,1091 800,1152 757,1149 724,1150 686,1147 648,1147"/>
+        <Baseline points="648,1131 687,1131 724,1133 758,1133 801,1136"/>
+        <TextEquiv conf="0.996">
+          <Unicode>18 čl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="277,1264 278,1360 804,1381 990,1378 979,1281 818,1283 277,1264"/>
+      <TextLine id="r006-l028" index="0" custom="heights_v2:[40.6,16.1]">
+        <Coords points="279,1263 359,1266 436,1269 513,1272 590,1275 666,1278 743,1280 818,1283 893,1283 979,1280 981,1337 895,1340 818,1340 741,1337 664,1334 587,1331 511,1329 434,1326 357,1323 277,1320"/>
+        <Baseline points="278,1304 358,1307 435,1310 511,1312 588,1315 665,1318 741,1321 818,1324 895,1324 980,1321"/>
+        <TextEquiv conf="0.807">
+          <Unicode>Přistěhovala se 1 rodina (Honr)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l029" index="1" custom="heights_v2:[34.0,13.3]">
+        <Coords points="278,1313 326,1313 366,1315 403,1318 443,1318 485,1318 525,1321 562,1324 604,1324 650,1327 647,1374 601,1371 562,1371 522,1368 482,1365 443,1365 403,1365 363,1363 323,1360 278,1360"/>
+        <Baseline points="278,1347 324,1347 364,1349 403,1352 443,1352 483,1352 523,1355 562,1358 602,1358 648,1361"/>
+        <TextEquiv conf="0.334">
+          <Unicode>odstěhovaly </Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l030" index="2" custom="heights_v2:[38.2,14.7]">
+        <Coords points="730,1323 770,1325 804,1328 838,1328 875,1328 909,1328 943,1328 985,1325 989,1378 947,1381 909,1381 875,1381 838,1381 804,1381 766,1378 726,1375"/>
+        <Baseline points="727,1361 767,1364 804,1366 838,1366 875,1366 909,1366 946,1366 988,1364"/>
+        <TextEquiv conf="0.428">
+          <Unicode>" (Kýček, Brtlík)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="378,1176 301,1176 301,1235 971,1252 973,1194 378,1176"/>
+      <TextLine id="r007-l027" index="0" custom="heights_v2:[41.7,16.7]">
+        <Coords points="301,1177 378,1177 453,1177 527,1180 601,1183 672,1186 744,1188 820,1188 893,1191 973,1194 971,1252 891,1250 818,1247 744,1247 670,1244 599,1241 525,1238 451,1235 378,1235 301,1235"/>
+        <Baseline points="301,1219 378,1219 452,1219 526,1222 599,1224 670,1227 744,1230 818,1230 892,1233 972,1236"/>
+        <TextEquiv conf="0.616">
+          <Unicode>Obecní knihovna má 117 čísel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008">
+      <Coords points="1880,31 1877,94 1948,96 1951,34 1880,31"/>
+      <TextLine id="r008-l002" index="0" custom="heights_v2:[49.4,13.7]">
+        <Coords points="1880,30 1951,33 1948,96 1877,93"/>
+        <Baseline points="1878,80 1949,82"/>
+        <TextEquiv conf="1.000">
+          <Unicode>31</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

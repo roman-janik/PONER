@@ -1,0 +1,243 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:14:57.289254+00:00</Created>
+    <LastChange>2023-02-07T20:14:57.289254+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-536-264" imageWidth="1965" imageHeight="1566">
+    <TextRegion id="r000">
+      <Coords points="159,73 116,73 116,107 159,107 159,73"/>
+      <TextLine id="r000-l002" index="0" custom="heights_v2:[26.1,7.6]">
+        <Coords points="116,73 159,73 159,107 116,107"/>
+        <Baseline points="116,99 159,99"/>
+        <TextEquiv conf="0.988">
+          <Unicode>1937</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="156,353 156,880 162,979 909,980 909,934 935,888 935,846 917,744 926,646 915,539 920,444 912,389 929,340 929,296 946,229 946,187 915,139 916,47 665,44 175,64 161,114 156,353"/>
+      <TextLine id="r001-l001" index="0" custom="heights_v2:[31.9,10.0]">
+        <Coords points="175,65 259,62 340,56 422,53 502,50 584,48 665,45 747,45 828,45 916,48 914,89 826,87 747,87 665,87 586,89 503,92 424,95 341,98 262,104 176,107"/>
+        <Baseline points="176,97 261,94 341,88 423,85 503,82 585,80 665,77 747,77 827,77 915,80"/>
+        <TextEquiv conf="0.518">
+          <Unicode>Firma Mikeš „Hotel Zvon“ Č. B. postavila na jižní straně R.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l003" index="1" custom="heights_v2:[31.4,9.6]">
+        <Coords points="161,114 246,111 326,108 407,105 488,99 570,97 651,94 733,94 812,94 901,94 901,135 812,135 733,135 651,135 571,137 489,140 410,146 327,149 247,152 162,154"/>
+        <Baseline points="162,145 247,142 327,139 409,136 489,131 571,128 651,125 733,125 812,125 901,125"/>
+        <TextEquiv conf="0.619">
+          <Unicode>východně silnice státní svou velkou reklamní tabuli.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l004" index="2" custom="heights_v2:[31.1,9.7]">
+        <Coords points="167,162 252,159 334,156 417,154 499,151 578,148 661,145 743,142 827,139 915,139 915,180 827,180 745,183 662,186 580,189 500,192 418,194 336,197 253,200 168,203"/>
+        <Baseline points="168,193 253,190 335,187 418,185 500,182 580,179 662,176 744,173 827,170 915,170"/>
+        <TextEquiv conf="0.514">
+          <Unicode>11. května děti školní navštívily četně divadlo ná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="3" custom="heights_v2:[32.0,10.9]">
+        <Coords points="158,207 249,204 334,201 422,198 506,195 593,190 682,187 767,187 852,187 946,187 946,230 852,230 767,230 682,230 594,233 509,238 424,241 336,244 250,247 159,250"/>
+        <Baseline points="159,239 250,236 335,233 423,230 509,227 594,222 682,219 767,219 852,219 946,219"/>
+        <TextEquiv conf="0.401">
+          <Unicode>rodní v Č. B., kde hrála se hra „Člověk uzdravuje (viz str. 441)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="4" custom="heights_v2:[34.0,10.8]">
+        <Coords points="161,256 244,253 320,253 399,250 476,247 557,244 633,244 713,244 790,244 875,244 875,289 790,289 713,289 633,289 557,289 478,292 401,295 321,298 244,298 162,301"/>
+        <Baseline points="162,290 244,287 321,287 401,284 477,281 557,278 633,278 713,278 790,278 875,278"/>
+        <TextEquiv conf="0.553">
+          <Unicode>12. května rozhlas školní měl relaci „Anglická</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="5" custom="heights_v2:[33.7,10.5]">
+        <Coords points="159,304 247,304 331,304 416,302 499,299 585,296 670,296 753,296 838,296 929,296 929,340 838,340 753,340 670,340 585,340 500,343 418,346 333,349 247,349 159,349"/>
+        <Baseline points="159,338 247,338 332,338 418,335 500,332 585,330 670,330 753,330 838,330 929,330"/>
+        <TextEquiv conf="0.646">
+          <Unicode>korunovace“, jež byla vyslechnuta ve třídách. Hoši</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="6" custom="heights_v2:[33.1,10.7]">
+        <Coords points="156,353 244,353 326,353 408,350 491,348 573,348 656,345 739,345 821,345 912,345 912,389 821,389 739,389 656,389 574,391 491,391 409,394 327,397 244,397 156,397"/>
+        <Baseline points="156,386 244,386 327,386 409,384 491,381 574,381 656,378 739,378 821,378 912,378"/>
+        <TextEquiv conf="0.407">
+          <Unicode>filatelisté se pídili po zvláštních příležitostných znám</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="7" custom="heights_v2:[33.3,11.1]">
+        <Coords points="156,401 240,401 324,399 406,399 487,399 570,396 653,393 736,393 818,393 909,393 909,437 818,437 736,437 653,437 571,440 489,443 406,443 324,443 242,446 156,446"/>
+        <Baseline points="156,435 241,435 324,432 406,432 489,432 571,429 653,426 736,426 818,426 909,426"/>
+        <TextEquiv conf="0.718">
+          <Unicode>kách a tak přispěli k zájmu o anglické věci, jenž</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="8" custom="heights_v2:[33.3,11.2]">
+        <Coords points="156,450 241,450 326,450 408,447 494,444 577,444 662,444 744,444 830,444 918,444 918,488 830,488 744,488 662,488 577,488 494,488 409,491 327,494 241,494 156,494"/>
+        <Baseline points="156,483 241,483 327,483 409,480 494,477 577,477 662,477 744,477 830,477 918,477"/>
+        <TextEquiv conf="0.615">
+          <Unicode>u všech občanů též byl zvířen nedávnou abdikací</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="9" custom="heights_v2:[32.7,11.2]">
+        <Coords points="156,499 244,499 326,499 409,496 491,496 577,496 659,496 741,496 824,496 915,496 915,540 824,540 741,540 659,540 577,540 491,540 409,540 327,542 244,542 156,542"/>
+        <Baseline points="156,531 244,531 327,531 409,528 491,528 577,528 659,528 741,528 824,528 915,528"/>
+        <TextEquiv conf="0.797">
+          <Unicode>Eduarda, jenž dal přednost hlasu srdce a vzal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="10" custom="heights_v2:[32.1,10.9]">
+        <Coords points="156,545 241,545 324,545 405,545 489,542 571,542 653,542 736,542 818,542 909,542 909,585 818,585 736,585 653,585 571,585 489,585 407,588 324,588 241,588 156,588"/>
+        <Baseline points="156,577 241,577 324,577 406,577 489,574 571,574 653,574 736,574 818,574 909,574"/>
+        <TextEquiv conf="0.545">
+          <Unicode>si za manželku paní Simpsonovou, i když věděl,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="11" custom="heights_v2:[33.3,11.2]">
+        <Coords points="155,592 244,589 330,589 412,589 497,589 580,589 665,589 747,589 832,589 923,589 923,633 832,633 747,633 665,633 580,633 497,633 412,633 330,633 244,633 157,636"/>
+        <Baseline points="156,625 244,622 330,622 412,622 497,622 580,622 665,622 747,622 832,622 923,622"/>
+        <TextEquiv conf="0.925">
+          <Unicode>že s tím souvisí ztráta trůnu. Světu se to však líbilo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="12" custom="heights_v2:[33.2,11.7]">
+        <Coords points="203,637 284,640 364,640 444,640 523,643 602,643 682,643 763,643 841,646 923,646 923,691 841,691 761,688 682,688 602,688 523,688 443,685 364,685 284,685 201,682"/>
+        <Baseline points="202,670 284,673 364,673 443,673 523,676 602,676 682,676 761,676 841,679 923,679"/>
+        <TextEquiv conf="0.825">
+          <Unicode>26. května 1937 ve 4 hod. ráno zemřel první předseda</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="13" custom="heights_v2:[32.3,10.9]">
+        <Coords points="159,692 247,692 330,692 412,692 494,692 581,692 662,695 745,695 828,698 919,701 917,744 826,741 744,738 662,738 579,735 494,735 412,735 330,735 247,735 159,735"/>
+        <Baseline points="159,724 247,724 330,724 412,724 494,724 580,724 662,727 744,727 827,730 918,733"/>
+        <TextEquiv conf="0.675">
+          <Unicode>československé vlády, pak též vedoucí strany čs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="14" custom="heights_v2:[32.3,10.6]">
+        <Coords points="155,743 241,740 325,740 406,743 486,743 568,743 651,743 731,743 812,746 901,746 901,789 812,789 730,786 651,786 568,786 486,786 406,786 323,783 241,783 157,786"/>
+        <Baseline points="156,776 241,773 324,773 406,776 486,776 568,776 651,776 730,776 812,778 901,778"/>
+        <TextEquiv conf="0.865">
+          <Unicode>národních demokrátů, osobitý český politik</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="15" custom="heights_v2:[32.6,10.6]">
+        <Coords points="159,791 247,791 332,791 416,791 500,794 582,794 668,794 750,794 835,794 926,794 926,837 835,837 750,837 668,837 582,837 500,837 414,834 332,834 247,834 159,834"/>
+        <Baseline points="159,824 247,824 332,824 415,824 500,827 582,827 668,827 750,827 835,827 926,827"/>
+        <TextEquiv conf="0.819">
+          <Unicode>s předválečnou i válečnou minulostí, naplněnou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="16" custom="heights_v2:[32.5,10.6]">
+        <Coords points="157,837 247,840 333,840 418,843 502,843 589,840 673,843 760,843 844,845 935,845 935,888 844,888 758,886 673,886 588,883 503,886 418,886 332,883 247,883 156,880"/>
+        <Baseline points="156,869 247,872 332,872 418,875 503,875 588,872 673,875 758,875 844,878 935,878"/>
+        <TextEquiv conf="0.715">
+          <Unicode>převážně úsilím o osvobození Čechů z rakouských</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="17" custom="heights_v2:[32.8,11.0]">
+        <Coords points="159,885 245,885 327,888 410,888 491,890 574,890 656,890 739,890 821,890 909,890 909,934 821,934 739,934 656,934 574,934 491,934 409,931 327,931 244,929 159,929"/>
+        <Baseline points="159,918 244,918 327,920 409,920 491,923 574,923 656,923 739,923 821,923 909,923"/>
+        <TextEquiv conf="0.724">
+          <Unicode>malých poměrů, odměněným rakouskými soudy i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l020" index="18" custom="heights_v2:[31.8,9.6]">
+        <Coords points="162,937 213,937 259,937 304,937 351,937 393,940 442,937 484,940 533,937 587,940 585,981 531,978 486,981 440,978 395,981 349,978 304,978 259,978 213,978 162,978"/>
+        <Baseline points="162,969 213,969 259,969 304,969 349,969 395,972 440,969 486,972 531,969 585,972"/>
+        <TextEquiv conf="0.386">
+          <Unicode>žalářem a přece posléze korun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="19" custom="heights_v2:[35.0,11.6]">
+        <Coords points="619,937 659,937 693,937 727,937 764,934 798,934 832,934 866,934 909,934 909,980 866,980 832,980 798,980 764,980 731,983 693,983 659,983 619,983"/>
+        <Baseline points="619,972 659,972 693,972 730,972 764,969 798,969 832,969 866,969 909,969"/>
+        <TextEquiv conf="0.981">
+          <Unicode>vaným šťastným</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="161,984 159,1024 272,1030 274,990 161,984"/>
+      <TextLine id="r002-l022" index="0" custom="heights_v2:[30.3,9.1]">
+        <Coords points="161,984 217,987 274,990 272,1029 215,1026 159,1023"/>
+        <Baseline points="159,1014 216,1017 273,1020"/>
+        <TextEquiv conf="0.999">
+          <Unicode>koncem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="169,1218 171,1264 847,1262 845,1215 766,1218 682,1176 597,1176 528,1142 312,1142 251,1215 169,1218"/>
+      <TextLine id="r003-l028" index="0" custom="heights_v2:[31.3,9.9]">
+        <Coords points="312,1142 355,1142 386,1145 418,1145 455,1142 489,1142 528,1142 528,1183 489,1183 455,1183 421,1186 386,1186 351,1183 312,1183"/>
+        <Baseline points="312,1173 352,1173 386,1176 420,1176 455,1173 489,1173 528,1173"/>
+        <TextEquiv conf="0.972">
+          <Unicode>Jindřich Moravec</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l029" index="1" custom="heights_v2:[33.1,10.3]">
+        <Coords points="321,1174 364,1174 403,1174 443,1174 480,1174 520,1174 560,1174 597,1174 636,1174 682,1174 682,1218 636,1218 597,1218 560,1218 520,1218 480,1218 443,1218 403,1218 364,1218 321,1218"/>
+        <Baseline points="321,1207 364,1207 403,1207 443,1207 480,1207 520,1207 560,1207 597,1207 636,1207 682,1207"/>
+        <TextEquiv conf="0.283">
+          <Unicode>t. č. kronikář obce Rožnova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l030" index="2" custom="heights_v2:[35.3,11.0]">
+        <Coords points="169,1218 251,1215 324,1217 398,1217 472,1217 545,1217 619,1217 693,1217 766,1218 845,1215 847,1261 767,1264 693,1264 619,1264 545,1264 472,1264 398,1264 324,1264 250,1261 171,1264"/>
+        <Baseline points="170,1253 250,1250 324,1253 398,1253 472,1253 545,1253 619,1253 693,1253 767,1253 847,1250"/>
+        <TextEquiv conf="0.706">
+          <Unicode>V únoru - březnu 1939 v Rožnově u Č. Budějovic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="233,1167 289,1170 291,1133 178,1128 176,1164 233,1167"/>
+      <TextLine id="r004-l027" index="0" custom="heights_v2:[29.8,7.6]">
+        <Coords points="178,1126 234,1129 291,1132 289,1170 233,1167 176,1164"/>
+        <Baseline points="176,1156 233,1159 290,1162"/>
+        <TextEquiv conf="0.995">
+          <Unicode>zapsal</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="283,1044 323,1046 369,1087 605,1092 605,1053 506,1051 508,1009 286,1001 283,1044"/>
+      <TextLine id="r005-l023" index="0" custom="heights_v2:[34.0,9.4]">
+        <Coords points="287,1000 327,1003 358,1006 395,1006 429,1006 465,1006 508,1009 505,1052 462,1049 429,1049 395,1049 358,1049 323,1046 283,1043"/>
+        <Baseline points="284,1034 324,1037 358,1040 395,1040 429,1040 463,1040 506,1043"/>
+        <TextEquiv conf="0.373">
+          <Unicode>Judr Karel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l026" index="1" custom="heights_v2:[32.8,9.3]">
+        <Coords points="372,1044 406,1047 437,1047 469,1047 506,1047 534,1050 565,1050 605,1050 605,1092 565,1092 534,1092 502,1089 469,1089 437,1089 406,1089 369,1086"/>
+        <Baseline points="369,1077 406,1080 437,1080 469,1080 503,1080 534,1082 565,1082 605,1082"/>
+        <TextEquiv conf="0.520">
+          <Unicode>26. 5. 1937.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006">
+      <Coords points="637,1051 634,1012 506,1012 506,1051 637,1051"/>
+      <TextLine id="r006-l024" index="0" custom="heights_v2:[30.3,8.0]">
+        <Coords points="506,1012 553,1012 589,1015 634,1012 637,1051 591,1053 551,1051 506,1051"/>
+        <Baseline points="506,1043 551,1043 591,1045 636,1043"/>
+        <TextEquiv conf="0.575">
+          <Unicode>Kram</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007">
+      <Coords points="690,1016 651,1016 651,1055 690,1055 690,1016"/>
+      <TextLine id="r007-l025" index="0" custom="heights_v2:[28.5,8.3]">
+        <Coords points="651,1017 690,1017 690,1054 651,1054"/>
+        <Baseline points="651,1045 690,1045"/>
+        <TextEquiv conf="0.962">
+          <Unicode>ář</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

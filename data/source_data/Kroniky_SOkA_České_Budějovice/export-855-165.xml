@@ -1,0 +1,328 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2023-02-07T20:17:23.845445+00:00</Created>
+    <LastChange>2023-02-07T20:17:23.845445+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="export-855-165" imageWidth="3234" imageHeight="2532">
+    <TextRegion id="r000">
+      <Coords points="66,2088 49,2111 50,2213 339,2210 339,2160 326,2102 274,2023 66,2026 66,2088"/>
+      <TextLine id="r000-l038" index="0" custom="heights_v2:[45.9,16.3]">
+        <Coords points="66,2026 102,2026 131,2026 168,2023 195,2023 235,2021 274,2023 269,2085 231,2083 200,2085 168,2085 137,2088 102,2088 66,2088"/>
+        <Baseline points="66,2072 102,2072 135,2072 168,2069 199,2069 232,2066 270,2069"/>
+        <TextEquiv conf="0.716">
+          <Unicode>Viděl 1985</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l041" index="1" custom="heights_v2:[38.5,15.2]">
+        <Coords points="49,2111 85,2108 121,2105 154,2105 188,2105 218,2105 254,2102 287,2102 326,2102 326,2156 287,2156 254,2156 222,2159 188,2159 154,2159 121,2159 90,2162 54,2164"/>
+        <Baseline points="52,2149 88,2146 121,2144 154,2144 188,2144 221,2144 254,2141 287,2141 326,2141"/>
+        <TextEquiv conf="0.819">
+          <Unicode>Roba Vondruška,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l042" index="2" custom="heights_v2:[35.9,14.3]">
+        <Coords points="50,2163 86,2163 116,2163 146,2163 174,2163 210,2160 240,2160 270,2160 301,2160 339,2160 339,2210 301,2210 270,2210 240,2210 210,2210 178,2213 146,2213 116,2213 86,2213 50,2213"/>
+        <Baseline points="50,2199 86,2199 116,2199 146,2199 177,2199 210,2196 240,2196 270,2196 301,2196 339,2196"/>
+        <TextEquiv conf="0.390">
+          <Unicode>okres. škol. inspekter.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001">
+      <Coords points="336,1888 342,2161 708,2167 888,2181 1167,2189 1268,2139 1390,2144 1395,2038 1389,1986 1412,1755 1407,1592 1416,1486 1398,1425 1405,1320 1393,1149 1398,1088 1415,1033 1416,984 1396,876 1407,815 1419,380 1430,273 1385,214 573,239 339,239 345,347 339,768 347,1083 339,1252 336,1888"/>
+      <TextLine id="r001-l004" index="0" custom="heights_v2:[33.4,15.1]">
+        <Coords points="341,240 458,240 573,240 689,237 802,234 916,232 1033,223 1147,218 1264,215 1385,215 1385,263 1264,263 1148,266 1035,272 920,280 803,283 690,285 574,288 458,288 341,288"/>
+        <Baseline points="341,273 458,273 574,273 690,270 803,268 919,265 1035,257 1148,251 1264,248 1385,248"/>
+        <TextEquiv conf="0.621">
+          <Unicode>vody a byly poslány vrch. staveb. radovi Trägerovi (23. VI.) a NSJ u.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l005" index="1" custom="heights_v2:[32.5,15.2]">
+        <Coords points="348,293 472,293 590,293 708,290 826,285 945,279 1064,274 1184,271 1303,271 1427,274 1426,321 1302,319 1184,319 1065,321 947,327 828,332 710,338 591,341 472,341 348,341"/>
+        <Baseline points="348,326 472,326 590,326 709,323 828,317 946,312 1065,306 1184,303 1302,303 1426,306"/>
+        <TextEquiv conf="0.466">
+          <Unicode>kam byly doprovozeny přípisem (koncept p. Žák), z něhož cituji: „... Stav</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l006" index="2" custom="heights_v2:[32.9,15.7]">
+        <Coords points="345,348 465,348 585,345 702,345 818,340 936,334 1056,329 1173,326 1290,326 1415,323 1416,372 1291,374 1173,374 1057,377 939,383 820,388 704,394 585,394 467,396 345,396"/>
+        <Baseline points="345,381 466,381 585,378 704,378 819,372 938,367 1057,361 1173,359 1291,359 1415,356"/>
+        <TextEquiv conf="0.581">
+          <Unicode>vody, jak na fotogr. viděti, není zvláštností. Vyskytuje se při po-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l007" index="3" custom="heights_v2:[33.1,15.8]">
+        <Coords points="343,400 463,397 581,397 700,395 819,392 937,389 1055,386 1174,381 1295,378 1419,381 1418,430 1294,427 1176,430 1057,435 938,438 820,441 701,443 582,446 463,446 344,449"/>
+        <Baseline points="344,433 463,430 582,430 701,428 819,425 938,422 1057,419 1175,414 1294,411 1418,414"/>
+        <TextEquiv conf="0.895">
+          <Unicode>někud delším dešti neb po bouřce několikrát v roce a působí ško-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l008" index="4" custom="heights_v2:[33.2,15.7]">
+        <Coords points="343,452 460,452 577,450 694,450 810,447 926,444 1045,441 1161,439 1278,436 1402,439 1401,487 1277,485 1162,487 1046,490 927,493 811,496 696,498 577,498 461,501 343,501"/>
+        <Baseline points="343,486 461,486 577,483 695,483 811,480 927,477 1046,475 1161,472 1277,469 1401,472"/>
+        <TextEquiv conf="0.516">
+          <Unicode>dy nemalé. Právě touto poslední povodní byli poškozeni hlavně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l009" index="5" custom="heights_v2:[33.3,15.8]">
+        <Coords points="342,505 463,505 582,502 700,502 819,499 937,499 1055,496 1175,491 1295,491 1416,494 1415,543 1294,540 1175,540 1057,545 938,548 819,548 701,551 582,551 464,554 342,554"/>
+        <Baseline points="342,538 463,538 582,535 701,535 819,532 938,532 1057,530 1175,524 1294,524 1415,527"/>
+        <TextEquiv conf="0.838">
+          <Unicode>polaři a to vesměs drobní, poněvadž jim voda odplavila z luk</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l010" index="6" custom="heights_v2:[33.5,15.5]">
+        <Coords points="344,562 466,560 581,560 701,557 816,557 932,554 1050,551 1166,549 1284,546 1408,549 1407,598 1283,595 1167,598 1051,600 933,603 817,606 701,606 582,609 466,609 345,611"/>
+        <Baseline points="345,596 466,593 582,593 701,590 817,590 932,588 1051,585 1167,582 1283,579 1407,582"/>
+        <TextEquiv conf="0.983">
+          <Unicode>při tomto potoce ležících veškerou píci buď již posečenou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l011" index="7" custom="heights_v2:[33.4,15.4]">
+        <Coords points="340,615 460,615 579,612 697,612 814,609 932,609 1050,607 1167,604 1286,604 1410,604 1410,653 1286,653 1167,653 1051,655 933,658 814,658 698,661 579,661 461,664 340,664"/>
+        <Baseline points="340,648 461,648 579,646 698,646 814,643 932,643 1051,640 1167,637 1286,637 1410,637"/>
+        <TextEquiv conf="0.435">
+          <Unicode>neb v kopech k sušení připravenou, zaplavila pole brambor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l012" index="8" custom="heights_v2:[34.7,15.5]">
+        <Coords points="340,666 461,666 579,666 697,666 813,663 932,661 1049,661 1168,655 1286,658 1411,661 1409,711 1285,708 1167,705 1052,711 932,711 814,714 698,716 579,716 461,716 340,716"/>
+        <Baseline points="340,701 461,701 579,701 698,701 814,698 932,695 1051,695 1167,690 1286,692 1410,695"/>
+        <TextEquiv conf="0.528">
+          <Unicode>vá, způsobila různé strže aj., takže rychlá náprava a pro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l013" index="9" custom="heights_v2:[33.6,15.5]">
+        <Coords points="341,720 397,722 452,722 508,722 563,722 618,722 671,722 728,720 785,720 846,722 843,771 783,769 728,769 674,771 618,771 563,771 508,771 452,771 397,771 339,769"/>
+        <Baseline points="339,753 397,756 452,756 508,756 563,756 618,756 673,756 728,753 784,753 844,756"/>
+        <TextEquiv conf="0.732">
+          <Unicode>vedení regulace jsou nutné.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l014" index="10" custom="heights_v2:[36.0,15.1]">
+        <Coords points="497,772 601,772 701,772 799,772 898,770 1000,767 1101,764 1201,764 1298,767 1406,764 1407,815 1300,818 1200,815 1101,815 1002,818 900,821 800,823 701,823 601,823 497,823"/>
+        <Baseline points="497,808 601,808 701,808 800,808 899,806 1001,803 1101,800 1200,800 1299,803 1407,800"/>
+        <TextEquiv conf="0.954">
+          <Unicode>(Při takových zátopách stál Kolínů mlýn vždy první</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l015" index="11" custom="heights_v2:[33.8,14.8]">
+        <Coords points="342,824 452,824 557,824 662,824 767,824 872,824 976,824 1081,821 1185,821 1296,819 1297,867 1187,870 1081,870 977,873 872,873 767,873 662,873 557,873 452,873 342,873"/>
+        <Baseline points="342,858 452,858 557,858 662,858 767,858 872,858 977,858 1081,855 1186,855 1297,852"/>
+        <TextEquiv conf="0.937">
+          <Unicode>v cestě přívalu vod a utrpěl jimi vždy značné škody.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l016" index="12" custom="heights_v2:[33.8,14.8]">
+        <Coords points="491,877 596,877 695,877 795,877 893,877 994,874 1092,877 1192,877 1291,877 1396,877 1396,925 1291,925 1192,925 1092,925 993,922 894,925 795,925 695,925 596,925 491,925"/>
+        <Baseline points="491,910 596,910 695,910 795,910 894,910 993,908 1092,910 1192,910 1291,910 1396,910"/>
+        <TextEquiv conf="0.514">
+          <Unicode>Dne 21. VII. 26 oznámil N. J. okr. správní komisi výsledek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l017" index="13" custom="heights_v2:[33.3,14.8]">
+        <Coords points="343,932 463,930 583,930 698,932 817,932 932,932 1050,932 1168,930 1285,932 1409,930 1410,978 1286,980 1167,978 1051,980 932,980 817,980 698,980 582,978 463,978 344,980"/>
+        <Baseline points="344,966 463,963 582,963 698,966 817,966 932,966 1051,966 1167,963 1286,966 1410,963"/>
+        <TextEquiv conf="0.666">
+          <Unicode>nové intervence: ministerstvo zemědělství mohlo by svůj příspě-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l018" index="14" custom="heights_v2:[33.3,15.5]">
+        <Coords points="346,982 465,985 586,982 704,985 819,985 938,985 1057,985 1172,985 1292,982 1416,985 1415,1033 1291,1031 1173,1033 1057,1033 938,1033 819,1033 704,1033 585,1031 467,1033 345,1031"/>
+        <Baseline points="345,1015 466,1018 585,1015 704,1018 819,1018 938,1018 1057,1018 1173,1018 1291,1015 1415,1018"/>
+        <TextEquiv conf="0.668">
+          <Unicode>vek jedině tenkráte zvýšiti, byl-li by potoku přiznán charakter</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l019" index="15" custom="heights_v2:[33.7,15.4]">
+        <Coords points="348,1034 466,1037 581,1037 699,1034 814,1037 930,1037 1046,1037 1161,1037 1278,1037 1399,1039 1398,1089 1277,1086 1161,1086 1046,1086 930,1086 814,1086 698,1083 582,1086 466,1086 347,1083"/>
+        <Baseline points="348,1068 466,1070 582,1070 698,1068 814,1070 930,1070 1046,1070 1161,1070 1277,1070 1399,1073"/>
+        <TextEquiv conf="0.513">
+          <Unicode>hors. toku nebo převzal-li by zem. spr. výbor zálohou příspěvek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l020" index="16" custom="heights_v2:[34.1,15.6]">
+        <Coords points="348,1089 466,1092 582,1092 698,1092 812,1092 927,1094 1044,1094 1156,1097 1273,1097 1394,1100 1393,1149 1271,1147 1156,1147 1042,1144 927,1144 811,1141 698,1141 582,1141 466,1141 347,1138"/>
+        <Baseline points="348,1123 466,1126 582,1126 698,1126 811,1126 927,1128 1043,1128 1156,1131 1272,1131 1393,1134"/>
+        <TextEquiv conf="0.664">
+          <Unicode>zájemníků. Min. zem. svolá za tím účelem poradu zúčastněných</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l021" index="17" custom="heights_v2:[33.8,15.4]">
+        <Coords points="345,1144 455,1144 561,1144 665,1147 770,1147 878,1147 982,1150 1087,1150 1192,1150 1305,1150 1305,1199 1192,1199 1087,1199 982,1199 877,1196 770,1196 665,1196 560,1193 455,1193 345,1193"/>
+        <Baseline points="345,1178 455,1178 560,1178 665,1181 770,1181 877,1181 982,1184 1087,1184 1192,1184 1305,1184"/>
+        <TextEquiv conf="0.470">
+          <Unicode>činitelů. (MJ. intervenoval současně u zems. spr. výboru.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l022" index="18" custom="heights_v2:[33.9,15.3]">
+        <Coords points="499,1199 602,1199 701,1202 801,1202 899,1205 996,1205 1095,1205 1196,1205 1295,1208 1400,1210 1398,1259 1293,1257 1194,1254 1095,1254 996,1254 899,1254 800,1251 701,1251 601,1248 499,1248"/>
+        <Baseline points="499,1233 601,1233 701,1236 800,1236 899,1239 996,1239 1095,1239 1195,1239 1294,1241 1399,1244"/>
+        <TextEquiv conf="0.504">
+          <Unicode>Také poslanec J. Čermák intervenoval 12. VIII. 6 u minister-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l023" index="19" custom="heights_v2:[33.2,15.1]">
+        <Coords points="339,1252 459,1252 572,1255 687,1258 800,1258 913,1258 1030,1258 1143,1261 1255,1263 1377,1263 1377,1312 1255,1312 1142,1309 1029,1306 913,1306 800,1306 687,1306 571,1304 458,1301 339,1301"/>
+        <Baseline points="339,1286 458,1286 571,1288 687,1291 800,1291 913,1291 1029,1291 1142,1294 1255,1297 1377,1297"/>
+        <TextEquiv conf="0.834">
+          <Unicode>stva zemědělství a bylo mu řečeno, že potok nemá charakter potoka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l024" index="20" custom="heights_v2:[33.8,15.6]">
+        <Coords points="343,1304 463,1307 580,1307 699,1310 814,1312 930,1312 1049,1312 1165,1315 1281,1318 1404,1321 1402,1370 1280,1367 1164,1365 1048,1362 930,1362 814,1362 698,1359 579,1356 463,1356 342,1354"/>
+        <Baseline points="342,1338 463,1341 579,1341 698,1344 814,1346 930,1346 1048,1346 1164,1349 1280,1352 1403,1355"/>
+        <TextEquiv conf="0.604">
+          <Unicode>horského, což prý samotna mr. potvrdila (tedy: jen 40% subvence).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l025" index="21" custom="heights_v2:[34.7,15.8]">
+        <Coords points="346,1359 466,1361 583,1361 699,1364 815,1367 930,1370 1046,1370 1161,1372 1278,1372 1400,1375 1398,1426 1277,1423 1161,1423 1045,1420 930,1420 813,1417 698,1415 582,1412 466,1412 344,1409"/>
+        <Baseline points="345,1393 466,1396 582,1396 698,1399 814,1401 930,1404 1046,1404 1161,1407 1277,1407 1399,1410"/>
+        <TextEquiv conf="0.769">
+          <Unicode>Týž poslanec zakročil také u ministerstva zdravotnictví a u zem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l026" index="22" custom="heights_v2:[33.4,15.3]">
+        <Coords points="340,1418 383,1415 419,1415 455,1415 491,1415 527,1415 568,1415 568,1464 527,1464 491,1464 455,1464 419,1464 383,1464 343,1466"/>
+        <Baseline points="342,1451 383,1448 419,1448 455,1448 491,1448 527,1448 568,1448"/>
+        <TextEquiv conf="0.904">
+          <Unicode>správ. výboru.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l027" index="23" custom="heights_v2:[34.3,14.7]">
+        <Coords points="497,1464 602,1464 704,1466 805,1469 906,1475 1005,1478 1107,1480 1206,1483 1309,1483 1414,1486 1413,1535 1307,1532 1206,1532 1106,1529 1004,1527 904,1524 802,1518 703,1516 601,1513 497,1513"/>
+        <Baseline points="497,1498 601,1498 704,1501 803,1504 905,1509 1004,1512 1106,1515 1206,1517 1308,1517 1413,1520"/>
+        <TextEquiv conf="0.622">
+          <Unicode>Na den 3. IX. 1926 svolalo ministerstvo zeměděl. (po urgenci</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l028" index="24" custom="heights_v2:[33.9,15.3]">
+        <Coords points="343,1519 464,1522 579,1525 700,1525 815,1530 933,1533 1050,1536 1167,1541 1284,1541 1408,1544 1407,1593 1283,1591 1167,1591 1048,1585 932,1582 813,1580 697,1574 579,1574 463,1571 342,1568"/>
+        <Baseline points="342,1553 463,1556 579,1559 698,1559 814,1564 932,1567 1048,1570 1167,1575 1283,1575 1407,1578"/>
+        <TextEquiv conf="0.616">
+          <Unicode>techn. kanceláře ze 23. VII.) poradu subvencujících úřadů a intereso-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l029" index="25" custom="heights_v2:[33.4,15.4]">
+        <Coords points="340,1578 462,1580 577,1583 693,1583 809,1586 928,1589 1044,1592 1159,1594 1275,1594 1399,1597 1398,1646 1274,1643 1159,1643 1042,1640 927,1638 808,1635 692,1632 577,1632 460,1629 339,1627"/>
+        <Baseline points="339,1611 461,1614 577,1617 692,1617 808,1619 927,1622 1043,1625 1159,1628 1275,1628 1399,1630"/>
+        <TextEquiv conf="0.957">
+          <Unicode>vaných činitelů ve věci finančního zajištění regulace. Za obec</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l030" index="26" custom="heights_v2:[33.6,15.0]">
+        <Coords points="338,1630 458,1633 577,1633 696,1636 815,1638 931,1641 1049,1644 1168,1647 1287,1649 1411,1655 1409,1703 1285,1698 1167,1695 1048,1692 929,1690 813,1687 695,1684 576,1681 458,1681 337,1679"/>
+        <Baseline points="337,1664 458,1666 577,1666 695,1669 814,1672 930,1675 1048,1677 1167,1680 1286,1683 1410,1688"/>
+        <TextEquiv conf="0.493">
+          <Unicode>byli do Prahy vysláni pp. Žák a Stibor, za okres p. Partl, za Vd.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l031" index="27" custom="heights_v2:[33.8,14.8]">
+        <Coords points="342,1685 464,1685 582,1688 702,1688 817,1690 937,1693 1055,1699 1171,1701 1289,1704 1412,1707 1411,1756 1288,1753 1169,1750 1054,1747 935,1742 816,1739 700,1736 582,1736 463,1734 342,1734"/>
+        <Baseline points="342,1719 463,1719 582,1722 701,1722 817,1724 935,1727 1054,1733 1170,1735 1288,1738 1412,1741"/>
+        <TextEquiv conf="0.841">
+          <Unicode>p. řed. Kouba. Pozvali také (1. IX.) tajemníka agrárníků p. Bera</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l032" index="28" custom="heights_v2:[34.1,14.8]">
+        <Coords points="338,1732 456,1734 569,1737 682,1740 795,1743 909,1745 1022,1751 1136,1754 1248,1759 1369,1762 1368,1811 1247,1808 1133,1803 1020,1800 907,1794 794,1791 681,1789 568,1786 455,1783 336,1780"/>
+        <Baseline points="337,1766 455,1768 568,1771 681,1774 795,1777 908,1779 1021,1785 1134,1788 1247,1793 1368,1796"/>
+        <TextEquiv conf="0.607">
+          <Unicode>na, ale ten se nemohl zúčastniti. Podle návrhu této finanční</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l033" index="29" custom="heights_v2:[34.1,15.1]">
+        <Coords points="337,1787 459,1789 577,1792 693,1795 813,1798 929,1803 1046,1809 1162,1812 1281,1814 1403,1817 1402,1866 1280,1864 1161,1861 1045,1858 926,1853 810,1847 692,1844 576,1841 458,1839 336,1836"/>
+        <Baseline points="337,1821 458,1824 577,1826 692,1829 811,1832 927,1837 1046,1843 1161,1846 1280,1848 1403,1851"/>
+        <TextEquiv conf="0.525">
+          <Unicode>ankety podalo Vd. (20. IX.) ministerstvu zeměděl. žádost za zvýše-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l034" index="30" custom="heights_v2:[33.7,14.8]">
+        <Coords points="337,1840 442,1842 543,1845 647,1845 749,1851 851,1856 953,1859 1055,1862 1157,1864 1264,1867 1263,1916 1156,1913 1053,1910 951,1907 849,1905 747,1899 645,1894 543,1894 441,1891 336,1888"/>
+        <Baseline points="337,1873 441,1876 543,1879 646,1879 748,1884 850,1890 952,1893 1054,1895 1156,1898 1264,1901"/>
+        <TextEquiv conf="0.937">
+          <Unicode>ní subvence na 45% (zems. subvence stanovena na 35%).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l035" index="31" custom="heights_v2:[33.3,14.9]">
+        <Coords points="497,1895 598,1895 691,1901 785,1903 879,1909 973,1915 1066,1920 1160,1923 1253,1926 1355,1928 1354,1976 1252,1974 1158,1971 1064,1968 970,1963 876,1957 783,1952 689,1949 595,1943 497,1943"/>
+        <Baseline points="497,1928 596,1928 690,1934 784,1937 877,1942 971,1948 1065,1953 1159,1956 1253,1959 1355,1962"/>
+        <TextEquiv conf="0.924">
+          <Unicode>Konečně bylo dosaženo zvýšení subvence. Zem. spr. výbor</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l036" index="32" custom="heights_v2:[33.3,14.7]">
+        <Coords points="338,1950 456,1950 573,1953 688,1959 804,1961 920,1964 1037,1970 1151,1978 1268,1981 1389,1986 1387,2034 1266,2029 1150,2026 1034,2018 918,2012 802,2009 687,2007 570,2001 455,1998 338,1998"/>
+        <Baseline points="338,1984 455,1984 571,1986 687,1992 803,1995 919,1997 1035,2003 1150,2011 1266,2014 1388,2019"/>
+        <TextEquiv conf="0.795">
+          <Unicode>usnesením z 10. XI. 26 (první subvence 13. VIII. 1921) zvýšil zem. příspěvek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l037" index="33" custom="heights_v2:[34.1,14.3]">
+        <Coords points="340,2002 459,2005 575,2007 691,2010 807,2016 923,2021 1038,2027 1154,2029 1271,2032 1395,2038 1393,2086 1268,2081 1153,2078 1037,2075 921,2070 805,2064 689,2059 573,2056 458,2053 339,2050"/>
+        <Baseline points="339,2036 458,2039 574,2042 690,2044 806,2050 921,2055 1037,2061 1153,2064 1269,2066 1393,2072"/>
+        <TextEquiv conf="0.510">
+          <Unicode>na jednotnou výši 35% skutečného stavebního nákladu až do 809.312 Kč</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l039" index="34" custom="heights_v2:[35.2,14.8]">
+        <Coords points="341,2053 459,2056 576,2059 691,2064 807,2070 923,2075 1039,2081 1154,2086 1271,2089 1392,2095 1390,2145 1268,2139 1153,2136 1037,2131 921,2125 805,2120 689,2114 573,2109 458,2106 340,2103"/>
+        <Baseline points="341,2089 458,2091 574,2094 690,2099 806,2105 921,2111 1037,2116 1153,2122 1269,2124 1390,2130"/>
+        <TextEquiv conf="0.928">
+          <Unicode>a 35% udržovacího fondu do 41.860 Kč za předpokladu, že subvence</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l040" index="35" custom="heights_v2:[35.5,15.1]">
+        <Coords points="342,2111 437,2111 527,2114 619,2114 711,2116 801,2122 889,2130 980,2133 1071,2136 1168,2138 1167,2189 1070,2186 979,2184 888,2181 796,2172 708,2167 618,2164 527,2164 435,2161 342,2161"/>
+        <Baseline points="342,2146 436,2146 527,2149 618,2149 709,2152 797,2157 888,2166 979,2168 1070,2171 1167,2174"/>
+        <TextEquiv conf="0.967">
+          <Unicode>ministerstva zeměděl. bude zvýšena ze 40% na 45%.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002">
+      <Coords points="418,2208 350,2208 350,2261 597,2267 906,2289 911,2236 418,2208"/>
+      <TextLine id="r002-l043" index="0" custom="heights_v2:[36.5,16.5]">
+        <Coords points="350,2209 418,2209 477,2212 540,2212 602,2215 661,2220 722,2223 784,2226 844,2231 911,2237 906,2290 840,2284 779,2279 719,2276 659,2273 597,2268 537,2265 477,2265 416,2262 350,2262"/>
+        <Baseline points="350,2246 417,2246 477,2248 538,2248 599,2251 659,2257 720,2259 781,2262 841,2268 908,2273"/>
+        <TextEquiv conf="0.600">
+          <Unicode>(Pokračování viz ve II. dílu kroniky.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003">
+      <Coords points="785,30 728,35 732,77 848,63 843,21 785,30"/>
+      <TextLine id="r003-l002" index="0" custom="heights_v2:[31.3,9.9]">
+        <Coords points="728,35 785,30 843,21 848,62 790,71 732,76"/>
+        <Baseline points="731,66 789,61 847,52"/>
+        <TextEquiv conf="1.000">
+          <Unicode>384</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004">
+      <Coords points="2248,48 2245,90 2367,93 2367,51 2248,48"/>
+      <TextLine id="r004-l003" index="0" custom="heights_v2:[32.2,9.5]">
+        <Coords points="2248,48 2287,51 2323,51 2367,51 2367,92 2323,92 2287,92 2245,89"/>
+        <Baseline points="2246,80 2287,83 2323,83 2367,83"/>
+        <TextEquiv conf="1.000">
+          <Unicode>385</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005">
+      <Coords points="3211,19 3145,19 3145,56 3211,56 3211,19"/>
+      <TextLine id="r005-l001" index="0" custom="heights_v2:[27.8,8.2]">
+        <Coords points="3145,19 3211,19 3211,55 3145,55"/>
+        <Baseline points="3145,47 3211,47"/>
+        <TextEquiv conf="1.000">
+          <Unicode>162</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
